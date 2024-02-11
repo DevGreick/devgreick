@@ -47,7 +47,16 @@
   </div>
   <br>
 </p>
+<div align=center>
+<img src="https://github-profile-trophy.vercel.app/?username=devgreick&theme=tokyonight&no-frame=true&row=1&&margin-w=30&no-bg=true">
+</div>
 
+<hr>
+
+
+<p align="center">
+       
+</p>
 
 
 
