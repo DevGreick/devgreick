@@ -3,7 +3,7 @@
 
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3h2cnRrdHk0emNjMzVjZ3R2c2k0Y3ZwM250eHE0bHRoNGJvcW02OSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26FPKhUtNG3TW74f6/giphy.webp" width="50"> 
 
-<h2 align="center">👨‍💻 Repositorios 👨‍💻</h2>
+<h2 align="center">Repositorios </h2>
 <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
