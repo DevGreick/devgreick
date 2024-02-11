@@ -53,13 +53,12 @@
 ![F5 Badge](https://img.shields.io/badge/F5-E4002B?logo=f5&logoColor=fff&style=for-the-badge)
 
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=devgreick&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devgreick&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=devgreick&theme=nord_dark) |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=devgreick&theme=radical) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devgreick&hide=Html&theme=radical) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=devgreick&theme=radical) |
 | :-: | :-: | :-: |
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devgreick&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=devgreick&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
-| :-: | :-: |
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devgreick&theme=radical) 
 
-![](https://komarev.com/ghpvc/?username=SecZeroR&color=blue&style=flat-square)
+![](https://komarev.com/ghpvc/?username=SecZeroR&color=800060&style=flat-square)
    </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
