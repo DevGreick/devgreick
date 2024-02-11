@@ -27,23 +27,43 @@
 <!--- reverse one light bar --> 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h4 align="center">
 
-<h2 align="center"> Status </h2>
-<br>
-<p align=center>
-  <div align=center>
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://github-readme-stats.vercel.app/api?username=devgreick&theme=blue-green" alt="zumrudu-anka" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=devgreick&theme=blue-green" />
-    </a>
-  </div>
-  <br><br><br><br><br><br><br><br><br>
-  <div align=center>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devgreick&theme=blue-green" />
-    </a>
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/SecZeroR)](https://www.linkedin.com/in/jacksongreick/)
+[![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/jacksongreick)
+[![Spotify Badge](https://img.shields.io/badge/-Spotify-3bb34b?style=for-the-badge&logo=Spotify&logoColor=161f16&link=https://github.com/SecZeroR)](https://open.spotify.com/user/z8phq73cxg1xlvelq0yyzyba2)
+</h4>
+<h4 align="left"> I'm a professional with 13 years of experience in the IT field, I have knowledge in Infrastructure, Security and Development tools especially if envolve automations.</h4>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h1 align="center">Skills</h1>
+
+<h4 align="center">
+
+![Linux Badge](https://img.shields.io/badge/Linux-f0f8ff?style=for-the-badge&logo=linux&logoColor=black)
+![Windows Badge](https://img.shields.io/badge/Windows-003371?style=for-the-badge&logo=windows&logoColor=white)
+![Grafana Badge](https://img.shields.io/badge/-Grafana-ffffff?style=for-the-badge&logo=Grafana&logoColor=orange)
+![Forcepoint Badge](https://img.shields.io/badge/Forcepoint-ffffff?style=for-the-badge&logo=Forcepoint&logoColor=red)
+![Zabbix Badge](https://img.shields.io/badge/-Zabbix-c3272b?style=for-the-badge&logo=Graffana&logoColor=white)
+![Fortinet Badge](https://img.shields.io/badge/fortinet-d1d1c7?style=for-the-badge&logo=fortinet&logoColor=red)
+![Python Badge](https://img.shields.io/badge/python-eeeeee?style=for-the-badge&logo=python&logoColor=yellow)
+![Docker Badge](https://img.shields.io/badge/docker-eeeeee?style=for-the-badge&logo=docker&logoColor=3d85c6)
+![Check Point Badge](https://img.shields.io/badge/Check-Point-CC4482?style=for-the-badge&logo=checkpoint&logoColor=red)
+![TippingPoint Badge](https://img.shields.io/badge/TippingPoint-ffffff?style=for-the-badge&logo=trendmicro&logoColor=red)
+![F5 Badge](https://img.shields.io/badge/F5-E4002B?logo=f5&logoColor=fff&style=for-the-badge)
+
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=devgreick&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devgreick&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=devgreick&theme=nord_dark) |
+| :-: | :-: | :-: |
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devgreick&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=devgreick&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
+| :-: | :-: |
+
+![](https://komarev.com/ghpvc/?username=SecZeroR&color=blue&style=flat-square)
+   </div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
   </div>
   <br>
 </p>
@@ -57,7 +77,6 @@
 <p align="center">
        
 </p>
-
 
 
 
