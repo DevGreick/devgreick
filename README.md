@@ -19,7 +19,7 @@
 </div>
 <br><br>
 <h4 align="center">
-  <a href="https://github.com/devgreick?tab=repositories" title="Mostrar repositorio">🔎 Show More 🔍</a>
+  <a href="https://github.com/devgreick?tab=repositories" title="Mostrar repositorio">mostrar mais</a>
 </h4>
 
 <br><br><br>
