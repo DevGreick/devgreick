@@ -1,6 +1,6 @@
-# 👋 Olá! 
+# 👋 Olá! Eu sou o Jackson Greick
 
-Sou especialista em **cibersegurança** com experiência em análise de vulnerabilidades, defesa de infraestrutura e automação de processos de segurança, atualmente trabalhando na NTT DATA, focando em segurança de redes corporativas e mitigação de riscos.
+Sou especialista em **cibersegurança** com experiência em análise de vulnerabilidades, defesa de infraestrutura e automação de processos de segurança. Atualmente, trabalho na NTT DATA, focando em segurança de redes corporativas e mitigação de riscos.
 
 ---
 
@@ -12,6 +12,9 @@ Sou especialista em **cibersegurança** com experiência em análise de vulnerab
 ![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 ![Zabbix](https://img.shields.io/badge/-Zabbix-DC0030?style=flat-square&logo=zabbix&logoColor=white)
 ![Fortigate](https://img.shields.io/badge/-Fortigate-FF0000?style=flat-square&logo=fortinet&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ---
 
@@ -33,6 +36,7 @@ Sou especialista em **cibersegurança** com experiência em análise de vulnerab
 
 ## 🚀 Projetos Recentes
 
+- **IPDBscan**: Ferramenta para verificação de reputação de IPs em massa, com geração de relatórios em Excel.
 
 
 ---
@@ -42,6 +46,4 @@ Sou especialista em **cibersegurança** com experiência em análise de vulnerab
 - **Red Teaming**
 - **Rust para Scripts de Segurança**
 - **Automação de Testes de Vulnerabilidade**
-
----
 
