@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou o Jackson Greick
 
-Especialista em **cibersegurança** com experiência em análise de vulnerabilidades, defesa de infraestrutura e automação de processos de segurança, atualmente trabalhahando na NTT DATA, focando em segurança de redes corporativas e mitigação de riscos.
+Especialista em **cibersegurança** com experiência em análise de vulnerabilidades, defesa de infraestrutura e automação de processos de segurança, atualmente trabalhando na NTT DATA, focando em segurança de redes corporativas e mitigação de riscos.
 
 ---
 
