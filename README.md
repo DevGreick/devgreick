@@ -45,4 +45,3 @@ Especialista em **cibersegurança** com experiência em análise de vulnerabilid
 
 ---
 
-Obrigado por visitar meu perfil! Sinta-se à vontade para se conectar e colaborar! 🚀
