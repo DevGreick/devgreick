@@ -37,6 +37,7 @@ Sou especialista em **cibersegurança** com experiência em análise de vulnerab
 ## 🚀 Projetos Recentes
 
 - **IPDBscan**: Ferramenta para verificação de reputação de IPs em massa, com geração de relatórios em Excel.
+- **Notícias sobre CVEs**: Site dedicado a informações atualizadas sobre vulnerabilidades e segurança..
 
 
 ---
