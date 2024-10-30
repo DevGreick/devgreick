@@ -1,6 +1,6 @@
 # 👋 Olá!
 
-Sou especialista em **cibersegurança** com experiência em análise de vulnerabilidades, defesa de infraestrutura e automação de processos de segurança. Atualmente, trabalho na NTT DATA, focando em segurança de redes corporativas e mitigação de riscos.
+Sou especialista em **cibersegurança** com experiência em análise de vulnerabilidades, defesa de infraestrutura e automação de processos de segurança, atualmente, trabalho na NTT DATA, focando em segurança de redes corporativas e mitigação de riscos.
 
 ---
 
