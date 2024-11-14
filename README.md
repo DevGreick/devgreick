@@ -20,7 +20,7 @@ Sou especialista em **cibersegurança** com experiência em análise de vulnerab
 
 ## 🌐 Conecte-se Comigo
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/jackson-greick)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jacksongreick/)
 [![Website](https://img.shields.io/badge/-Meu%20Site-0078D4?style=flat-square&logo=microsoft-edge&logoColor=white)](https://noticias.assistentecyber.com/)
 
 ---
