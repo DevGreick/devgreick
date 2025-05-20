@@ -57,9 +57,9 @@ Sou um profissional de cibersegurança apaixonado por proteger ativos digitais e
 
 > Estou sempre em busca de aprimoramento e novos conhecimentos. Atualmente, meus estudos estão direcionados para:
 
--   ** Red Teaming Avançado:** Aprofundando em técnicas de ataque e simulação de adversários.
--   ** Rust para Scripts de Segurança:** Explorando o potencial do Rust na criação de ferramentas de segurança performáticas e seguras.
--   ** Automação de Testes de Vulnerabilidade:** Desenvolvendo e implementando soluções para automatizar a identificação de falhas de segurança.
+-    <strong>Red Teaming Avançado</strong>:  Aprofundando em técnicas de ataque e simulação de adversários.
+-   <strong>Rust para Scripts de Segurança</strong>:  Explorando o potencial do Rust na criação de ferramentas de segurança performáticas e seguras.
+-   <strong>Automação de Testes de Vulnerabilidade</strong>: Desenvolvendo e implementando soluções para automatizar a identificação de falhas de segurança.
 
 ---
 
