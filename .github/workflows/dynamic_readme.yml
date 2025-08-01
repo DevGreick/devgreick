@@ -8,6 +8,8 @@ jobs:
   update-readme:
     name: Update README with Live Feeds
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v4
       
