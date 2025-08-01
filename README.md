@@ -14,6 +14,8 @@
 ### `[+]` LIVE THREAT FEED: CISA - Known Exploited Vulnerabilities
 
 <!-- CVE-LIST:START -->
+<details>
+<summary><strong>CISA Known Exploited Vulnerabilities</strong>  •  updated 2025-08-01 15:53 UTC  •  showing 10 items</summary>
 
 > Source: CISA Known Exploited Vulnerabilities
 
@@ -66,6 +68,9 @@
   Vendor: Microsoft | Product: SharePoint | Added: 2025-07-20  
   Microsoft SharePoint Server on-premises contains a deserialization of untrusted data vulnerability that could allow an unauthorized attacker to execute code over a network. This vulnerability could be chained with CVE-2025-53771. CVE-2025-53770 is a patch bypass for CVE-2025-49704, and the updates for CVE-2025-53770 include more robust protection than those for CVE-2025-49704.  
   Required action: Disconnect public-facing versions of SharePoint Server that have reached their end-of-life (EOL) or end-of-service (EOS) to include SharePoint Server 2013 and earlier versions. For supported versions, please follow the mitigations according to CISA (URL listed below in Notes) and vendor instructions (URL listed below in Notes). Adhere to the applicable BOD 22-01 guidance for cloud services or discontinue use of the product if mitigations are not available.
+
+</details>
+
 
 <!-- CVE-LIST:END -->
 
