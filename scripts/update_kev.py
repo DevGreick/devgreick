@@ -22,11 +22,13 @@ def fetch_json(url: str) -> dict:
 
 def build_markdown(kev: dict, max_items: int) -> str:
     vulns = kev.get("vulnerabilities", [])
+
     def parse_date(d):
         try:
             return datetime.strptime(d, "%Y-%m-%d").replace(tzinfo=timezone.utc)
         except Exception:
             return datetime.min.replace(tzinfo=timezone.utc)
+
     vulns.sort(key=lambda v: parse_date(v.get("dateAdded", "")), reverse=True)
 
     lines = []
