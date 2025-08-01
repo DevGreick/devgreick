@@ -106,6 +106,13 @@
   <img src="https://img.shields.io/badge/Palo%20Alto-0086D1?style=for-the-badge&logo=paloaltonetworks&logoColor=white" alt="Palo Alto" />
   <img src="https://img.shields.io/badge/Cisco%20ASA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco ASA" />
   <img src="https://img.shields.io/badge/WAF%20F5-FF3B30?style=for-the-badge&logo=f5&logoColor=white" alt="F5 WAF" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+  
+  <br/>
+  
+  <img src="https://img.shields.io/badge/Nmap-3c9735?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
+  <img src="https://img.shields.io/badge/Metasploit-DC0030?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit" />
 </div>
 
 ---
