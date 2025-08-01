@@ -2,7 +2,7 @@ name: Atualizar README Dinâmico
 
 on:
   schedule:
-    - cron: '0 */2 * * *'   
+    - cron: '0 */2 * * *'
   workflow_dispatch:
 
 jobs:
@@ -16,7 +16,6 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-     
       - name: Atualizar seção de posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
@@ -25,7 +24,6 @@ jobs:
           comment_tag_name: "BLOG-POST-LIST"
           commit_message: "atualiza readme com últimos posts"
 
-    
       - name: Preparar Python
         uses: actions/setup-python@v5
         with:
@@ -42,7 +40,7 @@ jobs:
           commit_message: "chore: atualiza bloco de KEVs no README"
           file_pattern: README.md
 
-      
+      - name: Gerar animação Snake
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
