@@ -21,6 +21,7 @@
 ### `[+]` INTEL FEED: MINHAS ÚLTIMAS ANÁLISES
 
 <!-- BLOG-POST-LIST:START -->
+- [Bem-vindo ao Novo Portal](http://localhost:1313/posts/bem-vindo/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
