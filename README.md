@@ -14,8 +14,10 @@
 ### `[+]` LIVE THREAT FEED: CISA - Known Exploited Vulnerabilities
 ---
 
-### `[+]` INTEL FEED: MINHAS ÚLTIMAS ANÁLISES
----
+### [+] INTEL FEED: MINHAS ÚLTIMAS ANÁLISES
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ### `[+]` ARSENAL: FERRAMENTAS & TECNOLOGIAS
 
