@@ -17,6 +17,63 @@
   <summary><strong>Vulnerabilidades exploradas conhecidas da CISA</strong> • clique para abrir</summary>
 
   <!-- CVE-LIST:START -->
+<details>
+<summary><strong>Vulnerabilidades exploradas conhecidas da CISA</strong>  •  atualizado 01/08/2025 16:07 UTC  •  exibindo 10 itens</summary>
+
+> Fonte: CISA Known Exploited Vulnerabilities
+
+- **CVE-2023-2533** - PaperCut NG/MF Cross-Site Request Forgery (CSRF) Vulnerability  
+  Fornecedor: PaperCut | Produto: NG/MF | Adicionado: 2025-07-28  
+  PaperCut NG/MF contains a cross-site request forgery (CSRF) vulnerability, which, under specific conditions, could potentially enable an attacker to alter security settings or execute arbitrary code.   
+  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
+
+- **CVE-2025-20337** - Cisco Identity Services Engine Injection Vulnerability  
+  Fornecedor: Cisco | Produto: Identity Services Engine | Adicionado: 2025-07-28  
+  Cisco Identity Services Engine contains an injection vulnerability in a specific API of Cisco ISE and Cisco ISE-PIC due to insufficient validation of user-supplied input allowing an attacker to exploit this vulnerability by submitting a crafted API request. Successful exploitation could allow an attacker to perform remote code execution and obtaining root privileges on an affected device.  
+  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
+
+- **CVE-2025-20281** - Cisco Identity Services Engine Injection Vulnerability  
+  Fornecedor: Cisco | Produto: Identity Services Engine | Adicionado: 2025-07-28  
+  Cisco Identity Services Engine contains an injection vulnerability in a specific API of Cisco ISE and Cisco ISE-PIC due to insufficient validation of user-supplied input allowing an attacker to exploit this vulnerability by submitting a crafted API request. Successful exploitation could allow an attacker to perform remote code execution and obtaining root privileges on an affected device.  
+  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
+
+- **CVE-2025-2775** - SysAid On-Prem Improper Restriction of XML External Entity Reference Vulnerability  
+  Fornecedor: SysAid | Produto: SysAid On-Prem | Adicionado: 2025-07-22  
+  SysAid On-Prem contains an improper restriction of XML external entity reference vulnerability in the Checkin processing functionality, allowing for administrator account takeover and file read primitives.  
+  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
+
+- **CVE-2025-2776** - SysAid On-Prem Improper Restriction of XML External Entity Reference Vulnerability  
+  Fornecedor: SysAid | Produto: SysAid On-Prem | Adicionado: 2025-07-22  
+  SysAid On-Prem contains an improper restriction of XML external entity reference vulnerability in the Server URL processing functionality, allowing for administrator account takeover and file read primitives.  
+  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
+
+- **CVE-2025-6558** - Google Chromium ANGLE and GPU Improper Input Validation Vulnerability  
+  Fornecedor: Google | Produto: Chromium | Adicionado: 2025-07-22  
+  Google Chromium contains an improper input validation vulnerability in ANGLE and GPU. This vulnerability could allow a remote attacker to potentially perform a sandbox escape via a crafted HTML page. This vulnerability could affect multiple web browsers that utilize Chromium, including, but not limited to, Google Chrome, Microsoft Edge, and Opera.  
+  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
+
+- **CVE-2025-54309** -  CrushFTP Unprotected Alternate Channel Vulnerability  
+  Fornecedor: CrushFTP | Produto: CrushFTP | Adicionado: 2025-07-22  
+  CrushFTP contains an unprotected alternate channel vulnerability. When the DMZ proxy feature is not used, mishandles AS2 validation and consequently allows remote attackers to obtain admin access via HTTPS.  
+  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
+
+- **CVE-2025-49704** - Microsoft SharePoint Code Injection Vulnerability  
+  Fornecedor: Microsoft | Produto: SharePoint | Adicionado: 2025-07-22  
+  Microsoft SharePoint contains a code injection vulnerability that could allow an authorized attacker to execute code over a network. This vulnerability could be chained with CVE-2025-49706. CVE-2025-53770 is a patch bypass for CVE-2025-49704, and the updates for CVE-2025-53770 include more robust protection than those for CVE-2025-49704.  
+  Ação requerida: Disconnect public-facing versions of SharePoint Server that have reached their end-of-life (EOL) or end-of-service (EOS) to include SharePoint Server 2013 and earlier versions. For supported versions, please follow the mitigations according to CISA (URL listed below in Notes) and vendor instructions (URL listed below in Notes). Adhere to the applicable BOD 22-01 guidance for cloud services or discontinue use of the product if mitigations are not available.
+
+- **CVE-2025-49706** - Microsoft SharePoint Improper Authentication Vulnerability  
+  Fornecedor: Microsoft | Produto: SharePoint | Adicionado: 2025-07-22  
+  Microsoft SharePoint contains an improper authentication vulnerability that allows an authorized attacker to perform spoofing over a network. Successfully exploitation could allow an attacker to view sensitive information and make some changes to disclosed information. This vulnerability could be chained with CVE-2025-49704. CVE-2025-53771 is a patch bypass for CVE-2025-49706, and the updates for CVE-2025-53771 include more robust protection than those for CVE-2025-49706.  
+  Ação requerida: Disconnect public-facing versions of SharePoint Server that have reached their end-of-life (EOL) or end-of-service (EOS) to include SharePoint Server 2013 and earlier versions. For supported versions, please follow the mitigations according to CISA (URL listed below in Notes) and vendor instructions (URL listed below in Notes). Adhere to the applicable BOD 22-01 guidance for cloud services or discontinue use of the product if mitigations are not available.
+
+- **CVE-2025-53770** - Microsoft SharePoint Deserialization of Untrusted Data Vulnerability  
+  Fornecedor: Microsoft | Produto: SharePoint | Adicionado: 2025-07-20  
+  Microsoft SharePoint Server on-premises contains a deserialization of untrusted data vulnerability that could allow an unauthorized attacker to execute code over a network. This vulnerability could be chained with CVE-2025-53771. CVE-2025-53770 is a patch bypass for CVE-2025-49704, and the updates for CVE-2025-53770 include more robust protection than those for CVE-2025-49704.  
+  Ação requerida: Disconnect public-facing versions of SharePoint Server that have reached their end-of-life (EOL) or end-of-service (EOS) to include SharePoint Server 2013 and earlier versions. For supported versions, please follow the mitigations according to CISA (URL listed below in Notes) and vendor instructions (URL listed below in Notes). Adhere to the applicable BOD 22-01 guidance for cloud services or discontinue use of the product if mitigations are not available.
+
+</details>
+
   <!-- CVE-LIST:END -->
 
 </details>
