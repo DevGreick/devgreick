@@ -29,10 +29,12 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: output/snake.svg
+          outputs: |
+            output/snake.svg
+            output/snake-dark.svg?palette=github-dark
             
       - name: Commit and Push Changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "BOT: Update dynamic README content"
-          file_pattern: README.md output/snake.svg
+          file_pattern: README.md output/*.svg
