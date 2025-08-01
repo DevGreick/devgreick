@@ -1,0 +1,38 @@
+name: Update Dynamic README
+on:
+  schedule:
+    - cron: '0 */2 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    name: Update README with Live Feeds
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Update Blog Posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://noticias.assistentecyber.com/index.xml"
+          max_post_count: 5
+          comment_tag_name: "BLOG-POST-LIST"
+
+      - name: Update CISA Known Exploited Vulnerabilities
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://www.cisa.gov/known-exploited-vulnerabilities-catalog/known-exploited-vulnerabilities.xml"
+          max_post_count: 5
+          comment_tag_name: "CVE-LIST"
+          
+      - name: Generate Snake Animation
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: output/snake.svg
+            
+      - name: Commit and Push Changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "BOT: Update dynamic README content"
+          file_pattern: README.md output/snake.svg
