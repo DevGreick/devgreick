@@ -13,6 +13,12 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       
+      - name: DEBUG - Show README Content
+        run: |
+          echo "--- START of README.md content ---"
+          cat README.md
+          echo "--- END of README.md content ---"
+
       - name: Update Blog Posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
