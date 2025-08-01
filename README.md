@@ -6,7 +6,7 @@
   <p>
     <strong>Cyber Security Specialist | Vulnerability Analyst | Infrastructure Defender</strong>
   </p>
-  <code>STATUS: Ativo na NTT DATA // Fortalecendo defesas no ciberespaço.</code>
+  <code>STATUS: Ativo na NTT DATA .</code>
 </div>
 
 ---
