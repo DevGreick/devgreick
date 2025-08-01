@@ -17,10 +17,10 @@ def fetch_json(url: str) -> dict:
     req = urllib.request.Request(url, headers={"User-Agent": "GitHubActions-KEV-Updater"})
     with urllib.request.urlopen(req, timeout=30) as resp:
         if resp.status != 200:
-            raise RuntimeError(f"HTTP {resp.status} fetching CISA KEV")
+            raise RuntimeError(f"HTTP {resp.status} ao buscar CISA KEV")
         return json.loads(resp.read())
 
-def parse_date_utc(d: str) -> datetime:
+def parse_date_utc(d: str):
     try:
         return datetime.strptime(d, "%Y-%m-%d").replace(tzinfo=timezone.utc)
     except Exception:
@@ -30,60 +30,60 @@ def build_markdown(kev: dict, max_items: int) -> str:
     vulns = kev.get("vulnerabilities", [])
     vulns.sort(key=lambda v: parse_date_utc(v.get("dateAdded", "")), reverse=True)
 
-    now_str = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
-    count = min(len(vulns), max_items)
+    agora = datetime.now(timezone.utc).strftime("%d/%m/%Y %H:%M UTC")
+    total = min(len(vulns), max_items)
 
-    lines = []
- 
-    lines.append(f"<details>")
-    lines.append(f"<summary><strong>CISA Known Exploited Vulnerabilities</strong>  •  updated {now_str}  •  showing {count} items</summary>")
-    lines.append("")
-    lines.append("> Source: CISA Known Exploited Vulnerabilities")
-    lines.append("")
+    linhas = []
+    # wrapper dobrável
+    linhas.append("<details>")
+    linhas.append(f"<summary><strong>Vulnerabilidades exploradas conhecidas da CISA</strong>  •  atualizado {agora}  •  exibindo {total} itens</summary>")
+    linhas.append("")
+    linhas.append("> Fonte: CISA Known Exploited Vulnerabilities")
+    linhas.append("")
 
     for v in vulns[:max_items]:
         cve = v.get("cveID", "N/A")
-        name = v.get("vulnerabilityName", "N/A")
-        vendor = v.get("vendorProject", "N/A")
-        product = v.get("product", "N/A")
-        date_added = v.get("dateAdded", "N/A")
+        nome = v.get("vulnerabilityName", "N/A")
+        fornecedor = v.get("vendorProject", "N/A")
+        produto = v.get("product", "N/A")
+        data_add = v.get("dateAdded", "N/A")
         desc = v.get("shortDescription", "N/A")
-        required = v.get("requiredAction", "N/A")
+        acao = v.get("requiredAction", "N/A")
 
-        block = textwrap.dedent(f"""
-        - **{cve}** - {name}  
-          Vendor: {vendor} | Product: {product} | Added: {date_added}  
+        bloco = textwrap.dedent(f"""
+        - **{cve}** - {nome}  
+          Fornecedor: {fornecedor} | Produto: {produto} | Adicionado: {data_add}  
           {desc}  
-          Required action: {required}
+          Ação requerida: {acao}
         """).strip()
 
-        
-        block = block.replace("—", "-")
-        lines.append(block)
-        lines.append("")
+       
+        bloco = bloco.replace("—", "-")
+        linhas.append(bloco)
+        linhas.append("")
 
-    lines.append("</details>")
-    lines.append("")  
+    linhas.append("</details>")
+    linhas.append("") 
 
-    return "\n".join(lines).rstrip() + "\n"
+    return "\n".join(linhas).rstrip() + "\n"
 
-def replace_between_tags(text: str, new_block: str, start_tag: str, end_tag: str) -> str:
-    pattern = re.compile(rf"({re.escape(start_tag)})(.*?)(\s*{re.escape(end_tag)})", re.DOTALL)
-    if not pattern.search(text):
-        raise RuntimeError("CVE tags not found in README")
-    return pattern.sub(rf"\1\n{new_block}\3", text)
+def replace_between_tags(texto: str, bloco_novo: str, tag_inicio: str, tag_fim: str) -> str:
+    pattern = re.compile(rf"({re.escape(tag_inicio)})(.*?)(\s*{re.escape(tag_fim)})", re.DOTALL)
+    if not pattern.search(texto):
+        raise RuntimeError("Tags de CVE não encontradas no README")
+    return pattern.sub(rf"\1\n{bloco_novo}\3", texto)
 
 def main():
     kev = fetch_json(CISA_KEV_URL)
     md = build_markdown(kev, MAX_ITEMS)
     readme = README_PATH.read_text(encoding="utf-8")
-    updated = replace_between_tags(readme, md, TAG_START, TAG_END)
-    README_PATH.write_text(updated, encoding="utf-8")
-    print("README updated with latest KEV entries (collapsible)")
+    atualizado = replace_between_tags(readme, md, TAG_START, TAG_END)
+    README_PATH.write_text(atualizado, encoding="utf-8")
+    print("README atualizado com KEVs mais recentes (seção dobrável)")
 
 if __name__ == "__main__":
     try:
         main()
     except Exception as e:
-        print(f"Error: {e}", file=sys.stderr)
+        print(f"Erro: {e}", file=sys.stderr)
         sys.exit(1)
