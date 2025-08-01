@@ -28,6 +28,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Attackers Use Fake OAuth Apps with Tycoon Kit to Breach Microsoft 365 Accounts](https://thehackernews.com/2025/08/attackers-use-fake-oauth-apps-with.html)
+- [AI-powered Cursor IDE vulnerable to prompt-injection attacks](https://www.bleepingcomputer.com/news/security/ai-powered-cursor-ide-vulnerable-to-prompt-injection-attacks/)
+- [AI-Generated Malicious npm Package Drains Solana Funds from 1,500+ Before Takedown](https://thehackernews.com/2025/08/ai-generated-malicious-npm-package.html)
+- [You Are What You Eat: Why Your AI Security Tools Are Only as Strong as the Data You Feed Them](https://thehackernews.com/2025/08/you-are-what-you-eat-why-your-ai.html)
+- [Pwn2Own hacking contest pays $1 million for WhatsApp exploit](https://www.bleepingcomputer.com/news/security/pwn2own-hacking-contest-pays-1-million-for-whatsapp-exploit/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
