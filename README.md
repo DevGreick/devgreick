@@ -88,11 +88,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI may be testing a cheaper paid plan for ChatGPT](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-may-be-testing-a-cheaper-paid-plan-for-chatgpt/)
 - [SonicWall firewall devices hit in surge of Akira ransomware attacks](https://www.bleepingcomputer.com/news/security/surge-of-akira-ransomware-attacks-hits-sonicwall-firewall-devices/)
 - [Pi-hole discloses data breach triggered by WordPress plugin flaw](https://www.bleepingcomputer.com/news/security/pi-hole-discloses-data-breach-via-givewp-wordpress-plugin-flaw/)
 - [Cursor AI Code Editor Fixed Flaw Allowing Attackers to Run Commands via Prompt Injection](https://thehackernews.com/2025/08/cursor-ai-code-editor-fixed-flaw.html)
 - [Attackers Use Fake OAuth Apps with Tycoon Kit to Breach Microsoft 365 Accounts](https://thehackernews.com/2025/08/attackers-use-fake-oauth-apps-with.html)
-- [AI-powered Cursor IDE vulnerable to prompt-injection attacks](https://www.bleepingcomputer.com/news/security/ai-powered-cursor-ide-vulnerable-to-prompt-injection-attacks/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
