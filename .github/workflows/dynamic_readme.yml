@@ -1,13 +1,13 @@
-name: Update Dynamic README
+name: Atualizar README Dinâmico
 
 on:
   schedule:
-    - cron: '0 */2 * * *'
+    - cron: '0 */2 * * *'   
   workflow_dispatch:
 
 jobs:
   update-readme:
-    name: Update README with Live Feeds
+    name: Atualizar README com Feeds
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -16,34 +16,33 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      # Blog posts via RSS, separado por vírgula em uma única string
-      - name: Update Blog Posts
+     
+      - name: Atualizar seção de posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://feeds.feedburner.com/TheHackersNews,https://www.bleepingcomputer.com/feed/"
           max_post_count: 5
           comment_tag_name: "BLOG-POST-LIST"
-          commit_message: "update readme with latest posts"
+          commit_message: "atualiza readme com últimos posts"
 
-      # KEV da CISA via JSON convertido em Markdown no README
-      - name: Set up Python
+    
+      - name: Preparar Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.x"
 
-      - name: Update CISA Known Exploited Vulnerabilities block
+      - name: Atualizar bloco de KEVs da CISA
         run: |
           python -V
           python scripts/update_kev.py
 
-      - name: Commit KEV block if changed
+      - name: Commit do bloco de KEVs se houver mudanças
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "chore: update KEV block in README"
+          commit_message: "chore: atualiza bloco de KEVs no README"
           file_pattern: README.md
 
-      # Snake animation
-      - name: Generate Snake Animation
+      
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
@@ -51,8 +50,8 @@ jobs:
             output/snake.svg
             output/snake-dark.svg?palette=github-dark
 
-      - name: Commit and Push Snake
+      - name: Commit e push da Snake
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "chore: update snake"
+          commit_message: "chore: atualiza snake"
           file_pattern: output/*.svg
