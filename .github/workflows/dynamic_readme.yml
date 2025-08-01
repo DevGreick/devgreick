@@ -1,4 +1,5 @@
 name: Update Dynamic README
+
 on:
   schedule:
     - cron: '0 */2 * * *'
@@ -13,20 +14,35 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+     
       - name: Update Blog Posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://noticias.assistentecyber.com/index.xml"
+          feed_list: |
+            https://feeds.feedburner.com/TheHackersNews
+            https://www.securityweek.com/feed/
           max_post_count: 5
           comment_tag_name: "BLOG-POST-LIST"
+          commit_message: "update readme with latest posts"
 
-      - name: Update CISA Known Exploited Vulnerabilities
-        uses: gautamkrishnar/blog-post-workflow@v1
+     
+      - name: Set up Python
+        uses: actions/setup-python@v5
         with:
-          feed_list: "https://www.cisa.gov/known-exploited-vulnerabilities-catalog/known-exploited-vulnerabilities.xml"
-          max_post_count: 5
-          comment_tag_name: "CVE-LIST"
-          
+          python-version: "3.x"
+
+      - name: Update CISA Known Exploited Vulnerabilities block
+        run: |
+          python -V
+          python scripts/update_kev.py
+
+      - name: Commit KEV block if changed
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update KEV block in README"
+          file_pattern: README.md
+
+      # Snake
       - name: Generate Snake Animation
         uses: Platane/snk@v3
         with:
@@ -34,9 +50,9 @@ jobs:
           outputs: |
             output/snake.svg
             output/snake-dark.svg?palette=github-dark
-            
-      - name: Commit and Push Changes
+
+      - name: Commit and Push Snake
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "BOT: Update dynamic README content"
-          file_pattern: README.md output/*.svg
+          commit_message: "chore: update snake"
+          file_pattern: output/*.svg
