@@ -34,7 +34,7 @@ def build_markdown(kev: dict, max_items: int) -> str:
     total = min(len(vulns), max_items)
 
     linhas = []
-    # wrapper dobrável
+    
     linhas.append("<details>")
     linhas.append(f"<summary><strong>Vulnerabilidades exploradas conhecidas da CISA</strong>  •  atualizado {agora}  •  exibindo {total} itens</summary>")
     linhas.append("")
