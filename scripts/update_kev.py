@@ -11,7 +11,7 @@ CISA_KEV_URL = "https://www.cisa.gov/sites/default/files/feeds/known_exploited_v
 README_PATH = Path("README.md")
 TAG_START = "<!-- CVE-LIST:START -->"
 TAG_END = "<!-- CVE-LIST:END -->"
-MAX_ITEMS = 10
+MAX_ITEMS = 10 
 
 def fetch_json(url: str) -> dict:
     req = urllib.request.Request(url, headers={"User-Agent": "GitHubActions-KEV-Updater"})
@@ -20,18 +20,23 @@ def fetch_json(url: str) -> dict:
             raise RuntimeError(f"HTTP {resp.status} fetching CISA KEV")
         return json.loads(resp.read())
 
+def parse_date_utc(d: str) -> datetime:
+    try:
+        return datetime.strptime(d, "%Y-%m-%d").replace(tzinfo=timezone.utc)
+    except Exception:
+        return datetime.min.replace(tzinfo=timezone.utc)
+
 def build_markdown(kev: dict, max_items: int) -> str:
     vulns = kev.get("vulnerabilities", [])
+    vulns.sort(key=lambda v: parse_date_utc(v.get("dateAdded", "")), reverse=True)
 
-    def parse_date(d):
-        try:
-            return datetime.strptime(d, "%Y-%m-%d").replace(tzinfo=timezone.utc)
-        except Exception:
-            return datetime.min.replace(tzinfo=timezone.utc)
-
-    vulns.sort(key=lambda v: parse_date(v.get("dateAdded", "")), reverse=True)
+    now_str = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
+    count = min(len(vulns), max_items)
 
     lines = []
+ 
+    lines.append(f"<details>")
+    lines.append(f"<summary><strong>CISA Known Exploited Vulnerabilities</strong>  •  updated {now_str}  •  showing {count} items</summary>")
     lines.append("")
     lines.append("> Source: CISA Known Exploited Vulnerabilities")
     lines.append("")
@@ -44,14 +49,22 @@ def build_markdown(kev: dict, max_items: int) -> str:
         date_added = v.get("dateAdded", "N/A")
         desc = v.get("shortDescription", "N/A")
         required = v.get("requiredAction", "N/A")
+
         block = textwrap.dedent(f"""
         - **{cve}** - {name}  
           Vendor: {vendor} | Product: {product} | Added: {date_added}  
           {desc}  
           Required action: {required}
         """).strip()
+
+        
+        block = block.replace("—", "-")
         lines.append(block)
         lines.append("")
+
+    lines.append("</details>")
+    lines.append("")  
+
     return "\n".join(lines).rstrip() + "\n"
 
 def replace_between_tags(text: str, new_block: str, start_tag: str, end_tag: str) -> str:
@@ -66,7 +79,7 @@ def main():
     readme = README_PATH.read_text(encoding="utf-8")
     updated = replace_between_tags(readme, md, TAG_START, TAG_END)
     README_PATH.write_text(updated, encoding="utf-8")
-    print("README updated with latest KEV entries")
+    print("README updated with latest KEV entries (collapsible)")
 
 if __name__ == "__main__":
     try:
