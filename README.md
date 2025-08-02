@@ -98,11 +98,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [CL-STA-0969 Installs Covert Malware in Telecom Networks During 10-Month Espionage Campaign](https://thehackernews.com/2025/08/cl-sta-0969-installs-covert-malware-in.html)
 - [New ‘Plague’ PAM Backdoor Exposes Critical Linux Systems to Silent Credential Theft](https://thehackernews.com/2025/08/new-plague-pam-backdoor-exposes.html)
 - [OpenAI prepares new open weight models along with GPT-5](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-prepares-new-open-weight-models-along-with-gpt-5/)
 - [Anthropic says OpenAI engineers using Claude Code ahead of GPT-5 launch](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-says-openai-engineers-using-claude-code-ahead-of-gpt-5-launch/)
 - [Akira Ransomware Exploits SonicWall VPNs in Likely Zero-Day Attack on Fully-Patched Devices](https://thehackernews.com/2025/08/akira-ransomware-exploits-sonicwall.html)
-- [OpenAI may be testing a cheaper paid plan for ChatGPT](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-may-be-testing-a-cheaper-paid-plan-for-chatgpt/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
