@@ -125,7 +125,7 @@
   
   <img src="https://img.shields.io/badge/Nmap-3c9735?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap" />
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
-  <img src="https://img.shields.io/badge/Metasploit-DC0030?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit" />
+  
 </div>
 
 ---
