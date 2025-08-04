@@ -122,11 +122,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft: Outdated Office apps lose access to voice features in January](https://www.bleepingcomputer.com/news/microsoft/microsoft-outdated-office-apps-lose-access-to-voice-features-in-january/)
 - [NVIDIA Triton Bugs Let Unauthenticated Attackers Execute Code and Hijack AI Servers](https://thehackernews.com/2025/08/nvidia-triton-bugs-let-unauthenticated.html)
 - [CTM360 spots Malicious ‘ClickTok’ Campaign Targeting TikTok Shop users](https://www.bleepingcomputer.com/news/security/ctm360-spots-malicious-clicktok-campaign-targeting-tiktok-shop-users/)
 - [New Plague Linux malware stealthily maintains SSH access](https://www.bleepingcomputer.com/news/security/new-plague-malware-backdoors-linux-devices-removes-ssh-session-traces/)
 - [Vietnamese Hackers Use PXA Stealer, Hit 4,000 IPs and Steal 200,000 Passwords Globally](https://thehackernews.com/2025/08/vietnamese-hackers-use-pxa-stealer-hit.html)
-- [⚡ Weekly Recap: VPN 0-Day, Encryption Backdoor, AI Malware, macOS Flaw, ATM Hack &amp; More](https://thehackernews.com/2025/08/weekly-recap-vpn-0-day-encryption.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
