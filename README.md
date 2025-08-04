@@ -119,11 +119,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
-- [Mozilla warns of phishing attacks targeting add-on developers](https://www.bleepingcomputer.com/news/security/mozilla-warns-of-phishing-attacks-targeting-add-on-developers/)
-- [PlayPraetor Android Trojan Infects 11,000+ Devices via Fake Google Play Pages and Meta Ads](https://thehackernews.com/2025/08/playpraetor-android-trojan-infects.html)
-- [CL-STA-0969 Installs Covert Malware in Telecom Networks During 10-Month Espionage Campaign](https://thehackernews.com/2025/08/cl-sta-0969-installs-covert-malware-in.html)
-- [Attackers exploit link-wrapping services to steal Microsoft 365 logins](https://www.bleepingcomputer.com/news/security/attackers-exploit-link-wrapping-services-to-steal-microsoft-365-logins/)
+- [⚡ Weekly Recap: VPN 0-Day, Encryption Backdoor, AI Malware, macOS Flaw, ATM Hack &amp; More](https://thehackernews.com/2025/08/weekly-recap-vpn-0-day-encryption.html)
+- [Ransomware gangs join attacks targeting Microsoft SharePoint servers](https://www.bleepingcomputer.com/news/security/ransomware-gangs-join-attacks-targeting-microsoft-sharepoint-servers/)
+- [Man-in-the-Middle Attack Prevention Guide](https://thehackernews.com/2025/08/man-in-middle-attack-prevention-guide.html)
 - [New ‘Plague’ PAM Backdoor Exposes Critical Linux Systems to Silent Credential Theft](https://thehackernews.com/2025/08/new-plague-pam-backdoor-exposes.html)
+- [Mozilla warns of phishing attacks targeting add-on developers](https://www.bleepingcomputer.com/news/security/mozilla-warns-of-phishing-attacks-targeting-add-on-developers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
