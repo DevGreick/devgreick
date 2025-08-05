@@ -131,11 +131,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft increases Zero Day Quest prize pool to $5 million](https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-5-million-prize-pool-for-zero-day-quest-hacking-contest/)
-- [15,000 Fake TikTok Shop Domains Deliver Malware, Steal Crypto via AI-Driven Scam Campaign](https://thehackernews.com/2025/08/15000-fake-tiktok-shop-domains-deliver.html)
-- [SonicWall Investigating Potential SSL VPN Zero-Day After 20+ Targeted Attacks Reported](https://thehackernews.com/2025/08/sonicwall-investigating-potential-ssl.html)
-- [Fashion giant Chanel hit in wave of Salesforce data theft attacks](https://www.bleepingcomputer.com/news/security/fashion-giant-chanel-hit-in-wave-of-salesforce-data-theft-attacks/)
-- [Proton fixes Authenticator bug leaking TOTP secrets in logs](https://www.bleepingcomputer.com/news/security/proton-fixes-authenticator-bug-leaking-totp-secrets-in-logs/)
+- [Cisco discloses data breach impacting Cisco.com user accounts](https://www.bleepingcomputer.com/news/security/cisco-discloses-data-breach-impacting-ciscocom-user-accounts/)
+- [SonicWall urges admins to disable SSLVPN amid rising attacks](https://www.bleepingcomputer.com/news/security/sonicwall-urges-admins-to-disable-sslvpn-amid-rising-attacks/)
+- [Misconfigurations Are Not Vulnerabilities: The Costly Confusion Behind Security Risks](https://thehackernews.com/2025/08/misconfigurations-are-not.html)
+- [Android gets patches for Qualcomm flaws exploited in attacks](https://www.bleepingcomputer.com/news/security/android-gets-patches-for-qualcomm-flaws-exploited-in-attacks/)
+- [How Top CISOs Save Their SOCs from Alert Chaos to Never Miss Real Incidents](https://thehackernews.com/2025/08/how-top-cisos-save-their-socs-from.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
