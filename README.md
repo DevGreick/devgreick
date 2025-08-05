@@ -130,11 +130,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft increases Zero Day Quest prize pool to $5 million](https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-5-million-prize-pool-for-zero-day-quest-hacking-contest/)
 - [15,000 Fake TikTok Shop Domains Deliver Malware, Steal Crypto via AI-Driven Scam Campaign](https://thehackernews.com/2025/08/15000-fake-tiktok-shop-domains-deliver.html)
 - [SonicWall Investigating Potential SSL VPN Zero-Day After 20+ Targeted Attacks Reported](https://thehackernews.com/2025/08/sonicwall-investigating-potential-ssl.html)
 - [Fashion giant Chanel hit in wave of Salesforce data theft attacks](https://www.bleepingcomputer.com/news/security/fashion-giant-chanel-hit-in-wave-of-salesforce-data-theft-attacks/)
 - [Proton fixes Authenticator bug leaking TOTP secrets in logs](https://www.bleepingcomputer.com/news/security/proton-fixes-authenticator-bug-leaking-totp-secrets-in-logs/)
-- [Microsoft: Outdated Office apps lose access to voice features in January](https://www.bleepingcomputer.com/news/microsoft/microsoft-outdated-office-apps-lose-access-to-voice-features-in-january/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
