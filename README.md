@@ -134,11 +134,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [ClickFix Malware Campaign Exploits CAPTCHAs to Spread Cross-Platform Infections](https://thehackernews.com/2025/08/clickfix-malware-campaign-exploits.html)
 - [The Heat Wasn&#39;t Just Outside: Cyber Attacks Spiked in Summer 2025](https://www.bleepingcomputer.com/news/security/the-heat-wasnt-just-outside-cyber-attacks-spiked-in-summer-2025/)
 - [Google’s August Patch Fixes Two Qualcomm Vulnerabilities Exploited in the Wild](https://thehackernews.com/2025/08/google-fixes-3-android-vulnerabilities.html)
 - [Cursor AI Code Editor Vulnerability Enables RCE via Malicious MCP File Swaps Post Approval](https://thehackernews.com/2025/08/cursor-ai-code-editor-vulnerability.html)
 - [Cisco discloses data breach impacting Cisco.com user accounts](https://www.bleepingcomputer.com/news/security/cisco-discloses-data-breach-impacting-ciscocom-user-accounts/)
-- [SonicWall urges admins to disable SSLVPN amid rising attacks](https://www.bleepingcomputer.com/news/security/sonicwall-urges-admins-to-disable-sslvpn-amid-rising-attacks/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
