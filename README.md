@@ -135,11 +135,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Adobe issues emergency fixes for AEM Forms zero-days after PoCs released](https://www.bleepingcomputer.com/news/security/adobe-issues-emergency-fixes-for-aem-forms-zero-days-after-pocs-released/)
 - [ClickFix Malware Campaign Exploits CAPTCHAs to Spread Cross-Platform Infections](https://thehackernews.com/2025/08/clickfix-malware-campaign-exploits.html)
 - [The Heat Wasn&#39;t Just Outside: Cyber Attacks Spiked in Summer 2025](https://www.bleepingcomputer.com/news/security/the-heat-wasnt-just-outside-cyber-attacks-spiked-in-summer-2025/)
 - [Google’s August Patch Fixes Two Qualcomm Vulnerabilities Exploited in the Wild](https://thehackernews.com/2025/08/google-fixes-3-android-vulnerabilities.html)
 - [Cursor AI Code Editor Vulnerability Enables RCE via Malicious MCP File Swaps Post Approval](https://thehackernews.com/2025/08/cursor-ai-code-editor-vulnerability.html)
-- [Cisco discloses data breach impacting Cisco.com user accounts](https://www.bleepingcomputer.com/news/security/cisco-discloses-data-breach-impacting-ciscocom-user-accounts/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
