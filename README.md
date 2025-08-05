@@ -18,9 +18,24 @@
 
   <!-- CVE-LIST:START -->
 <details>
-<summary><strong>Vulnerabilidades exploradas conhecidas da CISA</strong>  •  atualizado 05/08/2025 16:14 UTC  •  exibindo 10 itens</summary>
+<summary><strong>Vulnerabilidades exploradas conhecidas da CISA</strong>  •  atualizado 05/08/2025 18:21 UTC  •  exibindo 10 itens</summary>
 
 > Fonte: CISA Known Exploited Vulnerabilities
+
+- **CVE-2020-25078** - D-Link DCS-2530L and DCS-2670L Devices Unspecified Vulnerability  
+  Fornecedor: D-Link | Produto: DCS-2530L and DCS-2670L Devices | Adicionado: 2025-08-05  
+  D-Link DCS-2530L and DCS-2670L devices contains an unspecified vulnerability that could allow for remote administrator password disclosure. The impacted products could be end-of-life (EoL) and/or end-of-service (EoS). Users should discontinue product utilization.  
+  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
+
+- **CVE-2020-25079** - D-Link DCS-2530L and DCS-2670L Command Injection Vulnerability  
+  Fornecedor: D-Link | Produto: DCS-2530L and DCS-2670L Devices | Adicionado: 2025-08-05  
+  D-Link DCS-2530L and DCS-2670L devices contains a command injection vulnerability in the cgi-bin/ddns_enc.cgi. The impacted products could be end-of-life (EoL) and/or end-of-service (EoS). Users should discontinue product utilization.  
+  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
+
+- **CVE-2022-40799** - D-Link DNR-322L Download of Code Without Integrity Check Vulnerability  
+  Fornecedor: D-Link | Produto: DNR-322L | Adicionado: 2025-08-05  
+  D-Link DNR-322L contains a download of code without integrity check vulnerability that could allow an authenticated attacker to execute OS level commands on the device. The impacted products could be end-of-life (EoL) and/or end-of-service (EoS). Users should discontinue product utilization.  
+  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
 
 - **CVE-2023-2533** - PaperCut NG/MF Cross-Site Request Forgery (CSRF) Vulnerability  
   Fornecedor: PaperCut | Produto: NG/MF | Adicionado: 2025-07-28  
@@ -57,22 +72,8 @@
   CrushFTP contains an unprotected alternate channel vulnerability. When the DMZ proxy feature is not used, mishandles AS2 validation and consequently allows remote attackers to obtain admin access via HTTPS.  
   Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
 
-- **CVE-2025-49704** - Microsoft SharePoint Code Injection Vulnerability  
-  Fornecedor: Microsoft | Produto: SharePoint | Adicionado: 2025-07-22  
-  Microsoft SharePoint contains a code injection vulnerability that could allow an authorized attacker to execute code over a network. This vulnerability could be chained with CVE-2025-49706. CVE-2025-53770 is a patch bypass for CVE-2025-49704, and the updates for CVE-2025-53770 include more robust protection than those for CVE-2025-49704.  
-  Ação requerida: Disconnect public-facing versions of SharePoint Server that have reached their end-of-life (EOL) or end-of-service (EOS) to include SharePoint Server 2013 and earlier versions. For supported versions, please follow the mitigations according to CISA (URL listed below in Notes) and vendor instructions (URL listed below in Notes). Adhere to the applicable BOD 22-01 guidance for cloud services or discontinue use of the product if mitigations are not available.
-
-- **CVE-2025-49706** - Microsoft SharePoint Improper Authentication Vulnerability  
-  Fornecedor: Microsoft | Produto: SharePoint | Adicionado: 2025-07-22  
-  Microsoft SharePoint contains an improper authentication vulnerability that allows an authorized attacker to perform spoofing over a network. Successfully exploitation could allow an attacker to view sensitive information and make some changes to disclosed information. This vulnerability could be chained with CVE-2025-49704. CVE-2025-53771 is a patch bypass for CVE-2025-49706, and the updates for CVE-2025-53771 include more robust protection than those for CVE-2025-49706.  
-  Ação requerida: Disconnect public-facing versions of SharePoint Server that have reached their end-of-life (EOL) or end-of-service (EOS) to include SharePoint Server 2013 and earlier versions. For supported versions, please follow the mitigations according to CISA (URL listed below in Notes) and vendor instructions (URL listed below in Notes). Adhere to the applicable BOD 22-01 guidance for cloud services or discontinue use of the product if mitigations are not available.
-
-- **CVE-2025-53770** - Microsoft SharePoint Deserialization of Untrusted Data Vulnerability  
-  Fornecedor: Microsoft | Produto: SharePoint | Adicionado: 2025-07-20  
-  Microsoft SharePoint Server on-premises contains a deserialization of untrusted data vulnerability that could allow an unauthorized attacker to execute code over a network. This vulnerability could be chained with CVE-2025-53771. CVE-2025-53770 is a patch bypass for CVE-2025-49704, and the updates for CVE-2025-53770 include more robust protection than those for CVE-2025-49704.  
-  Ação requerida: Disconnect public-facing versions of SharePoint Server that have reached their end-of-life (EOL) or end-of-service (EOS) to include SharePoint Server 2013 and earlier versions. For supported versions, please follow the mitigations according to CISA (URL listed below in Notes) and vendor instructions (URL listed below in Notes). Adhere to the applicable BOD 22-01 guidance for cloud services or discontinue use of the product if mitigations are not available.
-
 </details>
+
 
 
 
