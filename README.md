@@ -143,11 +143,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [ReVault flaws let hackers bypass Windows login on Dell laptops](https://www.bleepingcomputer.com/news/security/revault-flaws-let-hackers-bypass-windows-login-on-dell-laptops/)
+- [AI Slashes Workloads for vCISOs by 68% as SMBs Demand More – New Report Reveals](https://thehackernews.com/2025/08/ai-slashes-workloads-for-vcisos-by-68.html)
+- [WhatsApp adds new security feature to protect against scams](https://www.bleepingcomputer.com/news/security/whatsapp-adds-new-security-feature-to-protect-against-scams/)
+- [Microsoft Launches Project Ire to Autonomously Classify Malware Using AI Tools](https://thehackernews.com/2025/08/microsoft-launches-project-ire-to.html)
 - [Trend Micro warns of Apex One zero-day exploited in attacks](https://www.bleepingcomputer.com/news/security/trend-micro-warns-of-endpoint-protection-zero-day-exploited-in-attacks/)
-- [Microsoft pays record $17 million in bounties over the last 12 months](https://www.bleepingcomputer.com/news/microsoft/microsoft-pays-record-17-million-in-bounties-over-the-last-12-months/)
-- [CERT-UA Warns of HTA-Delivered C# Malware Attacks Using Court Summons Lures](https://thehackernews.com/2025/08/cert-ua-warns-of-hta-delivered-c.html)
-- [AI Is Transforming Cybersecurity Adversarial Testing - Pentera Founder’s Vision](https://thehackernews.com/2025/08/ai-is-transforming-cybersecurity.html)
-- [CISA Adds 3 D-Link Vulnerabilities to KEV Catalog Amid Active Exploitation Evidence](https://thehackernews.com/2025/08/cisa-adds-3-d-link-router-flaws-to-kev.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
