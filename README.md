@@ -142,7 +142,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [AI Is Transforming Cybersecurity Adversarial Testing - Pentera Founder’s Vision](https://thehackernews.com/2025/08/ai-is-transforming-cybersecurity.html)
-- [CISA Adds 3 D-Link Router Flaws to KEV Catalog After Active Exploitation Reports](https://thehackernews.com/2025/08/cisa-adds-3-d-link-router-flaws-to-kev.html)
+- [CISA Adds 3 D-Link Vulnerabilities to KEV Catalog Amid Active Exploitation Evidence](https://thehackernews.com/2025/08/cisa-adds-3-d-link-router-flaws-to-kev.html)
 - [Pandora confirms data breach amid ongoing Salesforce data theft attacks](https://www.bleepingcomputer.com/news/security/pandora-confirms-data-breach-amid-ongoing-salesforce-data-theft-attacks/)
 - [PBS confirms data breach after employee info leaked on Discord servers](https://www.bleepingcomputer.com/news/security/pbs-confirms-data-breach-after-employee-info-leaked-on-discord-servers/)
 - [Adobe issues emergency fixes for AEM Forms zero-days after PoCs released](https://www.bleepingcomputer.com/news/security/adobe-issues-emergency-fixes-for-aem-forms-zero-days-after-pocs-released/)
