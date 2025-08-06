@@ -148,11 +148,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Researchers Uncover ECScape Flaw in Amazon ECS Enabling Cross-Task Credential Theft](https://thehackernews.com/2025/08/researchers-uncover-ecscape-flaw-in.html)
+- [Akira ransomware abuses CPU tuning tool to disable Microsoft Defender](https://www.bleepingcomputer.com/news/security/akira-ransomware-abuses-cpu-tuning-tool-to-disable-microsoft-defender/)
+- [Fake VPN and Spam Blocker Apps Tied to VexTrio Used in Ad Fraud, Subscription Scams](https://thehackernews.com/2025/08/fake-vpn-and-spam-blocker-apps-tied-to.html)
 - [New Ghost Calls tactic abuses Zoom and Microsoft Teams for C2 operations](https://www.bleepingcomputer.com/news/security/new-ghost-calls-tactic-abuses-zoom-and-microsoft-teams-for-c2-operations/)
 - [Hacker extradited to US for stealing $3.3 million from taxpayers](https://www.bleepingcomputer.com/news/security/hacker-extradited-to-us-for-stealing-33-million-from-taxpayers/)
-- [MFA matters… But it isn’t enough on its own](https://www.bleepingcomputer.com/news/security/mfa-matters-but-it-isnt-enough-on-its-own/)
-- [Google suffers data breach in ongoing Salesforce data theft attacks](https://www.bleepingcomputer.com/news/security/google-suffers-data-breach-in-ongoing-salesforce-data-theft-attacks/)
-- [National Bank of Canada online systems down due to &#39;technical issue&#39;](https://www.bleepingcomputer.com/news/technology/national-bank-of-canada-online-systems-down-due-to-technical-issue/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
