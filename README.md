@@ -140,11 +140,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [AI Is Transforming Cybersecurity Adversarial Testing - Pentera Founder’s Vision](https://thehackernews.com/2025/08/ai-is-transforming-cybersecurity.html)
+- [CISA Adds 3 D-Link Router Flaws to KEV Catalog After Active Exploitation Reports](https://thehackernews.com/2025/08/cisa-adds-3-d-link-router-flaws-to-kev.html)
 - [Pandora confirms data breach amid ongoing Salesforce data theft attacks](https://www.bleepingcomputer.com/news/security/pandora-confirms-data-breach-amid-ongoing-salesforce-data-theft-attacks/)
 - [PBS confirms data breach after employee info leaked on Discord servers](https://www.bleepingcomputer.com/news/security/pbs-confirms-data-breach-after-employee-info-leaked-on-discord-servers/)
 - [Adobe issues emergency fixes for AEM Forms zero-days after PoCs released](https://www.bleepingcomputer.com/news/security/adobe-issues-emergency-fixes-for-aem-forms-zero-days-after-pocs-released/)
-- [ClickFix Malware Campaign Exploits CAPTCHAs to Spread Cross-Platform Infections](https://thehackernews.com/2025/08/clickfix-malware-campaign-exploits.html)
-- [The Heat Wasn&#39;t Just Outside: Cyber Attacks Spiked in Summer 2025](https://www.bleepingcomputer.com/news/security/the-heat-wasnt-just-outside-cyber-attacks-spiked-in-summer-2025/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
