@@ -145,11 +145,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Hacker extradited to US for stealing $3.3 million from taxpayers](https://www.bleepingcomputer.com/news/security/hacker-extradited-to-us-for-stealing-33-million-from-taxpayers/)
 - [MFA matters… But it isn’t enough on its own](https://www.bleepingcomputer.com/news/security/mfa-matters-but-it-isnt-enough-on-its-own/)
 - [Google suffers data breach in ongoing Salesforce data theft attacks](https://www.bleepingcomputer.com/news/security/google-suffers-data-breach-in-ongoing-salesforce-data-theft-attacks/)
 - [National Bank of Canada online systems down due to &#39;technical issue&#39;](https://www.bleepingcomputer.com/news/technology/national-bank-of-canada-online-systems-down-due-to-technical-issue/)
 - [ReVault flaws let hackers bypass Windows login on Dell laptops](https://www.bleepingcomputer.com/news/security/revault-flaws-let-hackers-bypass-windows-login-on-dell-laptops/)
-- [AI Slashes Workloads for vCISOs by 68% as SMBs Demand More – New Report Reveals](https://thehackernews.com/2025/08/ai-slashes-workloads-for-vcisos-by-68.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
