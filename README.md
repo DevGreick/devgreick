@@ -159,11 +159,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [CISA orders fed agencies to patch new Exchange flaw by Monday](https://www.bleepingcomputer.com/news/security/cisa-orders-fed-agencies-to-patch-new-cve-2025-53786-exchange-flaw/)
+- [ChatGPT&#39;s GPT-5 models released: everything you need to know](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpts-gpt-5-models-released-everything-you-need-to-know/)
+- [SocGholish Malware Spread via Ad Tools; Delivers Access to LockBit, Evil Corp, and Others](https://thehackernews.com/2025/08/socgholish-malware-spread-via-ad-tools.html)
 - [New EDR killer tool used by eight different ransomware groups](https://www.bleepingcomputer.com/news/security/new-edr-killer-tool-used-by-eight-different-ransomware-groups/)
 - [Bouygues Telecom confirms data breach impacting 6.4 million customers](https://www.bleepingcomputer.com/news/security/bouygues-telecom-confirms-data-breach-impacting-64-million-customers/)
-- [Webinar: How to Stop Python Supply Chain Attacks—and the Expert Tools You Need](https://thehackernews.com/2025/08/webinar-how-to-stop-python-supply-chain.html)
-- [SonicWall finds no SSLVPN zero-day, links ransomware attacks to 2024 flaw](https://www.bleepingcomputer.com/news/security/sonicwall-finds-no-sslvpn-zero-day-links-ransomware-attacks-to-2024-flaw/)
-- [Wave of 150 crypto-draining extensions hits Firefox add-on store](https://www.bleepingcomputer.com/news/security/wave-of-150-crypto-draining-extensions-hits-firefox-add-on-store/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
