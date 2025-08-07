@@ -153,11 +153,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft warns of high-severity flaw in hybrid Exchange deployments](https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-high-severity-flaw-in-hybrid-exchange-deployments/)
+- [Webinar: How to Stop Python Supply Chain Attacks—and the Expert Tools You Need](https://thehackernews.com/2025/08/webinar-how-to-stop-python-supply-chain.html)
+- [Microsoft accidentally confirms GPT-5, GPT-5-Mini, GPT-5-Nano ahead of launch](https://www.bleepingcomputer.com/news/artificial-intelligence/microsoft-accidentally-confirms-gpt-5-gpt-5-mini-gpt-5-nano-ahead-of-launch/)
 - [Researchers Uncover ECScape Flaw in Amazon ECS Enabling Cross-Task Credential Theft](https://thehackernews.com/2025/08/researchers-uncover-ecscape-flaw-in.html)
 - [Akira ransomware abuses CPU tuning tool to disable Microsoft Defender](https://www.bleepingcomputer.com/news/security/akira-ransomware-abuses-cpu-tuning-tool-to-disable-microsoft-defender/)
-- [Fake VPN and Spam Blocker Apps Tied to VexTrio Used in Ad Fraud, Subscription Scams](https://thehackernews.com/2025/08/fake-vpn-and-spam-blocker-apps-tied-to.html)
-- [New Ghost Calls tactic abuses Zoom and Microsoft Teams for C2 operations](https://www.bleepingcomputer.com/news/security/new-ghost-calls-tactic-abuses-zoom-and-microsoft-teams-for-c2-operations/)
-- [Hacker extradited to US for stealing $3.3 million from taxpayers](https://www.bleepingcomputer.com/news/security/hacker-extradited-to-us-for-stealing-33-million-from-taxpayers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
