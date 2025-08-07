@@ -155,11 +155,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Cryptomixer founders pled guilty to laundering money for cybercriminals](https://www.bleepingcomputer.com/news/security/samourai-cryptomixer-founders-pled-guilty-to-laundering-money-for-cybercriminals/)
+- [Microsoft Discloses Exchange Server Flaw Enabling Silent Cloud Access in Hybrid Setups](https://thehackernews.com/2025/08/microsoft-discloses-exchange-server.html)
+- [The AI-Powered Security Shift: What 2025 Is Teaching Us About Cloud Defense](https://thehackernews.com/2025/08/the-ai-powered-security-shift-what-2025.html)
+- [SonicWall Confirms Patched Vulnerability Behind Recent VPN Attacks, Not a Zero-Day](https://thehackernews.com/2025/08/sonicwall-confirms-patched.html)
 - [Massive IPTV piracy service with 28,000 channels taken offline](https://www.bleepingcomputer.com/news/technology/massive-illegal-iptv-service-provider-rare-breed-tv-taken-offline/)
-- [Air France and KLM disclose data breaches impacting customers](https://www.bleepingcomputer.com/news/security/air-france-and-klm-disclose-data-breaches-impacting-customers/)
-- [Microsoft warns of high-severity flaw in hybrid Exchange deployments](https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-high-severity-flaw-in-hybrid-exchange-deployments/)
-- [Webinar: How to Stop Python Supply Chain Attacks—and the Expert Tools You Need](https://thehackernews.com/2025/08/webinar-how-to-stop-python-supply-chain.html)
-- [Microsoft accidentally confirms GPT-5, GPT-5-Mini, GPT-5-Nano ahead of launch](https://www.bleepingcomputer.com/news/artificial-intelligence/microsoft-accidentally-confirms-gpt-5-gpt-5-mini-gpt-5-nano-ahead-of-launch/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
