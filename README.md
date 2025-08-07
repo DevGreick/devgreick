@@ -158,11 +158,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [New EDR killer tool used by eight different ransomware groups](https://www.bleepingcomputer.com/news/security/new-edr-killer-tool-used-by-eight-different-ransomware-groups/)
+- [Bouygues Telecom confirms data breach impacting 6.4 million customers](https://www.bleepingcomputer.com/news/security/bouygues-telecom-confirms-data-breach-impacting-64-million-customers/)
 - [Webinar: How to Stop Python Supply Chain Attacks—and the Expert Tools You Need](https://thehackernews.com/2025/08/webinar-how-to-stop-python-supply-chain.html)
 - [SonicWall finds no SSLVPN zero-day, links ransomware attacks to 2024 flaw](https://www.bleepingcomputer.com/news/security/sonicwall-finds-no-sslvpn-zero-day-links-ransomware-attacks-to-2024-flaw/)
 - [Wave of 150 crypto-draining extensions hits Firefox add-on store](https://www.bleepingcomputer.com/news/security/wave-of-150-crypto-draining-extensions-hits-firefox-add-on-store/)
-- [Malicious Go, npm Packages Deliver Cross-Platform Malware, Trigger Remote Data Wipes](https://thehackernews.com/2025/08/malicious-go-npm-packages-deliver-cross.html)
-- [Cryptomixer founders pled guilty to laundering money for cybercriminals](https://www.bleepingcomputer.com/news/security/samourai-cryptomixer-founders-pled-guilty-to-laundering-money-for-cybercriminals/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
