@@ -156,11 +156,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Malicious Go, npm Packages Deliver Cross-Platform Malware, Trigger Remote Data Wipes](https://thehackernews.com/2025/08/malicious-go-npm-packages-deliver-cross.html)
 - [Cryptomixer founders pled guilty to laundering money for cybercriminals](https://www.bleepingcomputer.com/news/security/samourai-cryptomixer-founders-pled-guilty-to-laundering-money-for-cybercriminals/)
-- [Microsoft Discloses Exchange Server Flaw Enabling Silent Cloud Access in Hybrid Setups](https://thehackernews.com/2025/08/microsoft-discloses-exchange-server.html)
 - [The AI-Powered Security Shift: What 2025 Is Teaching Us About Cloud Defense](https://thehackernews.com/2025/08/the-ai-powered-security-shift-what-2025.html)
-- [SonicWall Confirms Patched Vulnerability Behind Recent VPN Attacks, Not a Zero-Day](https://thehackernews.com/2025/08/sonicwall-confirms-patched.html)
-- [Massive IPTV piracy service with 28,000 channels taken offline](https://www.bleepingcomputer.com/news/technology/massive-illegal-iptv-service-provider-rare-breed-tv-taken-offline/)
+- [Microsoft Discloses Exchange Server Flaw Enabling Silent Cloud Access in Hybrid Setups](https://thehackernews.com/2025/08/microsoft-discloses-exchange-server.html)
+- [6,500 Axis Servers Expose Remoting Protocol, 4,000 in U.S. Vulnerable to Exploits](https://thehackernews.com/2025/08/6500-axis-servers-expose-remoting.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
