@@ -170,11 +170,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [FTC: older adults lost record $700 million to scammers in 2024](https://www.bleepingcomputer.com/news/security/ftc-older-adults-lost-record-700-million-to-scammers-in-2024/)
+- [AI Tools Fuel Brazilian Phishing Scam While Efimer Trojan Steals Crypto from 5,000 Victims](https://thehackernews.com/2025/08/ai-tools-fuel-brazilian-phishing-scam.html)
 - [U.S. Judiciary confirms breach of court electronic records service](https://www.bleepingcomputer.com/news/security/us-judiciary-confirms-breach-of-court-electronic-records-service/)
 - [Leaked Credentials Up 160%: What Attackers Are Doing With Them](https://thehackernews.com/2025/08/leaked-credentials-up-160-what.html)
 - [RubyGems, PyPI Hit by Malicious Packages Stealing Credentials, Crypto, Forcing Security Changes](https://thehackernews.com/2025/08/rubygems-pypi-hit-by-malicious-packages.html)
-- [Microsoft 365 apps to soon block file access via FPRPC by default](https://www.bleepingcomputer.com/news/security/microsoft-365-apps-to-soon-block-file-access-via-insecure-fprpc-legacy-auth-protocol-by-default/)
-- [Microsoft will kill the Lens PDF scanner app for iOS, Android](https://www.bleepingcomputer.com/news/microsoft/microsoft-will-kill-the-microsoft-lens-pdf-scanner-app-for-ios-android-in-september/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
