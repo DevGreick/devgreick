@@ -167,11 +167,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Leaked Credentials Up 160%: What Attackers Are Doing With Them](https://thehackernews.com/2025/08/leaked-credentials-up-160-what.html)
+- [RubyGems, PyPI Hit by Malicious Packages Stealing Credentials, Crypto, Forcing Security Changes](https://thehackernews.com/2025/08/rubygems-pypi-hit-by-malicious-packages.html)
+- [Microsoft 365 apps to soon block file access via FPRPC by default](https://www.bleepingcomputer.com/news/security/microsoft-365-apps-to-soon-block-file-access-via-insecure-fprpc-legacy-auth-protocol-by-default/)
 - [Microsoft will kill the Lens PDF scanner app for iOS, Android](https://www.bleepingcomputer.com/news/microsoft/microsoft-will-kill-the-microsoft-lens-pdf-scanner-app-for-ios-android-in-september/)
 - [Columbia University data breach impacts nearly 870,000 individuals](https://www.bleepingcomputer.com/news/security/columbia-university-data-breach-impacts-nearly-870-000-students-applicants-employees/)
-- [Royal and BlackSuit ransomware gangs hit over 450 US companies](https://www.bleepingcomputer.com/news/security/royal-and-blacksuit-ransomware-gangs-hit-over-450-us-companies/)
-- [GreedyBear Steals $1M in Crypto Using 150+ Malicious Firefox Wallet Extensions](https://thehackernews.com/2025/08/greedybear-steals-1m-in-crypto-using.html)
-- [Fake WhatsApp developer libraries hide destructive data-wiping code](https://www.bleepingcomputer.com/news/security/fake-whatsapp-developer-libraries-hide-destructive-data-wiping-code/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
