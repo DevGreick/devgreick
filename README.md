@@ -165,11 +165,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Royal and BlackSuit ransomware gangs hit over 450 US companies](https://www.bleepingcomputer.com/news/security/royal-and-blacksuit-ransomware-gangs-hit-over-450-us-companies/)
 - [Fake WhatsApp developer libraries hide destructive data-wiping code](https://www.bleepingcomputer.com/news/security/fake-whatsapp-developer-libraries-hide-destructive-data-wiping-code/)
 - [CISA orders fed agencies to patch new Exchange flaw by Monday](https://www.bleepingcomputer.com/news/security/cisa-orders-fed-agencies-to-patch-new-cve-2025-53786-exchange-flaw/)
 - [ChatGPT&#39;s GPT-5 models released: everything you need to know](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpts-gpt-5-models-released-everything-you-need-to-know/)
 - [SocGholish Malware Spread via Ad Tools; Delivers Access to LockBit, Evil Corp, and Others](https://thehackernews.com/2025/08/socgholish-malware-spread-via-ad-tools.html)
-- [New EDR killer tool used by eight different ransomware groups](https://www.bleepingcomputer.com/news/security/new-edr-killer-tool-used-by-eight-different-ransomware-groups/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
