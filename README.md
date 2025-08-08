@@ -172,11 +172,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI to fix GPT-5 issues, double rate limits for paid users after outrage](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-to-fix-gpt-5-issues-double-rate-limits-for-paid-users-after-outrage/)
+- [WinRAR zero-day exploited to plant malware on archive extraction](https://www.bleepingcomputer.com/news/security/winrar-zero-day-flaw-exploited-by-romcom-hackers-in-phishing-attacks/)
 - [FTC: older adults lost record $700 million to scammers in 2024](https://www.bleepingcomputer.com/news/security/ftc-older-adults-lost-record-700-million-to-scammers-in-2024/)
 - [AI Tools Fuel Brazilian Phishing Scam While Efimer Trojan Steals Crypto from 5,000 Victims](https://thehackernews.com/2025/08/ai-tools-fuel-brazilian-phishing-scam.html)
 - [U.S. Judiciary confirms breach of court electronic records service](https://www.bleepingcomputer.com/news/security/us-judiciary-confirms-breach-of-court-electronic-records-service/)
-- [Leaked Credentials Up 160%: What Attackers Are Doing With Them](https://thehackernews.com/2025/08/leaked-credentials-up-160-what.html)
-- [RubyGems, PyPI Hit by Malicious Packages Stealing Credentials, Crypto, Forcing Security Changes](https://thehackernews.com/2025/08/rubygems-pypi-hit-by-malicious-packages.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
