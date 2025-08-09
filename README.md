@@ -183,11 +183,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Google confirms data breach exposed potential Google Ads customers&#39; info](https://www.bleepingcomputer.com/news/security/google-confirms-data-breach-exposed-potential-google-ads-customers-info/)
+- [Linux-Based Lenovo Webcams’ Flaw Can Be Remotely Exploited for BadUSB Attacks](https://thehackernews.com/2025/08/linux-based-lenovo-webcams-flaw-can-be.html)
 - [Researchers Uncover GPT-5 Jailbreak and Zero-Click AI Agent Attacks Exposing Cloud and IoT Systems](https://thehackernews.com/2025/08/researchers-uncover-gpt-5-jailbreak-and.html)
+- [60 malicious Ruby gems downloaded 275,000 times steal credentials](https://www.bleepingcomputer.com/news/security/60-malicious-ruby-gems-downloaded-275-000-times-steal-credentials/)
 - [CyberArk and HashiCorp Flaws Enable Remote Vault Takeover Without Credentials](https://thehackernews.com/2025/08/cyberark-and-hashicorp-flaws-enable.html)
-- [OpenAI to fix GPT-5 issues, double rate limits for paid users after outrage](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-to-fix-gpt-5-issues-double-rate-limits-for-paid-users-after-outrage/)
-- [WinRAR zero-day exploited to plant malware on archive extraction](https://www.bleepingcomputer.com/news/security/winrar-zero-day-flaw-exploited-by-romcom-hackers-in-phishing-attacks/)
-- [FTC: older adults lost record $700 million to scammers in 2024](https://www.bleepingcomputer.com/news/security/ftc-older-adults-lost-record-700-million-to-scammers-in-2024/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
