@@ -176,11 +176,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [CyberArk and HashiCorp Flaws Enable Remote Vault Takeover Without Credentials](https://thehackernews.com/2025/08/cyberark-and-hashicorp-flaws-enable.html)
 - [OpenAI to fix GPT-5 issues, double rate limits for paid users after outrage](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-to-fix-gpt-5-issues-double-rate-limits-for-paid-users-after-outrage/)
 - [WinRAR zero-day exploited to plant malware on archive extraction](https://www.bleepingcomputer.com/news/security/winrar-zero-day-flaw-exploited-by-romcom-hackers-in-phishing-attacks/)
 - [FTC: older adults lost record $700 million to scammers in 2024](https://www.bleepingcomputer.com/news/security/ftc-older-adults-lost-record-700-million-to-scammers-in-2024/)
 - [AI Tools Fuel Brazilian Phishing Scam While Efimer Trojan Steals Crypto from 5,000 Victims](https://thehackernews.com/2025/08/ai-tools-fuel-brazilian-phishing-scam.html)
-- [U.S. Judiciary confirms breach of court electronic records service](https://www.bleepingcomputer.com/news/security/us-judiciary-confirms-breach-of-court-electronic-records-service/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
