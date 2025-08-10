@@ -195,11 +195,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [New Win-DDoS Flaws Let Attackers Turn Public Domain Controllers into DDoS Botnet via RPC, LDAP](https://thehackernews.com/2025/08/new-win-ddos-flaws-let-attackers-turn.html)
 - [Researchers Detail Windows EPM Poisoning Exploit Chain Leading to Domain Privilege Escalation](https://thehackernews.com/2025/08/researchers-detail-windows-epm.html)
 - [Google confirms data breach exposed potential Google Ads customers&#39; info](https://www.bleepingcomputer.com/news/security/google-confirms-data-breach-exposed-potential-google-ads-customers-info/)
 - [Linux-Based Lenovo Webcams’ Flaw Can Be Remotely Exploited for BadUSB Attacks](https://thehackernews.com/2025/08/linux-based-lenovo-webcams-flaw-can-be.html)
 - [Researchers Reveal ReVault Attack Targeting Dell ControlVault3 Firmware in 100+ Laptop Models](https://thehackernews.com/2025/08/researchers-reveal-revault-attack.html)
-- [Researchers Uncover GPT-5 Jailbreak and Zero-Click AI Agent Attacks Exposing Cloud and IoT Systems](https://thehackernews.com/2025/08/researchers-uncover-gpt-5-jailbreak-and.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
