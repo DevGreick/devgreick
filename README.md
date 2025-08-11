@@ -201,11 +201,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Connex Credit Union data breach impacts 172,000 members](https://www.bleepingcomputer.com/news/security/connex-credit-union-discloses-data-breach-impacting-172-000-people/)
+- [How to restore GPT-4o when you&#39;ve GPT-5](https://www.bleepingcomputer.com/news/artificial-intelligence/how-to-restore-gpt-4o-when-youve-gpt-5/)
+- [WinRAR Zero-Day Under Active Exploitation – Update to Latest Version Immediately](https://thehackernews.com/2025/08/winrar-zero-day-under-active.html)
 - [New Win-DDoS Flaws Let Attackers Turn Public Domain Controllers into DDoS Botnet via RPC, LDAP](https://thehackernews.com/2025/08/new-win-ddos-flaws-let-attackers-turn.html)
-- [Researchers Detail Windows EPM Poisoning Exploit Chain Leading to Domain Privilege Escalation](https://thehackernews.com/2025/08/researchers-detail-windows-epm.html)
-- [Google confirms data breach exposed potential Google Ads customers&#39; info](https://www.bleepingcomputer.com/news/security/google-confirms-data-breach-exposed-potential-google-ads-customers-info/)
-- [Linux-Based Lenovo Webcams’ Flaw Can Be Remotely Exploited for BadUSB Attacks](https://thehackernews.com/2025/08/linux-based-lenovo-webcams-flaw-can-be.html)
-- [Researchers Reveal ReVault Attack Targeting Dell ControlVault3 Firmware in 100+ Laptop Models](https://thehackernews.com/2025/08/researchers-reveal-revault-attack.html)
+- [Google Calendar invites let researchers hijack Gemini to leak user data](https://www.bleepingcomputer.com/news/security/google-calendar-invites-let-researchers-hijack-gemini-to-leak-user-data/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
