@@ -206,11 +206,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Details emerge on WinRAR zero-day attacks that infected PCs with malware](https://www.bleepingcomputer.com/news/security/details-emerge-on-winrar-zero-day-attacks-that-infected-pcs-with-malware/)
+- [Microsoft tests cloud-based Windows 365 disaster recovery PCs](https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-cloud-based-windows-365-disaster-recovery-pcs/)
+- [OpenAI is testing 3,000-per-week limit for GPT-5 Thinking](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-testing-3-000-per-week-limit-for-gpt-5-thinking/)
+- [New TETRA Radio Encryption Flaws Expose Law Enforcement Communications](https://thehackernews.com/2025/08/new-tetra-radio-encryption-flaws-expose.html)
 - [OneNote finally gets &quot;paste text only&quot; feature on Windows and Mac](https://www.bleepingcomputer.com/news/microsoft/onenote-finally-gets-paste-text-only-feature-on-windows-and-mac/)
-- [xAI is testing Grok 4.20 to take on GPT-5, may launch this month](https://www.bleepingcomputer.com/news/artificial-intelligence/xai-is-testing-grok-420-to-take-on-gpt-5-may-launch-this-month/)
-- [Researchers Spot Surge in Erlang/OTP SSH RCE Exploits, 70% Target OT Firewalls](https://thehackernews.com/2025/08/researchers-spot-surge-in-erlangotp-ssh.html)
-- [MuddyWater’s DarkBit ransomware cracked for free data recovery](https://www.bleepingcomputer.com/news/security/muddywaters-darkbit-ransomware-cracked-for-free-data-recovery/)
-- [&#39;Chairmen&#39; of $100 million scam operation extradited to US](https://www.bleepingcomputer.com/news/security/us-charges-ghanaians-linked-to-theft-of-100-million-in-romance-scams-bec-attacks/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
