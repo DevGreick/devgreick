@@ -205,11 +205,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [OneNote finally gets &quot;paste text only&quot; feature on Windows and Mac](https://www.bleepingcomputer.com/news/microsoft/onenote-finally-gets-paste-text-only-feature-on-windows-and-mac/)
+- [xAI is testing Grok 4.20 to take on GPT-5, may launch this month](https://www.bleepingcomputer.com/news/artificial-intelligence/xai-is-testing-grok-420-to-take-on-gpt-5-may-launch-this-month/)
+- [Researchers Spot Surge in Erlang/OTP SSH RCE Exploits, 70% Target OT Firewalls](https://thehackernews.com/2025/08/researchers-spot-surge-in-erlangotp-ssh.html)
+- [MuddyWater’s DarkBit ransomware cracked for free data recovery](https://www.bleepingcomputer.com/news/security/muddywaters-darkbit-ransomware-cracked-for-free-data-recovery/)
 - [&#39;Chairmen&#39; of $100 million scam operation extradited to US](https://www.bleepingcomputer.com/news/security/us-charges-ghanaians-linked-to-theft-of-100-million-in-romance-scams-bec-attacks/)
-- [⚡ Weekly Recap: BadCam Attack, WinRAR 0-Day, EDR Killer, NVIDIA Flaws, Ransomware Attacks &amp; More](https://thehackernews.com/2025/08/weekly-recap-badcam-attack-winrar-0-day.html)
-- [6 Lessons Learned: Focusing Security Where Business Value Lives](https://thehackernews.com/2025/08/6-lessons-learned-focusing-security.html)
-- [Over 29,000 Exchange servers unpatched against high-severity flaw](https://www.bleepingcomputer.com/news/security/over-29-000-exchange-servers-unpatched-against-high-severity-flaw/)
-- [Connex Credit Union data breach impacts 172,000 members](https://www.bleepingcomputer.com/news/security/connex-credit-union-discloses-data-breach-impacting-172-000-people/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
