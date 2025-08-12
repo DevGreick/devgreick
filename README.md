@@ -219,11 +219,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Docker Hub still hosts dozens of Linux images with the XZ backdoor](https://www.bleepingcomputer.com/news/security/docker-hub-still-hosts-dozens-of-linux-images-with-the-xz-backdoor/)
+- [Researchers Spot XZ Utils Backdoor in Dozens of Docker Hub Images, Fueling Supply Chain Risks](https://thehackernews.com/2025/08/researchers-spot-xz-utils-backdoor-in.html)
 - [Microsoft August 2025 Patch Tuesday fixes one zero-day, 107 flaws](https://www.bleepingcomputer.com/news/microsoft/microsoft-august-2025-patch-tuesday-fixes-one-zero-day-107-flaws/)
 - [Windows 11 KB5063878 &amp; KB5063875 cumulative updates released](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5063878-and-kb5063875-cumulative-updates-released/)
 - [Windows 10 KB5063709 update fixes extended security updates enrollment](https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5063709-update-fixes-extended-security-updates-enrollment/)
-- [Fortinet SSL VPNs Hit by Global Brute-Force Wave Before Attackers Shift to FortiManager](https://thehackernews.com/2025/08/fortinet-ssl-vpns-hit-by-global-brute.html)
-- [Cybercrime Groups ShinyHunters, Scattered Spider Join Forces in Extortion Attacks on Businesses](https://thehackernews.com/2025/08/cybercrime-groups-shinyhunters.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
