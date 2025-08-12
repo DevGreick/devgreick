@@ -18,9 +18,24 @@
 
   <!-- CVE-LIST:START -->
 <details>
-<summary><strong>Vulnerabilidades exploradas conhecidas da CISA</strong>  •  atualizado 12/08/2025 16:16 UTC  •  exibindo 10 itens</summary>
+<summary><strong>Vulnerabilidades exploradas conhecidas da CISA</strong>  •  atualizado 12/08/2025 18:19 UTC  •  exibindo 10 itens</summary>
 
 > Fonte: CISA Known Exploited Vulnerabilities
+
+- **CVE-2025-8088** - RARLAB WinRAR Path Traversal Vulnerability  
+  Fornecedor: RARLAB | Produto: WinRAR | Adicionado: 2025-08-12  
+  RARLAB WinRAR contains a path traversal vulnerability affecting the Windows version of WinRAR. This vulnerability could allow an attacker to execute arbitrary code by crafting malicious archive files.  
+  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
+
+- **CVE-2007-0671** - Microsoft Office Excel Remote Code Execution Vulnerability  
+  Fornecedor: Microsoft | Produto: Office | Adicionado: 2025-08-12  
+  Microsoft Office Excel contains a remote code execution vulnerability that can be exploited when a specially crafted Excel file is opened. This malicious file could be delivered as an email attachment or hosted on a malicious website. An attacker could leverage this vulnerability by creating a specially crafted Excel file, which, when opened, allowing an attacker to execute remote code on the affected system.  
+  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
+
+- **CVE-2013-3893** - Microsoft Internet Explorer Resource Management Errors Vulnerability  
+  Fornecedor: Microsoft | Produto: Internet Explorer | Adicionado: 2025-08-12  
+  Microsoft Internet Explorer contains a memory corruption vulnerability that allows for remote code execution. The impacted products could be end-of-life (EoL) and/or end-of-service (EoS). Users should discontinue product utilization.  
+  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
 
 - **CVE-2020-25078** - D-Link DCS-2530L and DCS-2670L Devices Unspecified Vulnerability  
   Fornecedor: D-Link | Produto: DCS-2530L and DCS-2670L Devices | Adicionado: 2025-08-05  
@@ -57,22 +72,8 @@
   SysAid On-Prem contains an improper restriction of XML external entity reference vulnerability in the Checkin processing functionality, allowing for administrator account takeover and file read primitives.  
   Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
 
-- **CVE-2025-2776** - SysAid On-Prem Improper Restriction of XML External Entity Reference Vulnerability  
-  Fornecedor: SysAid | Produto: SysAid On-Prem | Adicionado: 2025-07-22  
-  SysAid On-Prem contains an improper restriction of XML external entity reference vulnerability in the Server URL processing functionality, allowing for administrator account takeover and file read primitives.  
-  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
-
-- **CVE-2025-6558** - Google Chromium ANGLE and GPU Improper Input Validation Vulnerability  
-  Fornecedor: Google | Produto: Chromium | Adicionado: 2025-07-22  
-  Google Chromium contains an improper input validation vulnerability in ANGLE and GPU. This vulnerability could allow a remote attacker to potentially perform a sandbox escape via a crafted HTML page. This vulnerability could affect multiple web browsers that utilize Chromium, including, but not limited to, Google Chrome, Microsoft Edge, and Opera.  
-  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
-
-- **CVE-2025-54309** -  CrushFTP Unprotected Alternate Channel Vulnerability  
-  Fornecedor: CrushFTP | Produto: CrushFTP | Adicionado: 2025-07-22  
-  CrushFTP contains an unprotected alternate channel vulnerability. When the DMZ proxy feature is not used, mishandles AS2 validation and consequently allows remote attackers to obtain admin access via HTTPS.  
-  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
-
 </details>
+
 
 
 
