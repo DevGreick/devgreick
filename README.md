@@ -216,11 +216,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [275M patient records breached—How to meet HIPAA password manager requirements](https://www.bleepingcomputer.com/news/security/275m-patient-records-breached-how-to-meet-hipaa-password-manager-requirements/)
+- [Windows 11 23H2 Home and Pro reach end of support in November](https://www.bleepingcomputer.com/news/microsoft/windows-11-23h2-home-and-pro-reach-end-of-support-in-november/)
+- [New ‘Curly COMrades’ APT Using NGEN COM Hijacking in Georgia, Moldova Attacks](https://thehackernews.com/2025/08/new-curly-comrades-apt-using-ngen-com.html)
 - [Manpower discloses data breach affecting nearly 145,000 people](https://www.bleepingcomputer.com/news/security/manpower-staffing-agency-discloses-data-breach-after-attack-claimed-by-ransomhub/)
 - [Saint Paul cyberattack linked to Interlock ransomware gang](https://www.bleepingcomputer.com/news/security/saint-paul-cyberattack-linked-to-interlock-ransomware-gang/)
-- [Dutch NCSC Confirms Active Exploitation of Citrix NetScaler CVE-2025-6543 in Critical Sectors](https://thehackernews.com/2025/08/dutch-ncsc-confirms-active-exploitation.html)
-- [North Korean Kimsuky hackers exposed in alleged data breach](https://www.bleepingcomputer.com/news/security/north-korean-kimsuky-hackers-exposed-in-alleged-data-breach/)
-- [Netherlands: Citrix Netscaler flaw CVE-2025-6543 exploited to breach orgs](https://www.bleepingcomputer.com/news/security/netherlands-citrix-netscaler-flaw-cve-2025-6543-exploited-to-breach-orgs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
