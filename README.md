@@ -218,11 +218,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
-- [Curly COMrades cyberspies hit govt orgs with custom malware](https://www.bleepingcomputer.com/news/security/curly-comrades-cyberspies-hit-govt-orgs-with-custom-malware/)
-- [Over 3,000 NetScaler devices left unpatched against CitrixBleed 2 bug](https://www.bleepingcomputer.com/news/security/over-3-000-netscaler-devices-left-unpatched-against-actively-exploited-citrixbleed-2-flaw/)
-- [275M patient records breached—How to meet HIPAA password manager requirements](https://www.bleepingcomputer.com/news/security/275m-patient-records-breached-how-to-meet-hipaa-password-manager-requirements/)
-- [Windows 11 23H2 Home and Pro reach end of support in November](https://www.bleepingcomputer.com/news/microsoft/windows-11-23h2-home-and-pro-reach-end-of-support-in-november/)
-- [New ‘Curly COMrades’ APT Using NGEN COM Hijacking in Georgia, Moldova Attacks](https://thehackernews.com/2025/08/new-curly-comrades-apt-using-ngen-com.html)
+- [Microsoft August 2025 Patch Tuesday fixes one zero-day, 107 flaws](https://www.bleepingcomputer.com/news/microsoft/microsoft-august-2025-patch-tuesday-fixes-one-zero-day-107-flaws/)
+- [Windows 11 KB5063878 &amp; KB5063875 cumulative updates released](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5063878-and-kb5063875-cumulative-updates-released/)
+- [Windows 10 KB5063709 update fixes extended security updates enrollment](https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5063709-update-fixes-extended-security-updates-enrollment/)
+- [Fortinet SSL VPNs Hit by Global Brute-Force Wave Before Attackers Shift to FortiManager](https://thehackernews.com/2025/08/fortinet-ssl-vpns-hit-by-global-brute.html)
+- [Cybercrime Groups ShinyHunters, Scattered Spider Join Forces in Extortion Attacks on Businesses](https://thehackernews.com/2025/08/cybercrime-groups-shinyhunters.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
