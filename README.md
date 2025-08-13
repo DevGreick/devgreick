@@ -18,9 +18,19 @@
 
   <!-- CVE-LIST:START -->
 <details>
-<summary><strong>Vulnerabilidades exploradas conhecidas da CISA</strong>  •  atualizado 13/08/2025 18:18 UTC  •  exibindo 10 itens</summary>
+<summary><strong>Vulnerabilidades exploradas conhecidas da CISA</strong>  •  atualizado 13/08/2025 20:13 UTC  •  exibindo 10 itens</summary>
 
 > Fonte: CISA Known Exploited Vulnerabilities
+
+- **CVE-2025-8876** - N-able N-Central Command Injection Vulnerability  
+  Fornecedor: N-able | Produto: N-Central | Adicionado: 2025-08-13  
+  N-able N-Central contains a command injection vulnerability via improper sanitization of user input.  
+  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
+
+- **CVE-2025-8875** - N-able N-Central Insecure Deserialization Vulnerability  
+  Fornecedor: N-able | Produto: N-Central | Adicionado: 2025-08-13  
+  N-able N-Central contains an insecure deserialization vulnerability that could lead to command execution.  
+  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
 
 - **CVE-2025-8088** - RARLAB WinRAR Path Traversal Vulnerability  
   Fornecedor: RARLAB | Produto: WinRAR | Adicionado: 2025-08-12  
@@ -62,17 +72,8 @@
   Cisco Identity Services Engine contains an injection vulnerability in a specific API of Cisco ISE and Cisco ISE-PIC due to insufficient validation of user-supplied input allowing an attacker to exploit this vulnerability by submitting a crafted API request. Successful exploitation could allow an attacker to perform remote code execution and obtaining root privileges on an affected device.  
   Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
 
-- **CVE-2025-20281** - Cisco Identity Services Engine Injection Vulnerability  
-  Fornecedor: Cisco | Produto: Identity Services Engine | Adicionado: 2025-07-28  
-  Cisco Identity Services Engine contains an injection vulnerability in a specific API of Cisco ISE and Cisco ISE-PIC due to insufficient validation of user-supplied input allowing an attacker to exploit this vulnerability by submitting a crafted API request. Successful exploitation could allow an attacker to perform remote code execution and obtaining root privileges on an affected device.  
-  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
-
-- **CVE-2025-2775** - SysAid On-Prem Improper Restriction of XML External Entity Reference Vulnerability  
-  Fornecedor: SysAid | Produto: SysAid On-Prem | Adicionado: 2025-07-22  
-  SysAid On-Prem contains an improper restriction of XML external entity reference vulnerability in the Checkin processing functionality, allowing for administrator account takeover and file read primitives.  
-  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
-
 </details>
+
 
 
 
