@@ -227,11 +227,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft August 2025 Patch Tuesday Fixes Kerberos Zero-Day Among 111 Total New Flaws](https://thehackernews.com/2025/08/microsoft-august-2025-patch-tuesday.html)
-- [Charon Ransomware Hits Middle East Sectors Using APT-Level Evasion Tactics](https://thehackernews.com/2025/08/charon-ransomware-hits-middle-east.html)
-- [Claude gets 1M tokens support via API to take on Gemini 2.5 Pro](https://www.bleepingcomputer.com/news/artificial-intelligence/claude-gets-1m-tokens-support-via-api-to-take-on-gemini-25-pro/)
-- [Hackers leak Allianz Life data stolen in Salesforce attacks](https://www.bleepingcomputer.com/news/security/hackers-leak-allianz-life-data-stolen-in-salesforce-attacks/)
-- [OpenAI rolls out Gmail, Calendar, and Contacts integration in ChatGPT](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-rolls-out-gmail-calendar-and-contacts-integration-in-chatgpt/)
+- [Microsoft asks users to ignore certificate enrollment errors](https://www.bleepingcomputer.com/news/microsoft/microsoft-asks-users-to-ignore-certificate-enrollment-errors/)
+- [Fortinet Warns About FortiSIEM Vulnerability &lpar;CVE-2025-25256&rpar; With In-the-Wild Exploit Code](https://thehackernews.com/2025/08/fortinet-warns-about-fortisiem.html)
+- [AI SOC 101: Key Capabilities Security Leaders Need to Know](https://thehackernews.com/2025/08/ai-soc-101-key-capabilities-security.html)
+- [OpenAI adds new GPT-5 models, restores o3, o4-mini and it&#39;s a mess all over again](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-adds-new-gpt-5-models-restores-o3-o4-mini-and-its-a-mess-all-over-again/)
+- [Webinar: What the Next Wave of AI Cyberattacks Will Look Like — And How to Survive](https://thehackernews.com/2025/08/webinar-what-next-wave-of-ai.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
