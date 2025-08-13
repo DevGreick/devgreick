@@ -228,11 +228,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft removes PowerShell 2.0 from Windows 11, Windows Server](https://www.bleepingcomputer.com/news/microsoft/microsoft-removes-powershell-20-from-windows-11-windows-server/)
 - [Microsoft asks users to ignore certificate enrollment errors](https://www.bleepingcomputer.com/news/microsoft/microsoft-asks-users-to-ignore-certificate-enrollment-errors/)
 - [Fortinet Warns About FortiSIEM Vulnerability &lpar;CVE-2025-25256&rpar; With In-the-Wild Exploit Code](https://thehackernews.com/2025/08/fortinet-warns-about-fortisiem.html)
 - [AI SOC 101: Key Capabilities Security Leaders Need to Know](https://thehackernews.com/2025/08/ai-soc-101-key-capabilities-security.html)
 - [OpenAI adds new GPT-5 models, restores o3, o4-mini and it&#39;s a mess all over again](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-adds-new-gpt-5-models-restores-o3-o4-mini-and-its-a-mess-all-over-again/)
-- [Webinar: What the Next Wave of AI Cyberattacks Will Look Like — And How to Survive](https://thehackernews.com/2025/08/webinar-what-next-wave-of-ai.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
