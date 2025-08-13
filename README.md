@@ -231,11 +231,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Windows 11 24H2 updates failing again with 0x80240069 errors](https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-updates-failing-again-with-0x80240069-errors/)
+- [New downgrade attack can bypass FIDO auth in Microsoft Entra ID](https://www.bleepingcomputer.com/news/security/new-downgrade-attack-can-bypass-fido-auth-in-microsoft-entra-id/)
 - [Spike in Fortinet VPN brute-force attacks raises zero-day concerns](https://www.bleepingcomputer.com/news/security/spike-in-fortinet-vpn-brute-force-attacks-raises-zero-day-concerns/)
 - [Pennsylvania attorney general&#39;s email, site down after cyberattack](https://www.bleepingcomputer.com/news/security/pennsylvania-attorney-generals-email-site-down-after-cyberattack/)
 - [New PS1Bot Malware Campaign Uses Malvertising to Deploy Multi-Stage In-Memory Attacks](https://thehackernews.com/2025/08/new-ps1bot-malware-campaign-uses.html)
-- [Microsoft removes PowerShell 2.0 from Windows 11, Windows Server](https://www.bleepingcomputer.com/news/microsoft/microsoft-removes-powershell-20-from-windows-11-windows-server/)
-- [Zoom and Xerox Release Critical Security Updates Fixing Privilege Escalation and RCE Flaws](https://thehackernews.com/2025/08/zoom-and-xerox-release-critical.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
