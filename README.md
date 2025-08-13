@@ -230,11 +230,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Spike in Fortinet VPN brute-force attacks raises zero-day concerns](https://www.bleepingcomputer.com/news/security/spike-in-fortinet-vpn-brute-force-attacks-raises-zero-day-concerns/)
+- [Pennsylvania attorney general&#39;s email, site down after cyberattack](https://www.bleepingcomputer.com/news/security/pennsylvania-attorney-generals-email-site-down-after-cyberattack/)
+- [New PS1Bot Malware Campaign Uses Malvertising to Deploy Multi-Stage In-Memory Attacks](https://thehackernews.com/2025/08/new-ps1bot-malware-campaign-uses.html)
 - [Microsoft removes PowerShell 2.0 from Windows 11, Windows Server](https://www.bleepingcomputer.com/news/microsoft/microsoft-removes-powershell-20-from-windows-11-windows-server/)
 - [Zoom and Xerox Release Critical Security Updates Fixing Privilege Escalation and RCE Flaws](https://thehackernews.com/2025/08/zoom-and-xerox-release-critical.html)
-- [Microsoft asks users to ignore certificate enrollment errors](https://www.bleepingcomputer.com/news/microsoft/microsoft-asks-users-to-ignore-certificate-enrollment-errors/)
-- [Fortinet Warns About FortiSIEM Vulnerability &lpar;CVE-2025-25256&rpar; With In-the-Wild Exploit Code](https://thehackernews.com/2025/08/fortinet-warns-about-fortisiem.html)
-- [AI SOC 101: Key Capabilities Security Leaders Need to Know](https://thehackernews.com/2025/08/ai-soc-101-key-capabilities-security.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
