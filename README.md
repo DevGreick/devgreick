@@ -226,11 +226,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft August 2025 Patch Tuesday Fixes Kerberos Zero-Day Among 111 Total New Flaws](https://thehackernews.com/2025/08/microsoft-august-2025-patch-tuesday.html)
 - [Charon Ransomware Hits Middle East Sectors Using APT-Level Evasion Tactics](https://thehackernews.com/2025/08/charon-ransomware-hits-middle-east.html)
 - [Claude gets 1M tokens support via API to take on Gemini 2.5 Pro](https://www.bleepingcomputer.com/news/artificial-intelligence/claude-gets-1m-tokens-support-via-api-to-take-on-gemini-25-pro/)
 - [Hackers leak Allianz Life data stolen in Salesforce attacks](https://www.bleepingcomputer.com/news/security/hackers-leak-allianz-life-data-stolen-in-salesforce-attacks/)
 - [OpenAI rolls out Gmail, Calendar, and Contacts integration in ChatGPT](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-rolls-out-gmail-calendar-and-contacts-integration-in-chatgpt/)
-- [ChatGPT&#39;s new subscription costs less than $5, but it&#39;s not for everyone](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpts-new-subscription-costs-less-than-5-but-its-not-for-everyone/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
