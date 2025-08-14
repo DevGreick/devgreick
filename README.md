@@ -236,11 +236,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [CISA Adds Two N-able N-central Flaws to Known Exploited Vulnerabilities Catalog](https://thehackernews.com/2025/08/cisa-adds-two-n-able-n-central-flaws-to.html)
 - [Google Gemini&#39;s Deep Research is finally coming to API](https://www.bleepingcomputer.com/news/artificial-intelligence/google-geminis-deep-research-is-finally-coming-to-api/)
 - [OpenAI relaxes GPT-5 rate limit, promises to improve the personality](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-relaxes-gpt-5-rate-limit-promises-to-improve-the-personality/)
 - [Fortinet warns of FortiSIEM pre-auth RCE flaw with exploit in the wild](https://www.bleepingcomputer.com/news/security/fortinet-warns-of-fortisiem-pre-auth-rce-flaw-with-exploit-in-the-wild/)
 - [Windows 11 24H2 updates failing again with 0x80240069 errors](https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-updates-failing-again-with-0x80240069-errors/)
-- [New downgrade attack can bypass FIDO auth in Microsoft Entra ID](https://www.bleepingcomputer.com/news/security/new-downgrade-attack-can-bypass-fido-auth-in-microsoft-entra-id/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
