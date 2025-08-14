@@ -241,11 +241,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
-- [Hackers Found Using CrossC2 to Expand Cobalt Strike Beacon’s Reach to Linux and macOS](https://thehackernews.com/2025/08/researchers-warn-crossc2-expands-cobalt.html)
-- [Canada’s House of Commons investigating data breach after cyberattack](https://www.bleepingcomputer.com/news/security/canadas-house-of-commons-investigating-data-breach-after-cyberattack/)
-- [Have You Turned Off Your Virtual Oven?](https://thehackernews.com/2025/08/have-you-turned-off-your-virtual-oven.html)
-- [New Android Malware Wave Hits Banking via NFC Relay Fraud, Call Hijacking, and Root Exploits](https://thehackernews.com/2025/08/new-android-malware-wave-hits-banking.html)
-- [Leak: OpenAI&#39;s browser will use ChatGPT Agent to control the browser](https://www.bleepingcomputer.com/news/artificial-intelligence/leak-openais-browser-will-use-chatgpt-agent-to-control-the-browser/)
+- [Pro-Russian hackers blamed for water dam sabotage in Norway](https://www.bleepingcomputer.com/news/security/pro-russian-hackers-blamed-for-water-dam-sabotage-in-norway/)
+- [New HTTP/2 &#39;MadeYouReset&#39; Vulnerability Enables Large-Scale DoS Attacks](https://thehackernews.com/2025/08/new-http2-madeyoureset-vulnerability.html)
+- [Microsoft fixes Windows Server bug causing cluster, VM issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-server-bug-causing-cluster-vm-issues/)
+- [Booking.com phishing campaign uses sneaky &#39;ん&#39; character to trick you](https://www.bleepingcomputer.com/news/security/bookingcom-phishing-campaign-uses-sneaky-character-to-trick-you/)
+- [When Theft Replaces Encryption: Blue Report 2025 on Ransomware &amp; Infostealers](https://www.bleepingcomputer.com/news/security/when-theft-replaces-encryption-blue-report-2025-on-ransomware-and-infostealers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
