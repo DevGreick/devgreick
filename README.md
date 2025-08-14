@@ -242,11 +242,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Crypto24 ransomware hits large orgs with custom EDR evasion tool](https://www.bleepingcomputer.com/news/security/crypto24-ransomware-hits-large-orgs-with-custom-edr-evasion-tool/)
 - [Pro-Russian hackers blamed for water dam sabotage in Norway](https://www.bleepingcomputer.com/news/security/pro-russian-hackers-blamed-for-water-dam-sabotage-in-norway/)
 - [New HTTP/2 &#39;MadeYouReset&#39; Vulnerability Enables Large-Scale DoS Attacks](https://thehackernews.com/2025/08/new-http2-madeyoureset-vulnerability.html)
 - [Microsoft fixes Windows Server bug causing cluster, VM issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-server-bug-causing-cluster-vm-issues/)
 - [Booking.com phishing campaign uses sneaky &#39;ん&#39; character to trick you](https://www.bleepingcomputer.com/news/security/bookingcom-phishing-campaign-uses-sneaky-character-to-trick-you/)
-- [When Theft Replaces Encryption: Blue Report 2025 on Ransomware &amp; Infostealers](https://www.bleepingcomputer.com/news/security/when-theft-replaces-encryption-blue-report-2025-on-ransomware-and-infostealers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
