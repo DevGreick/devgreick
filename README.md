@@ -238,11 +238,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Simple Steps for Attack Surface Reduction](https://thehackernews.com/2025/08/simple-steps-for-attack-surface.html)
+- [CISA warns of N-able N-central flaws exploited in zero-day attacks](https://www.bleepingcomputer.com/news/security/cisa-warns-of-n-able-n-central-flaws-exploited-in-zero-day-attacks/)
 - [Microsoft fixes Windows 11 24H2 updates failing with 0x80240069 error](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-11-24h2-updates-failing-with-0x80240069-error/)
 - [Google Requires Crypto App Licenses in 15 Regions as FBI Warns of $9.9M Scam Losses](https://thehackernews.com/2025/08/google-requires-crypto-app-licenses-in.html)
 - [CISA Adds Two N-able N-central Flaws to Known Exploited Vulnerabilities Catalog](https://thehackernews.com/2025/08/cisa-adds-two-n-able-n-central-flaws-to.html)
-- [Google Gemini&#39;s Deep Research is finally coming to API](https://www.bleepingcomputer.com/news/artificial-intelligence/google-geminis-deep-research-is-finally-coming-to-api/)
-- [OpenAI relaxes GPT-5 rate limit, promises to improve the personality](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-relaxes-gpt-5-rate-limit-promises-to-improve-the-personality/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
