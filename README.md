@@ -239,11 +239,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Have You Turned Off Your Virtual Oven?](https://thehackernews.com/2025/08/have-you-turned-off-your-virtual-oven.html)
+- [New Android Malware Wave Hits Banking via NFC Relay Fraud, Call Hijacking, and Root Exploits](https://thehackernews.com/2025/08/new-android-malware-wave-hits-banking.html)
+- [Leak: OpenAI&#39;s browser will use ChatGPT Agent to control the browser](https://www.bleepingcomputer.com/news/artificial-intelligence/leak-openais-browser-will-use-chatgpt-agent-to-control-the-browser/)
 - [Simple Steps for Attack Surface Reduction](https://thehackernews.com/2025/08/simple-steps-for-attack-surface.html)
 - [CISA warns of N-able N-central flaws exploited in zero-day attacks](https://www.bleepingcomputer.com/news/security/cisa-warns-of-n-able-n-central-flaws-exploited-in-zero-day-attacks/)
-- [Microsoft fixes Windows 11 24H2 updates failing with 0x80240069 error](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-11-24h2-updates-failing-with-0x80240069-error/)
-- [Google Requires Crypto App Licenses in 15 Regions as FBI Warns of $9.9M Scam Losses](https://thehackernews.com/2025/08/google-requires-crypto-app-licenses-in.html)
-- [CISA Adds Two N-able N-central Flaws to Known Exploited Vulnerabilities Catalog](https://thehackernews.com/2025/08/cisa-adds-two-n-able-n-central-flaws-to.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
