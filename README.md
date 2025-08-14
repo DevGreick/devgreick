@@ -240,11 +240,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Hackers Found Using CrossC2 to Expand Cobalt Strike Beacon’s Reach to Linux and macOS](https://thehackernews.com/2025/08/researchers-warn-crossc2-expands-cobalt.html)
+- [Canada’s House of Commons investigating data breach after cyberattack](https://www.bleepingcomputer.com/news/security/canadas-house-of-commons-investigating-data-breach-after-cyberattack/)
 - [Have You Turned Off Your Virtual Oven?](https://thehackernews.com/2025/08/have-you-turned-off-your-virtual-oven.html)
 - [New Android Malware Wave Hits Banking via NFC Relay Fraud, Call Hijacking, and Root Exploits](https://thehackernews.com/2025/08/new-android-malware-wave-hits-banking.html)
 - [Leak: OpenAI&#39;s browser will use ChatGPT Agent to control the browser](https://www.bleepingcomputer.com/news/artificial-intelligence/leak-openais-browser-will-use-chatgpt-agent-to-control-the-browser/)
-- [Simple Steps for Attack Surface Reduction](https://thehackernews.com/2025/08/simple-steps-for-attack-surface.html)
-- [CISA warns of N-able N-central flaws exploited in zero-day attacks](https://www.bleepingcomputer.com/news/security/cisa-warns-of-n-able-n-central-flaws-exploited-in-zero-day-attacks/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
