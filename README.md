@@ -252,11 +252,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Cisco warns of max severity flaw in Firewall Management Center](https://www.bleepingcomputer.com/news/security/cisco-warns-of-max-severity-flaw-in-firewall-management-center/)
+- [Microsoft reminds of Windows 10 support ending in two months](https://www.bleepingcomputer.com/news/microsoft/microsoft-reminds-users-of-windows-10-retirement-in-october/)
 - [Plex warns users to patch security vulnerability immediately](https://www.bleepingcomputer.com/news/security/plex-warns-users-to-patch-security-vulnerability-immediately/)
 - [U.S. Sanctions Garantex and Grinex Over $100M in Ransomware-Linked Illicit Crypto Transactions](https://thehackernews.com/2025/08/us-sanctions-garantex-and-grinex-over.html)
 - [Zero Trust + AI: Privacy in the Age of Agentic AI](https://thehackernews.com/2025/08/zero-trust-ai-privacy-in-age-of-agentic.html)
-- [US sanctions Grinex crypto-exchange, successor to Garantex](https://www.bleepingcomputer.com/news/security/us-sanctions-grinex-crypto-exchange-garantexs-successor/)
-- [Cisco Warns of CVSS 10.0 FMC RADIUS Flaw Allowing Remote Code Execution](https://thehackernews.com/2025/08/cisco-warns-of-cvss-100-fmc-radius-flaw.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
