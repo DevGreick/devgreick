@@ -253,11 +253,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Colt Telecom attack claimed by WarLock ransomware, data up for sale](https://www.bleepingcomputer.com/news/security/colt-telecom-attack-claimed-by-warlock-ransomware-data-up-for-sale/)
 - [Cisco warns of max severity flaw in Firewall Management Center](https://www.bleepingcomputer.com/news/security/cisco-warns-of-max-severity-flaw-in-firewall-management-center/)
 - [Microsoft reminds of Windows 10 support ending in two months](https://www.bleepingcomputer.com/news/microsoft/microsoft-reminds-users-of-windows-10-retirement-in-october/)
 - [Plex warns users to patch security vulnerability immediately](https://www.bleepingcomputer.com/news/security/plex-warns-users-to-patch-security-vulnerability-immediately/)
 - [U.S. Sanctions Garantex and Grinex Over $100M in Ransomware-Linked Illicit Crypto Transactions](https://thehackernews.com/2025/08/us-sanctions-garantex-and-grinex-over.html)
-- [Zero Trust + AI: Privacy in the Age of Agentic AI](https://thehackernews.com/2025/08/zero-trust-ai-privacy-in-age-of-agentic.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
