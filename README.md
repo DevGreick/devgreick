@@ -250,11 +250,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [US sanctions Grinex crypto-exchange, successor to Garantex](https://www.bleepingcomputer.com/news/security/us-sanctions-grinex-crypto-exchange-garantexs-successor/)
 - [Cisco Warns of CVSS 10.0 FMC RADIUS Flaw Allowing Remote Code Execution](https://thehackernews.com/2025/08/cisco-warns-of-cvss-100-fmc-radius-flaw.html)
 - [Over $300 million in cybercrime crypto seized in anti-fraud effort](https://www.bleepingcomputer.com/news/security/over-300-million-in-cybercrime-crypto-seized-in-anti-fraud-effort/)
 - [Crypto24 ransomware hits large orgs with custom EDR evasion tool](https://www.bleepingcomputer.com/news/security/crypto24-ransomware-hits-large-orgs-with-custom-edr-evasion-tool/)
 - [Pro-Russian hackers blamed for water dam sabotage in Norway](https://www.bleepingcomputer.com/news/security/pro-russian-hackers-blamed-for-water-dam-sabotage-in-norway/)
-- [New HTTP/2 &#39;MadeYouReset&#39; Vulnerability Enables Large-Scale DoS Attacks](https://thehackernews.com/2025/08/new-http2-madeyoureset-vulnerability.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
