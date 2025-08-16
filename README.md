@@ -260,11 +260,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Russian Group EncryptHub Exploits MSC EvilTwin Vulnerability to Deploy Fickle Stealer Malware](https://thehackernews.com/2025/08/russian-group-encrypthub-exploits-msc.html)
 - [Taiwan Web Servers Breached by UAT-7237 Using Customized Open-Source Hacking Tools](https://thehackernews.com/2025/08/taiwan-web-servers-breached-by-uat-7237.html)
 - [Colt Telecom attack claimed by WarLock ransomware, data up for sale](https://www.bleepingcomputer.com/news/security/colt-telecom-attack-claimed-by-warlock-ransomware-data-up-for-sale/)
 - [Cisco warns of max severity flaw in Firewall Management Center](https://www.bleepingcomputer.com/news/security/cisco-warns-of-max-severity-flaw-in-firewall-management-center/)
 - [Microsoft reminds of Windows 10 support ending in two months](https://www.bleepingcomputer.com/news/microsoft/microsoft-reminds-users-of-windows-10-retirement-in-october/)
-- [Plex warns users to patch security vulnerability immediately](https://www.bleepingcomputer.com/news/security/plex-warns-users-to-patch-security-vulnerability-immediately/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
