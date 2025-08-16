@@ -267,11 +267,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
-- [ERMAC V3.0 Banking Trojan Source Code Leak Exposes Full Malware Infrastructure](https://thehackernews.com/2025/08/ermac-v30-banking-trojan-source-code.html)
-- [Russian Group EncryptHub Exploits MSC EvilTwin Vulnerability to Deploy Fickle Stealer Malware](https://thehackernews.com/2025/08/russian-group-encrypthub-exploits-msc.html)
-- [Taiwan Web Servers Breached by UAT-7237 Using Customized Open-Source Hacking Tools](https://thehackernews.com/2025/08/taiwan-web-servers-breached-by-uat-7237.html)
-- [Colt Telecom attack claimed by WarLock ransomware, data up for sale](https://www.bleepingcomputer.com/news/security/colt-telecom-attack-claimed-by-warlock-ransomware-data-up-for-sale/)
-- [Cisco warns of max severity flaw in Firewall Management Center](https://www.bleepingcomputer.com/news/security/cisco-warns-of-max-severity-flaw-in-firewall-management-center/)
+- [OpenAI prepares Chromium-based AI browser to take on Google](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-prepares-chromium-based-ai-browser-to-take-on-google/)
+- [Leak: ChatGPT cheaper plan costs $4 or £3.50, might release everywhere](https://www.bleepingcomputer.com/news/artificial-intelligence/leak-chatgpt-cheaper-plan-costs-4-or-350-might-release-everywhere/)
+- [OpenAI is improving ChatGPT voice mode](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-improving-chatgpt-voice-mode/)
+- [Researcher to release exploit for full auth bypass on FortiWeb](https://www.bleepingcomputer.com/news/security/researcher-to-release-exploit-for-full-auth-bypass-on-fortiweb/)
+- [Microsoft Teams to protect against malicious URLs, dangerous file types](https://www.bleepingcomputer.com/news/security/microsoft-teams-to-protect-against-malicious-urls-dangerous-file-types/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
