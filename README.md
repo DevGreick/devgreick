@@ -288,11 +288,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Mozilla warns Germany could soon declare ad blockers illegal](https://www.bleepingcomputer.com/news/legal/mozilla-warns-germany-could-soon-declare-ad-blockers-illegal/)
 - [⚡ Weekly Recap: NFC Fraud, Curly COMrades, N-able Exploits, Docker Backdoors &amp; More](https://thehackernews.com/2025/08/weekly-recap-nfc-fraud-curly-comrades-n.html)
 - [Microsoft: Recent Windows updates may fail to install via WUSA](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-windows-server-2025-updates-may-fail-from-network-shares/)
 - [Malicious PyPI and npm Packages Discovered Exploiting Dependencies in Supply Chain Attacks](https://thehackernews.com/2025/08/malicious-pypi-and-npm-packages.html)
 - [Wazuh for Regulatory Compliance](https://thehackernews.com/2025/08/wazuh-for-regulatory-compliance.html)
-- [HR giant Workday discloses data breach after Salesforce attack](https://www.bleepingcomputer.com/news/security/hr-giant-workday-discloses-data-breach-amid-salesforce-attacks/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
