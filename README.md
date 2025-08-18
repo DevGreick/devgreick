@@ -289,11 +289,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [ERMAC Android malware source code leak exposes banking trojan infrastructure](https://www.bleepingcomputer.com/news/security/ermac-android-malware-source-code-leak-exposes-banking-trojan-infrastructure/)
+- [UK sentences “serial hacker” of 3,000 sites to 20 months in prison](https://www.bleepingcomputer.com/news/legal/uk-sentences-serial-hacker-of-3-000-sites-to-20-months-in-prison/)
+- [Over 800 N-able servers left unpatched against critical flaws](https://www.bleepingcomputer.com/news/security/over-800-n-able-servers-left-unpatched-against-critical-flaws/)
+- [Microsoft Windows Vulnerability Exploited to Deploy PipeMagic RansomExx Malware](https://thehackernews.com/2025/08/microsoft-windows-vulnerability.html)
 - [Mozilla warns Germany could soon declare ad blockers illegal](https://www.bleepingcomputer.com/news/legal/mozilla-warns-germany-could-soon-declare-ad-blockers-illegal/)
-- [⚡ Weekly Recap: NFC Fraud, Curly COMrades, N-able Exploits, Docker Backdoors &amp; More](https://thehackernews.com/2025/08/weekly-recap-nfc-fraud-curly-comrades-n.html)
-- [Microsoft: Recent Windows updates may fail to install via WUSA](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-windows-server-2025-updates-may-fail-from-network-shares/)
-- [Malicious PyPI and npm Packages Discovered Exploiting Dependencies in Supply Chain Attacks](https://thehackernews.com/2025/08/malicious-pypi-and-npm-packages.html)
-- [Wazuh for Regulatory Compliance](https://thehackernews.com/2025/08/wazuh-for-regulatory-compliance.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
