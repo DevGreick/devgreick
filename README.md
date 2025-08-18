@@ -290,11 +290,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Noodlophile Malware Campaign Expands Global Reach with Copyright Phishing Lures](https://thehackernews.com/2025/08/noodlophile-malware-campaign-expands.html)
 - [ERMAC Android malware source code leak exposes banking trojan infrastructure](https://www.bleepingcomputer.com/news/security/ermac-android-malware-source-code-leak-exposes-banking-trojan-infrastructure/)
 - [UK sentences “serial hacker” of 3,000 sites to 20 months in prison](https://www.bleepingcomputer.com/news/legal/uk-sentences-serial-hacker-of-3-000-sites-to-20-months-in-prison/)
 - [Over 800 N-able servers left unpatched against critical flaws](https://www.bleepingcomputer.com/news/security/over-800-n-able-servers-left-unpatched-against-critical-flaws/)
 - [Microsoft Windows Vulnerability Exploited to Deploy PipeMagic RansomExx Malware](https://thehackernews.com/2025/08/microsoft-windows-vulnerability.html)
-- [Mozilla warns Germany could soon declare ad blockers illegal](https://www.bleepingcomputer.com/news/legal/mozilla-warns-germany-could-soon-declare-ad-blockers-illegal/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
