@@ -300,11 +300,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [New GodRAT Trojan Targets Trading Firms Using Steganography and Gh0st RAT Code](https://thehackernews.com/2025/08/new-godrat-trojan-targets-trading-firms.html)
+- [Pharma firm Inotiv says ransomware attack impacted operations](https://www.bleepingcomputer.com/news/security/pharma-firm-inotiv-says-ransomware-attack-impacted-operations/)
 - [Microsoft: August security updates break Windows recovery, reset](https://www.bleepingcomputer.com/news/microsoft/microsoft-august-security-updates-break-windows-recovery-reset/)
 - [Public Exploit for Chained SAP Flaws Exposes Unpatched Systems to Remote Code Execution](https://thehackernews.com/2025/08/public-exploit-for-chained-sap-flaws.html)
 - [NY Business Council discloses data breach affecting 47,000 people](https://www.bleepingcomputer.com/news/security/business-council-of-new-york-state-discloses-data-breach-affecting-47-000-people/)
-- [U.K. Government Drops Apple Encryption Backdoor Order After U.S. Civil Liberties Pushback](https://thehackernews.com/2025/08/uk-government-drops-apple-encryption.html)
-- [Why Your Security Culture is Critical to Mitigating Cyber Risk](https://thehackernews.com/2025/08/why-your-security-culture-is-critical.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
