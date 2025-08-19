@@ -301,11 +301,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Apache ActiveMQ Flaw Exploited to Deploy DripDropper Malware on Cloud Linux Systems](https://thehackernews.com/2025/08/apache-activemq-flaw-exploited-to.html)
+- [Elastic rejects claims of a zero-day RCE flaw in Defend EDR](https://www.bleepingcomputer.com/news/security/elastic-rejects-claims-of-a-zero-day-rce-flaw-in-defend-edr/)
+- [OpenAI releases $4 ChatGPT plan, but it&#39;s not available in the US for now](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-releases-4-chatgpt-plan-but-its-not-available-in-the-us-for-now/)
 - [New GodRAT Trojan Targets Trading Firms Using Steganography and Gh0st RAT Code](https://thehackernews.com/2025/08/new-godrat-trojan-targets-trading-firms.html)
 - [Pharma firm Inotiv says ransomware attack impacted operations](https://www.bleepingcomputer.com/news/security/pharma-firm-inotiv-says-ransomware-attack-impacted-operations/)
-- [Microsoft: August security updates break Windows recovery, reset](https://www.bleepingcomputer.com/news/microsoft/microsoft-august-security-updates-break-windows-recovery-reset/)
-- [Public Exploit for Chained SAP Flaws Exposes Unpatched Systems to Remote Code Execution](https://thehackernews.com/2025/08/public-exploit-for-chained-sap-flaws.html)
-- [NY Business Council discloses data breach affecting 47,000 people](https://www.bleepingcomputer.com/news/security/business-council-of-new-york-state-discloses-data-breach-affecting-47-000-people/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
