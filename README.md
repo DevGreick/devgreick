@@ -302,11 +302,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [PyPI now blocks domain resurrection attacks used for hijacking accounts](https://www.bleepingcomputer.com/news/security/pypi-now-blocks-domain-resurrection-attacks-used-for-hijacking-accounts/)
+- [Okta open-sources catalog of Auth0 rules for threat detection](https://www.bleepingcomputer.com/news/security/okta-open-sources-catalog-of-auth0-rules-for-threat-detection/)
+- [Microsoft shares workaround for Teams &quot;couldn&#39;t connect&quot; error](https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-workaround-for-teams-couldnt-connect-error/)
 - [Apache ActiveMQ Flaw Exploited to Deploy DripDropper Malware on Cloud Linux Systems](https://thehackernews.com/2025/08/apache-activemq-flaw-exploited-to.html)
 - [Elastic rejects claims of a zero-day RCE flaw in Defend EDR](https://www.bleepingcomputer.com/news/security/elastic-rejects-claims-of-a-zero-day-rce-flaw-in-defend-edr/)
-- [OpenAI releases $4 ChatGPT plan, but it&#39;s not available in the US for now](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-releases-4-chatgpt-plan-but-its-not-available-in-the-us-for-now/)
-- [New GodRAT Trojan Targets Trading Firms Using Steganography and Gh0st RAT Code](https://thehackernews.com/2025/08/new-godrat-trojan-targets-trading-firms.html)
-- [Pharma firm Inotiv says ransomware attack impacted operations](https://www.bleepingcomputer.com/news/security/pharma-firm-inotiv-says-ransomware-attack-impacted-operations/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
