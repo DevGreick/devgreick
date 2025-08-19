@@ -299,11 +299,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft: August security updates break Windows recovery, reset](https://www.bleepingcomputer.com/news/microsoft/microsoft-august-security-updates-break-windows-recovery-reset/)
+- [Public Exploit for Chained SAP Flaws Exposes Unpatched Systems to Remote Code Execution](https://thehackernews.com/2025/08/public-exploit-for-chained-sap-flaws.html)
+- [NY Business Council discloses data breach affecting 47,000 people](https://www.bleepingcomputer.com/news/security/business-council-of-new-york-state-discloses-data-breach-affecting-47-000-people/)
 - [U.K. Government Drops Apple Encryption Backdoor Order After U.S. Civil Liberties Pushback](https://thehackernews.com/2025/08/uk-government-drops-apple-encryption.html)
 - [Why Your Security Culture is Critical to Mitigating Cyber Risk](https://thehackernews.com/2025/08/why-your-security-culture-is-critical.html)
-- [Massive Allianz Life data breach impacts 1.1 million people](https://www.bleepingcomputer.com/news/security/massive-allianz-life-data-breach-impacts-11-million-people/)
-- [PyPI Blocks 1,800 Expired-Domain Emails to Prevent Account Takeovers and Supply Chain Attacks](https://thehackernews.com/2025/08/pypi-blocks-1800-expired-domain-emails.html)
-- [XenoRAT malware campaign hits multiple embassies in South Korea](https://www.bleepingcomputer.com/news/security/xenorat-malware-campaign-hits-multiple-embassies-in-south-korea/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
