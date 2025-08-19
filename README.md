@@ -296,11 +296,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Massive Allianz Life data breach impacts 1.1 million people](https://www.bleepingcomputer.com/news/security/massive-allianz-life-data-breach-impacts-11-million-people/)
+- [PyPI Blocks 1,800 Expired-Domain Emails to Prevent Account Takeovers and Supply Chain Attacks](https://thehackernews.com/2025/08/pypi-blocks-1800-expired-domain-emails.html)
+- [XenoRAT malware campaign hits multiple embassies in South Korea](https://www.bleepingcomputer.com/news/security/xenorat-malware-campaign-hits-multiple-embassies-in-south-korea/)
 - [Noodlophile Malware Campaign Expands Global Reach with Copyright Phishing Lures](https://thehackernews.com/2025/08/noodlophile-malware-campaign-expands.html)
-- [ERMAC Android malware source code leak exposes banking trojan infrastructure](https://www.bleepingcomputer.com/news/security/ermac-android-malware-source-code-leak-exposes-banking-trojan-infrastructure/)
-- [UK sentences “serial hacker” of 3,000 sites to 20 months in prison](https://www.bleepingcomputer.com/news/legal/uk-sentences-serial-hacker-of-3-000-sites-to-20-months-in-prison/)
-- [Over 800 N-able servers left unpatched against critical flaws](https://www.bleepingcomputer.com/news/security/over-800-n-able-servers-left-unpatched-against-critical-flaws/)
-- [Microsoft Windows Vulnerability Exploited to Deploy PipeMagic RansomExx Malware](https://thehackernews.com/2025/08/microsoft-windows-vulnerability.html)
+- [Nebraska man gets 1 year in prison for $3.5M cryptojacking scheme](https://www.bleepingcomputer.com/news/security/nebraska-man-gets-1-year-in-prison-for-35m-cryptojacking-scheme/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
