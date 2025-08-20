@@ -313,11 +313,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
-- [Hackers steal Microsoft logins using legitimate ADFS redirects](https://www.bleepingcomputer.com/news/security/hackers-steal-microsoft-logins-using-legitimate-adfs-redirects/)
-- [Major password managers can leak logins in clickjacking attacks](https://www.bleepingcomputer.com/news/security/major-password-managers-can-leak-logins-in-clickjacking-attacks/)
-- [Microsoft investigates outage impacting Copilot, Office.com](https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-outage-impacting-copilot-officecom/)
-- [Why email security needs its EDR moment to move beyond prevention](https://www.bleepingcomputer.com/news/security/why-email-security-needs-its-edr-moment-to-move-beyond-prevention/)
-- [Experts Find AI Browsers Can Be Tricked by PromptFix Exploit to Run Malicious Hidden Prompts](https://thehackernews.com/2025/08/experts-find-ai-browsers-can-be-tricked.html)
+- [DOM-Based Extension Clickjacking Exposes Popular Password Managers to Credential and Data Theft](https://thehackernews.com/2025/08/dom-based-extension-clickjacking.html)
+- [“Rapper Bot” malware seized, alleged developer identified and charged](https://www.bleepingcomputer.com/news/legal/rapper-bot-malware-seized-alleged-developer-identified-and-charged/)
+- [🕵️ Webinar: Discover and Control Shadow AI Agents in Your Enterprise Before Hackers Do](https://thehackernews.com/2025/08/webinar-discover-and-control-shadow-ai.html)
+- [Perplexity’s Comet AI browser tricked into buying fake items online](https://www.bleepingcomputer.com/news/security/perplexitys-comet-ai-browser-tricked-into-buying-fake-items-online/)
+- [FBI Warns FSB-Linked Hackers Exploiting Unpatched Cisco Devices for Cyber Espionage](https://thehackernews.com/2025/08/fbi-warns-russian-fsb-linked-hackers.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
