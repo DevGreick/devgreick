@@ -314,11 +314,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple fixes new zero-day flaw exploited in targeted attacks](https://www.bleepingcomputer.com/news/apple/apple-emergency-updates-fix-new-actively-exploited-zero-day/)
 - [DOM-Based Extension Clickjacking Exposes Popular Password Managers to Credential and Data Theft](https://thehackernews.com/2025/08/dom-based-extension-clickjacking.html)
 - [“Rapper Bot” malware seized, alleged developer identified and charged](https://www.bleepingcomputer.com/news/legal/rapper-bot-malware-seized-alleged-developer-identified-and-charged/)
 - [🕵️ Webinar: Discover and Control Shadow AI Agents in Your Enterprise Before Hackers Do](https://thehackernews.com/2025/08/webinar-discover-and-control-shadow-ai.html)
 - [Perplexity’s Comet AI browser tricked into buying fake items online](https://www.bleepingcomputer.com/news/security/perplexitys-comet-ai-browser-tricked-into-buying-fake-items-online/)
-- [FBI Warns FSB-Linked Hackers Exploiting Unpatched Cisco Devices for Cyber Espionage](https://thehackernews.com/2025/08/fbi-warns-russian-fsb-linked-hackers.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
