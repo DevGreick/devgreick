@@ -309,11 +309,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [North Korea Uses GitHub in Diplomat Cyber Attacks as IT Worker Scheme Hits 320+ Firms](https://thehackernews.com/2025/08/north-korea-uses-github-in-diplomat.html)
+- [Microsoft fixes Windows upgrades failing with 0x8007007F error](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-upgrades-failing-with-0x8007007f-error/)
 - [Microsoft releases emergency updates to fix Windows recovery](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-updates-to-fix-windows-recovery/)
 - [DOJ Charges 22-Year-Old for Running RapperBot Botnet Behind 370,000 DDoS Attacks](https://thehackernews.com/2025/08/doj-charges-22-year-old-for-running.html)
 - [PyPI now blocks domain resurrection attacks used for hijacking accounts](https://www.bleepingcomputer.com/news/security/pypi-now-blocks-domain-resurrection-attacks-used-for-hijacking-accounts/)
-- [Okta open-sources catalog of Auth0 rules for threat detection](https://www.bleepingcomputer.com/news/security/okta-open-sources-catalog-of-auth0-rules-for-threat-detection/)
-- [Microsoft shares workaround for Teams &quot;couldn&#39;t connect&quot; error](https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-workaround-for-teams-couldnt-connect-error/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
