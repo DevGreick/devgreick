@@ -18,9 +18,14 @@
 
   <!-- CVE-LIST:START -->
 <details>
-<summary><strong>Vulnerabilidades exploradas conhecidas da CISA</strong>  •  atualizado 21/08/2025 16:19 UTC  •  exibindo 10 itens</summary>
+<summary><strong>Vulnerabilidades exploradas conhecidas da CISA</strong>  •  atualizado 21/08/2025 18:17 UTC  •  exibindo 10 itens</summary>
 
 > Fonte: CISA Known Exploited Vulnerabilities
+
+- **CVE-2025-43300** - Apple iOS, iPadOS, and macOS Out-of-Bounds Write Vulnerability  
+  Fornecedor: Apple | Produto: iOS, iPadOS, and macOS | Adicionado: 2025-08-21  
+  Apple iOS, iPadOS, and macOS contain an out-of-bounds write vulnerability in the Image I/O framework.  
+  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
 
 - **CVE-2025-54948** - Trend Micro Apex One OS Command Injection Vulnerability  
   Fornecedor: Trend Micro | Produto: Apex One | Adicionado: 2025-08-18  
@@ -67,12 +72,8 @@
   D-Link DNR-322L contains a download of code without integrity check vulnerability that could allow an authenticated attacker to execute OS level commands on the device. The impacted products could be end-of-life (EoL) and/or end-of-service (EoS). Users should discontinue product utilization.  
   Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
 
-- **CVE-2023-2533** - PaperCut NG/MF Cross-Site Request Forgery (CSRF) Vulnerability  
-  Fornecedor: PaperCut | Produto: NG/MF | Adicionado: 2025-07-28  
-  PaperCut NG/MF contains a cross-site request forgery (CSRF) vulnerability, which, under specific conditions, could potentially enable an attacker to alter security settings or execute arbitrary code.   
-  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
-
 </details>
+
 
 
 
