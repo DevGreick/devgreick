@@ -371,7 +371,7 @@
 
 ---
 
-### [+] CONTATO E APOIO
+### [+] CONTATO
 
 <div align="center">
   
