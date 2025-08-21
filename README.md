@@ -361,13 +361,31 @@
 
 ---
 
-### [+] CONTATO
+### [+] CONTATO E APOIO
 
 <div align="center">
+  
   <a href="https://www.linkedin.com/in/jacksongreick/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://portfolio.assistentecyber.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Portf%C3%B3lio_Interativo-000000?style=for-the-badge&logo=linux-terminal&logoColor=00ff7f" alt="Portfólio"/>
+    <img src="https://img.shields.io/badge/Portfólio_Interativo-000000?style=for-the-badge&logo=linux-terminal&logoColor=00ff7f" alt="Portfólio"/>
   </a>
+  
+  <br><br>
+  
+  <table>
+    <tr>
+      <td style="border: 0; padding-right: 10px;">
+        <span style="font-size: 18px; font-weight: 500; font-family: sans-serif; color: #c0caf5;">Apoie meu trabalho</span>
+      </td>
+      <td style="border: 0;">
+        <a href="https://buymeacoffee.com/devgreick" target="_blank">
+          <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" width="150">
+        </a>
+      </td>
+    </tr>
+  </table>
+
 </div>
+
