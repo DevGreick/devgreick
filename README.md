@@ -325,11 +325,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Pre-Auth Exploit Chains Found in Commvault Could Enable Remote Code Execution Attacks](https://thehackernews.com/2025/08/pre-auth-exploit-chains-found-in.html)
+- [Europol confirms $50,000 Qilin ransomware reward is fake](https://www.bleepingcomputer.com/news/security/europol-confirms-that-qilin-ransomware-reward-is-fake/)
+- [Cybercriminals Deploy CORNFLAKE.V3 Backdoor via ClickFix Tactic and Fake CAPTCHA Pages](https://thehackernews.com/2025/08/cybercriminals-deploy-cornflakev3.html)
 - [Microsoft asks customers for feedback on reported SSD failures](https://www.bleepingcomputer.com/news/microsoft/microsoft-asks-customers-for-feedback-on-ssd-failure-issues/)
 - [Why Certified VMware Pros Are Driving the Future of IT](https://www.bleepingcomputer.com/news/security/why-certified-vmware-pros-are-driving-the-future-of-it/)
-- [FBI warns of Russian hackers exploiting 7-year-old Cisco flaw](https://www.bleepingcomputer.com/news/security/fbi-warns-of-russian-hackers-exploiting-cisco-flaw-in-critical-infrastructure-attacks/)
-- [Weak Passwords and Compromised Accounts: Key Findings from the Blue Report 2025](https://thehackernews.com/2025/08/weak-passwords-and-compromised-accounts.html)
-- [Hackers Using New QuirkyLoader Malware to Spread Agent Tesla, AsyncRAT and Snake Keylogger](https://thehackernews.com/2025/08/hackers-using-new-quirkyloader-malware.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
