@@ -362,9 +362,9 @@
 ### [+] PERFIL: TROFÉUS E ESTATÍSTICAS
 
 <div align="center">
-  <img width="90%" src="https://github-profile-trophy.vercel.app/?username=devgreick&theme=tokyonight&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img width="90%" src="https://github-profile-trophy.vercel.app/?username=devgreick&theme=tokyonight&row=1&column=6&margin-w=15&margin-h=15&no-frame=true&no-bg=true" alt="GitHub Trophies" />
   <br/>
-  <img width="90%" src="https://github-readme-stats.vercel.app/api?username=devgreick&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=bb9af7&icon_color=bb9af7&text_color=a9b1d6&bg_color=1a1b26" alt="Estatísticas do GitHub de devgreick" />
+  <img width="90%" src="https://github-readme-stats.vercel.app/api?username=devgreick&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1000&title_color=bb9af7&icon_color=bb9af7&text_color=a9b1d6&bg_color=1a1b26" alt="Estatísticas do GitHub de devgreick" />
   <br/>
   <img src="https://raw.githubusercontent.com/devgreick/devgreick/main/output/snake.svg" alt="Snake animation" />
 </div>
