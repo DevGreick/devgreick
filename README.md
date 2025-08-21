@@ -322,11 +322,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [FBI warns of Russian hackers exploiting 7-year-old Cisco flaw](https://www.bleepingcomputer.com/news/security/fbi-warns-of-russian-hackers-exploiting-cisco-flaw-in-critical-infrastructure-attacks/)
+- [Weak Passwords and Compromised Accounts: Key Findings from the Blue Report 2025](https://thehackernews.com/2025/08/weak-passwords-and-compromised-accounts.html)
 - [Scattered Spider hacker gets sentenced to 10 years in prison](https://www.bleepingcomputer.com/news/security/scattered-spider-hacker-gets-sentenced-to-10-years-in-prison/)
 - [Orange Belgium discloses data breach impacting 850,000 customers](https://www.bleepingcomputer.com/news/security/orange-belgium-discloses-data-breach-impacting-850-000-customers/)
 - [Scattered Spider Hacker Gets 10 Years, $13M Restitution for SIM Swapping Crypto Theft](https://thehackernews.com/2025/08/scattered-spider-hacker-gets-10-years.html)
-- [Apple Patches CVE-2025-43300 Zero-Day in iOS, iPadOS, and macOS Exploited in Targeted Attacks](https://thehackernews.com/2025/08/apple-patches-cve-2025-43300-zero-day.html)
-- [OpenAI says GPT-6 is coming and it&#39;ll be better than GPT-5 &lpar;obviously&rpar;](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-gpt-6-is-coming-and-itll-be-better-than-gpt-5-obviously/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
