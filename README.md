@@ -319,11 +319,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple Patches CVE-2025-43300 Zero-Day in iOS, iPadOS, and macOS Exploited in Targeted Attacks](https://thehackernews.com/2025/08/apple-patches-cve-2025-43300-zero-day.html)
 - [OpenAI says GPT-6 is coming and it&#39;ll be better than GPT-5 &lpar;obviously&rpar;](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-gpt-6-is-coming-and-itll-be-better-than-gpt-5-obviously/)
 - [AI website builder Lovable increasingly abused for malicious activity](https://www.bleepingcomputer.com/news/security/ai-website-builder-lovable-increasingly-abused-for-malicious-activity/)
 - [Apple fixes new zero-day flaw exploited in targeted attacks](https://www.bleepingcomputer.com/news/apple/apple-emergency-updates-fix-new-actively-exploited-zero-day/)
 - [DOM-Based Extension Clickjacking Exposes Popular Password Managers to Credential and Data Theft](https://thehackernews.com/2025/08/dom-based-extension-clickjacking.html)
-- [“Rapper Bot” malware seized, alleged developer identified and charged](https://www.bleepingcomputer.com/news/legal/rapper-bot-malware-seized-alleged-developer-identified-and-charged/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
