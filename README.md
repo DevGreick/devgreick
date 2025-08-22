@@ -341,11 +341,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [APT36 hackers abuse Linux .desktop files to install malware in new attacks](https://www.bleepingcomputer.com/news/security/apt36-hackers-abuse-linux-desktop-files-to-install-malware/)
 - [Fake Mac fixes trick users into installing new Shamos infostealer](https://www.bleepingcomputer.com/news/security/fake-mac-fixes-trick-users-into-installing-new-shamos-infostealer/)
 - [Linux Malware Delivered via Malicious RAR Filenames Evades Antivirus Detection](https://thehackernews.com/2025/08/linux-malware-delivered-via-malicious.html)
 - [Microsoft: August Windows updates cause severe streaming issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-august-windows-updates-cause-severe-ndi-streaming-issues/)
 - [Chinese Hackers Murky, Genesis, and Glacial Panda Escalate Cloud and Telecom Espionage](https://thehackernews.com/2025/08/chinese-hackers-murky-genesis-and.html)
-- [Automation Is Redefining Pentest Delivery](https://thehackernews.com/2025/08/automation-is-redefining-pentest.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
