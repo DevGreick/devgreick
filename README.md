@@ -338,11 +338,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft: August Windows updates cause severe streaming issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-august-windows-updates-cause-severe-ndi-streaming-issues/)
 - [Chinese Hackers Murky, Genesis, and Glacial Panda Escalate Cloud and Telecom Espionage](https://thehackernews.com/2025/08/chinese-hackers-murky-genesis-and.html)
 - [Automation Is Redefining Pentest Delivery](https://thehackernews.com/2025/08/automation-is-redefining-pentest.html)
 - [INTERPOL Arrests 1,209 Cybercriminals Across 18 African Nations in Global Crackdown](https://thehackernews.com/2025/08/interpol-arrests-1209-cybercriminals.html)
 - [Massive anti-cybercrime operation leads to over 1,200 arrests in Africa](https://www.bleepingcomputer.com/news/security/massive-anti-cybercrime-operation-leads-to-over-1-200-arrests-in-africa/)
-- [DaVita says ransomware gang stole data of nearly 2.7 million people](https://www.bleepingcomputer.com/news/security/davita-ransomware-attack-exposed-data-of-nearly-27-million-people/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
