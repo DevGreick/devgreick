@@ -367,7 +367,7 @@
 
 ---
 
-### [+] PERFIL: TROFÉUS E ESTATÍSTICAS
+<div align="center">
 
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=39761156" target="_blank" style="display: block" align="center">
   <picture>
@@ -375,6 +375,7 @@
     <img alt="Dashboard stats of @DevGreick" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=39761156&image_size=auto&color_scheme=light" width="771" height="auto">
   </picture>
 </a>
+</div>
 
 
 ---
