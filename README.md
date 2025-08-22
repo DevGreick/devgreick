@@ -333,11 +333,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Massive anti-cybercrime operation leads to over 1,200 arrests in Africa](https://www.bleepingcomputer.com/news/security/massive-anti-cybercrime-operation-leads-to-over-1-200-arrests-in-africa/)
+- [DaVita says ransomware gang stole data of nearly 2.7 million people](https://www.bleepingcomputer.com/news/security/davita-ransomware-attack-exposed-data-of-nearly-27-million-people/)
 - [Ex-Developer Jailed Four Years for Sabotaging Ohio Employer with Kill-Switch Malware](https://thehackernews.com/2025/08/ex-developer-jailed-four-years-for.html)
 - [Dev gets 4 years for creating kill switch on ex-employer&#39;s systems](https://www.bleepingcomputer.com/news/security/dev-gets-4-years-for-creating-kill-switch-on-ex-employers-systems/)
 - [Colt confirms customer data stolen as Warlock ransomware auctions files](https://www.bleepingcomputer.com/news/security/colt-confirms-customer-data-stolen-as-warlock-ransomware-auctions-files/)
-- [Pre-Auth Exploit Chains Found in Commvault Could Enable Remote Code Execution Attacks](https://thehackernews.com/2025/08/pre-auth-exploit-chains-found-in.html)
-- [Europol confirms $50,000 Qilin ransomware reward is fake](https://www.bleepingcomputer.com/news/security/europol-confirms-that-qilin-ransomware-reward-is-fake/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
