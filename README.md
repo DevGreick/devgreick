@@ -332,11 +332,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Ex-Developer Jailed Four Years for Sabotaging Ohio Employer with Kill-Switch Malware](https://thehackernews.com/2025/08/ex-developer-jailed-four-years-for.html)
 - [Dev gets 4 years for creating kill switch on ex-employer&#39;s systems](https://www.bleepingcomputer.com/news/security/dev-gets-4-years-for-creating-kill-switch-on-ex-employers-systems/)
 - [Colt confirms customer data stolen as Warlock ransomware auctions files](https://www.bleepingcomputer.com/news/security/colt-confirms-customer-data-stolen-as-warlock-ransomware-auctions-files/)
 - [Pre-Auth Exploit Chains Found in Commvault Could Enable Remote Code Execution Attacks](https://thehackernews.com/2025/08/pre-auth-exploit-chains-found-in.html)
 - [Europol confirms $50,000 Qilin ransomware reward is fake](https://www.bleepingcomputer.com/news/security/europol-confirms-that-qilin-ransomware-reward-is-fake/)
-- [Cybercriminals Deploy CORNFLAKE.V3 Backdoor via ClickFix Tactic and Fake CAPTCHA Pages](https://thehackernews.com/2025/08/cybercriminals-deploy-cornflakev3.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
