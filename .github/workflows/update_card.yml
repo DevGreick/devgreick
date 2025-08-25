@@ -10,30 +10,38 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
-        with:
-          fetch-depth: 1 
+        uses: actions/checkout@v4
 
-      - name: Get latest commit message
-        id: commit
-        run: echo "message=$(git log -1 --pretty=format:%s)" >> $GITHUB_OUTPUT
-
-      - name: Get random quote
-        id: quote
+      - name: Generate dynamic content
+        id: dynamic_content
         run: |
-          quote_json=$(curl -s "https://api.quotable.io/random?maxLength=70&tags=technology|wisdom")
-          quote_content=$(echo $quote_json | jq -r .content)
-          quote_author=$(echo $quote_json | jq -r .author)
-          echo "content=$quote_content" >> $GITHUB_OUTPUT
-          echo "author=$quote_author" >> $GITHUB_OUTPUT
+          # Escapa caracteres especiais para o script Python
+          COMMIT_MSG=$(git log -1 --pretty=format:%s | sed "s/'/\\\'/g" | sed 's/"/\\"/g')
+          echo "commit_message=$COMMIT_MSG" >> $GITHUB_OUTPUT
 
-      - name: Generate new dynamic card
-        uses: Mokkiv/dynamic-card@latest
+          QUOTE_JSON=$(curl -s "https://api.quotable.io/random?maxLength=60&tags=technology|wisdom")
+          QUOTE_CONTENT=$(echo $QUOTE_JSON | jq -r .content | sed "s/'/\\\'/g" | sed 's/"/\\"/g')
+          QUOTE_AUTHOR=$(echo $QUOTE_JSON | jq -r .author | sed "s/'/\\\'/g" | sed 's/"/\\"/g')
+          echo "quote_content=$QUOTE_CONTENT" >> $GITHUB_OUTPUT
+          echo "quote_author=$QUOTE_AUTHOR" >> $GITHUB_OUTPUT
+
+      - name: Update SVG with new content
+        run: |
+          # Usa Python (que já vem instalado) para substituir o texto no template de forma segura
+          python -c "
+          with open('card-template.svg', 'r') as f:
+              svg_content = f.read()
+          
+          svg_content = svg_content.replace('%%COMMIT%%', '${{ steps.dynamic_content.outputs.commit_message }}')
+          svg_content = svg_content.replace('%%QUOTE%%', '${{ steps.dynamic_content.outputs.quote_content }}')
+          svg_content = svg_content.replace('%%AUTHOR%%', '- ${{ steps.dynamic_content.outputs.quote_author }}')
+
+          with open('dynamic-card.svg', 'w') as f:
+              f.write(svg_content)
+          "
+      
+      - name: Commit and push changes
+        uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          HEADER: 'STATUS REPORT: DEVGREICK'
-          LINE1: 'LAST ACTIVITY: ${{ steps.commit.outputs.message }}'
-          LINE2: '"${{ steps.quote.outputs.content }}"'
-          LINE3: '- ${{ steps.quote.outputs.author }}'
-          OUT_FOLDER: '.'
-          OUT_FILENAME: 'dynamic-card.svg'
+          commit_message: "docs: update dynamic status card"
+          file_pattern: "dynamic-card.svg"
