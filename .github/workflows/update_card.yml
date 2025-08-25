@@ -1,0 +1,23 @@
+name: Update Dynamic Status Card
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 */4 * * *' # Roda a cada 4 horas
+
+jobs:
+  update-card:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Generate new dynamic card
+        uses: R-A-C-H-I-T/dynamic-card@main
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          header: 'STATUS REPORT: DEVGREICK'
+          line_1: 'LAST ACTIVITY: {{ LATEST_COMMIT_MESSAGE }}'
+          line_2: 'TIME: {{ DATE }}'
+          line_3: '{{ QUOTE }}'
+          line_4: 'AUTHOR: {{ QUOTE_AUTHOR }}'
+          output_filename: 'dynamic-card.svg'
