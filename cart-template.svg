@@ -1,0 +1,20 @@
+<svg width="450" height="150" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .bg { fill: #1a1b26; }
+      .header { font: 600 18px 'Courier New', monospace; fill: #bb9af7; }
+      .text { font: 400 14px 'Courier New', monospace; fill: #a9b1d6; }
+      .quote { font: italic 400 13px 'Courier New', monospace; fill: #7aa2f7; }
+    </style>
+  </defs>
+
+  <rect class="bg" width="100%" height="100%" rx="10" />
+
+  <text x="15" y="30" class="header">> STATUS REPORT: DEVGREICK</text>
+  <line x1="15" y1="40" x2="435" y2="40" stroke="#bb9af7" stroke-width="1"/>
+
+  <text x="15" y="65" class="text">LAST ACTIVITY: %%COMMIT%%</text>
+  
+  <text x="15" y="95" class="quote">"%%QUOTE%%"</text>
+  <text x="300" y="115" class="text">%%AUTHOR%%</text>
+</svg>
