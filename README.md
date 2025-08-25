@@ -377,11 +377,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Malicious Android apps with 19M installs removed from Google Play](https://www.bleepingcomputer.com/news/security/malicious-android-apps-with-19m-installs-removed-from-google-play/)
+- [Phishing Campaign Uses UpCrypter in Fake Voicemail Emails to Deliver RAT Payloads](https://thehackernews.com/2025/08/phishing-campaign-uses-upcrypter-in.html)
 - [Critical Docker Desktop flaw lets attackers hijack Windows hosts](https://www.bleepingcomputer.com/news/security/critical-docker-desktop-flaw-lets-attackers-hijack-windows-hosts/)
 - [Defending against malware persistence techniques with Wazuh](https://www.bleepingcomputer.com/news/security/defending-against-malware-persistence-techniques-with-wazuh/)
 - [⚡ Weekly Recap: Password Manager Flaws, Apple 0-Day, Hidden AI Prompts, In-the-Wild Exploits &amp; More](https://thehackernews.com/2025/08/weekly-recap-password-manager-flaws.html)
-- [Why SIEM Rules Fail and How to Fix Them: Insights from 160 Million Attack Simulations](https://thehackernews.com/2025/08/why-siem-rules-fail-and-how-to-fix-them.html)
-- [Transparent Tribe Targets Indian Govt With Weaponized Desktop Shortcuts via Phishing](https://thehackernews.com/2025/08/transparent-tribe-targets-indian-govt.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
