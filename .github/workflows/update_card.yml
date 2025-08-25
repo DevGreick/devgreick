@@ -9,15 +9,31 @@ jobs:
   update-card:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 1 
+
+      - name: Get latest commit message
+        id: commit
+        run: echo "message=$(git log -1 --pretty=format:%s)" >> $GITHUB_OUTPUT
+
+      - name: Get random quote
+        id: quote
+        run: |
+          quote_json=$(curl -s "https://api.quotable.io/random?maxLength=70&tags=technology|wisdom")
+          quote_content=$(echo $quote_json | jq -r .content)
+          quote_author=$(echo $quote_json | jq -r .author)
+          echo "content=$quote_content" >> $GITHUB_OUTPUT
+          echo "author=$quote_author" >> $GITHUB_OUTPUT
 
       - name: Generate new dynamic card
-        uses: R-A-C-H-I-T/dynamic-card@main
+        uses: Mokkiv/dynamic-card@latest
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          header: 'STATUS REPORT: DEVGREICK'
-          line_1: 'LAST ACTIVITY: {{ LATEST_COMMIT_MESSAGE }}'
-          line_2: 'TIME: {{ DATE }}'
-          line_3: '{{ QUOTE }}'
-          line_4: 'AUTHOR: {{ QUOTE_AUTHOR }}'
-          output_filename: 'dynamic-card.svg'
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          HEADER: 'STATUS REPORT: DEVGREICK'
+          LINE1: 'LAST ACTIVITY: ${{ steps.commit.outputs.message }}'
+          LINE2: '"${{ steps.quote.outputs.content }}"'
+          LINE3: '- ${{ steps.quote.outputs.author }}'
+          OUT_FOLDER: '.'
+          OUT_FILENAME: 'dynamic-card.svg'
