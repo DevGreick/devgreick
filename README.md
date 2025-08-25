@@ -21,9 +21,24 @@
 
   <!-- CVE-LIST:START -->
 <details>
-<summary><strong>Vulnerabilidades exploradas conhecidas da CISA</strong>  •  atualizado 25/08/2025 16:15 UTC  •  exibindo 10 itens</summary>
+<summary><strong>Vulnerabilidades exploradas conhecidas da CISA</strong>  •  atualizado 25/08/2025 18:18 UTC  •  exibindo 10 itens</summary>
 
 > Fonte: CISA Known Exploited Vulnerabilities
+
+- **CVE-2025-48384** - Git Link Following Vulnerability  
+  Fornecedor: Git | Produto: Git | Adicionado: 2025-08-25  
+  Git contains a link following vulnerability that stems from Git’s inconsistent handling of carriage return characters in configuration files.  
+  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
+
+- **CVE-2024-8068** - Citrix Session Recording Improper Privilege Management Vulnerability  
+  Fornecedor: Citrix | Produto: Session Recording | Adicionado: 2025-08-25  
+  Citrix Session Recording contains an improper privilege management vulnerability that could allow for privilege escalation to NetworkService Account access. An attacker must be an authenticated user in the same Windows Active Directory domain as the session recording server domain.  
+  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
+
+- **CVE-2024-8069** - Citrix Session Recording Deserialization of Untrusted Data Vulnerability  
+  Fornecedor: Citrix | Produto: Session Recording | Adicionado: 2025-08-25  
+  Citrix Session Recording contains a deserialization of untrusted data vulnerability that allows limited remote code execution with privilege of a NetworkService Account access. Attacker must be an authenticated user on the same intranet as the session recording server.  
+  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
 
 - **CVE-2025-43300** - Apple iOS, iPadOS, and macOS Out-of-Bounds Write Vulnerability  
   Fornecedor: Apple | Produto: iOS, iPadOS, and macOS | Adicionado: 2025-08-21  
@@ -60,22 +75,8 @@
   Microsoft Internet Explorer contains a memory corruption vulnerability that allows for remote code execution. The impacted products could be end-of-life (EoL) and/or end-of-service (EoS). Users should discontinue product utilization.  
   Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
 
-- **CVE-2020-25078** - D-Link DCS-2530L and DCS-2670L Devices Unspecified Vulnerability  
-  Fornecedor: D-Link | Produto: DCS-2530L and DCS-2670L Devices | Adicionado: 2025-08-05  
-  D-Link DCS-2530L and DCS-2670L devices contains an unspecified vulnerability that could allow for remote administrator password disclosure. The impacted products could be end-of-life (EoL) and/or end-of-service (EoS). Users should discontinue product utilization.  
-  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
-
-- **CVE-2020-25079** - D-Link DCS-2530L and DCS-2670L Command Injection Vulnerability  
-  Fornecedor: D-Link | Produto: DCS-2530L and DCS-2670L Devices | Adicionado: 2025-08-05  
-  D-Link DCS-2530L and DCS-2670L devices contains a command injection vulnerability in the cgi-bin/ddns_enc.cgi. The impacted products could be end-of-life (EoL) and/or end-of-service (EoS). Users should discontinue product utilization.  
-  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
-
-- **CVE-2022-40799** - D-Link DNR-322L Download of Code Without Integrity Check Vulnerability  
-  Fornecedor: D-Link | Produto: DNR-322L | Adicionado: 2025-08-05  
-  D-Link DNR-322L contains a download of code without integrity check vulnerability that could allow an authenticated attacker to execute OS level commands on the device. The impacted products could be end-of-life (EoL) and/or end-of-service (EoS). Users should discontinue product utilization.  
-  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
-
 </details>
+
 
 
 
