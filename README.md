@@ -378,11 +378,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Farmers Insurance data breach impacts 1.1M people after Salesforce attack](https://www.bleepingcomputer.com/news/security/farmers-insurance-data-breach-impacts-11m-people-after-salesforce-attack/)
+- [Auchan retailer data breach impacts hundreds of thousands of customers](https://www.bleepingcomputer.com/news/security/auchan-retailer-data-breach-impacts-hundreds-of-thousands-of-customers/)
+- [UNC6384 Deploys PlugX via Captive Portal Hijacks and Valid Certificates Targeting Diplomats](https://thehackernews.com/2025/08/unc6384-deploys-plugx-via-captive.html)
+- [Docker Fixes CVE-2025-9074, Critical Container Escape Vulnerability With CVSS Score 9.3](https://thehackernews.com/2025/08/docker-fixes-cve-2025-9074-critical.html)
 - [Malicious Android apps with 19M installs removed from Google Play](https://www.bleepingcomputer.com/news/security/malicious-android-apps-with-19m-installs-removed-from-google-play/)
-- [Phishing Campaign Uses UpCrypter in Fake Voicemail Emails to Deliver RAT Payloads](https://thehackernews.com/2025/08/phishing-campaign-uses-upcrypter-in.html)
-- [Critical Docker Desktop flaw lets attackers hijack Windows hosts](https://www.bleepingcomputer.com/news/security/critical-docker-desktop-flaw-lets-attackers-hijack-windows-hosts/)
-- [Defending against malware persistence techniques with Wazuh](https://www.bleepingcomputer.com/news/security/defending-against-malware-persistence-techniques-with-wazuh/)
-- [⚡ Weekly Recap: Password Manager Flaws, Apple 0-Day, Hidden AI Prompts, In-the-Wild Exploits &amp; More](https://thehackernews.com/2025/08/weekly-recap-password-manager-flaws.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
