@@ -376,11 +376,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Critical Docker Desktop flaw lets attackers hijack Windows hosts](https://www.bleepingcomputer.com/news/security/critical-docker-desktop-flaw-lets-attackers-hijack-windows-hosts/)
+- [Defending against malware persistence techniques with Wazuh](https://www.bleepingcomputer.com/news/security/defending-against-malware-persistence-techniques-with-wazuh/)
 - [⚡ Weekly Recap: Password Manager Flaws, Apple 0-Day, Hidden AI Prompts, In-the-Wild Exploits &amp; More](https://thehackernews.com/2025/08/weekly-recap-password-manager-flaws.html)
 - [Why SIEM Rules Fail and How to Fix Them: Insights from 160 Million Attack Simulations](https://thehackernews.com/2025/08/why-siem-rules-fail-and-how-to-fix-them.html)
 - [Transparent Tribe Targets Indian Govt With Weaponized Desktop Shortcuts via Phishing](https://thehackernews.com/2025/08/transparent-tribe-targets-indian-govt.html)
-- [New Android malware poses as antivirus from Russian intelligence agency](https://www.bleepingcomputer.com/news/security/new-android-malware-poses-as-antivirus-from-russian-intelligence-agency/)
-- [Malicious Go Module Poses as SSH Brute-Force Tool, Steals Credentials via Telegram Bot](https://thehackernews.com/2025/08/malicious-go-module-poses-as-ssh-brute.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
