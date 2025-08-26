@@ -389,11 +389,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Nevada closes state offices as cyberattack disrupts IT systems](https://www.bleepingcomputer.com/news/security/nevada-closes-state-offices-as-cyberattack-disrupts-it-systems/)
+- [Citrix Patches Three NetScaler Flaws, Confirms Active Exploitation of CVE-2025-7775](https://thehackernews.com/2025/08/citrix-patches-three-netscaler-flaws.html)
+- [New Sni5Gect Attack Crashes Phones and Downgrades 5G to 4G without Rogue Base Station](https://thehackernews.com/2025/08/new-sni5gect-attack-crashes-phones-and.html)
 - [CISA warns of actively exploited Git code execution flaw](https://www.bleepingcomputer.com/news/security/cisa-warns-of-actively-exploited-git-code-execution-flaw/)
 - [Beyond GDPR security training: Turning regulation into opportunity](https://www.bleepingcomputer.com/news/security/beyond-gdpr-security-training-turning-regulation-into-opportunity/)
-- [Nissan confirms design studio data breach claimed by Qilin ransomware](https://www.bleepingcomputer.com/news/security/nissan-confirms-design-studio-data-breach-claimed-by-qilin-ransomware/)
-- [MixShell Malware Delivered via Contact Forms Targets U.S. Supply Chain Manufacturers](https://thehackernews.com/2025/08/mixshell-malware-delivered-via-contact.html)
-- [AI-Driven Trends in Endpoint Security: What the 2025 Gartner® Magic Quadrant™ Reveals](https://thehackernews.com/2025/07/ai-driven-trends-in-endpoint-security.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
