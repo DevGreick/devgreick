@@ -388,11 +388,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [CISA warns of actively exploited Git code execution flaw](https://www.bleepingcomputer.com/news/security/cisa-warns-of-actively-exploited-git-code-execution-flaw/)
+- [Beyond GDPR security training: Turning regulation into opportunity](https://www.bleepingcomputer.com/news/security/beyond-gdpr-security-training-turning-regulation-into-opportunity/)
 - [Nissan confirms design studio data breach claimed by Qilin ransomware](https://www.bleepingcomputer.com/news/security/nissan-confirms-design-studio-data-breach-claimed-by-qilin-ransomware/)
 - [MixShell Malware Delivered via Contact Forms Targets U.S. Supply Chain Manufacturers](https://thehackernews.com/2025/08/mixshell-malware-delivered-via-contact.html)
 - [AI-Driven Trends in Endpoint Security: What the 2025 Gartner® Magic Quadrant™ Reveals](https://thehackernews.com/2025/07/ai-driven-trends-in-endpoint-security.html)
-- [ShadowCaptcha Exploits WordPress Sites to Spread Ransomware, Info Stealers, and Crypto Miners](https://thehackernews.com/2025/08/shadowcaptcha-exploits-wordpress-sites.html)
-- [HOOK Android Trojan Adds Ransomware Overlays, Expands to 107 Remote Commands](https://thehackernews.com/2025/08/hook-android-trojan-adds-ransomware.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
