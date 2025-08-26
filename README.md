@@ -391,11 +391,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Citrix fixes critical NetScaler RCE flaw exploited in zero-day attacks](https://www.bleepingcomputer.com/news/security/citrix-fixes-critical-netscaler-rce-flaw-exploited-in-zero-day-attacks/)
+- [Silk Typhoon hackers hijack network captive portals in diplomat attacks](https://www.bleepingcomputer.com/news/security/silk-typhoon-hackers-hijack-network-captive-portals-in-diplomat-attacks/)
 - [Salesloft breached to steal OAuth tokens for Salesforce data-theft attacks](https://www.bleepingcomputer.com/news/security/salesloft-breached-to-steal-oauth-tokens-for-salesforce-data-theft-attacks/)
 - [Nevada closes state offices as cyberattack disrupts IT systems](https://www.bleepingcomputer.com/news/security/nevada-closes-state-offices-as-cyberattack-disrupts-it-systems/)
 - [Citrix Patches Three NetScaler Flaws, Confirms Active Exploitation of CVE-2025-7775](https://thehackernews.com/2025/08/citrix-patches-three-netscaler-flaws.html)
-- [New Sni5Gect Attack Crashes Phones and Downgrades 5G to 4G without Rogue Base Station](https://thehackernews.com/2025/08/new-sni5gect-attack-crashes-phones-and.html)
-- [CISA warns of actively exploited Git code execution flaw](https://www.bleepingcomputer.com/news/security/cisa-warns-of-actively-exploited-git-code-execution-flaw/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
