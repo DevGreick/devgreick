@@ -390,11 +390,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Salesloft breached to steal OAuth tokens for Salesforce data-theft attacks](https://www.bleepingcomputer.com/news/security/salesloft-breached-to-steal-oauth-tokens-for-salesforce-data-theft-attacks/)
 - [Nevada closes state offices as cyberattack disrupts IT systems](https://www.bleepingcomputer.com/news/security/nevada-closes-state-offices-as-cyberattack-disrupts-it-systems/)
 - [Citrix Patches Three NetScaler Flaws, Confirms Active Exploitation of CVE-2025-7775](https://thehackernews.com/2025/08/citrix-patches-three-netscaler-flaws.html)
 - [New Sni5Gect Attack Crashes Phones and Downgrades 5G to 4G without Rogue Base Station](https://thehackernews.com/2025/08/new-sni5gect-attack-crashes-phones-and.html)
 - [CISA warns of actively exploited Git code execution flaw](https://www.bleepingcomputer.com/news/security/cisa-warns-of-actively-exploited-git-code-execution-flaw/)
-- [Beyond GDPR security training: Turning regulation into opportunity](https://www.bleepingcomputer.com/news/security/beyond-gdpr-security-training-turning-regulation-into-opportunity/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
