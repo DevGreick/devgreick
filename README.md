@@ -385,11 +385,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [HOOK Android Trojan Adds Ransomware Overlays, Expands to 107 Remote Commands](https://thehackernews.com/2025/08/hook-android-trojan-adds-ransomware.html)
 - [Google to Verify All Android Developers in 4 Countries to Block Malicious Apps](https://thehackernews.com/2025/08/google-to-verify-all-android-developers.html)
 - [CISA Adds Three Exploited Vulnerabilities to KEV Catalog Affecting Citrix and Git](https://thehackernews.com/2025/08/cisa-adds-three-exploited.html)
 - [Surge in coordinated scans targets Microsoft RDP auth servers](https://www.bleepingcomputer.com/news/security/surge-in-coordinated-scans-targets-microsoft-rdp-auth-servers/)
 - [New AI attack hides data-theft prompts in downscaled images](https://www.bleepingcomputer.com/news/security/new-ai-attack-hides-data-theft-prompts-in-downscaled-images/)
-- [Farmers Insurance data breach impacts 1.1M people after Salesforce attack](https://www.bleepingcomputer.com/news/security/farmers-insurance-data-breach-impacts-11m-people-after-salesforce-attack/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
