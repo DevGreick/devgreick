@@ -424,7 +424,7 @@
 ## [+] Projetos em alta <img src="https://img.icons8.com/fluency/48/star.png" alt="projeto destaque" width="28"/>
 
 [![⭐ ThreatSpy](https://img.shields.io/badge/⭐_ThreatSpy-2980B9?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/devgreick/ThreatSpy)  
-*scanner para IP, URL, arquivo e repositório · relatórios em XLSX/PDF + IA local via Ollama*  
+*Ferramenta de análise de ameaças que automatiza a consulta de IPs/URLs em múltiplas fontes (VirusTotal, Shodan, etc.), gera relatórios e cria resumos com IA local*  
 
 [![💻 Portfólio Interativo](https://img.shields.io/badge/💻_Portfólio_Interativo-1ABC9C?style=for-the-badge&logo=linux&logoColor=white&labelColor=0D1117)](https://portfolio.assistentecyber.com/)  
 *Portfólio no formato de um sistema operacional, com terminal web, comandos, easter eggs e assistente com RAG*
