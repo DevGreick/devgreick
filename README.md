@@ -402,11 +402,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [FreePBX servers hacked via zero-day, emergency fix released](https://www.bleepingcomputer.com/news/security/freepbx-servers-hacked-via-zero-day-emergency-fix-released/)
+- [Storm-0501 Exploits Entra ID to Exfiltrate and Delete Azure Data in Hybrid Cloud Attacks](https://thehackernews.com/2025/08/storm-0501-exploits-entra-id-to.html)
+- [IT system supplier cyberattack impacts 200 municipalities in Sweden](https://www.bleepingcomputer.com/news/security/it-system-supplier-cyberattack-impacts-200-municipalities-in-sweden/)
 - [Global Salt Typhoon hacking campaigns linked to Chinese tech firms](https://www.bleepingcomputer.com/news/security/global-salt-typhoon-hacking-campaigns-linked-to-chinese-tech-firms/)
 - [Someone Created First AI-Powered Ransomware Using OpenAI&#39;s gpt-oss:20b Model](https://thehackernews.com/2025/08/someone-created-first-ai-powered.html)
-- [Over 28,000 Citrix devices vulnerable to new exploited RCE flaw](https://www.bleepingcomputer.com/news/security/over-28-200-citrix-instances-vulnerable-to-actively-exploited-rce-bug/)
-- [Anthropic Disrupts AI-Powered Cyberattacks Automating Theft and Extortion Across Critical Sectors](https://thehackernews.com/2025/08/anthropic-disrupts-ai-powered.html)
-- [Why zero trust is never &#39;done&#39; and is an ever-evolving process](https://www.bleepingcomputer.com/news/security/why-zero-trust-is-never-done-and-is-an-ever-evolving-process/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
