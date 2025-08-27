@@ -397,11 +397,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Salesloft OAuth Breach via Drift AI Chat Agent Exposes Salesforce Customer Data](https://thehackernews.com/2025/08/salesloft-oauth-breach-via-drift-ai.html)
+- [Blind Eagle’s Five Clusters Target Colombia Using RATs, Phishing Lures, and Dynamic DNS Infra](https://thehackernews.com/2025/08/blind-eagles-five-clusters-target.html)
 - [Google to verify all Android devs to block malware on Google Play](https://www.bleepingcomputer.com/news/security/google-to-verify-all-android-devs-to-block-malware-on-google-play/)
 - [Citrix fixes critical NetScaler RCE flaw exploited in zero-day attacks](https://www.bleepingcomputer.com/news/security/citrix-fixes-critical-netscaler-rce-flaw-exploited-in-zero-day-attacks/)
 - [Silk Typhoon hackers hijack network captive portals in diplomat attacks](https://www.bleepingcomputer.com/news/security/silk-typhoon-hackers-hijack-network-captive-portals-in-diplomat-attacks/)
-- [Salesloft breached to steal OAuth tokens for Salesforce data-theft attacks](https://www.bleepingcomputer.com/news/security/salesloft-breached-to-steal-oauth-tokens-for-salesforce-data-theft-attacks/)
-- [Nevada closes state offices as cyberattack disrupts IT systems](https://www.bleepingcomputer.com/news/security/nevada-closes-state-offices-as-cyberattack-disrupts-it-systems/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
