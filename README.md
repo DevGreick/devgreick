@@ -401,11 +401,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Global Salt Typhoon hacking campaigns linked to Chinese tech firms](https://www.bleepingcomputer.com/news/security/global-salt-typhoon-hacking-campaigns-linked-to-chinese-tech-firms/)
+- [Someone Created First AI-Powered Ransomware Using OpenAI&#39;s gpt-oss:20b Model](https://thehackernews.com/2025/08/someone-created-first-ai-powered.html)
+- [Over 28,000 Citrix devices vulnerable to new exploited RCE flaw](https://www.bleepingcomputer.com/news/security/over-28-200-citrix-instances-vulnerable-to-actively-exploited-rce-bug/)
 - [Anthropic Disrupts AI-Powered Cyberattacks Automating Theft and Extortion Across Critical Sectors](https://thehackernews.com/2025/08/anthropic-disrupts-ai-powered.html)
 - [Why zero trust is never &#39;done&#39; and is an ever-evolving process](https://www.bleepingcomputer.com/news/security/why-zero-trust-is-never-done-and-is-an-ever-evolving-process/)
-- [ShadowSilk Hits 35 Organizations in Central Asia and APAC Using Telegram Bots](https://thehackernews.com/2025/08/shadowsilk-hits-36-government-targets.html)
-- [Healthcare Services Group data breach impacts 624,000 people](https://www.bleepingcomputer.com/news/security/healthcare-services-group-data-breach-impacts-624-000-people/)
-- [The 5 Golden Rules of Safe AI Adoption](https://thehackernews.com/2025/08/the-5-golden-rules-of-safe-ai-adoption.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
