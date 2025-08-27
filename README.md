@@ -423,12 +423,15 @@
 
 ## [+] Projetos em alta <img src="https://img.icons8.com/fluency/48/star.png" alt="projeto destaque" width="28"/>
 
-- **[ThreatSpy](https://github.com/devgreick/ThreatSpy)**  
-  Scanner para IP, URL, arquivo e repositório  
-  Relatórios em XLSX e PDF + resumo com IA local via Ollama  
+[![⭐ ThreatSpy](https://img.shields.io/badge/⭐_ThreatSpy-2980B9?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/devgreick/ThreatSpy)  
+*scanner para IP, URL, arquivo e repositório · relatórios em XLSX/PDF + IA local via Ollama*  
 
-- **[Portfólio Interativo](https://portfolio.assistentecyber.com/)**  
-  Terminal web com comandos, easter eggs e assistente com RAG  
+[![💻 Portfólio Interativo](https://img.shields.io/badge/💻_Portfólio_Interativo-1ABC9C?style=for-the-badge&logo=linux&logoColor=white&labelColor=0D1117)](https://portfolio.assistentecyber.com/)  
+*terminal web com comandos, easter eggs e assistente com RAG*  
+
+
+
+
 
 ---
 
