@@ -392,11 +392,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Google to verify all Android devs to block malware on Google Play](https://www.bleepingcomputer.com/news/security/google-to-verify-all-android-devs-to-block-malware-on-google-play/)
 - [Citrix fixes critical NetScaler RCE flaw exploited in zero-day attacks](https://www.bleepingcomputer.com/news/security/citrix-fixes-critical-netscaler-rce-flaw-exploited-in-zero-day-attacks/)
 - [Silk Typhoon hackers hijack network captive portals in diplomat attacks](https://www.bleepingcomputer.com/news/security/silk-typhoon-hackers-hijack-network-captive-portals-in-diplomat-attacks/)
 - [Salesloft breached to steal OAuth tokens for Salesforce data-theft attacks](https://www.bleepingcomputer.com/news/security/salesloft-breached-to-steal-oauth-tokens-for-salesforce-data-theft-attacks/)
 - [Nevada closes state offices as cyberattack disrupts IT systems](https://www.bleepingcomputer.com/news/security/nevada-closes-state-offices-as-cyberattack-disrupts-it-systems/)
-- [Citrix Patches Three NetScaler Flaws, Confirms Active Exploitation of CVE-2025-7775](https://thehackernews.com/2025/08/citrix-patches-three-netscaler-flaws.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
