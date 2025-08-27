@@ -427,7 +427,7 @@
 *scanner para IP, URL, arquivo e repositório · relatórios em XLSX/PDF + IA local via Ollama*  
 
 [![💻 Portfólio Interativo](https://img.shields.io/badge/💻_Portfólio_Interativo-1ABC9C?style=for-the-badge&logo=linux&logoColor=white&labelColor=0D1117)](https://portfolio.assistentecyber.com/)  
-*terminal web com comandos, easter eggs e assistente com RAG*  
+*Portfólio no formato de um sistema operacional, com terminal web, comandos, easter eggs e assistente com RAG*
 
 
 
