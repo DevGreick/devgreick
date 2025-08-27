@@ -401,8 +401,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 ---
-
-### [+] ARSENAL: FERRAMENTAS E TECNOLOGIAS
+### [+] ARSENAL: FERRAMENTAS, TECNOLOGIAS E PROJETOS
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -415,30 +414,36 @@
   <img src="https://img.shields.io/badge/Cisco%20ASA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco ASA" />
   <img src="https://img.shields.io/badge/WAF%20F5-FF3B30?style=for-the-badge&logo=f5&logoColor=white" alt="F5 WAF" />
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
-  
   <br/>
-  
   <img src="https://img.shields.io/badge/Nmap-3c9735?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap" />
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
-  
 </div>
 
 ---
 
+## [+] Projetos em alta <img src="https://img.icons8.com/fluency/48/star.png" alt="projeto destaque" width="28"/>
 
+- **[ThreatSpy](https://github.com/devgreick/ThreatSpy)**  
+  Scanner para IP, URL, arquivo e repositório  
+  Relatórios em XLSX e PDF + resumo com IA local via Ollama  
+
+- **[Portfólio Interativo](https://portfolio.assistentecyber.com/)**  
+  Terminal web com comandos, easter eggs e assistente com RAG  
+
+---
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devgreick&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=39FF14&icon_color=39FF14&text_color=58A6FF&bg_color=0D1117" alt="GitHub Stats de devgreick" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devgreick&layout=compact&langs_count=8&hide_border=true&title_color=39FF14&text_color=58A6FF&bg_color=0D1117" alt="Linguagens mais usadas" />
   <br><br>
-  <img src="https://raw.githubusercontent.com/devgreick/devgreick/main/output/snake.svg" alt="Snake animation" /></div> 
+  <img src="https://raw.githubusercontent.com/devgreick/devgreick/main/output/snake.svg" alt="Snake animation" />
+</div>
 
 ---
 
 ### [+] CONTATO
 
 <div align="center">
-  
   <a href="https://www.linkedin.com/in/jacksongreick/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -460,6 +465,5 @@
       </td>
     </tr>
   </table>
-
 </div>
 
