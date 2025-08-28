@@ -412,11 +412,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Police seize VerifTools fake ID marketplace servers, domains](https://www.bleepingcomputer.com/news/security/police-seize-veriftools-fake-id-marketplace-servers-domains/)
+- [MATLAB dev says ransomware gang stole data of 10,000 people](https://www.bleepingcomputer.com/news/security/matlab-dev-says-ransomware-gang-stole-data-of-over-10-000-people/)
+- [Shadow IT Is Expanding Your Attack Surface. Here’s Proof](https://www.bleepingcomputer.com/news/security/shadow-it-is-expanding-your-attack-surface-heres-proof/)
 - [TransUnion suffers data breach impacting over 4.4 million people](https://www.bleepingcomputer.com/news/security/transunion-suffers-data-breach-impacting-over-44-million-people/)
-- [Webinar: Why Top Teams Are Prioritizing Code-to-Cloud Mapping in Our 2025 AppSec](https://thehackernews.com/2025/08/webinar-why-top-teams-are-prioritizing.html)
-- [Hidden Vulnerabilities of Project Management Tools &amp; How FluentPro Backup Secures Them](https://thehackernews.com/2025/08/hidden-vulnerabilities-of-project.html)
-- [Malicious Nx Packages in ‘s1ngularity’ Attack Leaked 2,349 GitHub, Cloud, and AI Credentials](https://thehackernews.com/2025/08/malicious-nx-packages-in-s1ngularity.html)
-- [U.S. Treasury Sanctions DPRK IT-Worker Scheme, Exposing $600K Crypto Transfers and $1M+ Profits](https://thehackernews.com/2025/08/us-treasury-sanctions-dprk-it-worker.html)
+- [Salt Typhoon Exploits Cisco, Ivanti, Palo Alto Flaws to Breach 600 Organizations Worldwide](https://thehackernews.com/2025/08/salt-typhoon-exploits-cisco-ivanti-palo.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
