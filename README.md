@@ -414,11 +414,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Google shares workarounds for auth failures on ChromeOS devices](https://www.bleepingcomputer.com/news/google/google-shares-chromeos-workarounds-for-clever-classlink-auth-failures/)
 - [Researchers Find VS Code Flaw Allowing Attackers to Republish Deleted Extensions Under Same Names](https://thehackernews.com/2025/08/researchers-find-vs-code-flaw-allowing.html)
 - [Malware devs abuse Anthropic’s Claude AI to build ransomware](https://www.bleepingcomputer.com/news/security/malware-devs-abuse-anthropics-claude-ai-to-build-ransomware/)
 - [Microsoft Word will save your files to the cloud by default](https://www.bleepingcomputer.com/news/microsoft/microsoft-word-will-save-your-files-to-the-cloud-by-default/)
 - [Passwordstate dev urges users to patch auth bypass vulnerability](https://www.bleepingcomputer.com/news/security/passwordstate-dev-urges-users-to-patch-auth-bypass-vulnerability-as-soon-as-possible/)
-- [Police seize VerifTools fake ID marketplace servers, domains](https://www.bleepingcomputer.com/news/security/police-seize-veriftools-fake-id-marketplace-servers-domains/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
