@@ -410,11 +410,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Hidden Vulnerabilities of Project Management Tools &amp; How FluentPro Backup Secures Them](https://thehackernews.com/2025/08/hidden-vulnerabilities-of-project.html)
+- [Malicious Nx Packages in ‘s1ngularity’ Attack Leaked 2,349 GitHub, Cloud, and AI Credentials](https://thehackernews.com/2025/08/malicious-nx-packages-in-s1ngularity.html)
 - [U.S. Treasury Sanctions DPRK IT-Worker Scheme, Exposing $600K Crypto Transfers and $1M+ Profits](https://thehackernews.com/2025/08/us-treasury-sanctions-dprk-it-worker.html)
 - [Storm-0501 hackers shift to ransomware attacks in the cloud](https://www.bleepingcomputer.com/news/security/storm-0501-hackers-shift-to-ransomware-attacks-in-the-cloud/)
 - [Experimental PromptLock ransomware uses AI to encrypt, steal data](https://www.bleepingcomputer.com/news/security/experimental-promptlock-ransomware-uses-ai-to-encrypt-steal-data/)
-- [FreePBX servers hacked via zero-day, emergency fix released](https://www.bleepingcomputer.com/news/security/freepbx-servers-hacked-via-zero-day-emergency-fix-released/)
-- [Storm-0501 Exploits Entra ID to Exfiltrate and Delete Azure Data in Hybrid Cloud Attacks](https://thehackernews.com/2025/08/storm-0501-exploits-entra-id-to.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
