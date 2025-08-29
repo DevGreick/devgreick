@@ -422,11 +422,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Can Your Security Stack See ChatGPT? Why Network Visibility Matters](https://thehackernews.com/2025/08/can-your-security-stack-see-chatgpt-why.html)
+- [Click Studios Patches Passwordstate Authentication Bypass Vulnerability in Emergency Access Page](https://thehackernews.com/2025/08/click-studios-patches-passwordstate.html)
+- [FreePBX Servers Targeted by Zero-Day Flaw, Emergency Patch Now Available](https://thehackernews.com/2025/08/freepbx-servers-targeted-by-zero-day.html)
 - [Feds Seize $6.4M VerifTools Fake-ID Marketplace, but Operators Relaunch on New Domain](https://thehackernews.com/2025/08/feds-seize-64m-veriftools-fake-id.html)
 - [Google Warns Salesloft OAuth Breach Extends Beyond Salesforce, Impacting All Integrations](https://thehackernews.com/2025/08/google-warns-salesloft-oauth-breach.html)
-- [TamperedChef Malware Disguised as Fake PDF Editors Steals Credentials and Cookies](https://thehackernews.com/2025/08/tamperedchef-malware-disguised-as-fake.html)
-- [Google warns Salesloft breach impacted some Workspace accounts](https://www.bleepingcomputer.com/news/security/google-warns-salesloft-breach-impacted-some-workspace-accounts/)
-- [US targets North Korean IT worker army with new sanctions](https://www.bleepingcomputer.com/news/legal/us-targets-north-korean-it-worker-army-with-new-sanctions/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
