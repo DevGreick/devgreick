@@ -421,11 +421,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Feds Seize $6.4M VerifTools Fake-ID Marketplace, but Operators Relaunch on New Domain](https://thehackernews.com/2025/08/feds-seize-64m-veriftools-fake-id.html)
 - [Google Warns Salesloft OAuth Breach Extends Beyond Salesforce, Impacting All Integrations](https://thehackernews.com/2025/08/google-warns-salesloft-oauth-breach.html)
 - [TamperedChef Malware Disguised as Fake PDF Editors Steals Credentials and Cookies](https://thehackernews.com/2025/08/tamperedchef-malware-disguised-as-fake.html)
 - [Google warns Salesloft breach impacted some Workspace accounts](https://www.bleepingcomputer.com/news/security/google-warns-salesloft-breach-impacted-some-workspace-accounts/)
 - [US targets North Korean IT worker army with new sanctions](https://www.bleepingcomputer.com/news/legal/us-targets-north-korean-it-worker-army-with-new-sanctions/)
-- [Google shares workarounds for auth failures on ChromeOS devices](https://www.bleepingcomputer.com/news/google/google-shares-chromeos-workarounds-for-clever-classlink-auth-failures/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
