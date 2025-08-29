@@ -424,11 +424,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft to enforce MFA for Azure resource management in October](https://www.bleepingcomputer.com/news/microsoft/microsoft-to-enforce-mfa-for-azure-resource-management-in-october/)
+- [Microsoft says recent Windows update didn&#39;t kill your SSD](https://www.bleepingcomputer.com/news/microsoft/microsoft-says-recent-KB5063878-windows-update-didnt-kill-your-ssd/)
 - [Amazon Disrupts APT29 Watering Hole Campaign Abusing Microsoft Device Code Authentication](https://thehackernews.com/2025/08/amazon-disrupts-apt29-watering-hole.html)
 - [Abandoned Sogou Zhuyin Update Server Hijacked, Weaponized in Taiwan Espionage Campaign](https://thehackernews.com/2025/08/abandoned-sogou-zhuyin-update-server.html)
 - [Can Your Security Stack See ChatGPT? Why Network Visibility Matters](https://thehackernews.com/2025/08/can-your-security-stack-see-chatgpt-why.html)
-- [Click Studios Patches Passwordstate Authentication Bypass Vulnerability in Emergency Access Page](https://thehackernews.com/2025/08/click-studios-patches-passwordstate.html)
-- [FreePBX Servers Targeted by Zero-Day Flaw, Emergency Patch Now Available](https://thehackernews.com/2025/08/freepbx-servers-targeted-by-zero-day.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
