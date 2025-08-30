@@ -482,11 +482,14 @@
 ---
 
 <div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=devgreick&theme=matrix&no-bg=true&no-frame=true&row=1&column=5" alt="Troféus do GitHub" />
+  <br><br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devgreick&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=39FF14&icon_color=39FF14&text_color=58A6FF&bg_color=0D1117" alt="GitHub Stats de devgreick" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devgreick&layout=compact&langs_count=8&hide_border=true&title_color=39FF14&text_color=58A6FF&bg_color=0D1117" alt="Linguagens mais usadas" />
   <br><br>
   <img src="https://raw.githubusercontent.com/devgreick/devgreick/main/output/snake.svg" alt="Snake animation" />
 </div>
+
 
 ---
 
