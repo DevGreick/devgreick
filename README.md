@@ -16,12 +16,10 @@
 
 ### [+] FEED DE AMEAÇAS AO VIVO: CISA - Vulnerabilidades Exploradas Conhecidas
 
-<details>
-  <summary><strong>Vulnerabilidades exploradas conhecidas da CISA</strong> • clique para abrir</summary>
 
   <!-- CVE-LIST:START -->
 <details>
-<summary><strong>Vulnerabilidades exploradas conhecidas da CISA</strong>  •  atualizado 01/09/2025 01:07 UTC  •  exibindo 10 itens</summary>
+<summary><strong>Vulnerabilidades exploradas conhecidas da CISA</strong> • atualizado 01/09/2025 01:07 UTC • exibindo 10 itens • <i>clique para abrir ou fechar</i></summary>
 
 > Fonte: CISA Known Exploited Vulnerabilities
 
