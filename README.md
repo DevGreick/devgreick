@@ -467,11 +467,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Android Droppers Now Deliver SMS Stealers and Spyware, Not Just Banking Trojans](https://thehackernews.com/2025/09/android-droppers-now-deliver-sms.html)
+- [Zscaler data breach exposes customer info after Salesloft Drift compromise](https://www.bleepingcomputer.com/news/security/zscaler-data-breach-exposes-customer-info-after-salesloft-drift-compromise/)
 - [Amazon disrupts Russian APT29 hackers targeting Microsoft 365](https://www.bleepingcomputer.com/news/security/amazon-disrupts-russian-apt29-hackers-targeting-microsoft-365/)
 - [⚡ Weekly Recap: WhatsApp 0-Day, Docker Bug, Salesforce Breach, Fake CAPTCHAs, Spyware App &amp; More](https://thehackernews.com/2025/09/weekly-recap-whatsapp-0-day-docker-bug.html)
 - [When Browsers Become the Attack Surface: Rethinking Security for Scattered Spider](https://thehackernews.com/2025/09/when-browsers-become-attack-surface.html)
-- [ScarCruft Uses RokRAT Malware in Operation HanKook Phantom Targeting South Korean Academics](https://thehackernews.com/2025/09/scarcruft-uses-rokrat-malware-in.html)
-- [Brokewell Android malware delivered through fake TradingView ads](https://www.bleepingcomputer.com/news/security/brokewell-android-malware-delivered-through-fake-tradingview-ads/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
