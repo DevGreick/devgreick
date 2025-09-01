@@ -7,7 +7,7 @@
 
 <div align="center">
   <p>
-    <strong>Vejo a cibersegurança como um jogo de xadrez, minha especialidade é automatizar os movimentos de defesa para estar sempre um passo à frente.</strong>
+    <strong>Cibersegurança é como um jogo de xadrez e minha especialidade é automatizar a defesa para antecipar cada movimento.</strong>
   </p>
   <code>STATUS: Ativo na NTT DATA</code>
 </div>
