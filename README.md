@@ -462,11 +462,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [ScarCruft Uses RokRAT Malware in Operation HanKook Phantom Targeting South Korean Academics](https://thehackernews.com/2025/09/scarcruft-uses-rokrat-malware-in.html)
 - [OpenAI is testing &quot;Thinking effort&quot; for ChatGPT](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-testing-thinking-effort-for-chatgpt/)
 - [TamperedChef infostealer delivered through fraudulent PDF Editor](https://www.bleepingcomputer.com/news/security/tamperedchef-infostealer-delivered-through-fraudulent-pdf-editor/)
 - [Attackers Abuse Velociraptor Forensic Tool to Deploy Visual Studio Code for C2 Tunneling](https://thehackernews.com/2025/08/attackers-abuse-velociraptor-forensic.html)
 - [WhatsApp Patches Zero-Click Exploit Targeting iOS and macOS Devices](https://thehackernews.com/2025/08/whatsapp-issues-emergency-update-for.html)
-- [Windows 11 KB5064081 update clears up CPU usage metrics in Task Manager](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5064081-update-clears-up-cpu-usage-metrics-in-task-manager/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
