@@ -19,7 +19,7 @@
 
   <!-- CVE-LIST:START -->
 <details>
-<summary><strong>Vulnerabilidades exploradas conhecidas da CISA</strong> • atualizado 01/09/2025 01:07 UTC • exibindo 10 itens • <i>clique para abrir ou fechar</i></summary>
+<summary><strong>Vulnerabilidades exploradas conhecidas da CISA</strong> • atualizado 01/09/2025 01:07 UTC • exibindo 10 itens • <i>clique para abrir</i></summary>
 
 > Fonte: CISA Known Exploited Vulnerabilities
 
