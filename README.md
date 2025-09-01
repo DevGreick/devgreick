@@ -7,7 +7,7 @@
 
 <div align="center">
   <p>
-    <strong>Automação para prever movimentos e Red Team para criá-los.</strong>
+    <strong>Automação para prever movimentos e Red Team para executá-los.</strong>
   </p>
   <p>
     <code>Automação</code> &nbsp;•&nbsp; <code>Threat Intel</code> &nbsp;•&nbsp; <code>Pentesting</code>
