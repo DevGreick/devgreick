@@ -538,12 +538,12 @@
   
   <table>
     <tr>
-      <td style="border: 0; padding-right: 10px;">
-        <span style="font-size: 18px; font-weight: 500; font-family: sans-serif; color: #c0caf5;">Apoie meu trabalho</span>
-      </td>
-      <td style="border: 0;">
-        <a href="https://buymeacoffee.com/devgreick" target="_blank">
-          <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" width="150">
+    <p align="center">
+  <strong>Apoie meu trabalho</strong><br>
+  <a href="https://buymeacoffee.com/devgreick" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" width="150">
+  </a>
+</p>
         </a>
       </td>
     </tr>
