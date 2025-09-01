@@ -12,7 +12,7 @@
   <p>
     <code>Automação</code> &nbsp;•&nbsp; <code>Threat Intel</code> &nbsp;•&nbsp; <code>Firewalls</code>
   </p>
-  <code>STATUS: Ativo na NTT DATA</code>
+  <img src="https://img.shields.io/badge/STATUS-Ativo_na_NTT_DATA-0e75b6?style=for-the-badge" alt="Status Profissional"/>
 </div>
 
 ---
