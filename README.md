@@ -17,7 +17,8 @@
 
 ---
 
-### [+] FEED DE AMEAÇAS AO VIVO: CISA - Vulnerabilidades Exploradas Conhecidas
+### [+] FEED DE AMEAÇAS AO VIVO: CISA - Vulnerabilidades Exploradas Conhecidas 👇 (clique para abrir)
+
 
 
   <!-- CVE-LIST:START -->
