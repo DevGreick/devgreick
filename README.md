@@ -9,6 +9,9 @@
   <p>
     <strong>Cibersegurança é como um jogo de xadrez e minha especialidade é automatizar para antecipar cada movimento.</strong>
   </p>
+  <p>
+    <code>Automação</code> &nbsp;•&nbsp; <code>Threat Intel</code> &nbsp;•&nbsp; <code>Firewalls</code>
+  </p>
   <code>STATUS: Ativo na NTT DATA</code>
 </div>
 
