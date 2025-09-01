@@ -7,7 +7,7 @@
 
 <div align="center">
   <p>
-    <strong>Cibersegurança é como um jogo de xadrez e minha especialidade é automatizar para antecipar cada movimento.</strong>
+    <strong>Automação para prever movimentos e Red Team para criá-los.</strong>
   </p>
   <p>
     <code>Automação</code> &nbsp;•&nbsp; <code>Threat Intel</code> &nbsp;•&nbsp; <code>Firewalls</code>
