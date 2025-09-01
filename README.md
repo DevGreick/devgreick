@@ -10,7 +10,7 @@
     <strong>Automação para prever movimentos e Red Team para criá-los.</strong>
   </p>
   <p>
-    <code>Automação</code> &nbsp;•&nbsp; <code>Threat Intel</code> &nbsp;•&nbsp; <code>Firewalls</code>
+    <code>Automação</code> &nbsp;•&nbsp; <code>Threat Intel</code> &nbsp;•&nbsp; <code>Pentesting</code>
   </p>
   <img src="https://img.shields.io/badge/STATUS-Ativo_na_NTT_DATA-0e75b6?style=for-the-badge" alt="Status Profissional"/>
 </div>
