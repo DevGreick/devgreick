@@ -464,11 +464,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [⚡ Weekly Recap: WhatsApp 0-Day, Docker Bug, Salesforce Breach, Fake CAPTCHAs, Spyware App &amp; More](https://thehackernews.com/2025/09/weekly-recap-whatsapp-0-day-docker-bug.html)
 - [When Browsers Become the Attack Surface: Rethinking Security for Scattered Spider](https://thehackernews.com/2025/09/when-browsers-become-attack-surface.html)
 - [ScarCruft Uses RokRAT Malware in Operation HanKook Phantom Targeting South Korean Academics](https://thehackernews.com/2025/09/scarcruft-uses-rokrat-malware-in.html)
-- [OpenAI is testing &quot;Thinking effort&quot; for ChatGPT](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-testing-thinking-effort-for-chatgpt/)
-- [TamperedChef infostealer delivered through fraudulent PDF Editor](https://www.bleepingcomputer.com/news/security/tamperedchef-infostealer-delivered-through-fraudulent-pdf-editor/)
-- [Attackers Abuse Velociraptor Forensic Tool to Deploy Visual Studio Code for C2 Tunneling](https://thehackernews.com/2025/08/attackers-abuse-velociraptor-forensic.html)
+- [Brokewell Android malware delivered through fake TradingView ads](https://www.bleepingcomputer.com/news/security/brokewell-android-malware-delivered-through-fake-tradingview-ads/)
+- [OpenAI releases big upgrade for ChatGPT Codex for agentic coding](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-releases-big-upgrade-for-chatgpt-codex-for-agentic-coding/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
