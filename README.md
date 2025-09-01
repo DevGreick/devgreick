@@ -1,15 +1,15 @@
 <div align="right">
-  <img src="https://komarev.com/ghpvc/?username=DevGreick&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=DevGreick&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </div>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=25&pause=1000&color=00FF7F&center=true&vCenter=true&width=520&lines=Ola...;BEM-VINDO." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=25&pause=1000&color=00FF7F&center=true&vCenter=true&width=520&lines=Ola...;BEM-VINDO." alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <p>
-    <strong>Analista de Cibersegurança | Automação | Threat Intel | Firewalls</strong>
-  </p>
-  <code>STATUS: Ativo na NTT DATA</code>
+  <p>
+    <strong>Vejo a cibersegurança como um jogo de xadrez, minha especialidade é automatizar os movimentos de defesa para estar sempre um passo à frente.</strong>
+  </p>
+  <code>STATUS: Ativo na NTT DATA</code>
 </div>
 
 ---
