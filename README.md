@@ -477,11 +477,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Shadow AI Discovery: A Critical Part of Enterprise AI Governance](https://thehackernews.com/2025/09/shadow-ai-discovery-critical-part-of.html)
+- [Ukrainian Network FDN3 Launches Massive Brute-Force Attacks on SSL VPN and RDP Devices](https://thehackernews.com/2025/09/ukrainian-network-fdn3-launches-massive.html)
 - [Silver Fox Exploits Microsoft-Signed WatchDog Driver to Deploy ValleyRAT Malware](https://thehackernews.com/2025/09/silver-fox-exploits-microsoft-signed.html)
 - [Malicious npm Package nodejs-smtp Mimics Nodemailer, Targets Atomic and Exodus Wallets](https://thehackernews.com/2025/09/malicious-npm-package-nodejs-smtp.html)
 - [Android Droppers Now Deliver SMS Stealers and Spyware, Not Just Banking Trojans](https://thehackernews.com/2025/09/android-droppers-now-deliver-sms.html)
-- [Zscaler data breach exposes customer info after Salesloft Drift compromise](https://www.bleepingcomputer.com/news/security/zscaler-data-breach-exposes-customer-info-after-salesloft-drift-compromise/)
-- [Amazon disrupts Russian APT29 hackers targeting Microsoft 365](https://www.bleepingcomputer.com/news/security/amazon-disrupts-russian-apt29-hackers-targeting-microsoft-365/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
