@@ -481,11 +481,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Cloudflare hit by data breach in Salesloft Drift supply chain attack](https://www.bleepingcomputer.com/news/security/cloudflare-hit-by-data-breach-in-salesloft-drift-supply-chain-attack/)
 - [Lazarus Group Expands Malware Arsenal With PondRAT, ThemeForestRAT, and RemotePE](https://thehackernews.com/2025/09/lazarus-group-expands-malware-arsenal.html)
 - [Cloudflare blocks largest recorded DDoS attack peaking at 11.5 Tbps](https://www.bleepingcomputer.com/news/security/cloudflare-blocks-record-breaking-115-tbps-ddos-attack/)
 - [No, Google did not warn 2.5 billion Gmail users to reset passwords](https://www.bleepingcomputer.com/news/technology/no-google-did-not-warn-25-billion-gmail-users-to-reset-passwords/)
 - [Researchers Warn of MystRodX Backdoor Using DNS and ICMP Triggers for Stealthy Control](https://thehackernews.com/2025/09/researchers-warn-of-mystrodx-backdoor.html)
-- [Jaguar Land Rover says cyberattack ‘severely disrupted’ production](https://www.bleepingcomputer.com/news/security/jaguar-land-rover-says-cyberattack-severely-disrupted-production/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
