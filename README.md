@@ -24,9 +24,19 @@
 
   <!-- CVE-LIST:START -->
 <details>
-<summary><strong>Vulnerabilidades exploradas conhecidas da CISA</strong>  •  atualizado 02/09/2025 12:24 UTC  •  exibindo 10 itens</summary>
+<summary><strong>Vulnerabilidades exploradas conhecidas da CISA</strong>  •  atualizado 02/09/2025 14:12 UTC  •  exibindo 10 itens</summary>
 
 > Fonte: CISA Known Exploited Vulnerabilities
+
+- **CVE-2020-24363** - TP-link TL-WA855RE Missing Authentication for Critical Function Vulnerability  
+  Fornecedor: TP-Link | Produto: TL-WA855RE | Adicionado: 2025-09-02  
+  TP-link TL-WA855RE contains a missing authentication for critical function vulnerability. This vulnerability could allow an unauthenticated attacker (on the same network) to submit a TDDP_RESET POST request for a factory reset and reboot. The attacker can then obtain incorrect access control by setting a new administrative password. The impacted products could be end-of-life (EoL) and/or end-of-service (EoS). Users should discontinue product utilization.  
+  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
+
+- **CVE-2025-55177** - Meta Platforms WhatsApp Incorrect Authorization Vulnerability  
+  Fornecedor: Meta Platforms | Produto: WhatsApp | Adicionado: 2025-09-02  
+  Meta Platforms WhatsApp contains an incorrect authorization vulnerability due to an incomplete authorization of linked device synchronization messages. This vulnerability could allow an unrelated user to trigger processing of content from an arbitrary URL on a target’s device.  
+  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
 
 - **CVE-2025-57819** - Sangoma FreePBX Authentication Bypass Vulnerability  
   Fornecedor: Sangoma | Produto: FreePBX | Adicionado: 2025-08-29  
@@ -68,17 +78,8 @@
   N-able N-Central contains a command injection vulnerability via improper sanitization of user input.  
   Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
 
-- **CVE-2025-8875** - N-able N-Central Insecure Deserialization Vulnerability  
-  Fornecedor: N-able | Produto: N-Central | Adicionado: 2025-08-13  
-  N-able N-Central contains an insecure deserialization vulnerability that could lead to command execution.  
-  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
-
-- **CVE-2025-8088** - RARLAB WinRAR Path Traversal Vulnerability  
-  Fornecedor: RARLAB | Produto: WinRAR | Adicionado: 2025-08-12  
-  RARLAB WinRAR contains a path traversal vulnerability affecting the Windows version of WinRAR. This vulnerability could allow an attacker to execute arbitrary code by crafting malicious archive files.  
-  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
-
 </details>
+
 
 
 
