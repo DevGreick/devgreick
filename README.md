@@ -478,11 +478,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Pennsylvania AG Office says ransomware attack behind recent outage](https://www.bleepingcomputer.com/news/security/pennsylvania-ag-office-says-ransomware-attack-behind-recent-outage/)
+- [Palo Alto Networks data breach exposes customer info, support cases](https://www.bleepingcomputer.com/news/security/palo-alto-networks-data-breach-exposes-customer-info-support-cases/)
 - [Shadow AI Discovery: A Critical Part of Enterprise AI Governance](https://thehackernews.com/2025/09/shadow-ai-discovery-critical-part-of.html)
 - [Ukrainian Network FDN3 Launches Massive Brute-Force Attacks on SSL VPN and RDP Devices](https://thehackernews.com/2025/09/ukrainian-network-fdn3-launches-massive.html)
 - [Silver Fox Exploits Microsoft-Signed WatchDog Driver to Deploy ValleyRAT Malware](https://thehackernews.com/2025/09/silver-fox-exploits-microsoft-signed.html)
-- [Malicious npm Package nodejs-smtp Mimics Nodemailer, Targets Atomic and Exodus Wallets](https://thehackernews.com/2025/09/malicious-npm-package-nodejs-smtp.html)
-- [Android Droppers Now Deliver SMS Stealers and Spyware, Not Just Banking Trojans](https://thehackernews.com/2025/09/android-droppers-now-deliver-sms.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
