@@ -492,11 +492,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Hackers use new HexStrike-AI tool to rapidly exploit n-day flaws](https://www.bleepingcomputer.com/news/security/hackers-use-new-hexstrike-ai-tool-to-rapidly-exploit-n-day-flaws/)
+- [US sues robot toy maker for exposing children&#39;s data to Chinese devs](https://www.bleepingcomputer.com/news/security/us-sues-robot-toy-maker-for-exposing-childrens-data-to-chinese-devs/)
+- [Police disrupts Streameast, largest pirated sports streaming network](https://www.bleepingcomputer.com/news/security/streameast-the-largest-pirated-sports-platform-disrupted-by-police/)
+- [SaaS giant Workiva discloses data breach after Salesforce attack](https://www.bleepingcomputer.com/news/security/saas-giant-workiva-discloses-data-breach-after-salesforce-attack/)
 - [Google fixes actively exploited Android flaws in September update](https://www.bleepingcomputer.com/news/security/google-fixes-actively-exploited-android-flaws-in-september-update/)
-- [Disney to pay $10M to settle claims it collected kids’ data on YouTube](https://www.bleepingcomputer.com/news/security/disney-to-pay-10m-to-settle-claims-it-collected-kids-data-on-youtube/)
-- [They know where you are: Cybersecurity and the shadow world of geolocation](https://www.bleepingcomputer.com/news/security/they-know-where-you-are-cybersecurity-and-the-shadow-world-of-geolocation/)
-- [Threat Actors Weaponize HexStrike AI to Exploit Citrix Flaws Within a Week of Disclosure](https://thehackernews.com/2025/09/threat-actors-weaponize-hexstrike-ai-to.html)
-- [Detecting Data Leaks Before Disaster](https://thehackernews.com/2025/09/detecting-data-leaks-before-disaster.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
