@@ -491,11 +491,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Google fixes actively exploited Android flaws in September update](https://www.bleepingcomputer.com/news/security/google-fixes-actively-exploited-android-flaws-in-september-update/)
+- [Disney to pay $10M to settle claims it collected kids’ data on YouTube](https://www.bleepingcomputer.com/news/security/disney-to-pay-10m-to-settle-claims-it-collected-kids-data-on-youtube/)
+- [They know where you are: Cybersecurity and the shadow world of geolocation](https://www.bleepingcomputer.com/news/security/they-know-where-you-are-cybersecurity-and-the-shadow-world-of-geolocation/)
 - [Threat Actors Weaponize HexStrike AI to Exploit Citrix Flaws Within a Week of Disclosure](https://thehackernews.com/2025/09/threat-actors-weaponize-hexstrike-ai-to.html)
 - [Detecting Data Leaks Before Disaster](https://thehackernews.com/2025/09/detecting-data-leaks-before-disaster.html)
-- [Android Security Alert: Google Patches 120 Flaws, Including Two Zero-Days Under Attack](https://thehackernews.com/2025/09/android-security-alert-google-patches.html)
-- [Iranian Hackers Exploit 100+ Embassy Email Accounts in Global Phishing Targeting Diplomats](https://thehackernews.com/2025/09/iranian-hackers-exploit-100-embassy.html)
-- [AI-Driven Trends in Endpoint Security: What the 2025 Gartner® Magic Quadrant™ Reveals](https://thehackernews.com/2025/07/ai-driven-trends-in-endpoint-security.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
