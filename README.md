@@ -488,11 +488,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Cloudflare Blocks Record-Breaking 11.5 Tbps DDoS Attack](https://thehackernews.com/2025/09/cloudflare-blocks-record-breaking-115.html)
 - [CISA Adds TP-Link and WhatsApp Flaws to KEV Catalog Amid Active Exploitation](https://thehackernews.com/2025/09/cisa-adds-tp-link-and-whatsapp-flaws-to.html)
 - [Salesloft Takes Drift Offline After OAuth Token Theft Hits Hundreds of Organizations](https://thehackernews.com/2025/09/salesloft-takes-drift-offline-after.html)
 - [Hackers breach fintech firm in attempted $130M bank heist](https://www.bleepingcomputer.com/news/security/hackers-breach-fintech-firm-in-attempted-130m-bank-heist/)
 - [Cloudflare hit by data breach in Salesloft Drift supply chain attack](https://www.bleepingcomputer.com/news/security/cloudflare-hit-by-data-breach-in-salesloft-drift-supply-chain-attack/)
-- [Lazarus Group Expands Malware Arsenal With PondRAT, ThemeForestRAT, and RemotePE](https://thehackernews.com/2025/09/lazarus-group-expands-malware-arsenal.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
