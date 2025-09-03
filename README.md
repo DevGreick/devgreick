@@ -24,9 +24,19 @@
 
   <!-- CVE-LIST:START -->
 <details>
-<summary><strong>Vulnerabilidades exploradas conhecidas da CISA</strong>  •  atualizado 03/09/2025 16:14 UTC  •  exibindo 10 itens</summary>
+<summary><strong>Vulnerabilidades exploradas conhecidas da CISA</strong>  •  atualizado 03/09/2025 18:17 UTC  •  exibindo 10 itens</summary>
 
 > Fonte: CISA Known Exploited Vulnerabilities
+
+- **CVE-2023-50224** - TP-Link TL-WR841N Authentication Bypass by Spoofing Vulnerability  
+  Fornecedor: TP-Link | Produto: TL-WR841N | Adicionado: 2025-09-03  
+  TP-Link TL-WR841N contains an authentication bypass by spoofing vulnerability within the httpd service, which listens on TCP port 80 by default, leading to the disclose of stored credentials. The impacted products could be end-of-life (EoL) and/or end-of-service (EoS). Users should discontinue product utilization.  
+  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
+
+- **CVE-2025-9377** - TP-Link Archer C7(EU) and TL-WR841N/ND(MS) OS Command Injection Vulnerability  
+  Fornecedor: TP-Link | Produto: Multiple Routers | Adicionado: 2025-09-03  
+  TP-Link Archer C7(EU) and TL-WR841N/ND(MS) contain an OS command injection vulnerability that exists in the Parental Control page. The impacted products could be end-of-life (EoL) and/or end-of-service (EoS). Users should discontinue product utilization.  
+  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
 
 - **CVE-2020-24363** - TP-link TL-WA855RE Missing Authentication for Critical Function Vulnerability  
   Fornecedor: TP-Link | Produto: TL-WA855RE | Adicionado: 2025-09-02  
@@ -68,17 +78,8 @@
   Apple iOS, iPadOS, and macOS contain an out-of-bounds write vulnerability in the Image I/O framework.  
   Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
 
-- **CVE-2025-54948** - Trend Micro Apex One OS Command Injection Vulnerability  
-  Fornecedor: Trend Micro | Produto: Apex One | Adicionado: 2025-08-18  
-  Trend Micro Apex One Management Console (on-premise) contains an OS command injection vulnerability that could allow a pre-authenticated remote attacker to upload malicious code and execute commands on affected installations.  
-  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
-
-- **CVE-2025-8876** - N-able N-Central Command Injection Vulnerability  
-  Fornecedor: N-able | Produto: N-Central | Adicionado: 2025-08-13  
-  N-able N-Central contains a command injection vulnerability via improper sanitization of user input.  
-  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
-
 </details>
+
 
 
 
