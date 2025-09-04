@@ -21,64 +21,7 @@
 ### [+] FEED DE AMEAÇAS AO VIVO: CISA - Vulnerabilidades Exploradas Conhecidas 👇 (clique para abrir)
 
 <!-- CVE-LIST:START -->
-<details>
-<summary><strong>Vulnerabilidades exploradas conhecidas da CISA</strong>  •  atualizado 04/09/2025 03:07 UTC  •  exibindo 10 itens</summary>
-
-> Fonte: CISA Known Exploited Vulnerabilities
-
-- **CVE-2023-50224** - TP-Link TL-WR841N Authentication Bypass by Spoofing Vulnerability  
-  Fornecedor: TP-Link | Produto: TL-WR841N | Adicionado: 2025-09-03  
-  TP-Link TL-WR841N contains an authentication bypass by spoofing vulnerability within the httpd service, which listens on TCP port 80 by default, leading to the disclose of stored credentials. The impacted products could be end-of-life (EoL) and/or end-of-service (EoS). Users should discontinue product utilization.  
-  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
-
-- **CVE-2025-9377** - TP-Link Archer C7(EU) and TL-WR841N/ND(MS) OS Command Injection Vulnerability  
-  Fornecedor: TP-Link | Produto: Multiple Routers | Adicionado: 2025-09-03  
-  TP-Link Archer C7(EU) and TL-WR841N/ND(MS) contain an OS command injection vulnerability that exists in the Parental Control page. The impacted products could be end-of-life (EoL) and/or end-of-service (EoS). Users should discontinue product utilization.  
-  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
-
-- **CVE-2020-24363** - TP-link TL-WA855RE Missing Authentication for Critical Function Vulnerability  
-  Fornecedor: TP-Link | Produto: TL-WA855RE | Adicionado: 2025-09-02  
-  TP-link TL-WA855RE contains a missing authentication for critical function vulnerability. This vulnerability could allow an unauthenticated attacker (on the same network) to submit a TDDP_RESET POST request for a factory reset and reboot. The attacker can then obtain incorrect access control by setting a new administrative password. The impacted products could be end-of-life (EoL) and/or end-of-service (EoS). Users should discontinue product utilization.  
-  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
-
-- **CVE-2025-55177** - Meta Platforms WhatsApp Incorrect Authorization Vulnerability  
-  Fornecedor: Meta Platforms | Produto: WhatsApp | Adicionado: 2025-09-02  
-  Meta Platforms WhatsApp contains an incorrect authorization vulnerability due to an incomplete authorization of linked device synchronization messages. This vulnerability could allow an unrelated user to trigger processing of content from an arbitrary URL on a target’s device.  
-  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
-
-- **CVE-2025-57819** - Sangoma FreePBX Authentication Bypass Vulnerability  
-  Fornecedor: Sangoma | Produto: FreePBX | Adicionado: 2025-08-29  
-  Sangoma FreePBX contains an authentication bypass vulnerability due to insufficiently sanitized user-supplied data allows unauthenticated access to FreePBX Administrator leading to arbitrary database manipulation and remote code execution.  
-  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
-
-- **CVE-2025-7775** - Citrix NetScaler Memory Overflow Vulnerability  
-  Fornecedor: Citrix | Produto: NetScaler | Adicionado: 2025-08-26  
-  Citrix NetScaler ADC and NetScaler Gateway contain a memory overflow vulnerability that could allow for remote code execution and/or denial of service.  
-  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
-
-- **CVE-2025-48384** - Git Link Following Vulnerability  
-  Fornecedor: Git | Produto: Git | Adicionado: 2025-08-25  
-  Git contains a link following vulnerability that stems from Git’s inconsistent handling of carriage return characters in configuration files.  
-  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
-
-- **CVE-2024-8068** - Citrix Session Recording Improper Privilege Management Vulnerability  
-  Fornecedor: Citrix | Produto: Session Recording | Adicionado: 2025-08-25  
-  Citrix Session Recording contains an improper privilege management vulnerability that could allow for privilege escalation to NetworkService Account access. An attacker must be an authenticated user in the same Windows Active Directory domain as the session recording server domain.  
-  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
-
-- **CVE-2024-8069** - Citrix Session Recording Deserialization of Untrusted Data Vulnerability  
-  Fornecedor: Citrix | Produto: Session Recording | Adicionado: 2025-08-25  
-  Citrix Session Recording contains a deserialization of untrusted data vulnerability that allows limited remote code execution with privilege of a NetworkService Account access. Attacker must be an authenticated user on the same intranet as the session recording server.  
-  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
-
-- **CVE-2025-43300** - Apple iOS, iPadOS, and macOS Out-of-Bounds Write Vulnerability  
-  Fornecedor: Apple | Produto: iOS, iPadOS, and macOS | Adicionado: 2025-08-21  
-  Apple iOS, iPadOS, and macOS contain an out-of-bounds write vulnerability in the Image I/O framework.  
-  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
-
-</details>
-
-
+Aguardando a próxima atualização da automação...
 <!-- CVE-LIST:END -->
 
 ---
@@ -86,11 +29,11 @@
 ### [+] FEED DE INTEL: ÚLTIMOS POSTS DE SEGURANÇA
 
 <!-- BLOG-POST-LIST:START -->
-- [Threat actors abuse X’s Grok AI to spread malicious links](https://www.bleepingcomputer.com/news/security/threat-actors-abuse-xs-grok-ai-to-spread-malicious-links/)
-- [Malicious npm Packages Exploit Ethereum Smart Contracts to Target Crypto Developers](https://thehackernews.com/2025/09/malicious-npm-packages-exploit-ethereum.html)
-- [US offers $10 million bounty for info on Russian FSB hackers](https://www.bleepingcomputer.com/news/security/us-offers-10-million-bounty-for-info-on-russian-fsb-hackers/)
-- [Hackers use new HexStrike-AI tool to rapidly exploit n-day flaws](https://www.bleepingcomputer.com/news/security/hackers-use-new-hexstrike-ai-tool-to-rapidly-exploit-n-day-flaws/)
-- [US sues robot toy maker for exposing children&#39;s data to Chinese devs](https://www.bleepingcomputer.com/news/security/us-sues-robot-toy-maker-for-exposing-childrens-data-to-chinese-devs/)
+Threat actors abuse X’s Grok AI to spread malicious links  
+Malicious npm Packages Exploit Ethereum Smart Contracts to Target Crypto Developers  
+US offers $10 million bounty for info on Russian FSB hackers  
+Hackers use new HexStrike-AI tool to rapidly exploit n-day flaws  
+US sues robot toy maker for exposing children's data to Chinese devs  
 <!-- BLOG-POST-LIST:END -->
 
 ---
@@ -118,24 +61,21 @@ Ferramentas de automação (Python, Bash, Docker), análise (Nmap, Wireshark) e 
 ---
 
 ### [+] CERTIFICAÇÕES ATIVAS
+
 <div align="center">
   <img src="https://img.shields.io/badge/Google%20Cloud-Associate%20Cloud%20Engineer-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Associate Cloud Engineer"/>
   <img src="https://img.shields.io/badge/LPI-LPIC--1-009639?style=for-the-badge&logo=linux&logoColor=white" alt="LPIC-1 Certification"/>
 </div>
 
-
 ---
 
-## [+] Projetos em alta <img src="https://img.icons8.com/fluency/48/star.png" alt="projeto destaque" width="28"/>
+### [+] PROJETOS EM ALTA <img src="https://img.icons8.com/fluency/48/star.png" alt="projeto destaque" width="28"/>
 
-[![⭐ ThreatSpy](https://img.shields.io/badge/⭐_ThreatSpy-2980B9?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/devgreick/ThreatSpy)
-> *Ferramenta de análise de ameaças que automatiza a consulta de IPs/URLs em múltiplas fontes, gera relatórios e cria resumos com IA local.*
-> <br>
+Ferramenta de análise de ameaças que automatiza a consulta de IPs/URLs em múltiplas fontes, gera relatórios e cria resumos com IA local.  
+<br>
 
-
-[![💻 Portfólio Interativo](https://img.shields.io/badge/💻_Portfólio_Interativo-1ABC9C?style=for-the-badge&logo=linux&logoColor=white&labelColor=0D1117)](https://portfolio.assistentecyber.com/)
-> *Portfólio no formato de um sistema operacional, com terminal web, comandos, easter eggs e assistente com RAG.*
-> <br>
+Portfólio no formato de um sistema operacional, com terminal web, comandos, easter eggs e assistente com RAG.  
+<br>
 
 ---
 
