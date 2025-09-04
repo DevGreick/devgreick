@@ -1,28 +1,30 @@
 <div align="right">
-  <img src="https://komarev.com/ghpvc/?username=DevGreick&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=DevGreick&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</div>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=25&pause=1000&color=00FF7F&center=true&vCenter=true&width=520&lines=Ola...;BEM-VINDO." alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=25&pause=1000&color=00FF7F&center=true&vCenter=true&width=520&lines=Ola...;BEM-VINDO." alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <p>
-    <strong>Automação para prever movimentos e Red Team para executá-los.</strong>
-  </p>
+  <p>
+    <strong>Automação para prever movimentos e Red Team para executá-los.</strong>
+  </p>
   <p>
     <code>Automação</code> &nbsp;•&nbsp; <code>Threat Intel</code> &nbsp;•&nbsp; <code>Pentesting</code>
   </p>
-  <img src="https://img.shields.io/badge/STATUS-Ativo_na_NTT_DATA-0e75b6?style=for-the-badge" alt="Status Profissional"/>
+  <img src="https://img.shields.io/badge/STATUS-Ativo_na_NTT_DATA-0e75b6?style=for-the-badge" alt="Status Profissional"/>
+
 </div>
 
 ---
 
 ### [+] FEED DE AMEAÇAS AO VIVO: CISA - Vulnerabilidades Exploradas Conhecidas 👇 (clique para abrir)
 
-<!-- CVE-LIST:START -->
+
+
+  <!-- CVE-LIST:START -->
 <details>
-<summary><strong>Vulnerabilidades exploradas conhecidas da CISA</strong>  •  atualizado 04/09/2025 03:27 UTC  •  exibindo 10 itens</summary>
+<summary><strong>Vulnerabilidades exploradas conhecidas da CISA</strong>  •  atualizado 04/09/2025 02:50 UTC  •  exibindo 10 itens</summary>
 
 > Fonte: CISA Known Exploited Vulnerabilities
 
@@ -79,11 +81,420 @@
 </details>
 
 
-<!-- CVE-LIST:END -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <!-- CVE-LIST:END -->
+
+</details>
 
 ---
 
-### [+] FEED DE INTEL: ÚLTIMOS POSTS DE SEGURANÇA
+### [+] FEED DE INTEL: ÚLTIMOS POSTS
+
+> Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
 - [Threat actors abuse X’s Grok AI to spread malicious links](https://www.bleepingcomputer.com/news/security/threat-actors-abuse-xs-grok-ai-to-spread-malicious-links/)
@@ -94,8 +505,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 ---
-
-### [+] ARSENAL: FERRAMENTAS E TECNOLOGIAS
+### [+] ARSENAL: FERRAMENTAS, TECNOLOGIAS E PROJETOS
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -115,15 +525,6 @@
 
 ---
 
-### [+] CERTIFICAÇÕES ATIVAS
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Google%20Cloud-Associate%20Cloud%20Engineer-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Associate Cloud Engineer"/>
-  <img src="https://img.shields.io/badge/LPI-LPIC--1-009639?style=for-the-badge&logo=linux&logoColor=white" alt="LPIC-1 Certification"/>
-</div>
-
----
-
 ## [+] Projetos em alta <img src="https://img.icons8.com/fluency/48/star.png" alt="projeto destaque" width="28"/>
 
 [![⭐ ThreatSpy](https://img.shields.io/badge/⭐_ThreatSpy-2980B9?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/devgreick/ThreatSpy)
@@ -135,9 +536,11 @@
 > *Portfólio no formato de um sistema operacional, com terminal web, comandos, easter eggs e assistente com RAG.*
 > <br>
 
-### [+] ATIVIDADE RECENTE NO GITHUB
 
-<!-- activity:START -->- ✨ DevGreick pushed devgreick- ✨ DevGreick pushed ThreatSpy- ✨ DevGreick pushed devgreick- ✨ DevGreick pushed devgreick- 🎉 DevGreick pushed devgreick<!-- activity:END -->
+
+
+
+---
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=devgreick&theme=matrix&no-bg=true&no-frame=true&row=1&column=5" alt="Troféus do GitHub" />
@@ -147,6 +550,7 @@
   <br><br>
   <img src="https://raw.githubusercontent.com/devgreick/devgreick/main/output/snake.svg" alt="Snake animation" />
 </div>
+
 
 ---
 
@@ -159,11 +563,20 @@
   <a href="https://portfolio.assistentecyber.com/" target="_blank">
     <img src="https://img.shields.io/badge/Portfólio_Interativo-000000?style=for-the-badge&logo=linux-terminal&logoColor=00ff7f" alt="Portfólio"/>
   </a>
+  
   <br><br>
-  <p>
-    <strong>Apoie meu trabalho</strong><br>
-    <a href="https://buymeacoffee.com/devgreick" target="_blank">
-      <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" width="150">
-    </a>
-  </p>
+  
+  <table>
+    <tr>
+    <p align="center">
+  <strong>Apoie meu trabalho</strong><br>
+  <a href="https://buymeacoffee.com/devgreick" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" width="150">
+  </a>
+</p>
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
+
