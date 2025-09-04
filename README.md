@@ -29,11 +29,11 @@ Aguardando a próxima atualização da automação...
 ### [+] FEED DE INTEL: ÚLTIMOS POSTS DE SEGURANÇA
 
 <!-- BLOG-POST-LIST:START -->
-Threat actors abuse X’s Grok AI to spread malicious links  
-Malicious npm Packages Exploit Ethereum Smart Contracts to Target Crypto Developers  
-US offers $10 million bounty for info on Russian FSB hackers  
-Hackers use new HexStrike-AI tool to rapidly exploit n-day flaws  
-US sues robot toy maker for exposing children's data to Chinese devs  
+- [Threat actors abuse X’s Grok AI to spread malicious links](https://www.bleepingcomputer.com/news/security/threat-actors-abuse-xs-grok-ai-to-spread-malicious-links/)
+- [Malicious npm Packages Exploit Ethereum Smart Contracts to Target Crypto Developers](https://thehackernews.com/2025/09/malicious-npm-packages-exploit-ethereum.html)
+- [US offers $10 million bounty for info on Russian FSB hackers](https://www.bleepingcomputer.com/news/security/us-offers-10-million-bounty-for-info-on-russian-fsb-hackers/)
+- [Hackers use new HexStrike-AI tool to rapidly exploit n-day flaws](https://www.bleepingcomputer.com/news/security/hackers-use-new-hexstrike-ai-tool-to-rapidly-exploit-n-day-flaws/)
+- [US sues robot toy maker for exposing children&#39;s data to Chinese devs](https://www.bleepingcomputer.com/news/security/us-sues-robot-toy-maker-for-exposing-childrens-data-to-chinese-devs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
