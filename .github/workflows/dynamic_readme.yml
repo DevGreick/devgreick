@@ -2,7 +2,7 @@ name: Atualizar README Dinâmico
 
 on:
   schedule:
-    - cron: '0 */2 * * *' # Roda a cada 2 horas
+    - cron: '0 */2 * * *'
   workflow_dispatch:
 
 jobs:
@@ -16,22 +16,13 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Atualizar seção de Atividade Recente no GitHub
-        uses: gautamkrishnar/blog-post-workflow@v1
-        with:
-          feed_list: "https://github.com/DevGreick.atom"
-          max_post_count: 5
-          comment_tag_name: "activity"
-          template: "- $randomEmoji(🎉,🐛,🔥,💡,✨,🚀) $title"
-          commit_message: "chore: atualiza atividade recente no README"
-
       - name: Atualizar seção de posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://feeds.feedburner.com/TheHackersNews,https://www.bleepingcomputer.com/feed/"
           max_post_count: 5
           comment_tag_name: "BLOG-POST-LIST"
-          commit_message: "chore: atualiza readme com últimos posts"
+          commit_message: "atualiza readme com últimos posts"
 
       - name: Preparar Python
         uses: actions/setup-python@v5
@@ -62,4 +53,3 @@ jobs:
         with:
           commit_message: "chore: atualiza snake"
           file_pattern: output/*.svg
-
