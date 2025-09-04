@@ -81,9 +81,9 @@ Portfólio no formato de um sistema operacional, com terminal web, comandos, eas
 
 ### [+] ATIVIDADE RECENTE NO GITHUB
 
-<!--START_SECTION:activity-->
+<!-- activity:START -->
 Aguardando a próxima atualização da automação...
-<!--END_SECTION:activity-->
+<!-- activity:END -->
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=devgreick&theme=matrix&no-bg=true&no-frame=true&row=1&column=5" alt="Troféus do GitHub" />
