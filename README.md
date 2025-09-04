@@ -24,9 +24,24 @@
 
   <!-- CVE-LIST:START -->
 <details>
-<summary><strong>Vulnerabilidades exploradas conhecidas da CISA</strong>  •  atualizado 04/09/2025 16:14 UTC  •  exibindo 10 itens</summary>
+<summary><strong>Vulnerabilidades exploradas conhecidas da CISA</strong>  •  atualizado 04/09/2025 18:16 UTC  •  exibindo 10 itens</summary>
 
 > Fonte: CISA Known Exploited Vulnerabilities
+
+- **CVE-2025-38352** - Linux Kernel Time-of-Check Time-of-Use (TOCTOU) Race Condition Vulnerability  
+  Fornecedor: Linux | Produto: Kernel | Adicionado: 2025-09-04  
+  Linux kernel contains a time-of-check time-of-use (TOCTOU) race condition vulnerability that has a high impact on confidentiality, integrity, and availability.  
+  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
+
+- **CVE-2025-48543** - Android Runtime Unspecified Vulnerability  
+  Fornecedor: Android | Produto: Runtime | Adicionado: 2025-09-04  
+  Android Runtime contains an unspecified vulnerability that allows for privilege escalation.  
+  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
+
+- **CVE-2025-53690** - Sitecore Multiple Products Deserialization of Untrusted Data Vulnerability  
+  Fornecedor: Sitecore | Produto: Multiple Products | Adicionado: 2025-09-04  
+  Sitecore Experience Manager (XM), Experience Platform (XP), Experience Commerce (XC), and Managed Cloud contain a deserialization of untrusted data vulnerability involving the use of default machine keys. This flaw allows attackers to exploit exposed ASP.NET machine keys to achieve remote code execution.   
+  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
 
 - **CVE-2023-50224** - TP-Link TL-WR841N Authentication Bypass by Spoofing Vulnerability  
   Fornecedor: TP-Link | Produto: TL-WR841N | Adicionado: 2025-09-03  
@@ -63,22 +78,8 @@
   Git contains a link following vulnerability that stems from Git’s inconsistent handling of carriage return characters in configuration files.  
   Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
 
-- **CVE-2024-8068** - Citrix Session Recording Improper Privilege Management Vulnerability  
-  Fornecedor: Citrix | Produto: Session Recording | Adicionado: 2025-08-25  
-  Citrix Session Recording contains an improper privilege management vulnerability that could allow for privilege escalation to NetworkService Account access. An attacker must be an authenticated user in the same Windows Active Directory domain as the session recording server domain.  
-  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
-
-- **CVE-2024-8069** - Citrix Session Recording Deserialization of Untrusted Data Vulnerability  
-  Fornecedor: Citrix | Produto: Session Recording | Adicionado: 2025-08-25  
-  Citrix Session Recording contains a deserialization of untrusted data vulnerability that allows limited remote code execution with privilege of a NetworkService Account access. Attacker must be an authenticated user on the same intranet as the session recording server.  
-  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
-
-- **CVE-2025-43300** - Apple iOS, iPadOS, and macOS Out-of-Bounds Write Vulnerability  
-  Fornecedor: Apple | Produto: iOS, iPadOS, and macOS | Adicionado: 2025-08-21  
-  Apple iOS, iPadOS, and macOS contain an out-of-bounds write vulnerability in the Image I/O framework.  
-  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
-
 </details>
+
 
 
 
