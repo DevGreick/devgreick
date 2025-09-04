@@ -136,7 +136,7 @@
 
 ### [+] ATIVIDADE RECENTE NO GITHUB
 
-<!-- activity:START -->- ✨ DevGreick pushed devgreick- ✨ DevGreick pushed devgreick- ✨ DevGreick pushed devgreick- ✨ DevGreick pushed devgreick- 🎉 DevGreick pushed ThreatSpy<!-- activity:END -->
+<!-- activity:START -->- ✨ DevGreick pushed devgreick- ✨ DevGreick pushed ThreatSpy- ✨ DevGreick pushed devgreick- ✨ DevGreick pushed devgreick- 🎉 DevGreick pushed devgreick<!-- activity:END -->
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=devgreick&theme=matrix&no-bg=true&no-frame=true&row=1&column=5" alt="Troféus do GitHub" />
