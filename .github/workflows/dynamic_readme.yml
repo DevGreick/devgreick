@@ -21,8 +21,7 @@ jobs:
         with:
           feed_list: "https://github.com/DevGreick.atom"
           max_post_count: 5
-          start_comment: "<!--START_SECTION:activity-->"
-          end_comment: "<!--END_SECTION:activity-->"
+          comment_tag_name: "activity" 
           template: "- $randomEmoji(🎉,🐛,🔥,💡,✨,🚀) $title"
           commit_message: "chore: atualiza atividade recente no README"
 
@@ -63,3 +62,4 @@ jobs:
         with:
           commit_message: "chore: atualiza snake"
           file_pattern: output/*.svg
+
