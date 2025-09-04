@@ -21,7 +21,63 @@
 ### [+] FEED DE AMEAÇAS AO VIVO: CISA - Vulnerabilidades Exploradas Conhecidas 👇 (clique para abrir)
 
 <!-- CVE-LIST:START -->
-Aguardando a próxima atualização da automação...
+<details>
+<summary><strong>Vulnerabilidades exploradas conhecidas da CISA</strong>  •  atualizado 04/09/2025 03:03 UTC  •  exibindo 10 itens</summary>
+
+> Fonte: CISA Known Exploited Vulnerabilities
+
+- **CVE-2023-50224** - TP-Link TL-WR841N Authentication Bypass by Spoofing Vulnerability  
+  Fornecedor: TP-Link | Produto: TL-WR841N | Adicionado: 2025-09-03  
+  TP-Link TL-WR841N contains an authentication bypass by spoofing vulnerability within the httpd service, which listens on TCP port 80 by default, leading to the disclose of stored credentials. The impacted products could be end-of-life (EoL) and/or end-of-service (EoS). Users should discontinue product utilization.  
+  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
+
+- **CVE-2025-9377** - TP-Link Archer C7(EU) and TL-WR841N/ND(MS) OS Command Injection Vulnerability  
+  Fornecedor: TP-Link | Produto: Multiple Routers | Adicionado: 2025-09-03  
+  TP-Link Archer C7(EU) and TL-WR841N/ND(MS) contain an OS command injection vulnerability that exists in the Parental Control page. The impacted products could be end-of-life (EoL) and/or end-of-service (EoS). Users should discontinue product utilization.  
+  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
+
+- **CVE-2020-24363** - TP-link TL-WA855RE Missing Authentication for Critical Function Vulnerability  
+  Fornecedor: TP-Link | Produto: TL-WA855RE | Adicionado: 2025-09-02  
+  TP-link TL-WA855RE contains a missing authentication for critical function vulnerability. This vulnerability could allow an unauthenticated attacker (on the same network) to submit a TDDP_RESET POST request for a factory reset and reboot. The attacker can then obtain incorrect access control by setting a new administrative password. The impacted products could be end-of-life (EoL) and/or end-of-service (EoS). Users should discontinue product utilization.  
+  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
+
+- **CVE-2025-55177** - Meta Platforms WhatsApp Incorrect Authorization Vulnerability  
+  Fornecedor: Meta Platforms | Produto: WhatsApp | Adicionado: 2025-09-02  
+  Meta Platforms WhatsApp contains an incorrect authorization vulnerability due to an incomplete authorization of linked device synchronization messages. This vulnerability could allow an unrelated user to trigger processing of content from an arbitrary URL on a target’s device.  
+  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
+
+- **CVE-2025-57819** - Sangoma FreePBX Authentication Bypass Vulnerability  
+  Fornecedor: Sangoma | Produto: FreePBX | Adicionado: 2025-08-29  
+  Sangoma FreePBX contains an authentication bypass vulnerability due to insufficiently sanitized user-supplied data allows unauthenticated access to FreePBX Administrator leading to arbitrary database manipulation and remote code execution.  
+  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
+
+- **CVE-2025-7775** - Citrix NetScaler Memory Overflow Vulnerability  
+  Fornecedor: Citrix | Produto: NetScaler | Adicionado: 2025-08-26  
+  Citrix NetScaler ADC and NetScaler Gateway contain a memory overflow vulnerability that could allow for remote code execution and/or denial of service.  
+  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
+
+- **CVE-2025-48384** - Git Link Following Vulnerability  
+  Fornecedor: Git | Produto: Git | Adicionado: 2025-08-25  
+  Git contains a link following vulnerability that stems from Git’s inconsistent handling of carriage return characters in configuration files.  
+  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
+
+- **CVE-2024-8068** - Citrix Session Recording Improper Privilege Management Vulnerability  
+  Fornecedor: Citrix | Produto: Session Recording | Adicionado: 2025-08-25  
+  Citrix Session Recording contains an improper privilege management vulnerability that could allow for privilege escalation to NetworkService Account access. An attacker must be an authenticated user in the same Windows Active Directory domain as the session recording server domain.  
+  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
+
+- **CVE-2024-8069** - Citrix Session Recording Deserialization of Untrusted Data Vulnerability  
+  Fornecedor: Citrix | Produto: Session Recording | Adicionado: 2025-08-25  
+  Citrix Session Recording contains a deserialization of untrusted data vulnerability that allows limited remote code execution with privilege of a NetworkService Account access. Attacker must be an authenticated user on the same intranet as the session recording server.  
+  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
+
+- **CVE-2025-43300** - Apple iOS, iPadOS, and macOS Out-of-Bounds Write Vulnerability  
+  Fornecedor: Apple | Produto: iOS, iPadOS, and macOS | Adicionado: 2025-08-21  
+  Apple iOS, iPadOS, and macOS contain an out-of-bounds write vulnerability in the Image I/O framework.  
+  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
+
+</details>
+
 <!-- CVE-LIST:END -->
 
 ---
