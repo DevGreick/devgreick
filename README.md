@@ -502,11 +502,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
-- [Threat actors abuse X’s Grok AI to spread malicious links](https://www.bleepingcomputer.com/news/security/threat-actors-abuse-xs-grok-ai-to-spread-malicious-links/)
-- [Malicious npm Packages Exploit Ethereum Smart Contracts to Target Crypto Developers](https://thehackernews.com/2025/09/malicious-npm-packages-exploit-ethereum.html)
-- [US offers $10 million bounty for info on Russian FSB hackers](https://www.bleepingcomputer.com/news/security/us-offers-10-million-bounty-for-info-on-russian-fsb-hackers/)
-- [Hackers use new HexStrike-AI tool to rapidly exploit n-day flaws](https://www.bleepingcomputer.com/news/security/hackers-use-new-hexstrike-ai-tool-to-rapidly-exploit-n-day-flaws/)
-- [US sues robot toy maker for exposing children&#39;s data to Chinese devs](https://www.bleepingcomputer.com/news/security/us-sues-robot-toy-maker-for-exposing-childrens-data-to-chinese-devs/)
+- [Microsoft says recent Windows updates cause app install issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-says-recent-windows-updates-cause-app-install-issues-due-to-unexpected-admin-UAC-prompts/)
+- [Cybercriminals Exploit X’s Grok AI to Bypass Ad Protections and Spread Malware to Millions](https://thehackernews.com/2025/09/cybercriminals-exploit-xs-grok-ai-to.html)
+- [Simple Steps for Attack Surface Reduction](https://thehackernews.com/2025/08/simple-steps-for-attack-surface.html)
+- [Google Fined $379 Million by French Regulator for Cookie Consent Violations](https://thehackernews.com/2025/09/google-fined-379-million-by-french.html)
+- [CISA Flags TP-Link Router Flaws CVE-2023-50224 and CVE-2025-9377 as Actively Exploited](https://thehackernews.com/2025/09/cisa-flags-tp-link-router-flaws-cve.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
