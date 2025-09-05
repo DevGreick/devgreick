@@ -515,11 +515,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Critical SAP S/4HANA vulnerability now exploited in attacks](https://www.bleepingcomputer.com/news/security/critical-sap-s-4hana-vulnerability-now-exploited-in-attacks/)
 - [SAP S/4HANA Critical Vulnerability CVE-2025-42957 Exploited in the Wild](https://thehackernews.com/2025/09/sap-s4hana-critical-vulnerability-cve.html)
 - [Automation Is Redefining Pentest Delivery](https://thehackernews.com/2025/09/automation-is-redefining-pentest.html)
 - [VirusTotal Finds 44 Undetected SVG Files Used to Deploy Base64-Encoded Phishing Pages](https://thehackernews.com/2025/09/virustotal-finds-44-undetected-svg.html)
 - [Hackers exploited Sitecore zero-day flaw to deploy backdoors](https://www.bleepingcomputer.com/news/security/hackers-exploited-sitecore-zero-day-flaw-to-deploy-backdoors/)
-- [Russian APT28 Deploys “NotDoor” Outlook Backdoor Against Companies in NATO Countries](https://thehackernews.com/2025/09/russian-apt28-deploys-notdoor-outlook.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
