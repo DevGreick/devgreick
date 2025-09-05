@@ -513,11 +513,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Automation Is Redefining Pentest Delivery](https://thehackernews.com/2025/09/automation-is-redefining-pentest.html)
 - [VirusTotal Finds 44 Undetected SVG Files Used to Deploy Base64-Encoded Phishing Pages](https://thehackernews.com/2025/09/virustotal-finds-44-undetected-svg.html)
 - [Hackers exploited Sitecore zero-day flaw to deploy backdoors](https://www.bleepingcomputer.com/news/security/hackers-exploited-sitecore-zero-day-flaw-to-deploy-backdoors/)
 - [Russian APT28 Deploys “NotDoor” Outlook Backdoor Against Companies in NATO Countries](https://thehackernews.com/2025/09/russian-apt28-deploys-notdoor-outlook.html)
 - [Texas sues PowerSchool over breach exposing 62M students, 880k Texans](https://www.bleepingcomputer.com/news/security/texas-sues-powerschool-after-massive-data-breach-hit-62-million-students/)
-- [GhostRedirector Hacks 65 Windows Servers Using Rungan Backdoor and Gamshen IIS Module](https://thehackernews.com/2025/09/ghostredirector-hacks-65-windows.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
