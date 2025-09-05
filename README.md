@@ -516,11 +516,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
-- [Critical SAP S/4HANA vulnerability now exploited in attacks](https://www.bleepingcomputer.com/news/security/critical-sap-s-4hana-vulnerability-now-exploited-in-attacks/)
-- [SAP S/4HANA Critical Vulnerability CVE-2025-42957 Exploited in the Wild](https://thehackernews.com/2025/09/sap-s4hana-critical-vulnerability-cve.html)
-- [Automation Is Redefining Pentest Delivery](https://thehackernews.com/2025/09/automation-is-redefining-pentest.html)
-- [VirusTotal Finds 44 Undetected SVG Files Used to Deploy Base64-Encoded Phishing Pages](https://thehackernews.com/2025/09/virustotal-finds-44-undetected-svg.html)
-- [Hackers exploited Sitecore zero-day flaw to deploy backdoors](https://www.bleepingcomputer.com/news/security/hackers-exploited-sitecore-zero-day-flaw-to-deploy-backdoors/)
+- [Financial services firm Wealthsimple discloses data breach](https://www.bleepingcomputer.com/news/security/financial-services-firm-wealthsimple-discloses-data-breach/)
+- [Max severity Argo CD API flaw leaks repository credentials](https://www.bleepingcomputer.com/news/security/max-severity-argo-cd-api-flaw-leaks-repository-credentials/)
+- [Microsoft gives US students a free year of Microsoft 365 Personal](https://www.bleepingcomputer.com/news/microsoft/microsoft-gives-us-students-a-free-year-of-microsoft-365-personal/)
+- [TAG-150 Develops CastleRAT in Python and C, Expanding CastleLoader Malware Operations](https://thehackernews.com/2025/09/tag-150-develops-castlerat-in-python.html)
+- [Don’t let outdated IGA hold back your security, compliance, and growth](https://www.bleepingcomputer.com/news/security/dont-let-outdated-iga-hold-back-your-security-compliance-and-growth/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
