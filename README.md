@@ -530,11 +530,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [VirusTotal finds hidden malware phishing campaign in SVG files](https://www.bleepingcomputer.com/news/security/virustotal-finds-hidden-malware-phishing-campaign-in-svg-files/)
 - [Noisy Bear Targets Kazakhstan Energy Sector With BarrelFire Phishing Campaign](https://thehackernews.com/2025/09/noisy-bear-targets-kazakhstan-energy.html)
+- [AI-powered malware hit 2,180 GitHub accounts in “s1ngularity” attack](https://www.bleepingcomputer.com/news/security/ai-powered-malware-hit-2-180-github-accounts-in-s1ngularity-attack/)
 - [Malicious npm Packages Impersonate Flashbots, Steal Ethereum Wallet Keys](https://thehackernews.com/2025/09/malicious-npm-packages-impersonate.html)
 - [Microsoft now enforces MFA on Azure Portal sign-ins for all tenants](https://www.bleepingcomputer.com/news/microsoft/microsoft-now-enforces-mfa-on-azure-portal-sign-ins-for-all-tenants/)
-- [EU fines Google $3.5 billion for anti-competitive ad practices](https://www.bleepingcomputer.com/news/google/eu-fines-google-35-billion-for-anti-competitive-ad-practices/)
-- [CISA Orders Immediate Patch of Critical Sitecore Vulnerability Under Active Exploitation](https://thehackernews.com/2025/09/cisa-orders-immediate-patch-of-critical.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
