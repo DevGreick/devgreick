@@ -541,11 +541,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [iCloud Calendar abused to send phishing emails from Apple’s servers](https://www.bleepingcomputer.com/news/security/icloud-calendar-abused-to-send-phishing-emails-from-apples-servers/)
+- [Czech cyber agency warns against Chinese tech in critical infrastructure](https://www.bleepingcomputer.com/news/security/czech-cyber-agency-warns-against-chinese-tech-in-critical-infrastructure/)
 - [VirusTotal finds hidden malware phishing campaign in SVG files](https://www.bleepingcomputer.com/news/security/virustotal-finds-hidden-malware-phishing-campaign-in-svg-files/)
 - [Noisy Bear Targets Kazakhstan Energy Sector With BarrelFire Phishing Campaign](https://thehackernews.com/2025/09/noisy-bear-targets-kazakhstan-energy.html)
 - [AI-powered malware hit 2,180 GitHub accounts in “s1ngularity” attack](https://www.bleepingcomputer.com/news/security/ai-powered-malware-hit-2-180-github-accounts-in-s1ngularity-attack/)
-- [Malicious npm Packages Impersonate Flashbots, Steal Ethereum Wallet Keys](https://thehackernews.com/2025/09/malicious-npm-packages-impersonate.html)
-- [Microsoft now enforces MFA on Azure Portal sign-ins for all tenants](https://www.bleepingcomputer.com/news/microsoft/microsoft-now-enforces-mfa-on-azure-portal-sign-ins-for-all-tenants/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
