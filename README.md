@@ -553,11 +553,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Sports streaming piracy service with 123M yearly visits shut down](https://www.bleepingcomputer.com/news/security/massive-calcio-sports-streaming-piracy-service-with-123m-yearly-visits-shut-down/)
+- [Hackers hijack npm packages with 2 billion weekly downloads in supply chain attack](https://www.bleepingcomputer.com/news/security/hackers-hijack-npm-packages-with-2-billion-weekly-downloads-in-supply-chain-attack/)
 - [Salesloft: March GitHub repo breach led to Salesforce data theft attacks](https://www.bleepingcomputer.com/news/security/salesloft-march-github-repo-breach-led-to-salesforce-data-theft-attacks/)
+- [GitHub Account Compromise Led to Salesloft Drift Breach Affecting 22 Companies](https://thehackernews.com/2025/09/github-account-compromise-led-to.html)
 - [GPUGate Malware Uses Google Ads and Fake GitHub Commits to Target IT Firms](https://thehackernews.com/2025/09/gpugate-malware-uses-google-ads-and.html)
-- [Action1 vs. Microsoft WSUS: A Better Approach to Modern Patch Management](https://www.bleepingcomputer.com/news/security/action1-vs-microsoft-wsus-a-better-approach-to-modern-patch-management/)
-- [⚡ Weekly Recap: Drift Breach Chaos, Zero-Days Active, Patch Warnings, Smarter Threats &amp; More](https://thehackernews.com/2025/09/weekly-recap-drift-breach-chaos-zero.html)
-- [You Didn’t Get Phished — You Onboarded the Attacker](https://thehackernews.com/2025/09/you-didnt-get-phished-you-onboarded.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
