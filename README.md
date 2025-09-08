@@ -550,11 +550,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [⚡ Weekly Recap: Drift Breach Chaos, Zero-Days Active, Patch Warnings, Smarter Threats &amp; More](https://thehackernews.com/2025/09/weekly-recap-drift-breach-chaos-zero.html)
 - [You Didn’t Get Phished — You Onboarded the Attacker](https://thehackernews.com/2025/09/you-didnt-get-phished-you-onboarded.html)
 - [Google to make it easier to access AI Mode as default](https://www.bleepingcomputer.com/news/google/google-to-make-it-easier-to-access-ai-mode-as-default/)
 - [ChatGPT makes Projects feature free, adds a toggle to split chat](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-makes-projects-feature-free-adds-a-toggle-to-split-chat/)
 - [iCloud Calendar abused to send phishing emails from Apple’s servers](https://www.bleepingcomputer.com/news/security/icloud-calendar-abused-to-send-phishing-emails-from-apples-servers/)
-- [Czech cyber agency warns against Chinese tech in critical infrastructure](https://www.bleepingcomputer.com/news/security/czech-cyber-agency-warns-against-chinese-tech-in-critical-infrastructure/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
