@@ -565,11 +565,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Windows 10 KB5065429 update includes 14 changes and fixes](https://www.bleepingcomputer.com/news/security/windows-10-kb5065429-update-includes-14-changes-and-fixes/)
+- [Microsoft September 2025 Patch Tuesday fixes 81 flaws, two zero-days](https://www.bleepingcomputer.com/news/microsoft/microsoft-september-2025-patch-tuesday-fixes-81-flaws-two-zero-days/)
+- [Windows 11 KB5065426 &amp; KB5065431 cumulative updates released](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5065426-and-kb5065431-cumulative-updates-released/)
+- [Kosovo hacker pleads guilty to running BlackDB cybercrime marketplace](https://www.bleepingcomputer.com/news/security/kosovo-hacker-pleads-guilty-to-running-blackdb-cybercrime-marketplace/)
 - [US charges admin of LockerGoga, MegaCortex, Nefilim ransomware](https://www.bleepingcomputer.com/news/security/us-charges-admin-of-lockergoga-megacortex-nefilim-ransomware/)
-- [Adobe patches critical SessionReaper flaw in Magento eCommerce platform](https://www.bleepingcomputer.com/news/security/adobe-patches-critical-sessionreaper-flaw-in-magento-ecommerce-platform/)
-- [Axios Abuse and Salty 2FA Kits Fuel Advanced Microsoft 365 Phishing Attacks](https://thehackernews.com/2025/09/axios-abuse-and-salty-2fa-kits-fuel.html)
-- [How External Attack Surface Management helps enterprises manage cyber risk](https://www.bleepingcomputer.com/news/security/how-external-attack-surface-management-helps-enterprises-manage-cyber-risk/)
-- [Microsoft: Anti-spam bug blocks links in Exchange Online, Teams](https://www.bleepingcomputer.com/news/microsoft/microsoft-anti-spam-bug-blocks-links-in-exchange-online-teams/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
