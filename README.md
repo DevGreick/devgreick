@@ -562,11 +562,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft testing new AI features in Windows 11 File Explorer](https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-new-ai-features-in-windows-11-file-explorer/)
+- [[Webinar] Shadow AI Agents Multiply Fast —  Learn How to Detect and Control Them](https://thehackernews.com/2025/09/webinar-shadow-ai-agents-multiply-fast.html)
+- [From MostereRAT to ClickFix: New Malware Campaigns Highlight Rising AI and Phishing Risks](https://thehackernews.com/2025/09/from-mostererat-to-clickfix-new-malware.html)
 - [How Leading CISOs are Getting Budget Approval](https://thehackernews.com/2025/09/how-leading-cisos-are-getting-budget.html)
-- [20 Popular npm Packages With 2 Billion Weekly Downloads Compromised in Supply Chain Attack](https://thehackernews.com/2025/09/20-popular-npm-packages-with-2-billion.html)
-- [Plex tells users to reset passwords after new data breach](https://www.bleepingcomputer.com/news/security/plex-tells-users-to-reset-passwords-after-new-data-breach/)
-- [45 Previously Unreported Domains Expose Longstanding Salt Typhoon Cyber Espionage](https://thehackernews.com/2025/09/45-previously-unreported-domains-expose.html)
-- [Surge in networks scans targeting Cisco ASA devices raise concerns](https://www.bleepingcomputer.com/news/security/surge-in-networks-scans-targeting-cisco-asa-devices-raise-concerns/)
+- [TOR-Based Cryptojacking Attack Expands Through Misconfigured Docker APIs](https://thehackernews.com/2025/09/tor-based-cryptojacking-attack-expands.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
