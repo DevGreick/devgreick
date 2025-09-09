@@ -564,11 +564,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [US charges admin of LockerGoga, MegaCortex, Nefilim ransomware](https://www.bleepingcomputer.com/news/security/us-charges-admin-of-lockergoga-megacortex-nefilim-ransomware/)
+- [Adobe patches critical SessionReaper flaw in Magento eCommerce platform](https://www.bleepingcomputer.com/news/security/adobe-patches-critical-sessionreaper-flaw-in-magento-ecommerce-platform/)
+- [Axios Abuse and Salty 2FA Kits Fuel Advanced Microsoft 365 Phishing Attacks](https://thehackernews.com/2025/09/axios-abuse-and-salty-2fa-kits-fuel.html)
+- [How External Attack Surface Management helps enterprises manage cyber risk](https://www.bleepingcomputer.com/news/security/how-external-attack-surface-management-helps-enterprises-manage-cyber-risk/)
 - [Microsoft: Anti-spam bug blocks links in Exchange Online, Teams](https://www.bleepingcomputer.com/news/microsoft/microsoft-anti-spam-bug-blocks-links-in-exchange-online-teams/)
-- [SAP fixes maximum severity NetWeaver command execution flaw](https://www.bleepingcomputer.com/news/security/sap-fixes-maximum-severity-netweaver-command-execution-flaw/)
-- [RatOn Android Malware Detected With NFC Relay and ATS Banking Fraud Capabilities](https://thehackernews.com/2025/09/raton-android-malware-detected-with-nfc.html)
-- [Microsoft testing new AI features in Windows 11 File Explorer](https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-new-ai-features-in-windows-11-file-explorer/)
-- [[Webinar] Shadow AI Agents Multiply Fast —  Learn How to Detect and Control Them](https://thehackernews.com/2025/09/webinar-shadow-ai-agents-multiply-fast.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
