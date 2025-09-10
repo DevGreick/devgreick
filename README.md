@@ -577,11 +577,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Hackers left empty-handed after massive NPM supply-chain attack](https://www.bleepingcomputer.com/news/security/hackers-left-empty-handed-after-massive-npm-supply-chain-attack/)
+- [Pixel 10 fights AI fakes with new Android photo verification tech](https://www.bleepingcomputer.com/news/security/pixel-10-fights-ai-fakes-with-new-android-photo-verification-tech/)
+- [Cursor AI editor lets repos “autorun” malicious code on devices](https://www.bleepingcomputer.com/news/security/cursor-ai-editor-lets-repos-autorun-malicious-code-on-devices/)
+- [Chinese APT Deploys EggStreme Fileless Malware to Breach Philippine Military Systems](https://thehackernews.com/2025/09/chinese-apt-deploys-eggstreme-fileless.html)
 - [Jaguar Land Rover confirms data theft after recent cyberattack](https://www.bleepingcomputer.com/news/security/jaguar-land-rover-jlr-confirms-data-theft-after-recent-cyberattack/)
-- [Can I have a new password, please? The $400M question.](https://www.bleepingcomputer.com/news/security/can-i-have-a-new-password-please-the-400m-question/)
-- [CHILLYHELL macOS Backdoor and ZynorRAT RAT Threaten macOS, Windows, and Linux Systems](https://thehackernews.com/2025/09/chillyhell-macos-backdoor-and-zynorrat.html)
-- [Microsoft fixes streaming issues triggered by Windows updates](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-streaming-issues-triggered-by-windows-updates/)
-- [Microsoft fixes app install issues caused by August Windows updates](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-app-install-issues-caused-by-august-windows-updates/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
