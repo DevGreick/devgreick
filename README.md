@@ -573,7 +573,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Adobe Commerce Flaw CVE-2025-54236 Lets Hackers Take Over Customer Accounts](https://thehackernews.com/2025/09/adobe-commerce-flaw-cve-2025-54236-lets.html)
-- [SAP Patches Critical NetWeaver &lpar;CVSS Up to 10.0&rpar; and Previously Exploited S/4HANA Flaws](https://thehackernews.com/2025/09/sap-patches-critical-netweaver-cvss-up.html)
+- [SAP Patches Critical NetWeaver &lpar;CVSS Up to 10.0&rpar; and High-Severity S/4HANA Flaws](https://thehackernews.com/2025/09/sap-patches-critical-netweaver-cvss-up.html)
 - [U.S. sanctions cyber scammers who stole billions from Americans](https://www.bleepingcomputer.com/news/security/us-sanctions-cyber-scammers-who-stole-billions-from-americans/)
 - [Hackers hide behind Tor in exposed Docker API breaches](https://www.bleepingcomputer.com/news/security/hackers-hide-behind-tor-in-exposed-docker-api-breaches/)
 - [Windows 10 KB5065429 update includes 14 changes and fixes](https://www.bleepingcomputer.com/news/security/windows-10-kb5065429-update-includes-14-changes-and-fixes/)
