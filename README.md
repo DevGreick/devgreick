@@ -579,11 +579,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [DDoS defender targeted in 1.5 Bpps denial-of-service attack](https://www.bleepingcomputer.com/news/security/ddos-defender-targeted-in-15-bpps-denial-of-service-attack/)
 - [Microsoft waives fees for Windows devs publishing to Microsoft Store](https://www.bleepingcomputer.com/news/microsoft/microsoft-waives-fees-for-windows-devs-publishing-to-microsoft-store/)
 - [Hackers left empty-handed after massive NPM supply-chain attack](https://www.bleepingcomputer.com/news/security/hackers-left-empty-handed-after-massive-npm-supply-chain-attack/)
 - [Pixel 10 fights AI fakes with new Android photo verification tech](https://www.bleepingcomputer.com/news/security/pixel-10-fights-ai-fakes-with-new-android-photo-verification-tech/)
 - [Cursor AI editor lets repos “autorun” malicious code on devices](https://www.bleepingcomputer.com/news/security/cursor-ai-editor-lets-repos-autorun-malicious-code-on-devices/)
-- [Chinese APT Deploys EggStreme Fileless Malware to Breach Philippine Military Systems](https://thehackernews.com/2025/09/chinese-apt-deploys-eggstreme-fileless.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
