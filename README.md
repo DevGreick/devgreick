@@ -589,11 +589,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft adds malicious link warnings to Teams private chats](https://www.bleepingcomputer.com/news/security/microsoft-adds-malicious-link-warnings-to-teams-private-chats/)
+- [Akira ransomware exploiting critical SonicWall SSLVPN bug again](https://www.bleepingcomputer.com/news/security/akira-ransomware-exploiting-critical-sonicwall-sslvpn-bug-again/)
 - [New VMScape attack breaks guest-host isolation on AMD, Intel CPUs](https://www.bleepingcomputer.com/news/security/new-vmscape-attack-breaks-guest-host-isolation-on-amd-intel-cpus/)
 - [Google Pixel 10 Adds C2PA Support to Verify AI-Generated Media Authenticity](https://thehackernews.com/2025/09/google-pixel-10-adds-c2pa-support-to.html)
 - [Senator Wyden Urges FTC to Probe Microsoft for Ransomware-Linked Cybersecurity Negligence](https://thehackernews.com/2025/09/senator-wyden-urges-ftc-to-probe.html)
-- [The Buyer’s Guide to Browser Extension Management](https://www.bleepingcomputer.com/news/security/the-buyers-guide-to-browser-extension-management/)
-- [Cracking the Boardroom Code: Helping CISOs Speak the Language of Business](https://thehackernews.com/2025/09/cracking-boardroom-code-helping-cisos.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
