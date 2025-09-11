@@ -24,9 +24,14 @@
 
   <!-- CVE-LIST:START -->
 <details>
-<summary><strong>Vulnerabilidades exploradas conhecidas da CISA</strong>  •  atualizado 11/09/2025 16:14 UTC  •  exibindo 10 itens</summary>
+<summary><strong>Vulnerabilidades exploradas conhecidas da CISA</strong>  •  atualizado 11/09/2025 18:14 UTC  •  exibindo 10 itens</summary>
 
 > Fonte: CISA Known Exploited Vulnerabilities
+
+- **CVE-2025-5086** - Dassault Systèmes DELMIA Apriso Deserialization of Untrusted Data Vulnerability  
+  Fornecedor: Dassault Systèmes | Produto: DELMIA Apriso | Adicionado: 2025-09-11  
+  Dassault Systèmes DELMIA Apriso contains a deserialization of untrusted data vulnerability that could lead to a remote code execution.  
+  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
 
 - **CVE-2025-38352** - Linux Kernel Time-of-Check Time-of-Use (TOCTOU) Race Condition Vulnerability  
   Fornecedor: Linux | Produto: Kernel | Adicionado: 2025-09-04  
@@ -73,12 +78,8 @@
   Citrix NetScaler ADC and NetScaler Gateway contain a memory overflow vulnerability that could allow for remote code execution and/or denial of service.  
   Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
 
-- **CVE-2025-48384** - Git Link Following Vulnerability  
-  Fornecedor: Git | Produto: Git | Adicionado: 2025-08-25  
-  Git contains a link following vulnerability that stems from Git’s inconsistent handling of carriage return characters in configuration files.  
-  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
-
 </details>
+
 
 
 
