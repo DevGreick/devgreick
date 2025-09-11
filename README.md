@@ -588,11 +588,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [New VMScape attack breaks guest-host isolation on AMD, Intel CPUs](https://www.bleepingcomputer.com/news/security/new-vmscape-attack-breaks-guest-host-isolation-on-amd-intel-cpus/)
+- [Google Pixel 10 Adds C2PA Support to Verify AI-Generated Media Authenticity](https://thehackernews.com/2025/09/google-pixel-10-adds-c2pa-support-to.html)
+- [Senator Wyden Urges FTC to Probe Microsoft for Ransomware-Linked Cybersecurity Negligence](https://thehackernews.com/2025/09/senator-wyden-urges-ftc-to-probe.html)
+- [The Buyer’s Guide to Browser Extension Management](https://www.bleepingcomputer.com/news/security/the-buyers-guide-to-browser-extension-management/)
 - [Cracking the Boardroom Code: Helping CISOs Speak the Language of Business](https://thehackernews.com/2025/09/cracking-boardroom-code-helping-cisos.html)
-- [SonicWall SSL VPN Flaw and Misconfigurations Actively Exploited by Akira Ransomware Hackers](https://thehackernews.com/2025/09/sonicwall-ssl-vpn-flaw-and.html)
-- [Fake Madgicx Plus and SocialMetrics Extensions Are Hijacking Meta Business Accounts](https://thehackernews.com/2025/09/fake-madgicx-plus-and-socialmetrics.html)
-- [AsyncRAT Exploits ConnectWise ScreenConnect to Steal Credentials and Crypto](https://thehackernews.com/2025/09/asyncrat-exploits-connectwise.html)
-- [DDoS defender targeted in 1.5 Bpps denial-of-service attack](https://www.bleepingcomputer.com/news/security/ddos-defender-targeted-in-15-bpps-denial-of-service-attack/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
