@@ -586,11 +586,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
-- [Fake Madgicx Plus and SocialMetrics Extensions Are Hijacking Meta Business Accounts](https://thehackernews.com/2025/09/fake-madgicx-plus-and-socialmetrics.html)
 - [Cracking the Boardroom Code: Helping CISOs Speak the Language of Business](https://thehackernews.com/2025/09/cracking-boardroom-code-helping-cisos.html)
+- [SonicWall SSL VPN Flaw and Misconfigurations Actively Exploited by Akira Ransomware Hackers](https://thehackernews.com/2025/09/sonicwall-ssl-vpn-flaw-and.html)
+- [Fake Madgicx Plus and SocialMetrics Extensions Are Hijacking Meta Business Accounts](https://thehackernews.com/2025/09/fake-madgicx-plus-and-socialmetrics.html)
 - [AsyncRAT Exploits ConnectWise ScreenConnect to Steal Credentials and Crypto](https://thehackernews.com/2025/09/asyncrat-exploits-connectwise.html)
 - [DDoS defender targeted in 1.5 Bpps denial-of-service attack](https://www.bleepingcomputer.com/news/security/ddos-defender-targeted-in-15-bpps-denial-of-service-attack/)
-- [Microsoft waives fees for Windows devs publishing to Microsoft Store](https://www.bleepingcomputer.com/news/microsoft/microsoft-waives-fees-for-windows-devs-publishing-to-microsoft-store/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
