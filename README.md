@@ -620,7 +620,7 @@
 
 ## [+] Projetos em alta <img src="https://img.icons8.com/fluency/48/star.png" alt="projeto destaque" width="28"/>
 
-[![⭐ ThreatSpy](https://img.shields.io/badge/⭐_ThreatSpy-2980B9?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/devgreick/ThreatSpy)
+[![⭐ ThreatDeflect](https://img.shields.io/badge/⭐ThreatDeflect-2980B9?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/devgreick/ThreatDeflect)
 > *Ferramenta de análise de ameaças que automatiza a consulta de IPs/URLs em múltiplas fontes, gera relatórios e cria resumos com IA local.*
 > <br>
 
