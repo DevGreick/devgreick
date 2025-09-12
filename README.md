@@ -597,7 +597,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Cursor AI Code Editor Flaw Enables Silent Code Execution via Malicious Repositories](https://thehackernews.com/2025/09/cursor-ai-code-editor-flaw-enables.html)
-- [Microsoft investigates Exchange Online outage in North America](https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-exchange-online-outage-in-north-america/)
+- [Microsoft fixes Exchange Online outage affecting users worldwide](https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-exchange-online-outage-in-north-america/)
 - [U.S. Senator accuses Microsoft of “gross cybersecurity negligence”](https://www.bleepingcomputer.com/news/security/us-senator-accuses-microsoft-of-gross-cybersecurity-negligence/)
 - [Apple warns customers targeted in recent spyware attacks](https://www.bleepingcomputer.com/news/security/apple-warns-customers-targeted-in-recent-spyware-attacks/)
 - [Panama Ministry of Economy discloses breach claimed by INC ransomware](https://www.bleepingcomputer.com/news/security/panama-ministry-of-economy-discloses-breach-claimed-by-inc-ransomware/)
