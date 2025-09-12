@@ -598,11 +598,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Man gets over 4 years in prison for selling unreleased movies](https://www.bleepingcomputer.com/news/security/man-gets-over-4-years-in-prison-for-selling-unreleased-movies/)
 - [Samsung patches actively exploited zero-day reported by WhatsApp](https://www.bleepingcomputer.com/news/security/samsung-patches-actively-exploited-zero-day-reported-by-whatsapp/)
 - [Cloud-Native Security in 2025: Why Runtime Visibility Must Take Center Stage](https://thehackernews.com/2025/09/cloud-native-security-in-2025-why.html)
 - [Cursor AI Code Editor Flaw Enables Silent Code Execution via Malicious Repositories](https://thehackernews.com/2025/09/cursor-ai-code-editor-flaw-enables.html)
 - [Microsoft fixes Exchange Online outage affecting users worldwide](https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-exchange-online-outage-in-north-america/)
-- [U.S. Senator accuses Microsoft of “gross cybersecurity negligence”](https://www.bleepingcomputer.com/news/security/us-senator-accuses-microsoft-of-gross-cybersecurity-negligence/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
