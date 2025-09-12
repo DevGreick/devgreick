@@ -600,11 +600,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Samsung Fixes Critical Zero-Day CVE-2025-21043 Exploited in Android Attacks](https://thehackernews.com/2025/09/samsung-fixes-critical-zero-day-cve.html)
+- [Apple Warns French Users of Fourth Spyware Campaign in 2025, CERT-FR Confirms](https://thehackernews.com/2025/09/apple-warns-french-users-of-fourth.html)
+- [The first three things you’ll want during a cyberattack](https://www.bleepingcomputer.com/news/security/the-first-three-things-youll-want-during-a-cyberattack/)
 - [New HybridPetya Ransomware Bypasses UEFI Secure Boot With CVE-2024-7344 Exploit](https://thehackernews.com/2025/09/new-hybridpetya-ransomware-bypasses.html)
 - [Man gets over 4 years in prison for selling unreleased movies](https://www.bleepingcomputer.com/news/security/man-gets-over-4-years-in-prison-for-selling-unreleased-movies/)
-- [Critical CVE-2025-5086 in DELMIA Apriso Actively Exploited, CISA Issues Warning](https://thehackernews.com/2025/09/critical-cve-2025-5086-in-delmia-apriso.html)
-- [Samsung patches actively exploited zero-day reported by WhatsApp](https://www.bleepingcomputer.com/news/security/samsung-patches-actively-exploited-zero-day-reported-by-whatsapp/)
-- [Cloud-Native Security in 2025: Why Runtime Visibility Must Take Center Stage](https://thehackernews.com/2025/09/cloud-native-security-in-2025-why.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
