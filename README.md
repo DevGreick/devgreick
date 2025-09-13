@@ -609,11 +609,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [FBI Warns of UNC6040 and UNC6395 Targeting Salesforce Platforms in Data Theft Attacks](https://thehackernews.com/2025/09/fbi-warns-of-unc6040-and-unc6395.html)
 - [New HybridPetya ransomware can bypass UEFI Secure Boot](https://www.bleepingcomputer.com/news/security/new-hybridpetya-ransomware-can-bypass-uefi-secure-boot/)
 - [CISA warns of actively exploited Dassault RCE vulnerability](https://www.bleepingcomputer.com/news/security/cisa-warns-of-actively-exploited-dassault-rce-vulnerability/)
 - [Windows 11 23H2 Home and Pro reach end of support in 60 days](https://www.bleepingcomputer.com/news/microsoft/windows-11-23h2-home-and-pro-reach-end-of-support-in-60-days/)
 - [Samsung Fixes Critical Zero-Day CVE-2025-21043 Exploited in Android Attacks](https://thehackernews.com/2025/09/samsung-fixes-critical-zero-day-cve.html)
-- [Apple Warns French Users of Fourth Spyware Campaign in 2025, CERT-FR Confirms](https://thehackernews.com/2025/09/apple-warns-french-users-of-fourth.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
