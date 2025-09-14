@@ -627,11 +627,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [FBI warns of UNC6040, UNC6395 hackers stealing Salesforce data](https://www.bleepingcomputer.com/news/security/fbi-warns-of-unc6040-unc6395-hackers-stealing-salesforce-data/)
+- [New VoidProxy phishing service targets Microsoft 365, Google accounts](https://www.bleepingcomputer.com/news/security/new-voidproxy-phishing-service-targets-microsoft-365-google-accounts/)
+- [Microsoft reminds of Windows 10 support ending in 30 days](https://www.bleepingcomputer.com/news/microsoft/microsoft-reminds-of-windows-10-support-ending-in-30-days/)
+- [&#39;WhiteCobra&#39; floods VSCode market with crypto-stealing extensions](https://www.bleepingcomputer.com/news/security/whitecobra-floods-vscode-market-with-crypto-stealing-extensions/)
 - [FBI Warns of UNC6040 and UNC6395 Targeting Salesforce Platforms in Data Theft Attacks](https://thehackernews.com/2025/09/fbi-warns-of-unc6040-and-unc6395.html)
-- [New HybridPetya ransomware can bypass UEFI Secure Boot](https://www.bleepingcomputer.com/news/security/new-hybridpetya-ransomware-can-bypass-uefi-secure-boot/)
-- [CISA warns of actively exploited Dassault RCE vulnerability](https://www.bleepingcomputer.com/news/security/cisa-warns-of-actively-exploited-dassault-rce-vulnerability/)
-- [Windows 11 23H2 Home and Pro reach end of support in 60 days](https://www.bleepingcomputer.com/news/microsoft/windows-11-23h2-home-and-pro-reach-end-of-support-in-60-days/)
-- [Samsung Fixes Critical Zero-Day CVE-2025-21043 Exploited in Android Attacks](https://thehackernews.com/2025/09/samsung-fixes-critical-zero-day-cve.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
