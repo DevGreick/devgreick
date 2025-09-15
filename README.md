@@ -632,11 +632,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [AI-Powered Villager Pen Testing Tool Hits 11,000 PyPI Downloads Amid Abuse Concerns](https://thehackernews.com/2025/09/ai-powered-villager-pen-testing-tool.html)
+- [HiddenGh0st, Winos and kkRAT Exploit SEO, GitHub Pages in Chinese Malware Attacks](https://thehackernews.com/2025/09/hiddengh0st-winos-and-kkrat-exploit-seo.html)
 - [FBI warns of UNC6040, UNC6395 hackers stealing Salesforce data](https://www.bleepingcomputer.com/news/security/fbi-warns-of-unc6040-unc6395-hackers-stealing-salesforce-data/)
 - [New VoidProxy phishing service targets Microsoft 365, Google accounts](https://www.bleepingcomputer.com/news/security/new-voidproxy-phishing-service-targets-microsoft-365-google-accounts/)
 - [Microsoft reminds of Windows 10 support ending in 30 days](https://www.bleepingcomputer.com/news/microsoft/microsoft-reminds-of-windows-10-support-ending-in-30-days/)
-- [&#39;WhiteCobra&#39; floods VSCode market with crypto-stealing extensions](https://www.bleepingcomputer.com/news/security/whitecobra-floods-vscode-market-with-crypto-stealing-extensions/)
-- [FBI Warns of UNC6040 and UNC6395 Targeting Salesforce Platforms in Data Theft Attacks](https://thehackernews.com/2025/09/fbi-warns-of-unc6040-and-unc6395.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
