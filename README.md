@@ -635,11 +635,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
-- [AI-Powered Villager Pen Testing Tool Hits 11,000 PyPI Downloads Amid Abuse Concerns](https://thehackernews.com/2025/09/ai-powered-villager-pen-testing-tool.html)
-- [HiddenGh0st, Winos and kkRAT Exploit SEO, GitHub Pages in Chinese Malware Attacks](https://thehackernews.com/2025/09/hiddengh0st-winos-and-kkrat-exploit-seo.html)
-- [FBI warns of UNC6040, UNC6395 hackers stealing Salesforce data](https://www.bleepingcomputer.com/news/security/fbi-warns-of-unc6040-unc6395-hackers-stealing-salesforce-data/)
-- [New VoidProxy phishing service targets Microsoft 365, Google accounts](https://www.bleepingcomputer.com/news/security/new-voidproxy-phishing-service-targets-microsoft-365-google-accounts/)
-- [Microsoft reminds of Windows 10 support ending in 30 days](https://www.bleepingcomputer.com/news/microsoft/microsoft-reminds-of-windows-10-support-ending-in-30-days/)
+- [Stop waiting on NVD — get real-time vulnerability alerts now](https://www.bleepingcomputer.com/news/security/stop-waiting-on-nvd-get-real-time-vulnerability-alerts-now/)
+- [Microsoft fixes Windows 11 audio issues confirmed in December](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-11-audio-issues-confirmed-in-december/)
+- [Microsoft says Windows September updates break SMBv1 shares](https://www.bleepingcomputer.com/news/microsoft/microsoft-says-windows-september-updates-break-smbv1-shares/)
+- [6 Browser-Based Attacks Security Teams Need to Prepare For Right Now](https://thehackernews.com/2025/09/6-browser-based-attacks-security-teams.html)
+- [⚡ Weekly Recap: Bootkit Malware, AI-Powered Attacks, Supply Chain Breaches, Zero-Days &amp; More](https://thehackernews.com/2025/09/weekly-recap-bootkit-malware-ai-powered.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
