@@ -636,11 +636,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft to force install the Microsoft 365 Copilot app in October](https://www.bleepingcomputer.com/news/microsoft/microsoft-to-force-install-the-microsoft-365-copilot-app-in-october/)
 - [Stop waiting on NVD — get real-time vulnerability alerts now](https://www.bleepingcomputer.com/news/security/stop-waiting-on-nvd-get-real-time-vulnerability-alerts-now/)
 - [Microsoft fixes Windows 11 audio issues confirmed in December](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-11-audio-issues-confirmed-in-december/)
 - [Microsoft says Windows September updates break SMBv1 shares](https://www.bleepingcomputer.com/news/microsoft/microsoft-says-windows-september-updates-break-smbv1-shares/)
 - [6 Browser-Based Attacks Security Teams Need to Prepare For Right Now](https://thehackernews.com/2025/09/6-browser-based-attacks-security-teams.html)
-- [⚡ Weekly Recap: Bootkit Malware, AI-Powered Attacks, Supply Chain Breaches, Zero-Days &amp; More](https://thehackernews.com/2025/09/weekly-recap-bootkit-malware-ai-powered.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
