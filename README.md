@@ -649,11 +649,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft rolls out Copilot Chat to Microsoft 365 Office apps](https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-copilot-chat-to-microsoft-365-office-apps/)
+- [Google nukes 224 Android malware apps behind massive ad fraud campaign](https://www.bleepingcomputer.com/news/security/google-nukes-224-android-malware-apps-behind-massive-ad-fraud-campaign/)
+- [Self-propagating supply chain attack hits 187 npm packages](https://www.bleepingcomputer.com/news/security/self-propagating-supply-chain-attack-hits-187-npm-packages/)
+- [Chaos Mesh Critical GraphQL Flaws Enable RCE and Full Kubernetes Cluster Takeover](https://thehackernews.com/2025/09/chaos-mesh-critical-graphql-flaws.html)
 - [Microsoft: WMIC will be removed after Windows 11 25H2 upgrade](https://www.bleepingcomputer.com/news/microsoft/microsoft-wmic-will-be-removed-after-windows-11-25h2-upgrade/)
-- [SlopAds Fraud Ring Exploits 224 Android Apps to Drive 2.3 Billion Daily Ad Bids](https://thehackernews.com/2025/09/slopads-fraud-ring-exploits-224-android.html)
-- [Team-Wide VMware Certification: Your Secret Weapon for Security](https://www.bleepingcomputer.com/news/security/team-wide-vmware-certification-your-secret-weapon-for-security/)
-- [Jaguar Land Rover extends shutdown after cyberattack by another week](https://www.bleepingcomputer.com/news/security/jaguar-land-rover-extends-shutdown-after-cyberattack-by-another-week/)
-- [New FileFix Variant Delivers StealC Malware Through Multilingual Phishing Site](https://thehackernews.com/2025/09/new-filefix-variant-delivers-stealc.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
