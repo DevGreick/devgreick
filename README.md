@@ -646,11 +646,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
-- [Phoenix RowHammer Attack Bypasses Advanced DDR5 Memory Protections in 109 Seconds](https://thehackernews.com/2025/09/phoenix-rowhammer-attack-bypasses.html)
-- [40 npm Packages Compromised in Supply Chain Attack Using bundle.js to Steal Credentials](https://thehackernews.com/2025/09/40-npm-packages-compromised-in-supply.html)
-- [OpenAI&#39;s new GPT-5 Codex model takes on Claude Code](https://www.bleepingcomputer.com/news/artificial-intelligence/openais-new-gpt-5-codex-model-takes-on-claude-code/)
-- [Google confirms fraudulent account created in law enforcement portal](https://www.bleepingcomputer.com/news/security/google-confirms-fraudulent-account-created-in-law-enforcement-portal/)
-- [Mustang Panda Deploys SnakeDisk USB Worm to Deliver Yokai Backdoor on Thailand IPs](https://thehackernews.com/2025/09/mustang-panda-deploys-snakedisk-usb.html)
+- [Apple backports zero-day patches to older iPhones and iPads](https://www.bleepingcomputer.com/news/security/apple-backports-zero-day-patches-to-older-iphones-and-ipads/)
+- [New FileFix attack uses steganography to drop StealC malware](https://www.bleepingcomputer.com/news/security/new-filefix-attack-uses-steganography-to-drop-stealc-malware/)
+- [Apple Backports Fix for CVE-2025-43300 Exploited in Sophisticated Spyware Attack](https://thehackernews.com/2025/09/apple-backports-fix-for-cve-2025-43300.html)
+- [Webinar: Your browser is the breach — securing the modern web edge](https://www.bleepingcomputer.com/news/security/webinar-your-browser-is-the-breach-securing-the-modern-web-edge/)
+- [Securing the Agentic Era: Introducing Astrix&#39;s AI Agent Control Plane](https://thehackernews.com/2025/09/securing-agentic-era-introducing.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
