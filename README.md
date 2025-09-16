@@ -648,11 +648,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft: WMIC will be removed after Windows 11 25H2 upgrade](https://www.bleepingcomputer.com/news/microsoft/microsoft-wmic-will-be-removed-after-windows-11-25h2-upgrade/)
+- [SlopAds Fraud Ring Exploits 224 Android Apps to Drive 2.3 Billion Daily Ad Bids](https://thehackernews.com/2025/09/slopads-fraud-ring-exploits-224-android.html)
+- [Team-Wide VMware Certification: Your Secret Weapon for Security](https://www.bleepingcomputer.com/news/security/team-wide-vmware-certification-your-secret-weapon-for-security/)
 - [Jaguar Land Rover extends shutdown after cyberattack by another week](https://www.bleepingcomputer.com/news/security/jaguar-land-rover-extends-shutdown-after-cyberattack-by-another-week/)
 - [New FileFix Variant Delivers StealC Malware Through Multilingual Phishing Site](https://thehackernews.com/2025/09/new-filefix-variant-delivers-stealc.html)
-- [Apple backports zero-day patches to older iPhones and iPads](https://www.bleepingcomputer.com/news/security/apple-backports-zero-day-patches-to-older-iphones-and-ipads/)
-- [New FileFix attack uses steganography to drop StealC malware](https://www.bleepingcomputer.com/news/security/new-filefix-attack-uses-steganography-to-drop-stealc-malware/)
-- [Apple Backports Fix for CVE-2025-43300 Exploited in Sophisticated Spyware Attack](https://thehackernews.com/2025/09/apple-backports-fix-for-cve-2025-43300.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
