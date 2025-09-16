@@ -644,11 +644,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Phoenix RowHammer Attack Bypasses Advanced DDR5 Memory Protections in 109 Seconds](https://thehackernews.com/2025/09/phoenix-rowhammer-attack-bypasses.html)
 - [40 npm Packages Compromised in Supply Chain Attack Using bundle.js to Steal Credentials](https://thehackernews.com/2025/09/40-npm-packages-compromised-in-supply.html)
 - [OpenAI&#39;s new GPT-5 Codex model takes on Claude Code](https://www.bleepingcomputer.com/news/artificial-intelligence/openais-new-gpt-5-codex-model-takes-on-claude-code/)
 - [Google confirms fraudulent account created in law enforcement portal](https://www.bleepingcomputer.com/news/security/google-confirms-fraudulent-account-created-in-law-enforcement-portal/)
 - [Mustang Panda Deploys SnakeDisk USB Worm to Deliver Yokai Backdoor on Thailand IPs](https://thehackernews.com/2025/09/mustang-panda-deploys-snakedisk-usb.html)
-- [FinWise insider breach impacts 689K American First Finance customers](https://www.bleepingcomputer.com/news/security/finwise-insider-breach-impacts-689k-american-first-finance-customers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
