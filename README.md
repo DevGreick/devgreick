@@ -640,11 +640,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
-- [Google confirms hackers gained access to law enforcement portal](https://www.bleepingcomputer.com/news/security/google-confirms-hackers-gained-access-to-law-enforcement-portal/)
+- [OpenAI&#39;s new GPT-5 Codex model takes on Claude Code](https://www.bleepingcomputer.com/news/artificial-intelligence/openais-new-gpt-5-codex-model-takes-on-claude-code/)
+- [Google confirms fraudulent account created in law enforcement portal](https://www.bleepingcomputer.com/news/security/google-confirms-fraudulent-account-created-in-law-enforcement-portal/)
 - [Mustang Panda Deploys SnakeDisk USB Worm to Deliver Yokai Backdoor on Thailand IPs](https://thehackernews.com/2025/09/mustang-panda-deploys-snakedisk-usb.html)
 - [FinWise insider breach impacts 689K American First Finance customers](https://www.bleepingcomputer.com/news/security/finwise-insider-breach-impacts-689k-american-first-finance-customers/)
 - [New Phoenix attack bypasses Rowhammer defenses in DDR5 memory](https://www.bleepingcomputer.com/news/security/new-phoenix-attack-bypasses-rowhammer-defenses-in-ddr5-memory/)
-- [Microsoft: Exchange 2016 and 2019 reach end of support in 30 days](https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-2016-and-2019-reach-end-of-support-in-30-days/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
