@@ -661,11 +661,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [VC giant Insight Partners warns thousands after ransomware breach](https://www.bleepingcomputer.com/news/security/vc-giant-insight-partners-warns-thousands-after-ransomware-breach/)
+- [SonicWall warns customers to reset credentials after breach](https://www.bleepingcomputer.com/news/security/sonicwall-warns-customers-to-reset-credentials-after-MySonicWall-breach/)
 - [Microsoft: Office 2016 and Office 2019 reach end of support next month](https://www.bleepingcomputer.com/news/microsoft/microsoft-office-2016-and-office-2019-reach-end-of-support-next-month/)
 - [From ClickFix to MetaStealer: Dissecting Evolving Threat Actor Techniques](https://www.bleepingcomputer.com/news/security/from-clickfix-to-metastealer-dissecting-evolving-threat-actor-techniques/)
 - [Microsoft and Cloudflare disrupt massive RaccoonO365 phishing service](https://www.bleepingcomputer.com/news/security/microsoft-and-cloudflare-disrupt-massive-raccoono365-phishing-service/)
-- [From Quantum Hacks to AI Defenses – Expert Guide to Building Unbreakable Cyber Resilience](https://thehackernews.com/2025/09/from-quantum-hacks-to-ai-defenses.html)
-- [Chinese TA415 Uses VS Code Remote Tunnels to Spy on U.S. Economic Policy Experts](https://thehackernews.com/2025/09/chinese-ta415-uses-vs-code-remote.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
