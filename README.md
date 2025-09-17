@@ -658,11 +658,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Rethinking AI Data Security: A Buyer&#39;s Guide](https://thehackernews.com/2025/09/rethinking-ai-data-security-buyers-guide.html)
 - [Scattered Spider Resurfaces With Financial Sector Attacks Despite Retirement Claims](https://thehackernews.com/2025/09/scattered-spider-resurfaces-with.html)
 - [DOJ Resentences BreachForums Founder to 3 Years for Cybercrime and Possession of CSAM](https://thehackernews.com/2025/09/doj-resentences-breachforums-founder-to.html)
 - [RaccoonO365 Phishing Network Dismantled as Microsoft, Cloudflare Take Down 338 Domains](https://thehackernews.com/2025/09/raccoono365-phishing-network-shut-down.html)
 - [BreachForums hacking forum admin resentenced to three years in prison](https://www.bleepingcomputer.com/news/security/breachforums-hacking-forum-admin-resentenced-to-three-years-in-prison/)
-- [Microsoft rolls out Copilot Chat to Microsoft 365 Office apps](https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-copilot-chat-to-microsoft-365-office-apps/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
