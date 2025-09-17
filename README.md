@@ -660,11 +660,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft: Office 2016 and Office 2019 reach end of support next month](https://www.bleepingcomputer.com/news/microsoft/microsoft-office-2016-and-office-2019-reach-end-of-support-next-month/)
+- [From ClickFix to MetaStealer: Dissecting Evolving Threat Actor Techniques](https://www.bleepingcomputer.com/news/security/from-clickfix-to-metastealer-dissecting-evolving-threat-actor-techniques/)
 - [Microsoft and Cloudflare disrupt massive RaccoonO365 phishing service](https://www.bleepingcomputer.com/news/security/microsoft-and-cloudflare-disrupt-massive-raccoono365-phishing-service/)
 - [From Quantum Hacks to AI Defenses – Expert Guide to Building Unbreakable Cyber Resilience](https://thehackernews.com/2025/09/from-quantum-hacks-to-ai-defenses.html)
 - [Chinese TA415 Uses VS Code Remote Tunnels to Spy on U.S. Economic Policy Experts](https://thehackernews.com/2025/09/chinese-ta415-uses-vs-code-remote.html)
-- [Rethinking AI Data Security: A Buyer&#39;s Guide](https://thehackernews.com/2025/09/rethinking-ai-data-security-buyers-guide.html)
-- [Scattered Spider Resurfaces With Financial Sector Attacks Despite Retirement Claims](https://thehackernews.com/2025/09/scattered-spider-resurfaces-with.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
