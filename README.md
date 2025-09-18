@@ -671,11 +671,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Notepad gets free AI features on Copilot+ PCs with Windows 11](https://www.bleepingcomputer.com/news/microsoft/notepad-gets-free-ai-features-on-copilot-plus-pcs-with-windows-11/)
+- [PyPI invalidates tokens stolen in GhostAction supply chain attack](https://www.bleepingcomputer.com/news/security/pypi-invalidates-tokens-stolen-in-ghostaction-supply-chain-attack/)
+- [CountLoader Broadens Russian Ransomware Operations With Multi-Version Malware Loader](https://thehackernews.com/2025/09/countloader-broadens-russian-ransomware.html)
 - [SilentSync RAT Delivered via Two Malicious PyPI Packages Targeting Python Developers](https://thehackernews.com/2025/09/silentsync-rat-delivered-via-two.html)
 - [How CISOs Can Drive Effective AI Governance](https://thehackernews.com/2025/09/how-cisos-can-drive-effective-ai.html)
-- [WatchGuard warns of critical vulnerability in Firebox firewalls](https://www.bleepingcomputer.com/news/security/watchguard-warns-of-critical-vulnerability-in-firebox-firewalls/)
-- [Google patches sixth Chrome zero-day exploited in attacks this year](https://www.bleepingcomputer.com/news/security/google-patches-sixth-chrome-zero-day-exploited-in-attacks-this-year/)
-- [Google Patches Chrome Zero-Day CVE-2025-10585 as Active V8 Exploit Threatens Millions](https://thehackernews.com/2025/09/google-patches-chrome-zero-day-cve-2025.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
