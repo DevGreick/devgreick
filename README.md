@@ -668,11 +668,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Google patches sixth Chrome zero-day exploited in attacks this year](https://www.bleepingcomputer.com/news/security/google-patches-sixth-chrome-zero-day-exploited-in-attacks-this-year/)
+- [Google Patches Chrome Zero-Day CVE-2025-10585 as Active V8 Exploit Threatens Millions](https://thehackernews.com/2025/09/google-patches-chrome-zero-day-cve-2025.html)
 - [ShinyHunters claims 1.5 billion Salesforce records stolen in Drift hacks](https://www.bleepingcomputer.com/news/security/shinyhunters-claims-15-billion-salesforce-records-stolen-in-drift-hacks/)
 - [TA558 Uses AI-Generated Scripts to Deploy Venom RAT in Brazil Hotel Attacks](https://thehackernews.com/2025/09/ta558-uses-ai-generated-scripts-to.html)
 - [VC giant Insight Partners warns thousands after ransomware breach](https://www.bleepingcomputer.com/news/security/vc-giant-insight-partners-warns-thousands-after-ransomware-breach/)
-- [SonicWall warns customers to reset credentials after breach](https://www.bleepingcomputer.com/news/security/sonicwall-warns-customers-to-reset-credentials-after-MySonicWall-breach/)
-- [Microsoft: Office 2016 and Office 2019 reach end of support next month](https://www.bleepingcomputer.com/news/microsoft/microsoft-office-2016-and-office-2019-reach-end-of-support-next-month/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
