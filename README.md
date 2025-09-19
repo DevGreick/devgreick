@@ -684,11 +684,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
-- [17,500 Phishing Domains Target 316 Brands Across 74 Countries in Global PhaaS Surge](https://thehackernews.com/2025/09/17500-phishing-domains-target-316.html)
-- [Steam will stop running on Windows 32-bit in January 2026](https://www.bleepingcomputer.com/news/software/steam-will-stop-running-on-windows-32-bit-in-january-2026/)
-- [How To Automate Alert Triage With AI Agents and Confluence SOPs Using Tines](https://thehackernews.com/2025/09/how-to-automate-alert-triage-with-ai.html)
-- [Russian Hackers Gamaredon and Turla Collaborate to Deploy Kazuar Backdoor in Ukraine](https://thehackernews.com/2025/09/russian-hackers-gamaredon-and-turla.html)
-- [U.K. Arrests Two Teen Scattered Spider Hackers Linked to August 2024 TfL Cyber Attack](https://thehackernews.com/2025/09/uk-arrest-two-teen-scattered-spider.html)
+- [UNC1549 Hacks 34 Devices in 11 Telecom Firms via LinkedIn Job Lures and MINIBIKE Malware](https://thehackernews.com/2025/09/unc1549-hacks-34-devices-in-11-telecom.html)
+- [CISA exposes malware kits deployed in Ivanti EPMM attacks](https://www.bleepingcomputer.com/news/security/cisa-exposes-malware-kits-deployed-in-ivanti-epmm-attacks/)
+- [SystemBC Powers REM Proxy With 1,500 Daily VPS Victims Across 80 C2 Servers](https://thehackernews.com/2025/09/systembc-powers-rem-proxy-with-1500.html)
+- [Fortra warns of max severity flaw in GoAnywhere MFT’s License Servlet](https://www.bleepingcomputer.com/news/security/fortra-warns-of-max-severity-flaw-in-goanywhere-mfts-license-servlet/)
+- [Fortra Releases Critical Patch for CVSS 10.0 GoAnywhere MFT Vulnerability](https://thehackernews.com/2025/09/fortra-releases-critical-patch-for-cvss.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
