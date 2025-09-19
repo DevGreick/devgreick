@@ -676,11 +676,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [ChatGPT now gives you greater control over GPT-5 Thinking model](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-now-gives-you-greater-control-over-gpt-5-thinking-model/)
 - [UK arrests &#39;Scattered Spider&#39; teens linked to Transport for London hack](https://www.bleepingcomputer.com/news/security/uk-arrests-scattered-spider-teens-linked-to-transport-for-london-hack/)
 - [SystemBC malware turns infected VPS systems into proxy highway](https://www.bleepingcomputer.com/news/security/systembc-malware-turns-infected-vps-systems-into-proxy-highway/)
 - [SonicWall Urges Password Resets After Cloud Backup Breach Affecting Under 5% of Customers](https://thehackernews.com/2025/09/sonicwall-urges-password-resets-after.html)
 - [Target-rich environment: Why Microsoft 365 has become the biggest risk](https://www.bleepingcomputer.com/news/security/target-rich-environment-why-microsoft-365-has-become-the-biggest-risk/)
-- [Notepad gets free AI features on Copilot+ PCs with Windows 11](https://www.bleepingcomputer.com/news/microsoft/notepad-gets-free-ai-features-on-copilot-plus-pcs-with-windows-11/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
