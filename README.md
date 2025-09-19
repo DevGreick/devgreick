@@ -686,11 +686,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft starts rolling out Gaming Copilot on Windows 11 PCs](https://www.bleepingcomputer.com/news/microsoft/microsoft-starts-rolling-out-gaming-copilot-on-windows-11-pcs/)
 - [FBI warns of cybercriminals using fake FBI crime reporting portals](https://www.bleepingcomputer.com/news/security/fbi-warns-of-fake-fbi-crime-complaint-portals-used-for-cybercrime/)
 - [UNC1549 Hacks 34 Devices in 11 Telecom Firms via LinkedIn Job Lures and MINIBIKE Malware](https://thehackernews.com/2025/09/unc1549-hacks-34-devices-in-11-telecom.html)
 - [CISA exposes malware kits deployed in Ivanti EPMM attacks](https://www.bleepingcomputer.com/news/security/cisa-exposes-malware-kits-deployed-in-ivanti-epmm-attacks/)
 - [SystemBC Powers REM Proxy With 1,500 Daily VPS Victims Across 80 C2 Servers](https://thehackernews.com/2025/09/systembc-powers-rem-proxy-with-1500.html)
-- [Fortra warns of max severity flaw in GoAnywhere MFT’s License Servlet](https://www.bleepingcomputer.com/news/security/fortra-warns-of-max-severity-flaw-in-goanywhere-mfts-license-servlet/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
