@@ -681,11 +681,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Russian Hackers Gamaredon and Turla Collaborate to Deploy Kazuar Backdoor in Ukraine](https://thehackernews.com/2025/09/russian-hackers-gamaredon-and-turla.html)
 - [U.K. Arrests Two Teen Scattered Spider Hackers Linked to August 2024 TfL Cyber Attack](https://thehackernews.com/2025/09/uk-arrest-two-teen-scattered-spider.html)
 - [CISA Warns of Two Malware Strains Exploiting Ivanti EPMM CVE-2025-4427 and CVE-2025-4428](https://thehackernews.com/2025/09/cisa-warns-of-two-malware-strains.html)
 - [ChatGPT now gives you greater control over GPT-5 Thinking model](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-now-gives-you-greater-control-over-gpt-5-thinking-model/)
 - [UK arrests &#39;Scattered Spider&#39; teens linked to Transport for London hack](https://www.bleepingcomputer.com/news/security/uk-arrests-scattered-spider-teens-linked-to-transport-for-london-hack/)
-- [SystemBC malware turns infected VPS systems into proxy highway](https://www.bleepingcomputer.com/news/security/systembc-malware-turns-infected-vps-systems-into-proxy-highway/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
