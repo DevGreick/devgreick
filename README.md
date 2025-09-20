@@ -692,11 +692,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [LastPass Warns of Fake Repositories Infecting macOS with Atomic Infostealer](https://thehackernews.com/2025/09/lastpass-warns-of-fake-repositories.html)
+- [Researchers Uncover GPT-4-Powered MalTerminal Malware Creating Ransomware, Reverse Shell](https://thehackernews.com/2025/09/researchers-uncover-gpt-4-powered.html)
 - [ShadowLeak Zero-Click Flaw Leaks Gmail Data via OpenAI ChatGPT Deep Research Agent](https://thehackernews.com/2025/09/shadowleak-zero-click-flaw-leaks-gmail.html)
 - [Microsoft starts rolling out Gaming Copilot on Windows 11 PCs](https://www.bleepingcomputer.com/news/microsoft/microsoft-starts-rolling-out-gaming-copilot-on-windows-11-pcs/)
 - [FBI warns of cybercriminals using fake FBI crime reporting portals](https://www.bleepingcomputer.com/news/security/fbi-warns-of-fake-fbi-crime-complaint-portals-used-for-cybercrime/)
-- [UNC1549 Hacks 34 Devices in 11 Telecom Firms via LinkedIn Job Lures and MINIBIKE Malware](https://thehackernews.com/2025/09/unc1549-hacks-34-devices-in-11-telecom.html)
-- [CISA exposes malware kits deployed in Ivanti EPMM attacks](https://www.bleepingcomputer.com/news/security/cisa-exposes-malware-kits-deployed-in-ivanti-epmm-attacks/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
