@@ -709,11 +709,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft Entra ID flaw allowed hijacking any company&#39;s tenant](https://www.bleepingcomputer.com/news/security/microsoft-entra-id-flaw-allowed-hijacking-any-companys-tenant/)
 - [DPRK Hackers Use ClickFix to Deliver BeaverTail Malware in Crypto Job Scams](https://thehackernews.com/2025/09/dprk-hackers-use-clickfix-to-deliver.html)
 - [Canada dismantles TradeOgre exchange, seizes $40 million in crypto](https://www.bleepingcomputer.com/news/security/canada-dismantles-tradeogre-exchange-seizes-40-million-in-crypto/)
 - [LastPass Warns of Fake Repositories Infecting macOS with Atomic Infostealer](https://thehackernews.com/2025/09/lastpass-warns-of-fake-repositories.html)
 - [Researchers Uncover GPT-4-Powered MalTerminal Malware Creating Ransomware, Reverse Shell](https://thehackernews.com/2025/09/researchers-uncover-gpt-4-powered.html)
-- [ShadowLeak Zero-Click Flaw Leaks Gmail Data via OpenAI ChatGPT Deep Research Agent](https://thehackernews.com/2025/09/shadowleak-zero-click-flaw-leaks-gmail.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
