@@ -719,11 +719,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft says recent updates cause DRM video playback issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-says-recent-updates-cause-drm-video-playback-issues/)
 - [⚡ Weekly Recap: Chrome 0-Day, AI Hacking Tools, DDR5 Bit-Flips, npm Worm &amp; More](https://thehackernews.com/2025/09/weekly-recap-chrome-0-day-ai-hacking.html)
 - [How to Gain Control of AI Agents and Non-Human Identities](https://thehackernews.com/2025/09/how-to-gain-control-of-ai-agents-and.html)
 - [Verified Steam game steals streamer&#39;s cancer treatment donations](https://www.bleepingcomputer.com/news/security/verified-steam-game-steals-streamers-cancer-treatment-donations/)
 - [Microsoft Patches Critical Entra ID Flaw Enabling Global Admin Impersonation Across Tenants](https://thehackernews.com/2025/09/microsoft-patches-critical-entra-id.html)
-- [Microsoft Entra ID flaw allowed hijacking any company&#39;s tenant](https://www.bleepingcomputer.com/news/security/microsoft-entra-id-flaw-allowed-hijacking-any-companys-tenant/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
