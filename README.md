@@ -717,11 +717,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Verified Steam game steals streamer&#39;s cancer treatment donations](https://www.bleepingcomputer.com/news/security/verified-steam-game-steals-streamers-cancer-treatment-donations/)
 - [Microsoft Patches Critical Entra ID Flaw Enabling Global Admin Impersonation Across Tenants](https://thehackernews.com/2025/09/microsoft-patches-critical-entra-id.html)
 - [Microsoft Entra ID flaw allowed hijacking any company&#39;s tenant](https://www.bleepingcomputer.com/news/security/microsoft-entra-id-flaw-allowed-hijacking-any-companys-tenant/)
 - [DPRK Hackers Use ClickFix to Deliver BeaverTail Malware in Crypto Job Scams](https://thehackernews.com/2025/09/dprk-hackers-use-clickfix-to-deliver.html)
 - [Canada dismantles TradeOgre exchange, seizes $40 million in crypto](https://www.bleepingcomputer.com/news/security/canada-dismantles-tradeogre-exchange-seizes-40-million-in-crypto/)
-- [LastPass Warns of Fake Repositories Infecting macOS with Atomic Infostealer](https://thehackernews.com/2025/09/lastpass-warns-of-fake-repositories.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
