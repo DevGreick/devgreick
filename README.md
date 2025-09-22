@@ -721,11 +721,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Automaker giant Stellantis confirms data breach after Salesforce hack](https://www.bleepingcomputer.com/news/security/automaker-giant-stellantis-confirms-data-breach-after-salesforce-hack/)
+- [New EDR-Freeze tool uses Windows WER to suspend security software](https://www.bleepingcomputer.com/news/security/new-edr-freeze-tool-uses-windows-wer-to-suspend-security-software/)
+- [Microsoft lifts Windows 11 update block after face detection fix](https://www.bleepingcomputer.com/news/microsoft/microsoft-removes-windows-11-safeguard-hold-after-fixing-face-detection-bug/)
 - [Mozilla now lets Firefox add-on devs roll back bad updates](https://www.bleepingcomputer.com/news/software/mozilla-now-lets-firefox-add-on-devs-roll-back-bad-updates/)
-- [LastPass: Fake password managers infect Mac users with malware](https://www.bleepingcomputer.com/news/security/lastpass-fake-password-managers-infect-mac-users-with-malware/)
-- [Why attackers are moving beyond email-based phishing attacks](https://www.bleepingcomputer.com/news/security/why-attackers-are-moving-beyond-email-based-phishing-attacks/)
-- [Microsoft says recent updates cause DRM video playback issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-says-recent-updates-cause-drm-video-playback-issues/)
-- [⚡ Weekly Recap: Chrome 0-Day, AI Hacking Tools, DDR5 Bit-Flips, npm Worm &amp; More](https://thehackernews.com/2025/09/weekly-recap-chrome-0-day-ai-hacking.html)
+- [ComicForm and SectorJ149 Hackers Deploy Formbook Malware in Eurasian Cyberattacks](https://thehackernews.com/2025/09/comicform-and-sectorj149-hackers-deploy.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
