@@ -734,11 +734,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Two New Supermicro BMC Bugs Allow Malicious Firmware to Evade Root of Trust Security](https://thehackernews.com/2025/09/two-new-supermicro-bmc-bugs-allow.html)
 - [Libraesva ESG issues emergency fix for bug exploited by state hackers](https://www.bleepingcomputer.com/news/security/libraesva-esg-issues-emergency-fix-for-bug-exploited-by-state-hackers/)
 - [Eurojust Arrests 5 in €100M Cryptocurrency Investment Fraud Spanning 23 Countries](https://thehackernews.com/2025/09/eurojust-arrests-5-in-100m.html)
 - [WhatsApp adds message translation to iPhone and Android apps](https://www.bleepingcomputer.com/news/security/whatsapp-adds-message-translation-to-iphone-and-android-apps/)
 - [Cloudflare mitigates new record-breaking 22.2 Tbps DDoS attack](https://www.bleepingcomputer.com/news/security/cloudflare-mitigates-new-record-breaking-222-tbps-ddos-attack/)
-- [U.S. Secret Service Seizes 300 SIM Servers, 100K Cards Threatening U.S. Officials Near UN](https://thehackernews.com/2025/09/us-secret-service-seizes-300-sim.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
