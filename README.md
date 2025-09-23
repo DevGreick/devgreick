@@ -731,11 +731,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [SolarWinds releases third patch to fix Web Help Desk RCE bug](https://www.bleepingcomputer.com/news/security/solarwinds-releases-third-patch-to-fix-web-help-desk-rce-bug/)
+- [SonicWall releases SMA100 firmware update to wipe rootkit malware](https://www.bleepingcomputer.com/news/security/sonicwall-releases-sma100-firmware-update-to-wipe-rootkit-malware/)
+- [SolarWinds Releases Hotfix for Critical CVE-2025-26399 Remote Code Execution Flaw](https://thehackernews.com/2025/09/solarwinds-releases-hotfix-for-critical.html)
 - [GitHub tightens npm security with mandatory 2FA, access tokens](https://www.bleepingcomputer.com/news/security/github-tightens-npm-security-with-mandatory-2fa-access-tokens/)
-- [NPM package caught using QR Code to fetch cookie-stealing malware](https://www.bleepingcomputer.com/news/security/npm-package-caught-using-qr-code-to-fetch-cookie-stealing-malware/)
-- [GitHub Mandates 2FA and Short-Lived Tokens to Strengthen npm Supply Chain Security](https://thehackernews.com/2025/09/github-mandates-2fa-and-short-lived.html)
-- [BadIIS Malware Spreads via SEO Poisoning — Redirects Traffic, Plants Web Shells](https://thehackernews.com/2025/09/badiis-malware-spreads-via-seo.html)
-- [Airport disruptions in Europe caused by a ransomware attack](https://www.bleepingcomputer.com/news/security/airport-disruptions-in-europe-caused-by-a-ransomware-attack/)
+- [Lean Teams, Higher Stakes: Why CISOs Must Rethink Incident Remediation](https://thehackernews.com/2025/09/lean-teams-higher-stakes-why-cisos-must.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
