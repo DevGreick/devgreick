@@ -24,9 +24,14 @@
 
   <!-- CVE-LIST:START -->
 <details>
-<summary><strong>Vulnerabilidades exploradas conhecidas da CISA</strong>  •  atualizado 23/09/2025 16:15 UTC  •  exibindo 10 itens</summary>
+<summary><strong>Vulnerabilidades exploradas conhecidas da CISA</strong>  •  atualizado 23/09/2025 18:18 UTC  •  exibindo 10 itens</summary>
 
 > Fonte: CISA Known Exploited Vulnerabilities
+
+- **CVE-2025-10585** - Google Chromium V8 Type Confusion Vulnerability  
+  Fornecedor: Google | Produto: Chromium V8 | Adicionado: 2025-09-23  
+  Google Chromium contains a type confusion vulnerability in the V8 JavaScript and WebAssembly engine.  
+  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
 
 - **CVE-2025-5086** - Dassault Systèmes DELMIA Apriso Deserialization of Untrusted Data Vulnerability  
   Fornecedor: Dassault Systèmes | Produto: DELMIA Apriso | Adicionado: 2025-09-11  
@@ -73,12 +78,8 @@
   Sangoma FreePBX contains an authentication bypass vulnerability due to insufficiently sanitized user-supplied data allows unauthenticated access to FreePBX Administrator leading to arbitrary database manipulation and remote code execution.  
   Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
 
-- **CVE-2025-7775** - Citrix NetScaler Memory Overflow Vulnerability  
-  Fornecedor: Citrix | Produto: NetScaler | Adicionado: 2025-08-26  
-  Citrix NetScaler ADC and NetScaler Gateway contain a memory overflow vulnerability that could allow for remote code execution and/or denial of service.  
-  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
-
 </details>
+
 
 
 
