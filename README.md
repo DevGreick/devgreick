@@ -732,11 +732,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Cloudflare mitigates new record-breaking 22.2 Tbps DDoS attack](https://www.bleepingcomputer.com/news/security/cloudflare-mitigates-new-record-breaking-222-tbps-ddos-attack/)
+- [CISA says hackers breached federal agency using GeoServer exploit](https://www.bleepingcomputer.com/news/security/cisa-says-hackers-breached-federal-agency-using-geoserver-exploit/)
+- [Police dismantles crypto fraud ring linked to €100 million in losses](https://www.bleepingcomputer.com/news/security/police-dismantles-crypto-fraud-ring-linked-to-100-million-in-losses/)
+- [5 ways to streamline Identity Governance with this free tool](https://www.bleepingcomputer.com/news/security/5-ways-to-streamline-identity-governance-with-this-free-tool/)
 - [SolarWinds releases third patch to fix Web Help Desk RCE bug](https://www.bleepingcomputer.com/news/security/solarwinds-releases-third-patch-to-fix-web-help-desk-rce-bug/)
-- [SonicWall releases SMA100 firmware update to wipe rootkit malware](https://www.bleepingcomputer.com/news/security/sonicwall-releases-sma100-firmware-update-to-wipe-rootkit-malware/)
-- [SolarWinds Releases Hotfix for Critical CVE-2025-26399 Remote Code Execution Flaw](https://thehackernews.com/2025/09/solarwinds-releases-hotfix-for-critical.html)
-- [GitHub tightens npm security with mandatory 2FA, access tokens](https://www.bleepingcomputer.com/news/security/github-tightens-npm-security-with-mandatory-2fa-access-tokens/)
-- [Lean Teams, Higher Stakes: Why CISOs Must Rethink Incident Remediation](https://thehackernews.com/2025/09/lean-teams-higher-stakes-why-cisos-must.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
