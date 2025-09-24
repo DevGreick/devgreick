@@ -744,11 +744,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
-- [UK arrests suspect for RTX ransomware attack causing airport disruptions](https://www.bleepingcomputer.com/news/security/uk-arrests-suspect-for-rtx-ransomware-attack-causing-airport-disruptions/)
-- [Two Critical Flaws Uncovered in Wondershare RepairIt Exposing User Data and AI Models](https://thehackernews.com/2025/09/two-critical-flaws-uncovered-in.html)
-- [PyPI urges users to reset credentials after new phishing attacks](https://www.bleepingcomputer.com/news/security/pypi-urges-users-to-reset-credentials-after-new-phishing-attacks/)
-- [GitHub notifications abused to impersonate Y Combinator for crypto theft](https://www.bleepingcomputer.com/news/security/github-notifications-abused-to-impersonate-y-combinator-for-crypto-theft/)
-- [How One Bad Password Ended a 158-Year-Old Business](https://thehackernews.com/2025/09/how-one-bad-password-ended-158-year-old.html)
+- [Unpatched flaw in OnePlus phones lets rogue apps text messages](https://www.bleepingcomputer.com/news/security/unpatched-flaw-in-oneplus-phones-lets-rogue-apps-text-messages/)
+- [Police seizes $439 million stolen by cybercrime rings worldwide](https://www.bleepingcomputer.com/news/security/police-seizes-439-million-stolen-by-cybercrime-rings-worldwide/)
+- [UNC5221 Uses BRICKSTORM Backdoor to Infiltrate U.S. Legal and Technology Sectors](https://thehackernews.com/2025/09/unc5221-uses-brickstorm-backdoor-to.html)
+- [Obscura, an obscure new ransomware variant](https://www.bleepingcomputer.com/news/security/obscura-an-obscure-new-ransomware-variant/)
+- [Google: Brickstone malware used to steal U.S. orgs&#39; data for over a year](https://www.bleepingcomputer.com/news/security/google-brickstone-malware-used-to-steal-us-orgs-data-for-over-a-year/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
