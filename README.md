@@ -746,11 +746,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI is testing a new GPT-5-based AI agent &quot;GPT-Alpha&quot;](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-testing-a-new-gpt-5-based-ai-agent-gpt-alpha/)
+- [Kali Linux 2025.3 released with 10 new tools, wifi enhancements](https://www.bleepingcomputer.com/news/security/kali-linux-20253-released-with-10-new-tools-wifi-enhancements/)
 - [Cisco warns of IOS zero-day vulnerability exploited in attacks](https://www.bleepingcomputer.com/news/security/cisco-warns-of-ios-zero-day-vulnerability-exploited-in-attacks/)
 - [Chinese Hackers RedNovember Target Global Governments Using Pantegana and Cobalt Strike](https://thehackernews.com/2025/09/chinese-hackers-rednovember-target.html)
 - [Unpatched flaw in OnePlus phones lets rogue apps text messages](https://www.bleepingcomputer.com/news/security/unpatched-flaw-in-oneplus-phones-lets-rogue-apps-text-messages/)
-- [Police seizes $439 million stolen by cybercrime rings worldwide](https://www.bleepingcomputer.com/news/security/police-seizes-439-million-stolen-by-cybercrime-rings-worldwide/)
-- [UNC5221 Uses BRICKSTORM Backdoor to Infiltrate U.S. Legal and Technology Sectors](https://thehackernews.com/2025/09/unc5221-uses-brickstorm-backdoor-to.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
