@@ -742,11 +742,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [How One Bad Password Ended a 158-Year-Old Business](https://thehackernews.com/2025/09/how-one-bad-password-ended-158-year-old.html)
+- [New YiBackdoor Malware Shares Major Code Overlaps with IcedID and Latrodectus](https://thehackernews.com/2025/09/new-yibackdoor-malware-shares-major.html)
+- [iframe Security Exposed: The Blind Spot Fueling Payment Skimmer Attacks](https://thehackernews.com/2025/09/iframe-security-exposed-blind-spot.html)
 - [Hackers Exploit Pandoc CVE-2025-51591 to Target AWS IMDS and Steal EC2 IAM Credentials](https://thehackernews.com/2025/09/hackers-exploit-pandoc-cve-2025-51591.html)
 - [State-Sponsored Hackers Exploiting Libraesva Email Security Gateway Vulnerability](https://thehackernews.com/2025/09/state-sponsored-hackers-exploiting.html)
-- [Boyd Gaming discloses data breach after suffering a cyberattack](https://www.bleepingcomputer.com/news/security/boyd-gaming-discloses-data-breach-after-suffering-a-cyberattack/)
-- [Two New Supermicro BMC Bugs Allow Malicious Firmware to Evade Root of Trust Security](https://thehackernews.com/2025/09/two-new-supermicro-bmc-bugs-allow.html)
-- [Libraesva ESG issues emergency fix for bug exploited by state hackers](https://www.bleepingcomputer.com/news/security/libraesva-esg-issues-emergency-fix-for-bug-exploited-by-state-hackers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
