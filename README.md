@@ -743,11 +743,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [UK arrests suspect for RTX ransomware attack causing airport disruptions](https://www.bleepingcomputer.com/news/security/uk-arrests-suspect-for-rtx-ransomware-attack-causing-airport-disruptions/)
+- [Two Critical Flaws Uncovered in Wondershare RepairIt Exposing User Data and AI Models](https://thehackernews.com/2025/09/two-critical-flaws-uncovered-in.html)
+- [PyPI urges users to reset credentials after new phishing attacks](https://www.bleepingcomputer.com/news/security/pypi-urges-users-to-reset-credentials-after-new-phishing-attacks/)
+- [GitHub notifications abused to impersonate Y Combinator for crypto theft](https://www.bleepingcomputer.com/news/security/github-notifications-abused-to-impersonate-y-combinator-for-crypto-theft/)
 - [How One Bad Password Ended a 158-Year-Old Business](https://thehackernews.com/2025/09/how-one-bad-password-ended-158-year-old.html)
-- [New YiBackdoor Malware Shares Major Code Overlaps with IcedID and Latrodectus](https://thehackernews.com/2025/09/new-yibackdoor-malware-shares-major.html)
-- [iframe Security Exposed: The Blind Spot Fueling Payment Skimmer Attacks](https://thehackernews.com/2025/09/iframe-security-exposed-blind-spot.html)
-- [Hackers Exploit Pandoc CVE-2025-51591 to Target AWS IMDS and Steal EC2 IAM Credentials](https://thehackernews.com/2025/09/hackers-exploit-pandoc-cve-2025-51591.html)
-- [State-Sponsored Hackers Exploiting Libraesva Email Security Gateway Vulnerability](https://thehackernews.com/2025/09/state-sponsored-hackers-exploiting.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
