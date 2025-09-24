@@ -745,11 +745,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Cisco warns of IOS zero-day vulnerability exploited in attacks](https://www.bleepingcomputer.com/news/security/cisco-warns-of-ios-zero-day-vulnerability-exploited-in-attacks/)
+- [Chinese Hackers RedNovember Target Global Governments Using Pantegana and Cobalt Strike](https://thehackernews.com/2025/09/chinese-hackers-rednovember-target.html)
 - [Unpatched flaw in OnePlus phones lets rogue apps text messages](https://www.bleepingcomputer.com/news/security/unpatched-flaw-in-oneplus-phones-lets-rogue-apps-text-messages/)
 - [Police seizes $439 million stolen by cybercrime rings worldwide](https://www.bleepingcomputer.com/news/security/police-seizes-439-million-stolen-by-cybercrime-rings-worldwide/)
 - [UNC5221 Uses BRICKSTORM Backdoor to Infiltrate U.S. Legal and Technology Sectors](https://thehackernews.com/2025/09/unc5221-uses-brickstorm-backdoor-to.html)
-- [Obscura, an obscure new ransomware variant](https://www.bleepingcomputer.com/news/security/obscura-an-obscure-new-ransomware-variant/)
-- [Google: Brickstone malware used to steal U.S. orgs&#39; data for over a year](https://www.bleepingcomputer.com/news/security/google-brickstone-malware-used-to-steal-us-orgs-data-for-over-a-year/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
