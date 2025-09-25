@@ -757,11 +757,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Urgent: Cisco ASA Zero-Day Duo Under Attack; CISA Triggers Emergency Mitigation Directive](https://thehackernews.com/2025/09/urgent-cisco-asa-zero-day-duo-under.html)
 - [Co-op says it lost $107 million after Scattered Spider attack](https://www.bleepingcomputer.com/news/security/co-op-says-it-lost-107-million-after-scattered-spider-attack/)
 - [CISA orders agencies to patch Cisco flaws exploited in zero-day attacks](https://www.bleepingcomputer.com/news/security/cisa-orders-agencies-to-patch-cisco-flaws-exploited-in-zero-day-attacks/)
-- [Cisco warns of ASA firewall zero-days exploited in attacks](https://www.bleepingcomputer.com/news/security/cisco-warns-of-asa-firewall-zero-days-exploited-in-attacks/)
-- [Amazon pays $2.5 billion to settle Prime memberships lawsuit](https://www.bleepingcomputer.com/news/technology/amazon-pays-25-billion-to-settle-prime-memberships-lawsuit/)
-- [Malicious Rust packages on Crates.io steal crypto wallet keys](https://www.bleepingcomputer.com/news/security/malicious-rust-packages-on-cratesio-steal-crypto-wallet-keys/)
+- [Threatsday Bulletin: Rootkit Patch, Federal Breach, OnePlus SMS Leak, TikTok Scandal &amp; More](https://thehackernews.com/2025/09/threatsday-bulletin-rootkit-patch.html)
+- [Vane Viper Generates 1 Trillion DNS Queries to Power Global Malware and Ad Fraud Network](https://thehackernews.com/2025/09/vane-viper-generates-1-trillion-dns.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
