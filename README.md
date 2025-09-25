@@ -753,11 +753,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [CTEM&#39;s Core: Prioritization and Validation](https://thehackernews.com/2025/09/ctems-core-prioritization-and-validation.html)
+- [Threatsday Bulletin: Rootkit Patch, Federal Breach, OnePlus SMS Leak, TikTok Scandal &amp; More](https://thehackernews.com/2025/09/threatsday-bulletin-rootkit-patch.html)
+- [Tech Overtakes Gaming as Top DDoS Attack Target, New Gcore Radar Report Finds](https://thehackernews.com/2025/09/tech-overtakes-gaming-as-top-ddos.html)
 - [Malicious Rust Crates Steal Solana and Ethereum Keys — 8,424 Downloads Confirmed](https://thehackernews.com/2025/09/malicious-rust-crates-steal-solana-and.html)
 - [Cisco Warns of Actively Exploited SNMP Vulnerability Allowing RCE or DoS in IOS Software](https://thehackernews.com/2025/09/cisco-warns-of-actively-exploited-snmp.html)
-- [New Supermicro BMC flaws can create persistent backdoors](https://www.bleepingcomputer.com/news/security/new-supermicro-bmc-flaws-can-create-persistent-backdoors/)
-- [OpenAI is testing a new GPT-5-based AI agent &quot;GPT-Alpha&quot;](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-testing-a-new-gpt-5-based-ai-agent-gpt-alpha/)
-- [Kali Linux 2025.3 released with 10 new tools, Wi-Fi enhancements](https://www.bleepingcomputer.com/news/security/kali-linux-20253-released-with-10-new-tools-wifi-enhancements/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
