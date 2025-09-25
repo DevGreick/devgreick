@@ -755,11 +755,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Malicious Rust packages on Crates.io steal crypto wallet keys](https://www.bleepingcomputer.com/news/security/malicious-rust-packages-on-cratesio-steal-crypto-wallet-keys/)
+- [Salesforce Patches Critical ForcedLeak Bug Exposing CRM Data via AI Prompt Injection](https://thehackernews.com/2025/09/salesforce-patches-critical-forcedleak.html)
+- [How secure are passkeys, really? Here&#39;s what you need to know](https://www.bleepingcomputer.com/news/security/how-secure-are-passkeys-really-heres-what-you-need-to-know/)
 - [North Korean Hackers Use New AkdoorTea Backdoor to Target Global Crypto Developers](https://thehackernews.com/2025/09/north-korean-hackers-use-new-akdoortea.html)
 - [Teen suspected of Vegas casino cyberattacks released to parents](https://www.bleepingcomputer.com/news/security/teen-suspected-of-vegas-casino-cyberattacks-released-to-parents/)
-- [Microsoft will offer free Windows 10 security updates in Europe](https://www.bleepingcomputer.com/news/microsoft/microsoft-will-offer-free-windows-10-security-updates-in-europe/)
-- [CTEM&#39;s Core: Prioritization and Validation](https://thehackernews.com/2025/09/ctems-core-prioritization-and-validation.html)
-- [Threatsday Bulletin: Rootkit Patch, Federal Breach, OnePlus SMS Leak, TikTok Scandal &amp; More](https://thehackernews.com/2025/09/threatsday-bulletin-rootkit-patch.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
