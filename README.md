@@ -765,11 +765,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Crash Tests for Security: Why BAS Is Proof of Defense, Not Assumptions](https://thehackernews.com/2025/09/crash-tests-for-security-why-bas-is.html)
 - [Fortra GoAnywhere CVSS 10 Flaw Exploited as 0-Day a Week Before Public Disclosure](https://thehackernews.com/2025/09/fortra-goanywhere-cvss-10-flaw.html)
 - [New macOS XCSSET Variant Targets Firefox with Clipper and Persistence Module](https://thehackernews.com/2025/09/new-macos-xcsset-variant-targets.html)
 - [Cisco ASA Firewall Zero-Day Exploits Deploy RayInitiator and LINE VIPER Malware](https://thehackernews.com/2025/09/cisco-asa-firewall-zero-day-exploits.html)
 - [Microsoft warns of new XCSSET macOS malware variant targeting Xcode devs](https://www.bleepingcomputer.com/news/security/microsoft-warns-of-new-xcsset-macos-malware-variant-targeting-xcode-devs/)
-- [Unofficial Postmark MCP npm silently stole users&#39; emails](https://www.bleepingcomputer.com/news/security/unofficial-postmark-mcp-npm-silently-stole-users-emails/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
