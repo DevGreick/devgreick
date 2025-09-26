@@ -762,11 +762,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Cisco ASA Firewall Zero-Day Exploits Deploy RayInitiator and LINE VIPER Malware](https://thehackernews.com/2025/09/cisco-asa-firewall-zero-day-exploits.html)
 - [Microsoft warns of new XCSSET macOS malware variant targeting Xcode devs](https://www.bleepingcomputer.com/news/security/microsoft-warns-of-new-xcsset-macos-malware-variant-targeting-xcode-devs/)
 - [Unofficial Postmark MCP npm silently stole users&#39; emails](https://www.bleepingcomputer.com/news/security/unofficial-postmark-mcp-npm-silently-stole-users-emails/)
 - [Urgent: Cisco ASA Zero-Day Duo Under Attack; CISA Triggers Emergency Mitigation Directive](https://thehackernews.com/2025/09/urgent-cisco-asa-zero-day-duo-under.html)
 - [Co-op says it lost $107 million after Scattered Spider attack](https://www.bleepingcomputer.com/news/security/co-op-says-it-lost-107-million-after-scattered-spider-attack/)
-- [CISA orders agencies to patch Cisco flaws exploited in zero-day attacks](https://www.bleepingcomputer.com/news/security/cisa-orders-agencies-to-patch-cisco-flaws-exploited-in-zero-day-attacks/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
