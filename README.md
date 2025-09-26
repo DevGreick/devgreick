@@ -767,11 +767,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft Edge to block malicious sideloaded extensions](https://www.bleepingcomputer.com/news/security/microsoft-edge-to-block-malicious-sideloaded-extensions/)
+- [The hidden cyber risks of deploying generative AI](https://www.bleepingcomputer.com/news/security/the-hidden-cyber-risks-of-deploying-generative-ai/)
 - [Maximum severity GoAnywhere MFT flaw exploited as zero day](https://www.bleepingcomputer.com/news/security/maximum-severity-goanywhere-mft-flaw-exploited-as-zero-day/)
 - [Microsoft releases the final Windows 10 22H2 preview update](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-the-final-windows-10-22h2-preview-update/)
 - [New COLDRIVER Malware Campaign Joins BO Team and Bearlyfy in Russia-Focused Cyberattacks](https://thehackernews.com/2025/09/new-coldriver-malware-campaign-joins-bo.html)
-- [Crash Tests for Security: Why BAS Is Proof of Defense, Not Assumptions](https://thehackernews.com/2025/09/crash-tests-for-security-why-bas-is.html)
-- [Fortra GoAnywhere CVSS 10 Flaw Exploited as 0-Day a Week Before Public Disclosure](https://thehackernews.com/2025/09/fortra-goanywhere-cvss-10-flaw.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
