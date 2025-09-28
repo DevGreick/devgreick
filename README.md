@@ -792,11 +792,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [EU probes SAP over anti-competitive ERP support practices](https://www.bleepingcomputer.com/news/legal/eu-probes-sap-over-anti-competitive-erp-support-practices/)
 - [Fake Microsoft Teams installers push Oyster malware via malvertising](https://www.bleepingcomputer.com/news/security/fake-microsoft-teams-installers-push-oyster-malware-via-malvertising/)
 - [Dutch teens arrested for trying to spy on Europol for Russia](https://www.bleepingcomputer.com/news/security/dutch-teens-arrested-for-trying-to-spy-on-europol-for-russia/)
 - [China-Linked PlugX and Bookworm Malware Attacks Target Asian Telecom and ASEAN Networks](https://thehackernews.com/2025/09/china-linked-plugx-and-bookworm-malware.html)
 - [Microsoft’s new AI feature will organize your photos automatically](https://www.bleepingcomputer.com/news/microsoft/microsofts-new-ai-feature-will-organize-your-photos-automatically/)
-- [US investors to take over TikTok operations in the country](https://www.bleepingcomputer.com/news/government/us-investors-to-take-over-tiktok-operations-in-the-country/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
