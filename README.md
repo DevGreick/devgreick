@@ -803,11 +803,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
-- [Can We Trust AI To Write Vulnerability Checks? Here&#39;s what we found](https://www.bleepingcomputer.com/news/security/can-we-trust-ai-to-write-vulnerability-checks-heres-what-we-found/)
+- [Brave launches &#39;Ask Brave&#39; feature to fuse AI with traditional search](https://www.bleepingcomputer.com/news/artificial-intelligence/brave-launches-ask-brave-feature-to-fuse-ai-with-traditional-search/)
+- [Harrods suffers new data breach exposing 430,000 customer records](https://www.bleepingcomputer.com/news/security/harrods-suffers-new-data-breach-exposing-430-000-customer-records/)
+- [Can We Trust AI To Write Vulnerability Checks? Here&#39;s What We Found](https://www.bleepingcomputer.com/news/security/can-we-trust-ai-to-write-vulnerability-checks-heres-what-we-found/)
 - [ChatGPT tests free trial for paid plans, rolls out cheaper Go in more regions](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-tests-free-trial-for-paid-plans-rolls-out-cheaper-go-in-more-regions/)
 - [⚡ Weekly Recap: Cisco 0-Day, Record DDoS, LockBit 5.0, BMC Bugs, ShadowV2 Botnet &amp; More](https://thehackernews.com/2025/09/weekly-recap-cisco-0-day-record-ddos.html)
-- [OpenAI is routing GPT-4o to safety models when it detects harmful activities](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-routing-gpt-4o-to-safety-models-when-it-detects-harmful-activities/)
-- [The State of AI in the SOC 2025 - Insights from Recent Study](https://thehackernews.com/2025/09/the-state-of-ai-in-soc-2025-insights.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
