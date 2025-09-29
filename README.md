@@ -800,11 +800,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft Flags AI-Driven Phishing: LLM-Crafted SVG Files Outsmart Email Security](https://thehackernews.com/2025/09/microsoft-flags-ai-driven-phishing-llm.html)
+- [First Malicious MCP Server Found Stealing Emails in Rogue Postmark-MCP Package](https://thehackernews.com/2025/09/first-malicious-mcp-server-found.html)
 - [Akira ransomware breaching MFA-protected SonicWall VPN accounts](https://www.bleepingcomputer.com/news/security/akira-ransomware-breaching-mfa-protected-sonicwall-vpn-accounts/)
 - [EU probes SAP over anti-competitive ERP support practices](https://www.bleepingcomputer.com/news/legal/eu-probes-sap-over-anti-competitive-erp-support-practices/)
 - [Fake Microsoft Teams installers push Oyster malware via malvertising](https://www.bleepingcomputer.com/news/security/fake-microsoft-teams-installers-push-oyster-malware-via-malvertising/)
-- [Dutch teens arrested for trying to spy on Europol for Russia](https://www.bleepingcomputer.com/news/security/dutch-teens-arrested-for-trying-to-spy-on-europol-for-russia/)
-- [China-Linked PlugX and Bookworm Malware Attacks Target Asian Telecom and ASEAN Networks](https://thehackernews.com/2025/09/china-linked-plugx-and-bookworm-malware.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
