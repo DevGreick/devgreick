@@ -814,11 +814,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
-- [Broadcom fixes high-severity VMware NSX bugs reported by NSA](https://www.bleepingcomputer.com/news/security/broadcom-fixes-high-severity-vmware-nsx-bugs-reported-by-nsa/)
-- [New Android Trojan “Datzbro” Tricking Elderly with AI-Generated Facebook Travel Events](https://thehackernews.com/2025/09/new-android-trojan-datzbro-tricking.html)
-- [Evolving Enterprise Defense to Secure the Modern AI Supply Chain](https://thehackernews.com/2025/09/evolving-enterprise-defense-to-secure.html)
-- [U.K. Police Just Seized £5.5 Billion in Bitcoin — The World’s Largest Crypto Bust](https://thehackernews.com/2025/09/uk-police-just-seized-55-billion-in.html)
-- [CISA Sounds Alarm on Critical Sudo Flaw Actively Exploited in Linux and Unix Systems](https://thehackernews.com/2025/09/cisa-sounds-alarm-on-critical-sudo-flaw.html)
+- [VMware Certification Is Surging in a Shifting IT Landscape](https://www.bleepingcomputer.com/news/security/vmware-certification-is-surging-in-a-shifting-it-landscape/)
+- [Microsoft fixes Windows DRM video playback issues for some users](https://www.bleepingcomputer.com/news/microsoft/microsoft-drm-video-playback-issues-now-partially-resolved/)
+- [CISA warns of critical Linux Sudo flaw exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-linux-sudo-flaw-exploited-in-attacks/)
+- [Researchers Disclose Google Gemini AI Flaws Allowing Prompt Injection and Cloud Exploits](https://thehackernews.com/2025/09/researchers-disclose-google-gemini-ai.html)
+- [Microsoft Expands Sentinel Into Agentic Security Platform With Unified Data Lake](https://thehackernews.com/2025/09/microsoft-expands-sentinel-into-agentic.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
