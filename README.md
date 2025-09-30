@@ -818,11 +818,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Imgur blocks UK users after data watchdog signals possible fine](https://www.bleepingcomputer.com/news/technology/imgur-blocks-uk-users-after-data-watchdog-signals-possible-fine/)
 - [Sendit sued by the FTC for illegal collection of children data](https://www.bleepingcomputer.com/news/legal/sendit-sued-by-the-ftc-for-illegal-collection-of-children-data/)
 - [New MatrixPDF toolkit turns PDFs into phishing and malware lures](https://www.bleepingcomputer.com/news/security/new-matrixpdf-toolkit-turns-pdfs-into-phishing-and-malware-lures/)
 - [$50 Battering RAM Attack Breaks Intel and AMD Cloud Security Protections](https://thehackernews.com/2025/10/50-battering-ram-attack-breaks-intel.html)
 - [WestJet confirms recent breach exposed customers&#39; passports](https://www.bleepingcomputer.com/news/security/westjet-confirms-recent-breach-exposed-customers-passports/)
-- [Windows 11 2025 Update &lpar;25H2&rpar; is now available, Here&#39;s what&#39;s new](https://www.bleepingcomputer.com/news/microsoft/windows-11-2025-update-25h2-is-now-available-heres-whats-new/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
