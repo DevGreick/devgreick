@@ -815,11 +815,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Chinese hackers exploiting VMware zero-day since October 2024](https://www.bleepingcomputer.com/news/security/chinese-hackers-exploiting-vmware-zero-day-since-october-2024/)
 - [VMware Certification Is Surging in a Shifting IT Landscape](https://www.bleepingcomputer.com/news/security/vmware-certification-is-surging-in-a-shifting-it-landscape/)
 - [Microsoft fixes Windows DRM video playback issues for some users](https://www.bleepingcomputer.com/news/microsoft/microsoft-drm-video-playback-issues-now-partially-resolved/)
 - [CISA warns of critical Linux Sudo flaw exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-linux-sudo-flaw-exploited-in-attacks/)
 - [Researchers Disclose Google Gemini AI Flaws Allowing Prompt Injection and Cloud Exploits](https://thehackernews.com/2025/09/researchers-disclose-google-gemini-ai.html)
-- [Microsoft Expands Sentinel Into Agentic Security Platform With Unified Data Lake](https://thehackernews.com/2025/09/microsoft-expands-sentinel-into-agentic.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
