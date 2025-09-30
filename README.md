@@ -810,11 +810,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [CISA Sounds Alarm on Critical Sudo Flaw Actively Exploited in Linux and Unix Systems](https://thehackernews.com/2025/09/cisa-sounds-alarm-on-critical-sudo-flaw.html)
 - [UK convicts &quot;Bitcoin Queen&quot; in world’s largest cryptocurrency seizure](https://www.bleepingcomputer.com/news/security/uk-convicts-bitcoin-queen-in-worlds-largest-cryptocurrency-seizure/)
 - [Japan&#39;s largest brewer suspends operations due to cyberattack](https://www.bleepingcomputer.com/news/security/japans-largest-brewer-suspends-operations-due-to-cyberattack/)
 - [Ransomware gang sought BBC reporter’s help in hacking media giant](https://www.bleepingcomputer.com/news/security/ransomware-gang-sought-bbc-reporters-help-in-hacking-media-giant/)
 - [EvilAI Malware Masquerades as AI Tools to Infiltrate Global Organizations](https://thehackernews.com/2025/09/evilai-malware-masquerades-as-ai-tools.html)
-- [UK govt backs JLR with £1.5 billion loan guarantee after cyberattack](https://www.bleepingcomputer.com/news/security/uk-govt-backs-jlr-with-15-billion-loan-guarantee-after-cyberattack/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
