@@ -813,11 +813,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Broadcom fixes high-severity VMware NSX bugs reported by NSA](https://www.bleepingcomputer.com/news/security/broadcom-fixes-high-severity-vmware-nsx-bugs-reported-by-nsa/)
 - [New Android Trojan “Datzbro” Tricking Elderly with AI-Generated Facebook Travel Events](https://thehackernews.com/2025/09/new-android-trojan-datzbro-tricking.html)
 - [Evolving Enterprise Defense to Secure the Modern AI Supply Chain](https://thehackernews.com/2025/09/evolving-enterprise-defense-to-secure.html)
 - [U.K. Police Just Seized £5.5 Billion in Bitcoin — The World’s Largest Crypto Bust](https://thehackernews.com/2025/09/uk-police-just-seized-55-billion-in.html)
 - [CISA Sounds Alarm on Critical Sudo Flaw Actively Exploited in Linux and Unix Systems](https://thehackernews.com/2025/09/cisa-sounds-alarm-on-critical-sudo-flaw.html)
-- [UK convicts &quot;Bitcoin Queen&quot; in world’s largest cryptocurrency seizure](https://www.bleepingcomputer.com/news/security/uk-convicts-bitcoin-queen-in-worlds-largest-cryptocurrency-seizure/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
