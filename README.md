@@ -829,11 +829,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Adobe Analytics bug leaked customer tracking data to other tenants](https://www.bleepingcomputer.com/news/security/adobe-analytics-bug-leaked-customer-tracking-data-to-other-tenants/)
+- [New bug in classic Outlook can only be fixed via Microsoft support](https://www.bleepingcomputer.com/news/microsoft/new-bug-in-classic-outlook-can-only-be-fixed-via-microsoft-support/)
+- [Android malware uses VNC to give attackers hands-on access](https://www.bleepingcomputer.com/news/security/android-malware-uses-vnc-to-give-attackers-hands-on-access/)
 - [New WireTap Attack Extracts Intel SGX ECDSA Key via DDR4 Memory-Bus Interposer](https://thehackernews.com/2025/10/new-wiretap-attack-extracts-intel-sgx.html)
 - [F-Droid project threatened by Google&#39;s new dev registration rules](https://www.bleepingcomputer.com/news/security/f-droid-project-threatened-by-googles-new-dev-registration-rules/)
-- [Microsoft to force install Microsoft 365 companion apps in October](https://www.bleepingcomputer.com/news/microsoft/microsoft-to-force-install-microsoft-365-companion-apps-in-october/)
-- [WestJet data breach exposes travel details of 1.2 million customers](https://www.bleepingcomputer.com/news/security/westjet-data-breach-exposes-travel-details-of-12-million-customers/)
-- [Google Drive for desktop gets AI-powered ransomware detection](https://www.bleepingcomputer.com/news/security/google-drive-for-desktop-gets-ai-powered-ransomware-detection/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
