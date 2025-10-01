@@ -825,11 +825,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [2025 Cybersecurity Reality Check: Breaches Hidden, Attack Surfaces Growing, and AI Misperceptions Rising](https://thehackernews.com/2025/10/2025-cybersecurity-reality-check.html)
+- [Hackers Exploit Milesight Routers to Send Phishing SMS to European Users](https://thehackernews.com/2025/10/hackers-exploit-milesight-routers-to.html)
 - [New Android Banking Trojan “Klopatra” Uses Hidden VNC to Control Infected Smartphones](https://thehackernews.com/2025/10/new-android-banking-trojan-klopatra.html)
 - [Ukraine Warns of CABINETRAT Backdoor + XLL Add-ins Spread via Signal ZIPs](https://thehackernews.com/2025/10/ukraine-warns-of-cabinetrat-backdoor.html)
 - [Imgur blocks UK users after data watchdog signals possible fine](https://www.bleepingcomputer.com/news/technology/imgur-blocks-uk-users-after-data-watchdog-signals-possible-fine/)
-- [Sendit sued by the FTC for illegal collection of children data](https://www.bleepingcomputer.com/news/legal/sendit-sued-by-the-ftc-for-illegal-collection-of-children-data/)
-- [New MatrixPDF toolkit turns PDFs into phishing and malware lures](https://www.bleepingcomputer.com/news/security/new-matrixpdf-toolkit-turns-pdfs-into-phishing-and-malware-lures/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
