@@ -824,11 +824,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [New Android Banking Trojan “Klopatra” Uses Hidden VNC to Control Infected Smartphones](https://thehackernews.com/2025/10/new-android-banking-trojan-klopatra.html)
+- [Ukraine Warns of CABINETRAT Backdoor + XLL Add-ins Spread via Signal ZIPs](https://thehackernews.com/2025/10/ukraine-warns-of-cabinetrat-backdoor.html)
 - [Imgur blocks UK users after data watchdog signals possible fine](https://www.bleepingcomputer.com/news/technology/imgur-blocks-uk-users-after-data-watchdog-signals-possible-fine/)
 - [Sendit sued by the FTC for illegal collection of children data](https://www.bleepingcomputer.com/news/legal/sendit-sued-by-the-ftc-for-illegal-collection-of-children-data/)
 - [New MatrixPDF toolkit turns PDFs into phishing and malware lures](https://www.bleepingcomputer.com/news/security/new-matrixpdf-toolkit-turns-pdfs-into-phishing-and-malware-lures/)
-- [$50 Battering RAM Attack Breaks Intel and AMD Cloud Security Protections](https://thehackernews.com/2025/10/50-battering-ram-attack-breaks-intel.html)
-- [WestJet confirms recent breach exposed customers&#39; passports](https://www.bleepingcomputer.com/news/security/westjet-confirms-recent-breach-exposed-customers-passports/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
