@@ -828,11 +828,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [New WireTap Attack Extracts Intel SGX ECDSA Key via DDR4 Memory-Bus Interposer](https://thehackernews.com/2025/10/new-wiretap-attack-extracts-intel-sgx.html)
+- [F-Droid project threatened by Google&#39;s new dev registration rules](https://www.bleepingcomputer.com/news/security/f-droid-project-threatened-by-googles-new-dev-registration-rules/)
+- [Microsoft to force install Microsoft 365 companion apps in October](https://www.bleepingcomputer.com/news/microsoft/microsoft-to-force-install-microsoft-365-companion-apps-in-october/)
+- [WestJet data breach exposes travel details of 1.2 million customers](https://www.bleepingcomputer.com/news/security/westjet-data-breach-exposes-travel-details-of-12-million-customers/)
 - [Google Drive for desktop gets AI-powered ransomware detection](https://www.bleepingcomputer.com/news/security/google-drive-for-desktop-gets-ai-powered-ransomware-detection/)
-- [Allianz Life says July data breach impacts 1.5 million people](https://www.bleepingcomputer.com/news/security/allianz-life-says-july-data-breach-impacts-15-million-people/)
-- [How To Simplify CISA&#39;s Zero Trust Roadmap with Modern Microsegmentation](https://www.bleepingcomputer.com/news/security/how-to-simplify-cisas-zero-trust-roadmap-with-modern-microsegmentation/)
-- [Microsoft: Media Creation Tool broken on Windows 11 Arm64 PCs](https://www.bleepingcomputer.com/news/microsoft/microsoft-media-creation-tool-broken-on-windows-11-arm64-pcs/)
-- [OneLogin Bug Let Attackers Use API Keys to Steal OIDC Secrets and Impersonate Apps](https://thehackernews.com/2025/10/onelogin-bug-let-attackers-use-api-keys.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
