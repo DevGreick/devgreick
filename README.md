@@ -827,11 +827,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Google Drive for desktop gets AI-powered ransomware detection](https://www.bleepingcomputer.com/news/security/google-drive-for-desktop-gets-ai-powered-ransomware-detection/)
+- [Allianz Life says July data breach impacts 1.5 million people](https://www.bleepingcomputer.com/news/security/allianz-life-says-july-data-breach-impacts-15-million-people/)
+- [How To Simplify CISA&#39;s Zero Trust Roadmap with Modern Microsegmentation](https://www.bleepingcomputer.com/news/security/how-to-simplify-cisas-zero-trust-roadmap-with-modern-microsegmentation/)
 - [Microsoft: Media Creation Tool broken on Windows 11 Arm64 PCs](https://www.bleepingcomputer.com/news/microsoft/microsoft-media-creation-tool-broken-on-windows-11-arm64-pcs/)
 - [OneLogin Bug Let Attackers Use API Keys to Steal OIDC Secrets and Impersonate Apps](https://thehackernews.com/2025/10/onelogin-bug-let-attackers-use-api-keys.html)
-- [Learn How Leading Security Teams Blend AI + Human Workflows &lpar;Free Webinar&rpar;](https://thehackernews.com/2025/10/how-leading-security-teams-blend-ai.html)
-- [Red Hat OpenShift AI Flaw Exposes Hybrid Cloud Infrastructure to Full Takeover](https://thehackernews.com/2025/10/critical-red-hat-openshift-ai-flaw.html)
-- [2025 Cybersecurity Reality Check: Breaches Hidden, Attack Surfaces Growing, and AI Misperceptions Rising](https://thehackernews.com/2025/10/2025-cybersecurity-reality-check.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
