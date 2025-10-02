@@ -24,9 +24,34 @@
 
   <!-- CVE-LIST:START -->
 <details>
-<summary><strong>Vulnerabilidades exploradas conhecidas da CISA</strong>  •  atualizado 02/10/2025 14:12 UTC  •  exibindo 10 itens</summary>
+<summary><strong>Vulnerabilidades exploradas conhecidas da CISA</strong>  •  atualizado 02/10/2025 16:14 UTC  •  exibindo 10 itens</summary>
 
 > Fonte: CISA Known Exploited Vulnerabilities
+
+- **CVE-2014-6278** - GNU Bash OS Command Injection Vulnerability  
+  Fornecedor: GNU | Produto: GNU Bash | Adicionado: 2025-10-02  
+  GNU Bash contains an OS command injection vulnerability which allows remote attackers to execute arbitrary commands via a crafted environment.  
+  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
+
+- **CVE-2017-1000353** - Jenkins Remote Code Execution Vulnerability  
+  Fornecedor: Jenkins | Produto: Jenkins | Adicionado: 2025-10-02  
+  Jenkins contains a remote code execution vulnerability. This vulnerability that could allowed attackers to transfer a serialized Java SignedObject object to the remoting-based Jenkins CLI, that would be deserialized using a new ObjectInputStream, bypassing the existing blocklist-based protection mechanism.  
+  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
+
+- **CVE-2015-7755** - Juniper ScreenOS Improper Authentication Vulnerability  
+  Fornecedor: Juniper | Produto: ScreenOS | Adicionado: 2025-10-02  
+  Juniper ScreenOS contains an improper authentication vulnerability that could allow unauthorized remote administrative access to the device.  
+  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
+
+- **CVE-2025-21043** - Samsung Mobile Devices Out-of-Bounds Write Vulnerability  
+  Fornecedor: Samsung | Produto: Mobile Devices | Adicionado: 2025-10-02  
+  Samsung mobile devices contain an out-of-bounds write vulnerability in libimagecodec.quram.so which allows remote attackers to execute arbitrary code.  
+  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
+
+- **CVE-2025-4008** - Smartbedded Meteobridge Command Injection Vulnerability  
+  Fornecedor: Smartbedded | Produto: Meteobridge | Adicionado: 2025-10-02  
+  Smartbedded Meteobridge contains a command injection vulnerability that could allow remote unauthenticated attackers to gain arbitrary command execution with elevated privileges (root) on affected devices.  
+  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
 
 - **CVE-2025-32463** - Sudo Inclusion of Functionality from Untrusted Control Sphere Vulnerability  
   Fornecedor: Sudo | Produto: Sudo | Adicionado: 2025-09-29  
@@ -53,32 +78,8 @@
   Adminer contains a server-side request forgery vulnerability that, when exploited, allows a remote attacker to obtain potentially sensitive information.  
   Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
 
-- **CVE-2025-20362** - Cisco Secure Firewall Adaptive Security (ASA) Appliance and Secure Firewall Threat Defense (FTD) Missing Authorization Vulnerability  
-  Fornecedor: Cisco | Produto: Secure Firewall Adaptive Security Appliance and Secure Firewall Threat Defense | Adicionado: 2025-09-25  
-  Cisco Secure Firewall Adaptive Security (ASA) Appliance and Secure Firewall Threat Defense (FTD) Software VPN Web Server contain a missing authorization vulnerability. This vulnerability could be chained with CVE-2025-20333.  
-  Ação requerida: The KEV due date refers to the deadline by which FCEB agencies are expected to review and begin implementing the guidance outlined in Emergency Directive (ED) 25-03 (URL listed below in Notes). Agencies must follow the mitigation steps provided by CISA (URL listed below in Notes) and vendor’s instructions (URL listed below in Notes). Adhere to the applicable BOD 22-01 guidance for cloud services or discontinue use of the product if mitigations are not available.
-
-- **CVE-2025-20333** - Cisco Secure Firewall Adaptive Security Appliance (ASA) and Secure Firewall Threat Defense (FTD) Buffer Overflow Vulnerability  
-  Fornecedor: Cisco | Produto: Secure Firewall Adaptive Security Appliance and Secure Firewall Threat Defense | Adicionado: 2025-09-25  
-  Cisco Secure Firewall Adaptive Security (ASA) Appliance and Secure Firewall Threat Defense (FTD) Software VPN Web Server contain a buffer overflow vulnerability that allows for remote code execution. This vulnerability could be chained with CVE-2025-20362.  
-  Ação requerida: The KEV due date refers to the deadline by which FCEB agencies are expected to review and begin implementing the guidance outlined in Emergency Directive (ED) 25-03 (URL listed below in Notes). Agencies must follow the mitigation steps provided by CISA (URL listed below in Notes) and vendor’s instructions (URL listed below in Notes). Adhere to the applicable BOD 22-01 guidance for cloud services or discontinue use of the product if mitigations are not available.
-
-- **CVE-2025-10585** - Google Chromium V8 Type Confusion Vulnerability  
-  Fornecedor: Google | Produto: Chromium V8 | Adicionado: 2025-09-23  
-  Google Chromium contains a type confusion vulnerability in the V8 JavaScript and WebAssembly engine.  
-  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
-
-- **CVE-2025-5086** - Dassault Systèmes DELMIA Apriso Deserialization of Untrusted Data Vulnerability  
-  Fornecedor: Dassault Systèmes | Produto: DELMIA Apriso | Adicionado: 2025-09-11  
-  Dassault Systèmes DELMIA Apriso contains a deserialization of untrusted data vulnerability that could lead to a remote code execution.  
-  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
-
-- **CVE-2025-38352** - Linux Kernel Time-of-Check Time-of-Use (TOCTOU) Race Condition Vulnerability  
-  Fornecedor: Linux | Produto: Kernel | Adicionado: 2025-09-04  
-  Linux kernel contains a time-of-check time-of-use (TOCTOU) race condition vulnerability that has a high impact on confidentiality, integrity, and availability.  
-  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
-
 </details>
+
 
 
 
