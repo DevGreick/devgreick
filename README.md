@@ -839,11 +839,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
-- [Alert: Malicious PyPI Package soopsocks Infects 2,653 Systems Before Takedown](https://thehackernews.com/2025/10/alert-malicious-pypi-package-soopsocks.html)
-- [Automating Pentest Delivery: 7 Key Workflows for Maximum Impact](https://thehackernews.com/2025/10/automating-pentest-delivery-7-key.html)
-- [ThreatsDay Bulletin: CarPlay Exploit, BYOVD Tactics, SQL C2 Attacks, iCloud Backdoor Demand &amp; More](https://thehackernews.com/2025/10/threatsday-bulletin-carplay-exploit.html)
-- [Google Mandiant Probes New Oracle Extortion Wave Possibly Linked to Cl0p Ransomware](https://thehackernews.com/2025/10/google-mandiant-probes-new-oracle.html)
-- [How to Close Threat Detection Gaps: Your SOC&#39;s Action Plan](https://thehackernews.com/2025/10/how-to-close-threat-detection-gaps-your.html)
+- [HackerOne paid $81 million in bug bounties over the past year](https://www.bleepingcomputer.com/news/security/hackerone-paid-81-million-in-bug-bounties-over-the-past-year/)
+- [Brave browser surpasses the 100 million active monthly users mark](https://www.bleepingcomputer.com/news/software/brave-browser-surpasses-the-100-million-active-monthly-users-mark/)
+- [Confucius Hackers Hit Pakistan With New WooperStealer and Anondoor Malware](https://thehackernews.com/2025/10/confucius-hackers-hit-pakistan-with-new.html)
+- [Microsoft Defender bug triggers erroneous BIOS update alerts](https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-bug-triggers-erroneous-bios-update-alerts/)
+- [Your Service Desk is the New Attack Vector—Here&#39;s How to Defend It.](https://www.bleepingcomputer.com/news/security/your-service-desk-is-the-new-attack-vector-heres-how-to-defend-it/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
