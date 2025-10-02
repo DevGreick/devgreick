@@ -840,11 +840,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft Outlook stops displaying inline SVG images used in attacks](https://www.bleepingcomputer.com/news/security/microsoft-outlook-stops-displaying-inline-svg-images-used-in-attacks/)
+- [DrayTek warns of remote code execution bug in Vigor routers](https://www.bleepingcomputer.com/news/security/draytek-warns-of-remote-code-execution-bug-in-vigor-routers/)
 - [HackerOne paid $81 million in bug bounties over the past year](https://www.bleepingcomputer.com/news/security/hackerone-paid-81-million-in-bug-bounties-over-the-past-year/)
 - [Brave browser surpasses the 100 million active monthly users mark](https://www.bleepingcomputer.com/news/software/brave-browser-surpasses-the-100-million-active-monthly-users-mark/)
 - [Confucius Hackers Hit Pakistan With New WooperStealer and Anondoor Malware](https://thehackernews.com/2025/10/confucius-hackers-hit-pakistan-with-new.html)
-- [Microsoft Defender bug triggers erroneous BIOS update alerts](https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-bug-triggers-erroneous-bios-update-alerts/)
-- [Your Service Desk is the New Attack Vector—Here&#39;s How to Defend It.](https://www.bleepingcomputer.com/news/security/your-service-desk-is-the-new-attack-vector-heres-how-to-defend-it/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
