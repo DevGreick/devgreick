@@ -838,11 +838,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Alert: Malicious PyPI Package soopsocks Infects 2,653 Systems Before Takedown](https://thehackernews.com/2025/10/alert-malicious-pypi-package-soopsocks.html)
+- [Automating Pentest Delivery: 7 Key Workflows for Maximum Impact](https://thehackernews.com/2025/10/automating-pentest-delivery-7-key.html)
+- [ThreatsDay Bulletin: CarPlay Exploit, BYOVD Tactics, SQL C2 Attacks, iCloud Backdoor Demand &amp; More](https://thehackernews.com/2025/10/threatsday-bulletin-carplay-exploit.html)
+- [Google Mandiant Probes New Oracle Extortion Wave Possibly Linked to Cl0p Ransomware](https://thehackernews.com/2025/10/google-mandiant-probes-new-oracle.html)
 - [How to Close Threat Detection Gaps: Your SOC&#39;s Action Plan](https://thehackernews.com/2025/10/how-to-close-threat-detection-gaps-your.html)
-- [Android spyware campaigns impersonate Signal and ToTok messengers](https://www.bleepingcomputer.com/news/security/android-spyware-campaigns-impersonate-signal-and-totok-messengers/)
-- [Warning: Beware of Android Spyware Disguised as Signal Encryption Plugin and ToTok Pro](https://thehackernews.com/2025/10/warning-beware-of-android-spyware.html)
-- [Red Hat confirms security incident after hackers claim GitHub breach](https://www.bleepingcomputer.com/news/security/red-hat-confirms-security-incident-after-hackers-claim-github-breach/)
-- [Clop extortion emails claim theft of Oracle E-Business Suite data](https://www.bleepingcomputer.com/news/security/clop-extortion-emails-claim-theft-of-oracle-e-business-suite-data/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
