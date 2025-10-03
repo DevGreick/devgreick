@@ -853,11 +853,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Detour Dog Caught Running DNS-Powered Malware Factory for Strela Stealer](https://thehackernews.com/2025/10/detour-dog-caught-running-dns-powered.html)
 - [Signal adds new cryptographic defense against quantum attacks](https://www.bleepingcomputer.com/news/security/signal-adds-new-cryptographic-defense-against-quantum-attacks/)
 - [Rhadamanthys Stealer Evolves: Adds Device Fingerprinting, PNG Steganography Payloads](https://thehackernews.com/2025/10/rhadamanthys-stealer-evolves-adds.html)
 - [Renault and Dacia UK warn of data breach impacting customers](https://www.bleepingcomputer.com/news/security/renault-and-dacia-uk-warn-of-data-breach-impacting-customers/)
 - [Japanese beer giant Asahi confirms ransomware attack](https://www.bleepingcomputer.com/news/security/japanese-beer-giant-asahi-confirms-ransomware-attack/)
-- [ShinyHunters launches Salesforce data leak site to extort 39 victims](https://www.bleepingcomputer.com/news/security/shinyhunters-starts-leaking-data-stolen-in-salesforce-attacks/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
