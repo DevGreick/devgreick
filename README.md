@@ -848,11 +848,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [CISA Flags Meteobridge CVE-2025-4008 Flaw as Actively Exploited in the Wild](https://thehackernews.com/2025/10/cisa-flags-meteobridge-cve-2025-4008.html)
 - [Microsoft Outlook stops displaying inline SVG images used in attacks](https://www.bleepingcomputer.com/news/security/microsoft-outlook-stops-displaying-inline-svg-images-used-in-attacks/)
 - [DrayTek warns of remote code execution bug in Vigor routers](https://www.bleepingcomputer.com/news/security/draytek-warns-of-remote-code-execution-bug-in-vigor-routers/)
 - [HackerOne paid $81 million in bug bounties over the past year](https://www.bleepingcomputer.com/news/security/hackerone-paid-81-million-in-bug-bounties-over-the-past-year/)
 - [Brave browser surpasses the 100 million active monthly users mark](https://www.bleepingcomputer.com/news/software/brave-browser-surpasses-the-100-million-active-monthly-users-mark/)
-- [Confucius Hackers Hit Pakistan With New WooperStealer and Anondoor Malware](https://thehackernews.com/2025/10/confucius-hackers-hit-pakistan-with-new.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
