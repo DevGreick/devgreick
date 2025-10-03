@@ -850,11 +850,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [CommetJacking attack tricks Comet browser into stealing emails](https://www.bleepingcomputer.com/news/security/commetjacking-attack-tricks-comet-browser-into-stealing-emails/)
+- [Presenting AI to the Board as a CISO? Here’s a Template.](https://www.bleepingcomputer.com/news/security/presenting-ai-to-the-board-as-a-ciso-heres-a-template/)
 - [Oracle links Clop extortion attacks to July 2025 vulnerabilities](https://www.bleepingcomputer.com/news/security/oracle-links-clop-extortion-attacks-to-july-security-flaws/)
+- [Researchers Warn of Self-Spreading WhatsApp Malware Named SORVEPOTEL](https://thehackernews.com/2025/10/researchers-warn-of-self-spreading.html)
 - [Product Walkthrough: How Passwork 7 Addresses Complexity of Enterprise Security](https://thehackernews.com/2025/10/product-walkthrough-how-passwork-7.html)
-- [Gmail business users can now send encrypted emails to anyone](https://www.bleepingcomputer.com/news/google/gmail-business-users-can-now-send-encrypted-emails-to-anyone/)
-- [New &quot;Cavalry Werewolf&quot; Attack Hits Russian Agencies with FoalShell and StallionRAT](https://thehackernews.com/2025/10/new-cavalry-werewolf-attack-hits.html)
-- [CISA Flags Meteobridge CVE-2025-4008 Flaw as Actively Exploited in the Wild](https://thehackernews.com/2025/10/cisa-flags-meteobridge-cve-2025-4008.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
