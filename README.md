@@ -851,11 +851,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Renault and Dacia UK warn of data breach impacting customers](https://www.bleepingcomputer.com/news/security/renault-and-dacia-uk-warn-of-data-breach-impacting-customers/)
+- [Japanese beer giant Asahi confirms ransomware attack](https://www.bleepingcomputer.com/news/security/japanese-beer-giant-asahi-confirms-ransomware-attack/)
+- [ShinyHunters launches Salesforce data leak site to extort 39 victims](https://www.bleepingcomputer.com/news/security/shinyhunters-starts-leaking-data-stolen-in-salesforce-attacks/)
 - [CommetJacking attack tricks Comet browser into stealing emails](https://www.bleepingcomputer.com/news/security/commetjacking-attack-tricks-comet-browser-into-stealing-emails/)
 - [Presenting AI to the Board as a CISO? Here’s a Template.](https://www.bleepingcomputer.com/news/security/presenting-ai-to-the-board-as-a-ciso-heres-a-template/)
-- [Oracle links Clop extortion attacks to July 2025 vulnerabilities](https://www.bleepingcomputer.com/news/security/oracle-links-clop-extortion-attacks-to-july-security-flaws/)
-- [Researchers Warn of Self-Spreading WhatsApp Malware Named SORVEPOTEL](https://thehackernews.com/2025/10/researchers-warn-of-self-spreading.html)
-- [Product Walkthrough: How Passwork 7 Addresses Complexity of Enterprise Security](https://thehackernews.com/2025/10/product-walkthrough-how-passwork-7.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
