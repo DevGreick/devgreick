@@ -866,11 +866,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Leaked Apple iPad Pro M5 benchmark shows massive improvements](https://www.bleepingcomputer.com/news/technology/leaked-apple-ipad-pro-m5-benchmark-shows-massive-improvements/)
 - [ChatGPT social could be a thing, as leak shows direct messages support](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-social-could-be-a-thing-as-leak-shows-direct-messages-support/)
 - [OpenAI rolls out GPT Codex Alpha with early access to new models](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-rolls-out-gpt-codex-alpha-with-early-access-to-new-models/)
 - [OpenAI wants ChatGPT to be your emotional support](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-wants-chatgpt-to-be-your-emotional-support/)
 - [OpenAI prepares $4 ChatGPT Go for several new countries](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-prepares-4-chatgpt-go-for-several-new-countries/)
-- [CometJacking: One Click Can Turn Perplexity’s Comet AI Browser Into a Data Thief](https://thehackernews.com/2025/10/cometjacking-one-click-can-turn.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
