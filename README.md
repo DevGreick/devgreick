@@ -865,11 +865,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [ChatGPT social could be a thing, as leak shows direct messages support](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-social-could-be-a-thing-as-leak-shows-direct-messages-support/)
+- [OpenAI rolls out GPT Codex Alpha with early access to new models](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-rolls-out-gpt-codex-alpha-with-early-access-to-new-models/)
 - [OpenAI wants ChatGPT to be your emotional support](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-wants-chatgpt-to-be-your-emotional-support/)
 - [OpenAI prepares $4 ChatGPT Go for several new countries](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-prepares-4-chatgpt-go-for-several-new-countries/)
 - [CometJacking: One Click Can Turn Perplexity’s Comet AI Browser Into a Data Thief](https://thehackernews.com/2025/10/cometjacking-one-click-can-turn.html)
-- [Massive surge in scans targeting Palo Alto Networks login portals](https://www.bleepingcomputer.com/news/security/massive-surge-in-scans-targeting-palo-alto-networks-login-portals/)
-- [Hackers steal identifiable Discord user data in third-party breach](https://www.bleepingcomputer.com/news/security/hackers-steal-identifiable-discord-user-data-in-third-party-breach/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
