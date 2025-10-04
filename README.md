@@ -861,11 +861,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Hackers steal identifiable Discord user data in third-party breach](https://www.bleepingcomputer.com/news/security/hackers-steal-identifiable-discord-user-data-in-third-party-breach/)
+- [Scanning Activity on Palo Alto Networks Portals Jump 500% in One Day](https://thehackernews.com/2025/10/scanning-activity-on-palo-alto-networks.html)
 - [Opera wants you to pay $19.90 per month for its new AI browser](https://www.bleepingcomputer.com/news/artificial-intelligence/opera-wants-you-to-pay-1990-per-month-for-its-new-ai-browser/)
 - [Detour Dog Caught Running DNS-Powered Malware Factory for Strela Stealer](https://thehackernews.com/2025/10/detour-dog-caught-running-dns-powered.html)
 - [Signal adds new cryptographic defense against quantum attacks](https://www.bleepingcomputer.com/news/security/signal-adds-new-cryptographic-defense-against-quantum-attacks/)
-- [Rhadamanthys Stealer Evolves: Adds Device Fingerprinting, PNG Steganography Payloads](https://thehackernews.com/2025/10/rhadamanthys-stealer-evolves-adds.html)
-- [Renault and Dacia UK warn of data breach impacting customers](https://www.bleepingcomputer.com/news/security/renault-and-dacia-uk-warn-of-data-breach-impacting-customers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
