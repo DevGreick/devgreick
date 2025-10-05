@@ -875,11 +875,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Hackers exploited Zimbra flaw as zero-day using iCalendar files](https://www.bleepingcomputer.com/news/security/hackers-exploited-zimbra-flaw-as-zero-day-using-icalendar-files/)
 - [ParkMobile pays... $1 each for 2021 data breach that hit 22 million](https://www.bleepingcomputer.com/news/security/parkmobile-pays-1-each-for-2021-data-breach-that-hit-22-million/)
 - [Leaked Apple iPad Pro M5 benchmark shows massive improvements](https://www.bleepingcomputer.com/news/technology/leaked-apple-ipad-pro-m5-benchmark-shows-massive-improvements/)
 - [ChatGPT social could be a thing, as leak shows direct messages support](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-social-could-be-a-thing-as-leak-shows-direct-messages-support/)
 - [OpenAI rolls out GPT Codex Alpha with early access to new models](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-rolls-out-gpt-codex-alpha-with-early-access-to-new-models/)
-- [OpenAI wants ChatGPT to be your emotional support](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-wants-chatgpt-to-be-your-emotional-support/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
