@@ -24,14 +24,9 @@
 
   <!-- CVE-LIST:START -->
 <details>
-<summary><strong>Vulnerabilidades exploradas conhecidas da CISA</strong>  •  atualizado 06/10/2025 18:17 UTC  •  exibindo 10 itens</summary>
+<summary><strong>Vulnerabilidades exploradas conhecidas da CISA</strong>  •  atualizado 06/10/2025 20:13 UTC  •  exibindo 10 itens</summary>
 
 > Fonte: CISA Known Exploited Vulnerabilities
-
-- **CVE-2025-61882** - Oracle E-Business Suite Unspecified Vulnerability  
-  Fornecedor: Oracle | Produto: E-Business Suite | Adicionado: 2025-10-07  
-  Oracle E-Business Suite contains an unspecified vulnerability in the BI Publisher Integration component. The vulnerability allows unauthenticated attacker with network access via HTTP to compromise Oracle Concurrent Processing. Successful attacks can result in takeover of Oracle Concurrent Processing.  
-  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
 
 - **CVE-2021-22555** - Linux Kernel Heap Out-of-Bounds Write Vulnerability  
   Fornecedor: Linux | Produto: Kernel | Adicionado: 2025-10-06  
@@ -63,6 +58,11 @@
   Mozilla Firefox, SeaMonkey, and Thunderbird contain an unspecified vulnerability when JavaScript is enabled. This allows remote attackers to execute arbitrary code via vectors related to nsCSSFrameConstructor::ContentAppended, the appendChild method, incorrect index tracking, and the creation of multiple frames, which triggers memory corruption.  
   Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
 
+- **CVE-2025-61882** - Oracle E-Business Suite Unspecified Vulnerability  
+  Fornecedor: Oracle | Produto: E-Business Suite | Adicionado: 2025-10-06  
+  Oracle E-Business Suite contains an unspecified vulnerability in the BI Publisher Integration component. The vulnerability allows unauthenticated attacker with network access via HTTP to compromise Oracle Concurrent Processing. Successful attacks can result in takeover of Oracle Concurrent Processing.  
+  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
+
 - **CVE-2014-6278** - GNU Bash OS Command Injection Vulnerability  
   Fornecedor: GNU | Produto: GNU Bash | Adicionado: 2025-10-02  
   GNU Bash contains an OS command injection vulnerability which allows remote attackers to execute arbitrary commands via a crafted environment.  
@@ -79,6 +79,7 @@
   Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
 
 </details>
+
 
 
 
