@@ -886,11 +886,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Steam and Microsoft warn of Unity flaw exposing gamers to attacks](https://www.bleepingcomputer.com/news/security/steam-and-microsoft-warn-of-unity-flaw-exposing-gamers-to-attacks/)
 - [XWorm malware resurfaces with ransomware module, over 35 plugins](https://www.bleepingcomputer.com/news/security/xworm-malware-resurfaces-with-ransomware-module-over-35-plugins/)
 - [⚡ Weekly Recap: Oracle 0-Day, BitLocker Bypass, VMScape, WhatsApp Worm &amp; More](https://thehackernews.com/2025/10/weekly-recap-oracle-0-day-bitlocker.html)
 - [5 Critical Questions For Adopting an AI Security Solution](https://thehackernews.com/2025/10/5-critical-questions-for-adopting-ai.html)
 - [Oracle Rushes Patch for CVE-2025-61882 After Cl0p Exploited It in Data Theft Attacks](https://thehackernews.com/2025/10/oracle-rushes-patch-for-cve-2025-61882.html)
-- [Chinese Cybercrime Group Runs Global SEO Fraud Ring Using Compromised IIS Servers](https://thehackernews.com/2025/10/chinese-cybercrime-group-runs-global.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
