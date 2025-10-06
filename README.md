@@ -887,11 +887,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
-- [Steam and Microsoft warn of Unity flaw exposing gamers to attacks](https://www.bleepingcomputer.com/news/security/steam-and-microsoft-warn-of-unity-flaw-exposing-gamers-to-attacks/)
-- [XWorm malware resurfaces with ransomware module, over 35 plugins](https://www.bleepingcomputer.com/news/security/xworm-malware-resurfaces-with-ransomware-module-over-35-plugins/)
-- [⚡ Weekly Recap: Oracle 0-Day, BitLocker Bypass, VMScape, WhatsApp Worm &amp; More](https://thehackernews.com/2025/10/weekly-recap-oracle-0-day-bitlocker.html)
-- [5 Critical Questions For Adopting an AI Security Solution](https://thehackernews.com/2025/10/5-critical-questions-for-adopting-ai.html)
-- [Oracle Rushes Patch for CVE-2025-61882 After Cl0p Exploited It in Data Theft Attacks](https://thehackernews.com/2025/10/oracle-rushes-patch-for-cve-2025-61882.html)
+- [OpenAI is testing ChatGPT-powered Agent Builder](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-testing-chatgpt-powered-agent-builder/)
+- [Redis warns of critical flaw impacting thousands of instances](https://www.bleepingcomputer.com/news/security/redis-warns-of-max-severity-flaw-impacting-thousands-of-instances/)
+- [LinkedIn sues ProAPIs for using 1M fake accounts to scrape user data](https://www.bleepingcomputer.com/news/legal/linkedin-sues-proapis-for-using-1m-fake-accounts-to-scrape-user-data/)
+- [The role of Artificial Intelligence in today’s cybersecurity landscape](https://www.bleepingcomputer.com/news/security/the-role-of-artificial-intelligence-in-todays-cybersecurity-landscape/)
+- [New Report Links Research Firms BIETA and CIII to China’s MSS Cyber Operations](https://thehackernews.com/2025/10/new-report-links-research-firms-bieta.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
