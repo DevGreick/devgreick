@@ -24,9 +24,44 @@
 
   <!-- CVE-LIST:START -->
 <details>
-<summary><strong>Vulnerabilidades exploradas conhecidas da CISA</strong>  •  atualizado 06/10/2025 16:14 UTC  •  exibindo 10 itens</summary>
+<summary><strong>Vulnerabilidades exploradas conhecidas da CISA</strong>  •  atualizado 06/10/2025 18:17 UTC  •  exibindo 10 itens</summary>
 
 > Fonte: CISA Known Exploited Vulnerabilities
+
+- **CVE-2025-61882** - Oracle E-Business Suite Unspecified Vulnerability  
+  Fornecedor: Oracle | Produto: E-Business Suite | Adicionado: 2025-10-07  
+  Oracle E-Business Suite contains an unspecified vulnerability in the BI Publisher Integration component. The vulnerability allows unauthenticated attacker with network access via HTTP to compromise Oracle Concurrent Processing. Successful attacks can result in takeover of Oracle Concurrent Processing.  
+  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
+
+- **CVE-2021-22555** - Linux Kernel Heap Out-of-Bounds Write Vulnerability  
+  Fornecedor: Linux | Produto: Kernel | Adicionado: 2025-10-06  
+  Linux Kernel contains a heap out-of-bounds write vulnerability that could allow an attacker to gain privileges or cause a DoS (via heap memory corruption) through user name space.  
+  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
+
+- **CVE-2010-3962** - Microsoft Internet Explorer Uninitialized Memory Corruption Vulnerability  
+  Fornecedor: Microsoft | Produto: Internet Explorer | Adicionado: 2025-10-06  
+  Microsoft Internet Explorer contains an uninitialized memory corruption vulnerability that could allow for remote code execution. The impacted product could be end-of-life (EoL) and/or end-of-service (EoS). Users should discontinue product utilization.  
+  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
+
+- **CVE-2021-43226** - Microsoft Windows Privilege Escalation Vulnerability  
+  Fornecedor: Microsoft | Produto: Windows | Adicionado: 2025-10-06  
+  Microsoft Windows Common Log File System Driver contains a privilege escalation vulnerability that could allow a local, privileged attacker to bypass certain security mechanisms.  
+  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
+
+- **CVE-2013-3918** - Microsoft Windows Out-of-Bounds Write Vulnerability  
+  Fornecedor: Microsoft | Produto: Windows | Adicionado: 2025-10-06  
+  Microsoft Windows contains a n out-of-bounds write vulnerability in the InformationCardSigninHelper Class ActiveX control, icardie.dll. An attacker could exploit the vulnerability by constructing a specially crafted webpage. When a user views the webpage, the vulnerability could allow remote code execution. An attacker who successfully exploited this vulnerability could gain the same user rights as the current user. The impacted product could be end-of-life (EoL) and/or end-of-service (EoS). Users should discontinue product utilization.  
+  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
+
+- **CVE-2011-3402** - Microsoft Windows Remote Code Execution Vulnerability  
+  Fornecedor: Microsoft | Produto: Windows | Adicionado: 2025-10-06  
+  Microsoft Windows Kernel contains an unspecified vulnerability in the TrueType font parsing engine in win32k.sys in the kernel-mode drivers that allows remote attackers to execute arbitrary code via crafted font data in a Word document or web page.  
+  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
+
+- **CVE-2010-3765** - Mozilla Multiple Products Remote Code Execution Vulnerability  
+  Fornecedor: Mozilla | Produto: Multiple Products | Adicionado: 2025-10-06  
+  Mozilla Firefox, SeaMonkey, and Thunderbird contain an unspecified vulnerability when JavaScript is enabled. This allows remote attackers to execute arbitrary code via vectors related to nsCSSFrameConstructor::ContentAppended, the appendChild method, incorrect index tracking, and the creation of multiple frames, which triggers memory corruption.  
+  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
 
 - **CVE-2014-6278** - GNU Bash OS Command Injection Vulnerability  
   Fornecedor: GNU | Produto: GNU Bash | Adicionado: 2025-10-02  
@@ -43,42 +78,8 @@
   Juniper ScreenOS contains an improper authentication vulnerability that could allow unauthorized remote administrative access to the device.  
   Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
 
-- **CVE-2025-21043** - Samsung Mobile Devices Out-of-Bounds Write Vulnerability  
-  Fornecedor: Samsung | Produto: Mobile Devices | Adicionado: 2025-10-02  
-  Samsung mobile devices contain an out-of-bounds write vulnerability in libimagecodec.quram.so which allows remote attackers to execute arbitrary code.  
-  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
-
-- **CVE-2025-4008** - Smartbedded Meteobridge Command Injection Vulnerability  
-  Fornecedor: Smartbedded | Produto: Meteobridge | Adicionado: 2025-10-02  
-  Smartbedded Meteobridge contains a command injection vulnerability that could allow remote unauthenticated attackers to gain arbitrary command execution with elevated privileges (root) on affected devices.  
-  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
-
-- **CVE-2025-32463** - Sudo Inclusion of Functionality from Untrusted Control Sphere Vulnerability  
-  Fornecedor: Sudo | Produto: Sudo | Adicionado: 2025-09-29  
-  Sudo contains an inclusion of functionality from untrusted control sphere vulnerability. This vulnerability could allow local attacker to leverage sudo’s -R (--chroot) option to run arbitrary commands as root, even if they are not listed in the sudoers file.  
-  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
-
-- **CVE-2025-59689** - Libraesva Email Security Gateway Command Injection Vulnerability  
-  Fornecedor: Libraesva | Produto: Email Security Gateway | Adicionado: 2025-09-29  
-  Libraesva Email Security Gateway (ESG) contains a command injection vulnerability which allows command injection via a compressed e-mail attachment.  
-  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
-
-- **CVE-2025-10035** - Fortra GoAnywhere MFT Deserialization of Untrusted Data Vulnerability  
-  Fornecedor: Fortra | Produto: GoAnywhere MFT | Adicionado: 2025-09-29  
-  Fortra GoAnywhere MFT contains a deserialization of untrusted data vulnerability allows an actor with a validly forged license response signature to deserialize an arbitrary actor-controlled object, possibly leading to command injection.  
-  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
-
-- **CVE-2025-20352** - Cisco IOS and IOS XE Software SNMP Denial of Service and Remote Code Execution Vulnerability  
-  Fornecedor: Cisco | Produto: IOS and IOS XE | Adicionado: 2025-09-29  
-  Cisco IOS and IOS XE contains a stack-based buffer overflow vulnerability in the Simple Network Management Protocol (SNMP) subsystem that could allow for denial of service or remote code execution. A successful exploit could allow a low-privileged attacker to cause the affected system to reload, resulting in a DoS condition, or allow a high-privileged attacker to execute arbitrary code as the root user and obtain full control of the affected system.  
-  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
-
-- **CVE-2021-21311** - Adminer Server-Side Request Forgery Vulnerability  
-  Fornecedor: Adminer | Produto: Adminer | Adicionado: 2025-09-29  
-  Adminer contains a server-side request forgery vulnerability that, when exploited, allows a remote attacker to obtain potentially sensitive information.  
-  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
-
 </details>
+
 
 
 
