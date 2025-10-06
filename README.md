@@ -885,11 +885,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
-- [Zimbra Zero-Day Exploited to Target Brazilian Military via Malicious ICS Files](https://thehackernews.com/2025/10/zimbra-zero-day-exploited-to-target.html)
+- [XWorm malware resurfaces with ransomware module, over 35 plugins](https://www.bleepingcomputer.com/news/security/xworm-malware-resurfaces-with-ransomware-module-over-35-plugins/)
+- [⚡ Weekly Recap: Oracle 0-Day, BitLocker Bypass, VMScape, WhatsApp Worm &amp; More](https://thehackernews.com/2025/10/weekly-recap-oracle-0-day-bitlocker.html)
+- [5 Critical Questions For Adopting an AI Security Solution](https://thehackernews.com/2025/10/5-critical-questions-for-adopting-ai.html)
 - [Oracle Rushes Patch for CVE-2025-61882 After Cl0p Exploited It in Data Theft Attacks](https://thehackernews.com/2025/10/oracle-rushes-patch-for-cve-2025-61882.html)
-- [Oracle patches EBS zero-day exploited in Clop data theft attacks](https://www.bleepingcomputer.com/news/security/oracle-patches-ebs-zero-day-exploited-in-clop-data-theft-attacks/)
-- [Hackers exploited Zimbra flaw as zero-day using iCalendar files](https://www.bleepingcomputer.com/news/security/hackers-exploited-zimbra-flaw-as-zero-day-using-icalendar-files/)
-- [ParkMobile pays... $1 each for 2021 data breach that hit 22 million](https://www.bleepingcomputer.com/news/security/parkmobile-pays-1-each-for-2021-data-breach-that-hit-22-million/)
+- [Chinese Cybercrime Group Runs Global SEO Fraud Ring Using Compromised IIS Servers](https://thehackernews.com/2025/10/chinese-cybercrime-group-runs-global.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
