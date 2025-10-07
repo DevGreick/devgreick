@@ -894,11 +894,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Oracle EBS Under Fire as Cl0p Exploits CVE-2025-61882 in Real-World Attacks](https://thehackernews.com/2025/10/oracle-ebs-under-fire-as-cl0p-exploits.html)
 - [Red Hat data breach escalates as ShinyHunters joins extortion](https://www.bleepingcomputer.com/news/security/red-hat-data-breach-escalates-as-shinyhunters-joins-extortion/)
 - [Microsoft: Critical GoAnywhere bug exploited in ransomware attacks](https://www.bleepingcomputer.com/news/security/microsoft-critical-goanywhere-bug-exploited-in-ransomware-attacks/)
 - [Microsoft: Running multiple Office apps causes Copilot issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-running-multiple-office-apps-causes-copilot-issues/)
 - [Zeroday Cloud hacking contest offers $4.5 million in bounties](https://www.bleepingcomputer.com/news/security/zeroday-cloud-hacking-contest-offers-45-million-in-bounties/)
-- [ChatGPT Pulse is coming to the web, but no word on free or Plus roll out](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-pulse-is-coming-to-the-web-but-no-word-on-free-or-plus-roll-out/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
