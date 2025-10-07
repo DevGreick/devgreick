@@ -901,11 +901,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [DraftKings warns of account breaches in credential stuffing attacks](https://www.bleepingcomputer.com/news/security/draftkings-warns-of-account-breaches-in-credential-stuffing-attacks/)
 - [Clop exploited Oracle zero-day for data theft since early August](https://www.bleepingcomputer.com/news/security/oracle-zero-day-exploited-in-clop-data-theft-attacks-since-early-august/)
 - [BatShadow Group Uses New Go-Based &#39;Vampire Bot&#39; Malware to Hunt Job Seekers](https://thehackernews.com/2025/10/batshadow-group-uses-new-go-based.html)
 - [North Korean hackers stole over $2 billion in crypto this year](https://www.bleepingcomputer.com/news/cryptocurrency/north-korean-hackers-stole-over-2-billion-in-crypto-this-year/)
 - [Electronics giant Avnet confirms breach, says stolen data unreadable](https://www.bleepingcomputer.com/news/security/electronics-giant-avnet-confirms-breach-says-stolen-data-unreadable/)
-- [Microsoft kills more Microsoft Account bypasses in Windows 11](https://www.bleepingcomputer.com/news/microsoft/microsoft-blocks-more-tricks-to-skip-microsoft-account-setup-in-windows-11/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
