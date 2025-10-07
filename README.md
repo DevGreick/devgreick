@@ -899,11 +899,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft kills more Microsoft Account bypasses in Windows 11](https://www.bleepingcomputer.com/news/microsoft/microsoft-blocks-more-tricks-to-skip-microsoft-account-setup-in-windows-11/)
+- [Google&#39;s New AI Doesn&#39;t Just Find Vulnerabilities — It Rewrites Code to Patch Them](https://thehackernews.com/2025/10/googles-new-ai-doesnt-just-find.html)
+- [Redefining Security Validation with AI-Powered Breach and Attack Simulation](https://www.bleepingcomputer.com/news/security/redefining-security-validation-with-ai-powered-breach-and-attack-simulation/)
 - [Google&#39;s new AI bug bounty program pays up to $30,000 for flaws](https://www.bleepingcomputer.com/news/google/googles-new-ai-bug-bounty-program-pays-up-to-30-000-for-flaws/)
 - [New Research: AI Is Already the #1 Data Exfiltration Channel in the Enterprise](https://thehackernews.com/2025/10/new-research-ai-is-already-1-data.html)
-- [XWorm 6.0 Returns with 35+ Plugins and Enhanced Data Theft Capabilities](https://thehackernews.com/2025/10/xworm-60-returns-with-35-plugins-and.html)
-- [13-Year-Old Redis Flaw Exposed: CVSS 10.0 Vulnerability Lets Attackers Run Code Remotely](https://thehackernews.com/2025/10/13-year-redis-flaw-exposed-cvss-100.html)
-- [Microsoft Links Storm-1175 to GoAnywhere Exploit Deploying Medusa Ransomware](https://thehackernews.com/2025/10/microsoft-links-storm-1175-to.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
