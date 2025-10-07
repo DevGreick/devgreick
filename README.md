@@ -24,7 +24,7 @@
 
   <!-- CVE-LIST:START -->
 <details>
-<summary><strong>Vulnerabilidades exploradas conhecidas da CISA</strong>  •  atualizado 07/10/2025 20:12 UTC  •  exibindo 10 itens</summary>
+<summary><strong>Vulnerabilidades exploradas conhecidas da CISA</strong>  •  atualizado 07/10/2025 22:11 UTC  •  exibindo 10 itens</summary>
 
 > Fonte: CISA Known Exploited Vulnerabilities
 
@@ -50,7 +50,7 @@
 
 - **CVE-2013-3918** - Microsoft Windows Out-of-Bounds Write Vulnerability  
   Fornecedor: Microsoft | Produto: Windows | Adicionado: 2025-10-06  
-  Microsoft Windows contains a n out-of-bounds write vulnerability in the InformationCardSigninHelper Class ActiveX control, icardie.dll. An attacker could exploit the vulnerability by constructing a specially crafted webpage. When a user views the webpage, the vulnerability could allow remote code execution. An attacker who successfully exploited this vulnerability could gain the same user rights as the current user. The impacted product could be end-of-life (EoL) and/or end-of-service (EoS). Users should discontinue product utilization.  
+  Microsoft Windows contains an out-of-bounds write vulnerability in the InformationCardSigninHelper Class ActiveX control, icardie.dll. An attacker could exploit the vulnerability by constructing a specially crafted webpage. When a user views the webpage, the vulnerability could allow remote code execution. An attacker who successfully exploited this vulnerability could gain the same user rights as the current user. The impacted product could be end-of-life (EoL) and/or end-of-service (EoS). Users should discontinue product utilization.  
   Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
 
 - **CVE-2011-3402** - Microsoft Windows Remote Code Execution Vulnerability  
@@ -79,6 +79,7 @@
   Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
 
 </details>
+
 
 
 
