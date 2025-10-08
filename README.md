@@ -912,11 +912,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft enables Exchange Online auto-archiving by default](https://www.bleepingcomputer.com/news/microsoft/microsoft-enables-exchange-online-auto-archiving-by-default-to-fight-overflowing-mailboxes/)
+- [Crimson Collective hackers target AWS cloud instances for data theft](https://www.bleepingcomputer.com/news/security/crimson-collective-hackers-target-aws-cloud-instances-for-data-theft/)
+- [Hackers Exploit WordPress Sites to Power Next-Gen ClickFix Phishing Attacks](https://thehackernews.com/2025/10/hackers-exploit-wordpress-themes-to.html)
 - [Hackers exploit auth bypass in Service Finder WordPress theme](https://www.bleepingcomputer.com/news/security/hackers-exploit-auth-bypass-in-service-finder-wordpress-theme/)
 - [London police arrests suspects linked to nursery breach, child doxing](https://www.bleepingcomputer.com/news/security/london-police-arrests-suspects-linked-to-nursery-breach-child-doxing/)
-- [Defend the Target, Not Just the Door: A Modern Plan for Google Workspace](https://www.bleepingcomputer.com/news/security/defend-the-target-not-just-the-door-a-modern-plan-for-google-workspace/)
-- [Chinese Hackers Weaponize Open-Source Nezha Tool in New Attack Wave](https://thehackernews.com/2025/10/chinese-hackers-weaponize-open-source.html)
-- [Step Into the Password Graveyard… If You Dare &lpar;and Join the Live Session&rpar;](https://thehackernews.com/2025/10/step-into-password-graveyard-if-you.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
