@@ -909,11 +909,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Step Into the Password Graveyard… If You Dare &lpar;and Join the Live Session&rpar;](https://thehackernews.com/2025/10/step-into-password-graveyard-if-you.html)
+- [Severe Figma MCP Vulnerability Lets Hackers Execute Code Remotely — Patch Now](https://thehackernews.com/2025/10/severe-figma-mcp-vulnerability-lets.html)
 - [No Time to Waste: Embedding AI to Cut Noise and Reduce Risk](https://thehackernews.com/2025/09/automation-is-redefining-pentest.html)
 - [OpenAI Disrupts Russian, North Korean, and Chinese Hackers Misusing ChatGPT for Cyberattacks](https://thehackernews.com/2025/10/openai-disrupts-russian-north-korean.html)
 - [Salesforce refuses to pay ransom over widespread data theft attacks](https://www.bleepingcomputer.com/news/security/salesforce-refuses-to-pay-ransom-over-widespread-data-theft-attacks/)
-- [Docker makes Hardened Images Catalog affordable for small businesses](https://www.bleepingcomputer.com/news/security/docker-makes-hardened-images-catalog-affordable-for-small-businesses/)
-- [Google won’t fix new ASCII smuggling attack in Gemini](https://www.bleepingcomputer.com/news/security/google-wont-fix-new-ascii-smuggling-attack-in-gemini/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
