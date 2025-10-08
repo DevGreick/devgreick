@@ -908,11 +908,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [No Time to Waste: Embedding AI to Cut Noise and Reduce Risk](https://thehackernews.com/2025/09/automation-is-redefining-pentest.html)
 - [OpenAI Disrupts Russian, North Korean, and Chinese Hackers Misusing ChatGPT for Cyberattacks](https://thehackernews.com/2025/10/openai-disrupts-russian-north-korean.html)
 - [Salesforce refuses to pay ransom over widespread data theft attacks](https://www.bleepingcomputer.com/news/security/salesforce-refuses-to-pay-ransom-over-widespread-data-theft-attacks/)
 - [Docker makes Hardened Images Catalog affordable for small businesses](https://www.bleepingcomputer.com/news/security/docker-makes-hardened-images-catalog-affordable-for-small-businesses/)
 - [Google won’t fix new ASCII smuggling attack in Gemini](https://www.bleepingcomputer.com/news/security/google-wont-fix-new-ascii-smuggling-attack-in-gemini/)
-- [DraftKings warns of account breaches in credential stuffing attacks](https://www.bleepingcomputer.com/news/security/draftkings-warns-of-account-breaches-in-credential-stuffing-attacks/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
