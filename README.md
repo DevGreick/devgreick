@@ -913,11 +913,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [New FileFix attack uses cache smuggling to evade security software](https://www.bleepingcomputer.com/news/security/new-filefix-attack-uses-cache-smuggling-to-evade-security-software/)
+- [Qilin ransomware claims Asahi brewery attack, leaks data](https://www.bleepingcomputer.com/news/security/qilin-ransomware-claims-asahi-brewery-attack-leaks-data/)
+- [Microsoft 365 outage blocks access to Teams, Exchange Online](https://www.bleepingcomputer.com/news/microsoft/microsoft-365-outage-blocks-access-to-teams-exchange-online/)
 - [Microsoft enables Exchange Online auto-archiving by default](https://www.bleepingcomputer.com/news/microsoft/microsoft-enables-exchange-online-auto-archiving-by-default-to-fight-overflowing-mailboxes/)
 - [Crimson Collective hackers target AWS cloud instances for data theft](https://www.bleepingcomputer.com/news/security/crimson-collective-hackers-target-aws-cloud-instances-for-data-theft/)
-- [Hackers Exploit WordPress Sites to Power Next-Gen ClickFix Phishing Attacks](https://thehackernews.com/2025/10/hackers-exploit-wordpress-themes-to.html)
-- [Hackers exploit auth bypass in Service Finder WordPress theme](https://www.bleepingcomputer.com/news/security/hackers-exploit-auth-bypass-in-service-finder-wordpress-theme/)
-- [London police arrests suspects linked to nursery breach, child doxing](https://www.bleepingcomputer.com/news/security/london-police-arrests-suspects-linked-to-nursery-breach-child-doxing/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
