@@ -911,11 +911,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Hackers exploit auth bypass in Service Finder WordPress theme](https://www.bleepingcomputer.com/news/security/hackers-exploit-auth-bypass-in-service-finder-wordpress-theme/)
+- [London police arrests suspects linked to nursery breach, child doxing](https://www.bleepingcomputer.com/news/security/london-police-arrests-suspects-linked-to-nursery-breach-child-doxing/)
+- [Defend the Target, Not Just the Door: A Modern Plan for Google Workspace](https://www.bleepingcomputer.com/news/security/defend-the-target-not-just-the-door-a-modern-plan-for-google-workspace/)
+- [Chinese Hackers Weaponize Open-Source Nezha Tool in New Attack Wave](https://thehackernews.com/2025/10/chinese-hackers-weaponize-open-source.html)
 - [Step Into the Password Graveyard… If You Dare &lpar;and Join the Live Session&rpar;](https://thehackernews.com/2025/10/step-into-password-graveyard-if-you.html)
-- [LockBit, Qilin, and DragonForce Join Forces to Dominate the Ransomware Ecosystem](https://thehackernews.com/2025/10/lockbit-qilin-and-dragonforce-join.html)
-- [Severe Figma MCP Vulnerability Lets Hackers Execute Code Remotely — Patch Now](https://thehackernews.com/2025/10/severe-figma-mcp-vulnerability-lets.html)
-- [No Time to Waste: Embedding AI to Cut Noise and Reduce Risk](https://thehackernews.com/2025/09/automation-is-redefining-pentest.html)
-- [OpenAI Disrupts Russian, North Korean, and Chinese Hackers Misusing ChatGPT for Cyberattacks](https://thehackernews.com/2025/10/openai-disrupts-russian-north-korean.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
