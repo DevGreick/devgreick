@@ -922,11 +922,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Hackers Access SonicWall Cloud Firewall Backups, Spark Urgent Security Checks](https://thehackernews.com/2025/10/hackers-access-sonicwall-cloud-firewall.html)
+- [Azure outage blocks access to Microsoft 365 services, admin portals](https://www.bleepingcomputer.com/news/microsoft/azure-outage-blocks-access-to-microsoft-365-services-admin-portals/)
+- [ThreatsDay Bulletin: MS Teams Hack, MFA Hijacking, $2B Crypto Heist, Apple Siri Probe &amp; More](https://thehackernews.com/2025/10/threatsday-bulletin-ms-teams-hack-mfa.html)
 - [SaaS Breaches Start with Tokens - What Security Teams Must Watch](https://thehackernews.com/2025/10/saas-breaches-start-with-tokens-what.html)
 - [Hacktivists target critical infrastructure, hit decoy plant](https://www.bleepingcomputer.com/news/security/hacktivists-target-critical-infrastructure-hit-decoy-plant/)
-- [From Phishing to Malware: AI Becomes Russia&#39;s New Cyber Weapon in War on Ukraine](https://thehackernews.com/2025/10/from-phishing-to-malware-ai-becomes.html)
-- [Critical Exploit Lets Hackers Bypass Authentication in WordPress Service Finder Theme](https://thehackernews.com/2025/10/critical-exploit-lets-hackers-bypass.html)
-- [Hackers claim Discord breach exposed data of 5.5 million users](https://www.bleepingcomputer.com/news/security/hackers-claim-discord-breach-exposed-data-of-55-million-users/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
