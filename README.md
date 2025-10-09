@@ -926,11 +926,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [New Android spyware ClayRat imitates WhatsApp, TikTok, YouTube](https://www.bleepingcomputer.com/news/security/new-android-spyware-clayrat-imitates-whatsapp-tiktok-youtube/)
 - [Microsoft: Hackers target universities in “payroll pirate” attacks](https://www.bleepingcomputer.com/news/security/hackers-target-university-hr-employees-in-payroll-pirate-attacks/)
 - [Hackers now use Velociraptor DFIR tool in ransomware attacks](https://www.bleepingcomputer.com/news/security/hackers-now-use-velociraptor-dfir-tool-in-ransomware-attacks/)
 - [Microsoft Defender mistakenly flags SQL Server as end-of-life](https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-mistakenly-flags-sql-server-as-end-of-life/)
 - [From HealthKick to GOVERSHELL: The Evolution of UTA0388&#39;s Espionage Malware](https://thehackernews.com/2025/10/from-healthkick-to-govershell-evolution.html)
-- [RondoDox botnet targets 56 n-day flaws in worldwide attacks](https://www.bleepingcomputer.com/news/security/rondodox-botnet-targets-56-n-day-flaws-in-worldwide-attacks/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
