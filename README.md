@@ -923,11 +923,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft: Windows Backup now available for enterprise users](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-backup-now-available-for-enterprise-users/)
+- [SonicWall: Firewall configs stolen for all cloud backup customers](https://www.bleepingcomputer.com/news/security/sonicwall-firewall-configs-stolen-for-all-cloud-backup-customers/)
+- [From infostealer to full RAT: dissecting the PureRAT attack chain](https://www.bleepingcomputer.com/news/security/from-infostealer-to-full-rat-dissecting-the-purerat-attack-chain/)
 - [Hackers Access SonicWall Cloud Firewall Backups, Spark Urgent Security Checks](https://thehackernews.com/2025/10/hackers-access-sonicwall-cloud-firewall.html)
 - [Azure outage blocks access to Microsoft 365 services, admin portals](https://www.bleepingcomputer.com/news/microsoft/azure-outage-blocks-access-to-microsoft-365-services-admin-portals/)
-- [ThreatsDay Bulletin: MS Teams Hack, MFA Hijacking, $2B Crypto Heist, Apple Siri Probe &amp; More](https://thehackernews.com/2025/10/threatsday-bulletin-ms-teams-hack-mfa.html)
-- [SaaS Breaches Start with Tokens - What Security Teams Must Watch](https://thehackernews.com/2025/10/saas-breaches-start-with-tokens-what.html)
-- [Hacktivists target critical infrastructure, hit decoy plant](https://www.bleepingcomputer.com/news/security/hacktivists-target-critical-infrastructure-hit-decoy-plant/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
