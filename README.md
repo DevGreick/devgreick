@@ -932,11 +932,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [From LFI to RCE: Active Exploitation Detected in Gladinet and TrioFox Vulnerability](https://thehackernews.com/2025/10/from-lfi-to-rce-active-exploitation.html)
+- [FBI takes down BreachForums portal used for Salesforce extortion](https://www.bleepingcomputer.com/news/security/fbi-takes-down-breachforums-portal-used-for-salesforce-extortion/)
 - [CL0P-Linked Hackers Breach Dozens of Organizations Through Oracle Software Flaw](https://thehackernews.com/2025/10/cl0p-linked-hackers-breach-dozens-of.html)
 - [New Android spyware ClayRat imitates WhatsApp, TikTok, YouTube](https://www.bleepingcomputer.com/news/security/new-android-spyware-clayrat-imitates-whatsapp-tiktok-youtube/)
 - [Microsoft: Hackers target universities in “payroll pirate” attacks](https://www.bleepingcomputer.com/news/security/hackers-target-university-hr-employees-in-payroll-pirate-attacks/)
-- [Hackers now use Velociraptor DFIR tool in ransomware attacks](https://www.bleepingcomputer.com/news/security/hackers-now-use-velociraptor-dfir-tool-in-ransomware-attacks/)
-- [Microsoft Defender mistakenly flags SQL Server as end-of-life](https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-mistakenly-flags-sql-server-as-end-of-life/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
