@@ -935,11 +935,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Copilot on Windows can now connect to email, create Office docs](https://www.bleepingcomputer.com/news/microsoft/copilot-on-windows-can-now-connect-to-email-create-office-docs/)
+- [Stealit Malware Abuses Node.js Single Executable Feature via Game and VPN Installers](https://thehackernews.com/2025/10/stealit-malware-abuses-nodejs-single.html)
+- [From Lab to Leadership: How VMware Certification Transformed My Career](https://www.bleepingcomputer.com/news/security/from-lab-to-leadership-how-vmware-certification-transformed-my-career/)
+- [Microsoft Warns of ‘Payroll Pirates’ Hijacking HR SaaS Accounts to Steal Employee Salaries](https://thehackernews.com/2025/10/microsoft-warns-of-payroll-pirates.html)
 - [From Detection to Patch: Fortra Reveals Full Timeline of CVE-2025-10035 Exploitation](https://thehackernews.com/2025/10/from-detection-to-patch-fortra-reveals.html)
-- [The AI SOC Stack of 2026: What Sets Top-Tier Platforms Apart?](https://thehackernews.com/2025/10/the-ai-soc-stack-of-2026-what-sets-top.html)
-- [175 Malicious npm Packages with 26,000 Downloads Used in Credential Phishing Campaign](https://thehackernews.com/2025/10/175-malicious-npm-packages-with-26000.html)
-- [From LFI to RCE: Active Exploitation Detected in Gladinet and TrioFox Vulnerability](https://thehackernews.com/2025/10/from-lfi-to-rce-active-exploitation.html)
-- [FBI takes down BreachForums portal used for Salesforce extortion](https://www.bleepingcomputer.com/news/security/fbi-takes-down-breachforums-portal-used-for-salesforce-extortion/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
