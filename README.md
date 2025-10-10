@@ -936,11 +936,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Google Chrome to revoke notification access for inactive sites](https://www.bleepingcomputer.com/news/google/google-chrome-to-revoke-notification-access-for-inactive-sites/)
+- [Apple now offers $2 million for zero-click RCE vulnerabilities](https://www.bleepingcomputer.com/news/security/apple-now-offers-2-million-for-zero-click-rce-vulnerabilities/)
 - [Copilot on Windows can now connect to email, create Office docs](https://www.bleepingcomputer.com/news/microsoft/copilot-on-windows-can-now-connect-to-email-create-office-docs/)
 - [Stealit Malware Abuses Node.js Single Executable Feature via Game and VPN Installers](https://thehackernews.com/2025/10/stealit-malware-abuses-nodejs-single.html)
 - [From Lab to Leadership: How VMware Certification Transformed My Career](https://www.bleepingcomputer.com/news/security/from-lab-to-leadership-how-vmware-certification-transformed-my-career/)
-- [Microsoft Warns of ‘Payroll Pirates’ Hijacking HR SaaS Accounts to Steal Employee Salaries](https://thehackernews.com/2025/10/microsoft-warns-of-payroll-pirates.html)
-- [From Detection to Patch: Fortra Reveals Full Timeline of CVE-2025-10035 Exploitation](https://thehackernews.com/2025/10/from-detection-to-patch-fortra-reveals.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
