@@ -947,11 +947,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Experts Warn of Widespread SonicWall VPN Compromise Impacting Over 100 Accounts](https://thehackernews.com/2025/10/experts-warn-of-widespread-sonicwall.html)
 - [Hackers Turn Velociraptor DFIR Tool Into Weapon in LockBit Ransomware Attacks](https://thehackernews.com/2025/10/hackers-turn-velociraptor-dfir-tool.html)
 - [Windows 11 23H2 Home and Pro reach end of support in 30 days](https://www.bleepingcomputer.com/news/microsoft/windows-11-23h2-home-and-pro-reach-end-of-support-in-30-days/)
 - [Hackers exploiting zero-day in Gladinet file sharing software](https://www.bleepingcomputer.com/news/security/hackers-exploiting-zero-day-in-gladinet-file-sharing-software/)
 - [Cybersecurity For Dummies, 3rd Edition eBook FREE for a Limited Time](https://www.bleepingcomputer.com/news/security/cybersecurity-for-dummies-3rd-edition-ebook-free-for-a-limited-time/)
-- [Google Chrome to revoke notification access for inactive sites](https://www.bleepingcomputer.com/news/google/google-chrome-to-revoke-notification-access-for-inactive-sites/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
