@@ -960,11 +960,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [New Oracle E-Business Suite Bug Could Let Hackers Access Data Without Login](https://thehackernews.com/2025/10/new-oracle-e-business-suite-bug-could.html)
 - [Fake &#39;Inflation Refund&#39; texts target New Yorkers in new scam](https://www.bleepingcomputer.com/news/security/fake-inflation-refund-texts-target-new-yorkers-in-new-scam/)
 - [Spain dismantles “GXC Team” cybercrime syndicate, arrests leader](https://www.bleepingcomputer.com/news/security/spain-dismantles-gxc-team-cybercrime-syndicate-arrests-leader/)
 - [Experts Warn of Widespread SonicWall VPN Compromise Impacting Over 100 Accounts](https://thehackernews.com/2025/10/experts-warn-of-widespread-sonicwall.html)
 - [Hackers Turn Velociraptor DFIR Tool Into Weapon in LockBit Ransomware Attacks](https://thehackernews.com/2025/10/hackers-turn-velociraptor-dfir-tool.html)
-- [Windows 11 23H2 Home and Pro reach end of support in 30 days](https://www.bleepingcomputer.com/news/microsoft/windows-11-23h2-home-and-pro-reach-end-of-support-in-30-days/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
