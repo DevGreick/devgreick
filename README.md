@@ -970,11 +970,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Meet Varonis Interceptor: AI-Native Email Security](https://www.bleepingcomputer.com/news/security/meet-varonis-interceptor-ai-native-email-security/)
+- [Microsoft: Windows 11 Media Creation Tool broken on Windows 10 PCs](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-media-creation-tool-broken-on-windows-10-pcs/)
+- [⚡ Weekly Recap: WhatsApp Worm, Critical CVEs, Oracle 0-Day, Ransomware Cartel &amp; More](https://thehackernews.com/2025/10/weekly-recap-whatsapp-worm-critical.html)
 - [Why Unmonitored JavaScript Is Your Biggest Holiday Security Risk](https://thehackernews.com/2025/10/why-unmonitored-javascript-is-your.html)
-- [Researchers Warn RondoDox Botnet is Weaponizing Over 50 Flaws Across 30+ Vendors](https://thehackernews.com/2025/10/researchers-warn-rondodox-botnet-is.html)
-- [Microsoft Locks Down IE Mode After Hackers Turned Legacy Feature Into Backdoor](https://thehackernews.com/2025/10/microsoft-locks-down-ie-mode-after.html)
-- [Astaroth Banking Trojan Abuses GitHub to Remain Operational After Takedowns](https://thehackernews.com/2025/10/astaroth-banking-trojan-abuses-github.html)
-- [New Rust-Based Malware &quot;ChaosBot&quot; Uses Discord Channels to Control Victims&#39; PCs](https://thehackernews.com/2025/10/new-rust-based-malware-chaosbot-hijacks.html)
+- [Harvard investigating breach linked to Oracle zero-day exploit](https://www.bleepingcomputer.com/news/security/harvard-investigating-breach-linked-to-oracle-zero-day-exploit/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
