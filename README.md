@@ -982,11 +982,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [When AI Agents Join the Teams: The Hidden Security Shifts No One Expects](https://www.bleepingcomputer.com/news/security/when-ai-agents-join-the-teams-the-hidden-security-shifts-no-one-expects/)
+- [Secure Boot bypass risk threatens nearly 200,000 Linux Framework laptops](https://www.bleepingcomputer.com/news/security/secure-boot-bypass-risk-on-nearly-200-000-linux-framework-sytems/)
+- [Chinese hackers abuse geo-mapping tool for year-long persistence](https://www.bleepingcomputer.com/news/security/chinese-hackers-abuse-geo-mapping-tool-for-year-long-persistence/)
 - [Moving Beyond Awareness: How Threat Hunting Builds Readiness](https://thehackernews.com/2025/10/moving-beyond-awareness-how-threat.html)
 - [RMPocalypse: Single 8-Byte Write Shatters AMD’s SEV-SNP Confidential Computing](https://thehackernews.com/2025/10/rmpocalypse-single-8-byte-write.html)
-- [New Pixnapping Android Flaw Lets Rogue Apps Steal 2FA Codes Without Permissions](https://thehackernews.com/2025/10/new-pixnapping-android-flaw-lets-rogue.html)
-- [What AI Reveals About Web Applications— and Why It Matters](https://thehackernews.com/2025/10/what-ai-reveals-about-web-applications.html)
-- [npm, PyPI, and RubyGems Packages Found Sending Developer Data to Discord Channels](https://thehackernews.com/2025/10/npm-pypi-and-rubygems-packages-found.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
