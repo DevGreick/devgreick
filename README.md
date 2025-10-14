@@ -979,11 +979,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [npm, PyPI, and RubyGems Packages Found Sending Developer Data to Discord Channels](https://thehackernews.com/2025/10/npm-pypi-and-rubygems-packages-found.html)
+- [Researchers Expose TA585’s MonsterV2 Malware Capabilities and Attack Chain](https://thehackernews.com/2025/10/researchers-expose-ta585s-monsterv2.html)
 - [Microsoft restricts IE mode access in Edge after zero-day attacks](https://www.bleepingcomputer.com/news/security/microsoft-restricts-ie-mode-access-in-edge-after-zero-day-attacks/)
 - [SimonMed says 1.2 million patients impacted in January data breach](https://www.bleepingcomputer.com/news/security/simonmed-says-12-million-patients-impacted-in-january-data-breach/)
 - [Massive multi-country botnet targets RDP services in the US](https://www.bleepingcomputer.com/news/security/massive-multi-country-botnet-targets-rdp-services-in-the-us/)
-- [SonicWall VPN accounts breached using stolen creds in widespread attacks](https://www.bleepingcomputer.com/news/security/sonicwall-vpn-accounts-breached-using-stolen-creds-in-widespread-attacks/)
-- [Microsoft investigates outage affecting Microsoft 365 apps](https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-outage-affecting-microsoft-365-apps/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
