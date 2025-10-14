@@ -985,11 +985,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Final Windows 10 Patch Tuesday update rolls out as support ends](https://www.bleepingcomputer.com/news/microsoft/final-windows-10-patch-tuesday-update-rolls-out-as-support-ends/)
+- [New Android Pixnapping attack steals MFA codes pixel-by-pixel](https://www.bleepingcomputer.com/news/security/new-android-pixnapping-attack-steals-mfa-codes-pixel-by-pixel/)
+- [Microsoft: Exchange 2016 and 2019 have reached end of support](https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-2016-and-2019-have-reached-end-of-support/)
 - [Microsoft October 2025 Patch Tuesday fixes 6 zero-days, 172 flaws](https://www.bleepingcomputer.com/news/microsoft/microsoft-october-2025-patch-tuesday-fixes-6-zero-days-172-flaws/)
 - [Windows 11 KB5066835 and KB5066793 updates released](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5066835-and-kb5066793-updates-released/)
-- [US seizes $15 billion in crypto from &#39;pig butchering&#39; kingpin](https://www.bleepingcomputer.com/news/security/us-seizes-15-billion-in-crypto-from-pig-butchering-kingpin/)
-- [Chinese Hackers Exploit ArcGIS Server as Backdoor for Over a Year](https://thehackernews.com/2025/10/chinese-hackers-exploit-arcgis-server.html)
-- [Oracles silently fixes zero-day exploit leaked by ShinyHunters](https://www.bleepingcomputer.com/news/security/oracles-silently-fixes-zero-day-exploit-leaked-by-shinyhunters/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
