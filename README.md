@@ -981,11 +981,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Moving Beyond Awareness: How Threat Hunting Builds Readiness](https://thehackernews.com/2025/10/moving-beyond-awareness-how-threat.html)
+- [RMPocalypse: Single 8-Byte Write Shatters AMD’s SEV-SNP Confidential Computing](https://thehackernews.com/2025/10/rmpocalypse-single-8-byte-write.html)
+- [New Pixnapping Android Flaw Lets Rogue Apps Steal 2FA Codes Without Permissions](https://thehackernews.com/2025/10/new-pixnapping-android-flaw-lets-rogue.html)
+- [What AI Reveals About Web Applications— and Why It Matters](https://thehackernews.com/2025/10/what-ai-reveals-about-web-applications.html)
 - [npm, PyPI, and RubyGems Packages Found Sending Developer Data to Discord Channels](https://thehackernews.com/2025/10/npm-pypi-and-rubygems-packages-found.html)
-- [Researchers Expose TA585’s MonsterV2 Malware Capabilities and Attack Chain](https://thehackernews.com/2025/10/researchers-expose-ta585s-monsterv2.html)
-- [Microsoft restricts IE mode access in Edge after zero-day attacks](https://www.bleepingcomputer.com/news/security/microsoft-restricts-ie-mode-access-in-edge-after-zero-day-attacks/)
-- [SimonMed says 1.2 million patients impacted in January data breach](https://www.bleepingcomputer.com/news/security/simonmed-says-12-million-patients-impacted-in-january-data-breach/)
-- [Massive multi-country botnet targets RDP services in the US](https://www.bleepingcomputer.com/news/security/massive-multi-country-botnet-targets-rdp-services-in-the-us/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
