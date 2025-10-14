@@ -983,11 +983,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft warns that Windows 10 reaches end of support today](https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-that-windows-10-reaches-end-of-support-today/)
+- [Security firms debate CVE credit in overlapping vulnerability reports](https://www.bleepingcomputer.com/news/security/security-firms-debate-cve-credit-in-overlapping-vulnerability-reports/)
 - [When AI Agents Join the Teams: The Hidden Security Shifts No One Expects](https://www.bleepingcomputer.com/news/security/when-ai-agents-join-the-teams-the-hidden-security-shifts-no-one-expects/)
 - [Secure Boot bypass risk threatens nearly 200,000 Linux Framework laptops](https://www.bleepingcomputer.com/news/security/secure-boot-bypass-risk-on-nearly-200-000-linux-framework-sytems/)
 - [Chinese hackers abuse geo-mapping tool for year-long persistence](https://www.bleepingcomputer.com/news/security/chinese-hackers-abuse-geo-mapping-tool-for-year-long-persistence/)
-- [Moving Beyond Awareness: How Threat Hunting Builds Readiness](https://thehackernews.com/2025/10/moving-beyond-awareness-how-threat.html)
-- [RMPocalypse: Single 8-Byte Write Shatters AMD’s SEV-SNP Confidential Computing](https://thehackernews.com/2025/10/rmpocalypse-single-8-byte-write.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
