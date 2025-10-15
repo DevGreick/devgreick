@@ -998,11 +998,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Capita to pay £14 million for data breach impacting 6.6 million people](https://www.bleepingcomputer.com/news/security/capita-to-pay-14-million-for-data-breach-impacting-66-million-people/)
 - [PowerSchool hacker gets sentenced to four years in prison](https://www.bleepingcomputer.com/news/security/powerschool-hacker-gets-sentenced-to-four-years-in-prison/)
 - [Fake LastPass, Bitwarden breach alerts lead to PC hijacks](https://www.bleepingcomputer.com/news/security/fake-lastpass-bitwarden-breach-alerts-lead-to-pc-hijacks/)
 - [F5 releases BIG-IP patches for stolen security vulnerabilities](https://www.bleepingcomputer.com/news/security/f5-releases-big-ip-patches-for-stolen-security-vulnerabilities/)
 - [Chinese Threat Group &#39;Jewelbug&#39; Quietly Infiltrated Russian IT Network for Months](https://thehackernews.com/2025/10/chinese-threat-group-jewelbug-quietly.html)
-- [F5 Breach Exposes BIG-IP Source Code — Nation-State Hackers Behind Massive Intrusion](https://thehackernews.com/2025/10/f5-breach-exposes-big-ip-source-code.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
