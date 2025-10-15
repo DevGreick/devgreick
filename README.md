@@ -996,11 +996,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [F5 releases BIG-IP patches for stolen security vulnerabilities](https://www.bleepingcomputer.com/news/security/f5-releases-big-ip-patches-for-stolen-security-vulnerabilities/)
+- [Chinese Threat Group &#39;Jewelbug&#39; Quietly Infiltrated Russian IT Network for Months](https://thehackernews.com/2025/10/chinese-threat-group-jewelbug-quietly.html)
+- [F5 Breach Exposes BIG-IP Source Code — Nation-State Hackers Behind Massive Intrusion](https://thehackernews.com/2025/10/f5-breach-exposes-big-ip-source-code.html)
 - [Microsoft: Sept Windows Server updates cause Active Directory issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-september-2025-windows-server-updates-cause-active-directory-issues/)
 - [Clothing giant MANGO discloses data breach exposing customer info](https://www.bleepingcomputer.com/news/security/clothing-giant-mango-discloses-data-breach-exposing-customer-info/)
-- [Over 100 VS Code Extensions Exposed Developers to Hidden Supply Chain Risks](https://thehackernews.com/2025/10/over-100-vs-code-extensions-exposed.html)
-- [How to spot dark web threats on your network using NDR](https://www.bleepingcomputer.com/news/security/how-to-spot-dark-web-threats-on-your-network-using-ndr/)
-- [F5 says hackers stole undisclosed BIG-IP flaws, source code](https://www.bleepingcomputer.com/news/security/hackers-breach-f5-to-steal-undisclosed-big-ip-flaws-source-code/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
