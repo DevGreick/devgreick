@@ -24,12 +24,12 @@
 
   <!-- CVE-LIST:START -->
 <details>
-<summary><strong>Vulnerabilidades exploradas conhecidas da CISA</strong>  •  atualizado 15/10/2025 18:18 UTC  •  exibindo 10 itens</summary>
+<summary><strong>Vulnerabilidades exploradas conhecidas da CISA</strong>  •  atualizado 15/10/2025 20:14 UTC  •  exibindo 10 itens</summary>
 
 > Fonte: CISA Known Exploited Vulnerabilities
 
 - **CVE-2025-54253** - Adobe Experience Manager Forms Code Execution Vulnerability  
-  Fornecedor: Adobe | Produto: Experience Manager (AEM) Forms | Adicionado: 2025-10-16  
+  Fornecedor: Adobe | Produto: Experience Manager (AEM) Forms | Adicionado: 2025-10-15  
   Adobe Experience Manager Forms in JEE contains an unspecified vulnerability that allows for arbitrary code execution.  
   Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
 
@@ -79,6 +79,7 @@
   Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
 
 </details>
+
 
 
 
