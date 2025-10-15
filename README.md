@@ -24,9 +24,14 @@
 
   <!-- CVE-LIST:START -->
 <details>
-<summary><strong>Vulnerabilidades exploradas conhecidas da CISA</strong>  •  atualizado 15/10/2025 16:13 UTC  •  exibindo 10 itens</summary>
+<summary><strong>Vulnerabilidades exploradas conhecidas da CISA</strong>  •  atualizado 15/10/2025 18:18 UTC  •  exibindo 10 itens</summary>
 
 > Fonte: CISA Known Exploited Vulnerabilities
+
+- **CVE-2025-54253** - Adobe Experience Manager Forms Code Execution Vulnerability  
+  Fornecedor: Adobe | Produto: Experience Manager (AEM) Forms | Adicionado: 2025-10-16  
+  Adobe Experience Manager Forms in JEE contains an unspecified vulnerability that allows for arbitrary code execution.  
+  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
 
 - **CVE-2025-47827** - IGEL OS Use of a Key Past its Expiration Date Vulnerability  
   Fornecedor: IGEL | Produto: IGEL OS | Adicionado: 2025-10-14  
@@ -73,12 +78,8 @@
   Microsoft Internet Explorer contains an uninitialized memory corruption vulnerability that could allow for remote code execution. The impacted product could be end-of-life (EoL) and/or end-of-service (EoS). Users should discontinue product utilization.  
   Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
 
-- **CVE-2021-43226** - Microsoft Windows Privilege Escalation Vulnerability  
-  Fornecedor: Microsoft | Produto: Windows | Adicionado: 2025-10-06  
-  Microsoft Windows Common Log File System Driver contains a privilege escalation vulnerability that could allow a local, privileged attacker to bypass certain security mechanisms.  
-  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
-
 </details>
+
 
 
 
