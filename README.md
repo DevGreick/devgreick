@@ -1007,11 +1007,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft adds Copilot voice activation on Windows 11 PCs](https://www.bleepingcomputer.com/news/security/microsoft-adds-hey-copilot-wake-word-to-windows-11-pcs/)
-- [Microsoft debuts Copilot Actions for agentic AI-driven Windows tasks](https://www.bleepingcomputer.com/news/microsoft/microsoft-debuts-copilot-actions-for-agentic-ai-driven-windows-tasks/)
-- [Architectures, Risks, and Adoption: How to Assess and Choose the Right AI-SOC Platform](https://thehackernews.com/2025/10/architectures-risks-and-adoption-how-to.html)
-- [Hackers Deploy Linux Rootkits via Cisco SNMP Flaw in &quot;Zero Disco&#39; Attacks](https://thehackernews.com/2025/10/hackers-deploy-linux-rootkits-via-cisco.html)
-- [Beware the Hidden Costs of Pen Testing](https://thehackernews.com/2025/10/beware-hidden-costs-of-pen-testing.html)
+- [Microsoft: Office 2016 and Office 2019 have reach end of support](https://www.bleepingcomputer.com/news/microsoft/microsoft-office-2016-and-office-2019-have-reach-end-of-support/)
+- [Gladinet fixes actively exploited zero-day in file-sharing software](https://www.bleepingcomputer.com/news/security/gladinet-fixes-actively-exploited-zero-day-in-file-sharing-software/)
+- [North Korean Hackers Use EtherHiding to Hide Malware Inside Blockchain Smart Contracts](https://thehackernews.com/2025/10/north-korean-hackers-use-etherhiding-to.html)
+- [Hackers Abuse Blockchain Smart Contracts to Spread Malware via Infected WordPress Sites](https://thehackernews.com/2025/10/hackers-abuse-blockchain-smart.html)
+- [CISA: Maximum-severity Adobe flaw now exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-maximum-severity-adobe-flaw-now-exploited-in-attacks/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
