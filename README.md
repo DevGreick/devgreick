@@ -1008,11 +1008,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Hackers exploit Cisco SNMP flaw to deploy rootkit on switches](https://www.bleepingcomputer.com/news/security/hackers-exploit-cisco-snmp-flaw-to-deploy-rootkit-on-switches/)
+- [Microsoft disrupts ransomware attacks targeting Teams users](https://www.bleepingcomputer.com/news/microsoft/microsoft-disrupts-ransomware-attacks-targeting-teams-users/)
 - [Microsoft: Office 2016 and Office 2019 have reach end of support](https://www.bleepingcomputer.com/news/microsoft/microsoft-office-2016-and-office-2019-have-reach-end-of-support/)
 - [Gladinet fixes actively exploited zero-day in file-sharing software](https://www.bleepingcomputer.com/news/security/gladinet-fixes-actively-exploited-zero-day-in-file-sharing-software/)
 - [North Korean Hackers Use EtherHiding to Hide Malware Inside Blockchain Smart Contracts](https://thehackernews.com/2025/10/north-korean-hackers-use-etherhiding-to.html)
-- [Hackers Abuse Blockchain Smart Contracts to Spread Malware via Infected WordPress Sites](https://thehackernews.com/2025/10/hackers-abuse-blockchain-smart.html)
-- [CISA: Maximum-severity Adobe flaw now exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-maximum-severity-adobe-flaw-now-exploited-in-attacks/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
