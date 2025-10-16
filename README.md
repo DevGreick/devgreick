@@ -1005,11 +1005,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Beware the Hidden Costs of Pen Testing](https://thehackernews.com/2025/10/beware-hidden-costs-of-pen-testing.html)
 - [ThreatsDay Bulletin: $15B Crypto Bust, Satellite Spying, Billion-Dollar Smishing, Android RATs &amp; More](https://thehackernews.com/2025/10/threatsday-bulletin-15b-crypto-bust.html)
 - [CISA Flags Adobe AEM Flaw with Perfect 10.0 Score — Already Under Active Attack](https://thehackernews.com/2025/10/cisa-flags-adobe-aem-flaw-with-perfect.html)
 - [YouTube is down worldwide with playback error](https://www.bleepingcomputer.com/news/google/youtube-is-down-worldwide-with-playback-error/)
 - [Capita to pay £14 million for data breach impacting 6.6 million people](https://www.bleepingcomputer.com/news/security/capita-to-pay-14-million-for-data-breach-impacting-66-million-people/)
-- [PowerSchool hacker gets sentenced to four years in prison](https://www.bleepingcomputer.com/news/security/powerschool-hacker-gets-sentenced-to-four-years-in-prison/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
