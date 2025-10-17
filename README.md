@@ -1016,11 +1016,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Researchers Uncover WatchGuard VPN Bug That Could Let Attackers Take Over Devices](https://thehackernews.com/2025/10/researchers-uncover-watchguard-vpn-bug.html)
 - [Microsoft Revokes 200 Fraudulent Certificates Used in Rhysida Ransomware Campaign](https://thehackernews.com/2025/10/microsoft-revokes-200-fraudulent.html)
 - [Windows 11 updates break localhost &lpar;127.0.0.1&rpar; HTTP/2 connections](https://www.bleepingcomputer.com/news/microsoft/windows-11-updates-break-localhost-127001-http-2-connections/)
 - [Auction giant Sotheby’s says data breach exposed financial information](https://www.bleepingcomputer.com/news/security/auction-giant-sothebys-says-data-breach-exposed-financial-information/)
 - [Have I Been Pwned: Prosper data breach impacts 17.6 million accounts](https://www.bleepingcomputer.com/news/security/have-i-been-pwned-warns-of-prosper-data-breach-impacting-176-million-accounts/)
-- [Hackers exploit Cisco SNMP flaw to deploy rootkit on switches](https://www.bleepingcomputer.com/news/security/hackers-exploit-cisco-snmp-flaw-to-deploy-rootkit-on-switches/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
