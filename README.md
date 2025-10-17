@@ -1019,11 +1019,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft fixes highest-severity ASP.NET Core flaw ever](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-highest-severity-aspnet-core-flaw-ever/)
+- [VMware Certification: Your Next Career Power Move](https://www.bleepingcomputer.com/news/security/vmware-certification-your-next-career-power-move/)
 - [Microsoft fixes Windows bug breaking localhost HTTP connections](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-bug-breaking-localhost-http-connections/)
+- [North Korean Hackers Combine BeaverTail and OtterCookie into Advanced JS Malware](https://thehackernews.com/2025/10/north-korean-hackers-combine-beavertail.html)
 - [Over 266,000 F5 BIG-IP instances exposed to remote attacks](https://www.bleepingcomputer.com/news/security/over-266-000-f5-big-ip-instances-exposed-to-remote-attacks/)
-- [Identity Security: Your First and Last Line of Defense](https://thehackernews.com/2025/10/identity-security-your-first-and-last.html)
-- [Researchers Uncover WatchGuard VPN Bug That Could Let Attackers Take Over Devices](https://thehackernews.com/2025/10/researchers-uncover-watchguard-vpn-bug.html)
-- [Microsoft Revokes 200 Fraudulent Certificates Used in Rhysida Ransomware Campaign](https://thehackernews.com/2025/10/microsoft-revokes-200-fraudulent.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
