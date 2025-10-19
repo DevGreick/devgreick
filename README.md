@@ -1039,11 +1039,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Europol Dismantles SIM Farm Network Powering 49 Million Fake Accounts Worldwide](https://thehackernews.com/2025/10/europol-dismantles-sim-farm-network.html)
 - [OpenAI confirms GPT-6 is not shipping in 2025](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-gpt-6-is-not-shipping-in-2025/)
 - [Google ads for fake Homebrew, LogMeIn sites push infostealers](https://www.bleepingcomputer.com/news/security/google-ads-for-fake-homebrew-logmein-sites-push-infostealers/)
 - [New .NET CAPI Backdoor Targets Russian Auto and E-Commerce Firms via Phishing ZIPs](https://thehackernews.com/2025/10/new-net-capi-backdoor-targets-russian.html)
 - [Silver Fox Expands Winos 4.0 Attacks to Japan and Malaysia via HoldingHands RAT](https://thehackernews.com/2025/10/silver-fox-expands-winos-40-attacks-to.html)
-- [ConnectWise fixes Automate bug allowing AiTM update attacks](https://www.bleepingcomputer.com/news/security/connectwise-fixes-automate-bug-allowing-aitm-update-attacks/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
