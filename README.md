@@ -1053,11 +1053,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS outage crashes Amazon, PrimeVideo, Fortnite, Perplexity and more](https://www.bleepingcomputer.com/news/technology/aws-outage-crashes-amazon-primevideo-fortnite-perplexity-and-more/)
+- [⚡ Weekly Recap: F5 Breached, Linux Rootkits, Pixnapping Attack, EtherHiding &amp; More](https://thehackernews.com/2025/10/weekly-recap-f5-breached-linux-rootkits.html)
+- [Analysing ClickFix: 3 Reasons Why Copy/Paste Attacks Are Driving Security Breaches](https://thehackernews.com/2025/10/analysing-clickfix-3-reasons-why.html)
+- [131 Chrome Extensions Caught Hijacking WhatsApp Web for Massive Spam Campaign](https://thehackernews.com/2025/10/131-chrome-extensions-caught-hijacking.html)
+- [AWS outage crashes Amazon, Prime Video, Fortnite, Perplexity and more](https://www.bleepingcomputer.com/news/technology/aws-outage-crashes-amazon-primevideo-fortnite-perplexity-and-more/)
 - [MSS Claims NSA Used 42 Cyber Tools in Multi-Stage Attack on Beijing Time Systems](https://thehackernews.com/2025/10/mss-claims-nsa-used-42-cyber-tools-in.html)
-- [TikTok videos continue to push infostealers in ClickFix attacks](https://www.bleepingcomputer.com/news/security/tiktok-videos-continue-to-push-infostealers-in-clickfix-attacks/)
-- [Experian fined $3.2 million for mass-collecting personal data](https://www.bleepingcomputer.com/news/legal/experian-fined-32-million-for-mass-collecting-personal-data/)
-- [Europol Dismantles SIM Farm Network Powering 49 Million Fake Accounts Worldwide](https://thehackernews.com/2025/10/europol-dismantles-sim-farm-network.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
