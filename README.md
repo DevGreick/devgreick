@@ -1057,11 +1057,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [DNS0.EU private DNS service shuts down over sustainability issues](https://www.bleepingcomputer.com/news/security/dns0eu-private-dns-service-shuts-down-over-sustainability-issues/)
 - [Microsoft: October updates break USB input in Windows Recovery](https://www.bleepingcomputer.com/news/microsoft/microsoft-october-updates-break-usb-mice-and-keyboards-in-windows-recovery/)
 - [Five New Exploited Bugs Land in CISA&#39;s Catalog — Oracle and Microsoft Among Targets](https://thehackernews.com/2025/10/five-new-exploited-bugs-land-in-cisas.html)
 - [Retail giant Muji halts online sales after ransomware attack on supplier](https://www.bleepingcomputer.com/news/security/retail-giant-muji-halts-online-sales-after-ransomware-attack-on-supplier/)
 - [Over 75,000 WatchGuard security devices vulnerable to critical RCE](https://www.bleepingcomputer.com/news/security/over-75-000-watchguard-security-devices-vulnerable-to-critical-rce/)
-- [CISA: High-severity Windows SMB flaw now exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-high-severity-windows-smb-flaw-now-exploited-in-attacks/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
