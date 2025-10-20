@@ -1056,11 +1056,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft: October updates break USB input in Windows Recovery](https://www.bleepingcomputer.com/news/microsoft/microsoft-october-updates-break-usb-mice-and-keyboards-in-windows-recovery/)
+- [Five New Exploited Bugs Land in CISA&#39;s Catalog — Oracle and Microsoft Among Targets](https://thehackernews.com/2025/10/five-new-exploited-bugs-land-in-cisas.html)
+- [Retail giant Muji halts online sales after ransomware attack on supplier](https://www.bleepingcomputer.com/news/security/retail-giant-muji-halts-online-sales-after-ransomware-attack-on-supplier/)
 - [Over 75,000 WatchGuard security devices vulnerable to critical RCE](https://www.bleepingcomputer.com/news/security/over-75-000-watchguard-security-devices-vulnerable-to-critical-rce/)
 - [CISA: High-severity Windows SMB flaw now exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-high-severity-windows-smb-flaw-now-exploited-in-attacks/)
-- [Self-spreading GlassWorm malware hits OpenVSX,  VS Code registries](https://www.bleepingcomputer.com/news/security/self-spreading-glassworm-malware-hits-openvsx-vs-code-registries/)
-- [Microsoft fixes Windows Server Active Directory sync issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-server-active-directory-sync-issues/)
-- [Microsoft warns of Windows smart card auth issues after October updates](https://www.bleepingcomputer.com/news/microsoft/microsoft-october-security-updates-cause-windows-smart-card-auth-issues/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
