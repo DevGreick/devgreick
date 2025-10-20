@@ -1054,11 +1054,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Self-spreading GlassWorm malware hits OpenVSX,  VS Code registries](https://www.bleepingcomputer.com/news/security/self-spreading-glassworm-malware-hits-openvsx-vs-code-registries/)
+- [Microsoft fixes Windows Server Active Directory sync issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-server-active-directory-sync-issues/)
+- [Microsoft warns of Windows smart card auth issues after October updates](https://www.bleepingcomputer.com/news/microsoft/microsoft-october-security-updates-cause-windows-smart-card-auth-issues/)
+- [Find hidden malicious OAuth apps in Microsoft 365 using Cazadora](https://www.bleepingcomputer.com/news/security/find-hidden-malicious-oauth-apps-in-microsoft-365-using-cazadora/)
 - [⚡ Weekly Recap: F5 Breached, Linux Rootkits, Pixnapping Attack, EtherHiding &amp; More](https://thehackernews.com/2025/10/weekly-recap-f5-breached-linux-rootkits.html)
-- [Analysing ClickFix: 3 Reasons Why Copy/Paste Attacks Are Driving Security Breaches](https://thehackernews.com/2025/10/analysing-clickfix-3-reasons-why.html)
-- [131 Chrome Extensions Caught Hijacking WhatsApp Web for Massive Spam Campaign](https://thehackernews.com/2025/10/131-chrome-extensions-caught-hijacking.html)
-- [AWS outage crashes Amazon, Prime Video, Fortnite, Perplexity and more](https://www.bleepingcomputer.com/news/technology/aws-outage-crashes-amazon-primevideo-fortnite-perplexity-and-more/)
-- [MSS Claims NSA Used 42 Cyber Tools in Multi-Stage Attack on Beijing Time Systems](https://thehackernews.com/2025/10/mss-claims-nsa-used-42-cyber-tools-in.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
