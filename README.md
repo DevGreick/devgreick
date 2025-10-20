@@ -1055,11 +1055,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Over 75,000 WatchGuard security devices vulnerable to critical RCE](https://www.bleepingcomputer.com/news/security/over-75-000-watchguard-security-devices-vulnerable-to-critical-rce/)
+- [CISA: High-severity Windows SMB flaw now exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-high-severity-windows-smb-flaw-now-exploited-in-attacks/)
 - [Self-spreading GlassWorm malware hits OpenVSX,  VS Code registries](https://www.bleepingcomputer.com/news/security/self-spreading-glassworm-malware-hits-openvsx-vs-code-registries/)
 - [Microsoft fixes Windows Server Active Directory sync issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-server-active-directory-sync-issues/)
 - [Microsoft warns of Windows smart card auth issues after October updates](https://www.bleepingcomputer.com/news/microsoft/microsoft-october-security-updates-cause-windows-smart-card-auth-issues/)
-- [Find hidden malicious OAuth apps in Microsoft 365 using Cazadora](https://www.bleepingcomputer.com/news/security/find-hidden-malicious-oauth-apps-in-microsoft-365-using-cazadora/)
-- [⚡ Weekly Recap: F5 Breached, Linux Rootkits, Pixnapping Attack, EtherHiding &amp; More](https://thehackernews.com/2025/10/weekly-recap-f5-breached-linux-rootkits.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
