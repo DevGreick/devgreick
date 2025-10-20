@@ -24,9 +24,34 @@
 
   <!-- CVE-LIST:START -->
 <details>
-<summary><strong>Vulnerabilidades exploradas conhecidas da CISA</strong>  •  atualizado 20/10/2025 14:12 UTC  •  exibindo 10 itens</summary>
+<summary><strong>Vulnerabilidades exploradas conhecidas da CISA</strong>  •  atualizado 20/10/2025 16:15 UTC  •  exibindo 10 itens</summary>
 
 > Fonte: CISA Known Exploited Vulnerabilities
+
+- **CVE-2022-48503** - Apple Multiple Products Unspecified Vulnerability  
+  Fornecedor: Apple | Produto: Multiple Products | Adicionado: 2025-10-20  
+  Apple macOS, iOS, tvOS, Safari, and watchOS contain an unspecified vulnerability in JavaScriptCore that when processing web content may lead to arbitrary code execution. The impacted product could be end-of-life (EoL) and/or end-of-service (EoS). Users should discontinue product utilization.  
+  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
+
+- **CVE-2025-2746** - Kentico Xperience CMS Authentication Bypass Using an Alternate Path or Channel Vulnerability  
+  Fornecedor: Kentico | Produto: Xperience CMS | Adicionado: 2025-10-20  
+  Kentico Xperience CMS contains an authentication bypass using an alternate path or channel vulnerability that could allow an attacker to control administrative objects.  
+  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
+
+- **CVE-2025-2747** - Kentico Xperience CMS Authentication Bypass Using an Alternate Path or Channel Vulnerability  
+  Fornecedor: Kentico | Produto: Xperience CMS | Adicionado: 2025-10-20  
+  Kentico Xperience CMS contains an authentication bypass using an alternate path or channel vulnerability that could allow an attacker to control administrative objects.  
+  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
+
+- **CVE-2025-33073** - Microsoft Windows SMB Client Improper Access Control Vulnerability  
+  Fornecedor: Microsoft | Produto: Windows | Adicionado: 2025-10-20  
+  Microsoft Windows SMB Client contains an improper access control vulnerability that could allow for privilege escalation. An attacker could execute a specially crafted malicious script to coerce the victim machine to connect back to the attack system using SMB and authenticate.  
+  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
+
+- **CVE-2025-61884** - Oracle E-Business Suite Server-Side Request Forgery (SSRF) Vulnerability  
+  Fornecedor: Oracle | Produto: E-Business Suite | Adicionado: 2025-10-20  
+  Oracle E-Business Suite contains a server-side request forgery (SSRF) vulnerability in the Runtime component of Oracle Configurator. This vulnerability is remotely exploitable without authentication.  
+  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
 
 - **CVE-2025-54253** - Adobe Experience Manager Forms Code Execution Vulnerability  
   Fornecedor: Adobe | Produto: Experience Manager (AEM) Forms | Adicionado: 2025-10-15  
@@ -53,32 +78,8 @@
   Rapid7 Velociraptor contains an incorrect default permissions vulnerability that can lead to arbitrary command execution and endpoint takeover. To successfully exploit this vulnerability the user must already have access to collect artifacts from the endpoint.  
   Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
 
-- **CVE-2016-7836** - SKYSEA Client View Improper Authentication Vulnerability  
-  Fornecedor: SKYSEA | Produto: Client View | Adicionado: 2025-10-14  
-  SKYSEA Client View contains an improper authentication vulnerability that allows remote code execution via a flaw in processing authentication on the TCP connection with the management console program.  
-  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
-
-- **CVE-2021-43798** - Grafana Path Traversal Vulnerability  
-  Fornecedor: Grafana Labs | Produto: Grafana | Adicionado: 2025-10-09  
-  Grafana contains a path traversal vulnerability that could allow access to local files.  
-  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
-
-- **CVE-2025-27915** - Synacor Zimbra Collaboration Suite (ZCS) Cross-site Scripting Vulnerability  
-  Fornecedor: Synacor | Produto: Zimbra Collaboration Suite (ZCS) | Adicionado: 2025-10-07  
-  Synacor Zimbra Collaboration Suite (ZCS) contains a cross-site scripting vulnerability that exists in the Classic Web Client due to insufficient sanitization of HTML content in ICS files. When a user views an e-mail message containing a malicious ICS entry, its embedded JavaScript executes via an ontoggle event inside a tag. This allows an attacker to run arbitrary JavaScript within the victim's session, potentially leading to unauthorized actions such as setting e-mail filters to redirect messages to an attacker-controlled address. As a result, an attacker can perform unauthorized actions on the victim's account, including e-mail redirection and data exfiltration.  
-  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
-
-- **CVE-2021-22555** - Linux Kernel Heap Out-of-Bounds Write Vulnerability  
-  Fornecedor: Linux | Produto: Kernel | Adicionado: 2025-10-06  
-  Linux Kernel contains a heap out-of-bounds write vulnerability that could allow an attacker to gain privileges or cause a DoS (via heap memory corruption) through user name space.  
-  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
-
-- **CVE-2010-3962** - Microsoft Internet Explorer Uninitialized Memory Corruption Vulnerability  
-  Fornecedor: Microsoft | Produto: Internet Explorer | Adicionado: 2025-10-06  
-  Microsoft Internet Explorer contains an uninitialized memory corruption vulnerability that could allow for remote code execution. The impacted product could be end-of-life (EoL) and/or end-of-service (EoS). Users should discontinue product utilization.  
-  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
-
 </details>
+
 
 
 
