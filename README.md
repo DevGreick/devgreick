@@ -1065,11 +1065,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Maximizing gateway security: Beyond the basic configuration](https://www.bleepingcomputer.com/news/security/maximizing-gateway-security-beyond-the-basic-configuration/)
+- [Microsoft fixes bug preventing users from opening classic Outlook](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-preventing-users-from-opening-classic-outlook/)
 - [Securing AI to Benefit from AI](https://thehackernews.com/2025/10/securing-ai-to-benefit-from-ai.html)
 - [Windows 11 KB5070773 emergency update fixes Windows Recovery issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-usb-issue-that-made-windows-recovery-unusable/)
 - [Google Identifies Three New Russian Malware Families Created by COLDRIVER Hackers](https://thehackernews.com/2025/10/google-identifies-three-new-russian.html)
-- [Hackers Used Snappybee Malware and Citrix Flaw to Breach European Telecom Network](https://thehackernews.com/2025/10/hackers-used-snappybee-malware-and.html)
-- [DNS0.EU private DNS service shuts down over sustainability issues](https://www.bleepingcomputer.com/news/security/dns0eu-private-dns-service-shuts-down-over-sustainability-issues/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
