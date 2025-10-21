@@ -1067,11 +1067,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Hackers exploit 34 zero-days on first day of Pwn2Own Ireland](https://www.bleepingcomputer.com/news/security/hackers-exploit-34-zero-days-on-first-day-of-pwn2own-ireland/)
+- [Microsoft: Recent Windows updates cause login issues on some PCs](https://www.bleepingcomputer.com/news/microsoft/microsoft-recent-windows-updates-cause-login-issues-on-pcs-sharing-security-ids/)
 - [Russian hackers evolve malware pushed in &quot;I am not a robot&quot; captchas](https://www.bleepingcomputer.com/news/security/russian-hackers-evolve-malware-pushed-in-i-am-not-a-robot-clickfix-attacks/)
 - [Meta Rolls Out New Tools to Protect WhatsApp and Messenger Users from Scams](https://thehackernews.com/2025/10/meta-rolls-out-new-tools-to-protect.html)
 - [Maximizing gateway security: Beyond the basic configuration](https://www.bleepingcomputer.com/news/security/maximizing-gateway-security-beyond-the-basic-configuration/)
-- [PolarEdge Targets Cisco, ASUS, QNAP, Synology Routers in Expanding Botnet Campaign](https://thehackernews.com/2025/10/polaredge-targets-cisco-asus-qnap.html)
-- [Microsoft fixes bug preventing users from opening classic Outlook](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-preventing-users-from-opening-classic-outlook/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
