@@ -1063,11 +1063,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Windows 11 KB5070773 emergency update fixes Windows Recovery issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-usb-issue-that-made-windows-recovery-unusable/)
 - [Google Identifies Three New Russian Malware Families Created by COLDRIVER Hackers](https://thehackernews.com/2025/10/google-identifies-three-new-russian.html)
 - [Hackers Used Snappybee Malware and Citrix Flaw to Breach European Telecom Network](https://thehackernews.com/2025/10/hackers-used-snappybee-malware-and.html)
 - [DNS0.EU private DNS service shuts down over sustainability issues](https://www.bleepingcomputer.com/news/security/dns0eu-private-dns-service-shuts-down-over-sustainability-issues/)
 - [Microsoft: October updates break USB input in Windows Recovery](https://www.bleepingcomputer.com/news/microsoft/microsoft-october-updates-break-usb-mice-and-keyboards-in-windows-recovery/)
-- [Five New Exploited Bugs Land in CISA&#39;s Catalog — Oracle and Microsoft Among Targets](https://thehackernews.com/2025/10/five-new-exploited-bugs-land-in-cisas.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
