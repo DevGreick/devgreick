@@ -1078,11 +1078,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Meta launches new anti-scam tools for WhatsApp and Messenger](https://www.bleepingcomputer.com/news/security/meta-launches-new-anti-scam-tools-for-whatsapp-and-messenger/)
+- [FinWise data breach shows why encryption is your last defense](https://www.bleepingcomputer.com/news/security/finwise-data-breach-shows-why-encryption-is-your-last-defense/)
 - [PhantomCaptcha ClickFix attack targets Ukraine war relief orgs](https://www.bleepingcomputer.com/news/security/phantomcaptcha-clickfix-attack-targets-ukraine-war-relief-orgs/)
 - [Chinese Threat Actors Exploit ToolShell SharePoint Flaw Weeks After Microsoft&#39;s July Patch](https://thehackernews.com/2025/10/chinese-threat-actors-exploit-toolshell.html)
 - [Bridging the Remediation Gap: Introducing Pentera Resolve](https://thehackernews.com/2025/10/bridging-remediation-gap-introducing.html)
-- [Fake Nethereum NuGet Package Used Homoglyph Trick to Steal Crypto Wallet Keys](https://thehackernews.com/2025/10/fake-nethereum-nuget-package-used.html)
-- [Sharepoint ToolShell attacks targeted orgs across four continents](https://www.bleepingcomputer.com/news/security/sharepoint-toolshell-attacks-targeted-orgs-across-four-continents/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
