@@ -1076,11 +1076,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Bridging the Remediation Gap: Introducing Pentera Resolve](https://thehackernews.com/2025/10/bridging-remediation-gap-introducing.html)
+- [Sharepoint ToolShell attacks targeted orgs across four continents](https://www.bleepingcomputer.com/news/security/sharepoint-toolshell-attacks-targeted-orgs-across-four-continents/)
+- [Why You Should Swap Passwords for Passphrases](https://thehackernews.com/2025/10/why-you-should-swap-passwords-for.html)
 - [Researchers Identify PassiveNeuron APT Using Neursite and NeuralExecutor Malware](https://thehackernews.com/2025/10/researchers-identify-passiveneuron-apt.html)
 - [TARmageddon Flaw in Async-Tar Rust Library Could Enable Remote Code Execution](https://thehackernews.com/2025/10/tarmageddon-flaw-in-async-tar-rust.html)
-- [TP-Link Patches Four Omada Gateway Flaws, Two Allow Remote Code Execution](https://thehackernews.com/2025/10/tp-link-patches-four-omada-gateway.html)
-- [Vidar Stealer 2.0 adds multi-threaded data theft, better evasion](https://www.bleepingcomputer.com/news/security/vidar-stealer-20-adds-multi-threaded-data-theft-better-evasion/)
-- [TP-Link warns of critical command injection flaw in Omada gateways](https://www.bleepingcomputer.com/news/security/tp-link-warns-of-critical-command-injection-flaw-in-omada-gateways/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
