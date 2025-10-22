@@ -1077,11 +1077,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [PhantomCaptcha ClickFix attack targets Ukraine war relief orgs](https://www.bleepingcomputer.com/news/security/phantomcaptcha-clickfix-attack-targets-ukraine-war-relief-orgs/)
+- [Chinese Threat Actors Exploit ToolShell SharePoint Flaw Weeks After Microsoft&#39;s July Patch](https://thehackernews.com/2025/10/chinese-threat-actors-exploit-toolshell.html)
 - [Bridging the Remediation Gap: Introducing Pentera Resolve](https://thehackernews.com/2025/10/bridging-remediation-gap-introducing.html)
+- [Fake Nethereum NuGet Package Used Homoglyph Trick to Steal Crypto Wallet Keys](https://thehackernews.com/2025/10/fake-nethereum-nuget-package-used.html)
 - [Sharepoint ToolShell attacks targeted orgs across four continents](https://www.bleepingcomputer.com/news/security/sharepoint-toolshell-attacks-targeted-orgs-across-four-continents/)
-- [Why You Should Swap Passwords for Passphrases](https://thehackernews.com/2025/10/why-you-should-swap-passwords-for.html)
-- [Researchers Identify PassiveNeuron APT Using Neursite and NeuralExecutor Malware](https://thehackernews.com/2025/10/researchers-identify-passiveneuron-apt.html)
-- [TARmageddon Flaw in Async-Tar Rust Library Could Enable Remote Code Execution](https://thehackernews.com/2025/10/tarmageddon-flaw-in-async-tar-rust.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
