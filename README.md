@@ -1080,11 +1080,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Pwn2Own Day 2: Hackers exploit 56 zero-days for $790,000](https://www.bleepingcomputer.com/news/security/samsung-galaxy-s25-hacked-on-day-two-of-pwn2own-ireland-2025/)
+- [Hackers exploiting critical &quot;SessionReaper&quot; flaw in Adobe Magento](https://www.bleepingcomputer.com/news/security/hackers-exploiting-critical-sessionreaper-flaw-in-adobe-magento/)
 - [TARmageddon flaw in abandoned Rust library enables RCE attacks](https://www.bleepingcomputer.com/news/security/tarmageddon-flaw-in-abandoned-rust-library-enables-rce-attacks/)
 - [Iran-Linked MuddyWater Targets 100+ Organisations in Global Espionage Campaign](https://thehackernews.com/2025/10/iran-linked-muddywater-targets-100.html)
 - [Ukraine Aid Groups Targeted Through Fake Zoom Meetings and Weaponized PDF Files](https://thehackernews.com/2025/10/ukraine-aid-groups-targeted-through.html)
-- [Meta launches new anti-scam tools for WhatsApp and Messenger](https://www.bleepingcomputer.com/news/security/meta-launches-new-anti-scam-tools-for-whatsapp-and-messenger/)
-- [FinWise data breach shows why encryption is your last defense](https://www.bleepingcomputer.com/news/security/finwise-data-breach-shows-why-encryption-is-your-last-defense/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
