@@ -24,9 +24,14 @@
 
   <!-- CVE-LIST:START -->
 <details>
-<summary><strong>Vulnerabilidades exploradas conhecidas da CISA</strong>  •  atualizado 22/10/2025 16:16 UTC  •  exibindo 10 itens</summary>
+<summary><strong>Vulnerabilidades exploradas conhecidas da CISA</strong>  •  atualizado 22/10/2025 18:19 UTC  •  exibindo 10 itens</summary>
 
 > Fonte: CISA Known Exploited Vulnerabilities
+
+- **CVE-2025-61932** - Motex LANSCOPE Endpoint Manager Improper Verification of Source of a Communication Channel Vulnerability  
+  Fornecedor: Motex | Produto: LANSCOPE Endpoint Manager | Adicionado: 2025-10-22  
+  Motex LANSCOPE Endpoint Manager contains an improper verification of source of a communication channel vulnerability allowing an attacker to execute arbitrary code by sending specially crafted packets.  
+  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
 
 - **CVE-2022-48503** - Apple Multiple Products Unspecified Vulnerability  
   Fornecedor: Apple | Produto: Multiple Products | Adicionado: 2025-10-20  
@@ -73,12 +78,8 @@
   Microsoft Windows contains an improper access control vulnerability in Windows Remote Access Connection Manager which could allow an authorized attacker to elevate privileges locally.  
   Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
 
-- **CVE-2025-6264** - Rapid7 Velociraptor Incorrect Default Permissions Vulnerability  
-  Fornecedor: Rapid7 | Produto: Velociraptor | Adicionado: 2025-10-14  
-  Rapid7 Velociraptor contains an incorrect default permissions vulnerability that can lead to arbitrary command execution and endpoint takeover. To successfully exploit this vulnerability the user must already have access to collect artifacts from the endpoint.  
-  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
-
 </details>
+
 
 
 
