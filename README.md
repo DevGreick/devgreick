@@ -1075,11 +1075,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Researchers Identify PassiveNeuron APT Using Neursite and NeuralExecutor Malware](https://thehackernews.com/2025/10/researchers-identify-passiveneuron-apt.html)
+- [TARmageddon Flaw in Async-Tar Rust Library Could Enable Remote Code Execution](https://thehackernews.com/2025/10/tarmageddon-flaw-in-async-tar-rust.html)
 - [TP-Link Patches Four Omada Gateway Flaws, Two Allow Remote Code Execution](https://thehackernews.com/2025/10/tp-link-patches-four-omada-gateway.html)
 - [Vidar Stealer 2.0 adds multi-threaded data theft, better evasion](https://www.bleepingcomputer.com/news/security/vidar-stealer-20-adds-multi-threaded-data-theft-better-evasion/)
 - [TP-Link warns of critical command injection flaw in Omada gateways](https://www.bleepingcomputer.com/news/security/tp-link-warns-of-critical-command-injection-flaw-in-omada-gateways/)
-- [CISA confirms hackers exploited Oracle E-Business Suite SSRF flaw](https://www.bleepingcomputer.com/news/security/cisa-confirms-hackers-exploited-oracle-e-business-suite-ssrf-flaw/)
-- [Cursor, Windsurf IDEs riddled with 94+ n-day Chromium vulnerabilities](https://www.bleepingcomputer.com/news/security/cursor-windsurf-ides-riddled-with-94-plus-n-day-chromium-vulnerabilities/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
