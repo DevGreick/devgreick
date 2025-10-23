@@ -1087,11 +1087,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [“Jingle Thief” Hackers Exploit Cloud Infrastructure to Steal Millions in Gift Cards](https://thehackernews.com/2025/10/jingle-thief-hackers-exploit-cloud.html)
 - [Over 250 Magento Stores Hit Overnight as Hackers Exploit New Adobe Commerce Flaw](https://thehackernews.com/2025/10/over-250-magento-stores-hit-overnight.html)
 - [Critical Lanscope Endpoint Manager Bug Exploited in Ongoing Cyberattacks, CISA Confirms](https://thehackernews.com/2025/10/critical-lanscope-endpoint-manager-bug.html)
 - [Iranian hackers targeted over 100 govt orgs with Phoenix backdoor](https://www.bleepingcomputer.com/news/security/iranian-hackers-targeted-over-100-govt-orgs-with-phoenix-backdoor/)
 - [Pwn2Own Day 2: Hackers exploit 56 zero-days for $790,000](https://www.bleepingcomputer.com/news/security/samsung-galaxy-s25-hacked-on-day-two-of-pwn2own-ireland-2025/)
-- [Hackers exploiting critical &quot;SessionReaper&quot; flaw in Adobe Magento](https://www.bleepingcomputer.com/news/security/hackers-exploiting-critical-sessionreaper-flaw-in-adobe-magento/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
