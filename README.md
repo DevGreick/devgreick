@@ -1093,11 +1093,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [HP pulls update that broke Microsoft Entra ID auth on some AI PCs](https://www.bleepingcomputer.com/news/microsoft/hp-pulls-update-that-broke-microsoft-entra-id-auth-on-some-ai-pcs/)
 - [Meet the new Clippy: Microsoft unveils Copilot&#39;s &quot;Mico&quot; avatar](https://www.bleepingcomputer.com/news/microsoft/meet-the-new-clippy-microsoft-unveils-copilots-mico-avatar/)
 - [CISA warns of Lanscope Endpoint Manager flaw exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-warns-of-lanscope-endpoint-manager-flaw-exploited-in-attacks/)
 - [Microsoft disables File Explorer preview for downloads to block attacks](https://www.bleepingcomputer.com/news/microsoft/microsoft-disables-preview-pane-for-downloads-to-block-ntlm-theft-attacks/)
 - [North Korean Hackers Lure Defense Engineers With Fake Jobs to Steal Drone Secrets](https://thehackernews.com/2025/10/north-korean-hackers-lure-defense.html)
-- [Zero Trust Has a Blind Spot—Your AI Agents](https://www.bleepingcomputer.com/news/security/zero-trust-has-a-blind-spot-your-ai-agents/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
