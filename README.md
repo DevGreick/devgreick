@@ -1090,11 +1090,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft disables File Explorer preview for downloads to block attacks](https://www.bleepingcomputer.com/news/microsoft/microsoft-disables-preview-pane-for-downloads-to-block-ntlm-theft-attacks/)
+- [North Korean Hackers Lure Defense Engineers With Fake Jobs to Steal Drone Secrets](https://thehackernews.com/2025/10/north-korean-hackers-lure-defense.html)
+- [Zero Trust Has a Blind Spot—Your AI Agents](https://www.bleepingcomputer.com/news/security/zero-trust-has-a-blind-spot-your-ai-agents/)
 - [Spoofed AI sidebars can trick Atlas, Comet users into dangerous actions](https://www.bleepingcomputer.com/news/security/spoofed-ai-sidebars-can-trick-atlas-comet-users-into-dangerous-actions/)
 - [North Korean Lazarus hackers targeted European defense companies](https://www.bleepingcomputer.com/news/security/north-korean-lazarus-hackers-targeted-european-defense-companies/)
-- [Secure AI at Scale and Speed — Learn the Framework in this Free Webinar](https://thehackernews.com/2025/10/secure-ai-at-scale-and-speed-learn.html)
-- [ThreatsDay Bulletin: $176M Crypto Fine, Hacking Formula 1, Chromium Vulns, AI Hijack &amp; More](https://thehackernews.com/2025/10/threatsday-bulletin-176m-crypto-fine.html)
-- [Why Organizations Are Abandoning Static Secrets for Managed Identities](https://thehackernews.com/2025/10/why-organizations-are-abandoning-static.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
