@@ -1103,11 +1103,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft Issues Emergency Patch for Actively Exploited Critical WSUS Vulnerability](https://thehackernews.com/2025/10/microsoft-issues-emergency-patch-for.html)
+- [Critical WSUS flaw in Windows Server now exploited in attacks](https://www.bleepingcomputer.com/news/security/hackers-now-exploiting-critical-windows-server-wsus-flaw-in-attacks/)
 - [Amazon: This week’s AWS outage caused by major DNS failure](https://www.bleepingcomputer.com/news/technology/amazon-this-weeks-aws-outage-caused-by-major-dns-failure/)
 - [Fake LastPass death claims used to breach password vaults](https://www.bleepingcomputer.com/news/security/fake-lastpass-death-claims-used-to-breach-password-vaults/)
 - [How to reduce costs with self-service password resets](https://www.bleepingcomputer.com/news/security/how-to-reduce-costs-with-self-service-password-resets/)
-- [APT36 Targets Indian Government with Golang-Based DeskRAT Malware Campaign](https://thehackernews.com/2025/10/apt36-targets-indian-government-with.html)
-- [Mozilla: New Firefox extensions must disclose data collection practices](https://www.bleepingcomputer.com/news/software/mozilla-new-firefox-extensions-must-disclose-data-collection-practices/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
