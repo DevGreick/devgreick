@@ -1100,11 +1100,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [The Cybersecurity Perception Gap: Why Executives and Practitioners See Risk Differently](https://thehackernews.com/2025/10/the-cybersecurity-perception-gap-why.html)
+- [3,000 YouTube Videos Exposed as Malware Traps in Massive Ghost Network Operation](https://thehackernews.com/2025/10/3000-youtube-videos-exposed-as-malware.html)
 - [Windows Server emergency patches fix WSUS bug with PoC exploit](https://www.bleepingcomputer.com/news/security/microsoft-releases-windows-server-emergency-updates-for-critical-wsus-rce-flaw/)
 - [Self-Spreading &#39;GlassWorm&#39; Infects VS Code Extensions in Widespread Supply Chain Attack](https://thehackernews.com/2025/10/self-spreading-glassworm-infects-vs.html)
 - [Hackers earn $1,024,750 for 73 zero-days at Pwn2Own Ireland](https://www.bleepingcomputer.com/news/security/hackers-earn-1-024-750-for-73-zero-days-at-pwn2own-ireland/)
-- [Toys “R” Us Canada warns customers&#39; info leaked in data breach](https://www.bleepingcomputer.com/news/security/toys-r-us-canada-warns-customers-info-leaked-in-data-breach/)
-- [HP pulls update that broke Microsoft Entra ID auth on some AI PCs](https://www.bleepingcomputer.com/news/microsoft/hp-pulls-update-that-broke-microsoft-entra-id-auth-on-some-ai-pcs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
