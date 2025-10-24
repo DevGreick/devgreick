@@ -1104,11 +1104,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft Issues Emergency Patch for Actively Exploited Critical WSUS Vulnerability](https://thehackernews.com/2025/10/microsoft-issues-emergency-patch-for.html)
+- [Hackers launch mass attacks exploiting outdated WordPress plugins](https://www.bleepingcomputer.com/news/security/hackers-launch-mass-attacks-exploiting-outdated-wordpress-plugins/)
+- [Smishing Triad Linked to 194,000 Malicious Domains in Global Phishing Operation](https://thehackernews.com/2025/10/smishing-triad-linked-to-194000.html)
+- [Newly Patched Critical Microsoft WSUS Flaw Comes Under Active Exploitation](https://thehackernews.com/2025/10/microsoft-issues-emergency-patch-for.html)
 - [Critical WSUS flaw in Windows Server now exploited in attacks](https://www.bleepingcomputer.com/news/security/hackers-now-exploiting-critical-windows-server-wsus-flaw-in-attacks/)
 - [Amazon: This week’s AWS outage caused by major DNS failure](https://www.bleepingcomputer.com/news/technology/amazon-this-weeks-aws-outage-caused-by-major-dns-failure/)
-- [Fake LastPass death claims used to breach password vaults](https://www.bleepingcomputer.com/news/security/fake-lastpass-death-claims-used-to-breach-password-vaults/)
-- [How to reduce costs with self-service password resets](https://www.bleepingcomputer.com/news/security/how-to-reduce-costs-with-self-service-password-resets/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
