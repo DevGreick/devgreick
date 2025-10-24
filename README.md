@@ -1102,11 +1102,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon: This week’s AWS outage caused by major DNS failure](https://www.bleepingcomputer.com/news/technology/amazon-this-weeks-aws-outage-caused-by-major-dns-failure/)
+- [Fake LastPass death claims used to breach password vaults](https://www.bleepingcomputer.com/news/security/fake-lastpass-death-claims-used-to-breach-password-vaults/)
+- [How to reduce costs with self-service password resets](https://www.bleepingcomputer.com/news/security/how-to-reduce-costs-with-self-service-password-resets/)
+- [APT36 Targets Indian Government with Golang-Based DeskRAT Malware Campaign](https://thehackernews.com/2025/10/apt36-targets-indian-government-with.html)
 - [Mozilla: New Firefox extensions must disclose data collection practices](https://www.bleepingcomputer.com/news/software/mozilla-new-firefox-extensions-must-disclose-data-collection-practices/)
-- [The Cybersecurity Perception Gap: Why Executives and Practitioners See Risk Differently](https://thehackernews.com/2025/10/the-cybersecurity-perception-gap-why.html)
-- [3,000 YouTube Videos Exposed as Malware Traps in Massive Ghost Network Operation](https://thehackernews.com/2025/10/3000-youtube-videos-exposed-as-malware.html)
-- [Windows Server emergency patches fix WSUS bug with PoC exploit](https://www.bleepingcomputer.com/news/security/microsoft-releases-windows-server-emergency-updates-for-critical-wsus-rce-flaw/)
-- [Self-Spreading &#39;GlassWorm&#39; Infects VS Code Extensions in Widespread Supply Chain Attack](https://thehackernews.com/2025/10/self-spreading-glassworm-infects-vs.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
