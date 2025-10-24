@@ -24,9 +24,19 @@
 
   <!-- CVE-LIST:START -->
 <details>
-<summary><strong>Vulnerabilidades exploradas conhecidas da CISA</strong>  •  atualizado 24/10/2025 16:15 UTC  •  exibindo 10 itens</summary>
+<summary><strong>Vulnerabilidades exploradas conhecidas da CISA</strong>  •  atualizado 24/10/2025 18:18 UTC  •  exibindo 10 itens</summary>
 
 > Fonte: CISA Known Exploited Vulnerabilities
+
+- **CVE-2025-54236** - Adobe Commerce and Magento Improper Input Validation Vulnerability  
+  Fornecedor: Adobe | Produto: Commerce and Magento | Adicionado: 2025-10-24  
+  Adobe Commerce and Magento Open Source contain an improper input validation vulnerability that could allow an attacker to take over customer accounts through the Commerce REST API.  
+  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
+
+- **CVE-2025-59287** - Microsoft Windows Server Update Service (WSUS) Deserialization of Untrusted Data Vulnerability  
+  Fornecedor: Microsoft | Produto: Windows | Adicionado: 2025-10-24  
+  Microsoft Windows Server Update Service (WSUS) contains a deserialization of untrusted data vulnerability that allows for remote code execution.  
+  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
 
 - **CVE-2025-61932** - Motex LANSCOPE Endpoint Manager Improper Verification of Source of a Communication Channel Vulnerability  
   Fornecedor: Motex | Produto: LANSCOPE Endpoint Manager | Adicionado: 2025-10-22  
@@ -68,17 +78,8 @@
   IGEL OS contains a use of a key past its expiration date vulnerability that allows for Secure Boot bypass. The igel-flash-driver module improperly verifies a cryptographic signature. Ultimately, a crafted root filesystem can be mounted from an unverified SquashFS image.  
   Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
 
-- **CVE-2025-24990** - Microsoft Windows Untrusted Pointer Dereference Vulnerability  
-  Fornecedor: Microsoft | Produto: Windows | Adicionado: 2025-10-14  
-  Microsoft Windows Agere Modem Driver contains an untrusted pointer dereference vulnerability that allows for privilege escalation. An attacker who successfully exploited this vulnerability could gain administrator privileges.  
-  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
-
-- **CVE-2025-59230** - Microsoft Windows Improper Access Control Vulnerability  
-  Fornecedor: Microsoft | Produto: Windows | Adicionado: 2025-10-14  
-  Microsoft Windows contains an improper access control vulnerability in Windows Remote Access Connection Manager which could allow an authorized attacker to elevate privileges locally.  
-  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
-
 </details>
+
 
 
 
