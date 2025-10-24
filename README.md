@@ -1101,11 +1101,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Mozilla: New Firefox extensions must disclose data collection practices](https://www.bleepingcomputer.com/news/software/mozilla-new-firefox-extensions-must-disclose-data-collection-practices/)
 - [The Cybersecurity Perception Gap: Why Executives and Practitioners See Risk Differently](https://thehackernews.com/2025/10/the-cybersecurity-perception-gap-why.html)
 - [3,000 YouTube Videos Exposed as Malware Traps in Massive Ghost Network Operation](https://thehackernews.com/2025/10/3000-youtube-videos-exposed-as-malware.html)
 - [Windows Server emergency patches fix WSUS bug with PoC exploit](https://www.bleepingcomputer.com/news/security/microsoft-releases-windows-server-emergency-updates-for-critical-wsus-rce-flaw/)
 - [Self-Spreading &#39;GlassWorm&#39; Infects VS Code Extensions in Widespread Supply Chain Attack](https://thehackernews.com/2025/10/self-spreading-glassworm-infects-vs.html)
-- [Hackers earn $1,024,750 for 73 zero-days at Pwn2Own Ireland](https://www.bleepingcomputer.com/news/security/hackers-earn-1-024-750-for-73-zero-days-at-pwn2own-ireland/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
