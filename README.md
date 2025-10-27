@@ -1135,11 +1135,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [ChatGPT Atlas Browser Can Be Tricked by Fake URLs into Executing Hidden Commands](https://thehackernews.com/2025/10/chatgpt-atlas-browser-can-be-tricked-by.html)
+- [Hackers steal Discord accounts with RedTiger-based infostealer](https://www.bleepingcomputer.com/news/security/hackers-steal-discord-accounts-with-redtiger-based-infostealer/)
 - [New CoPhish attack steals OAuth tokens via Copilot Studio agents](https://www.bleepingcomputer.com/news/security/new-cophish-attack-steals-oauth-tokens-via-copilot-studio-agents/)
 - [Hackers launch mass attacks exploiting outdated WordPress plugins](https://www.bleepingcomputer.com/news/security/hackers-launch-mass-attacks-exploiting-outdated-wordpress-plugins/)
 - [Smishing Triad Linked to 194,000 Malicious Domains in Global Phishing Operation](https://thehackernews.com/2025/10/smishing-triad-linked-to-194000.html)
-- [Newly Patched Critical Microsoft WSUS Flaw Comes Under Active Exploitation](https://thehackernews.com/2025/10/microsoft-issues-emergency-patch-for.html)
-- [Critical WSUS flaw in Windows Server now exploited in attacks](https://www.bleepingcomputer.com/news/security/hackers-now-exploiting-critical-windows-server-wsus-flaw-in-attacks/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
