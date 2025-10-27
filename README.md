@@ -1136,11 +1136,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Qilin Ransomware Combines Linux Payload With BYOVD Exploit in Hybrid Attack](https://thehackernews.com/2025/10/qilin-ransomware-combines-linux-payload.html)
 - [ChatGPT Atlas Browser Can Be Tricked by Fake URLs into Executing Hidden Commands](https://thehackernews.com/2025/10/chatgpt-atlas-browser-can-be-tricked-by.html)
 - [Hackers steal Discord accounts with RedTiger-based infostealer](https://www.bleepingcomputer.com/news/security/hackers-steal-discord-accounts-with-redtiger-based-infostealer/)
 - [New CoPhish attack steals OAuth tokens via Copilot Studio agents](https://www.bleepingcomputer.com/news/security/new-cophish-attack-steals-oauth-tokens-via-copilot-studio-agents/)
 - [Hackers launch mass attacks exploiting outdated WordPress plugins](https://www.bleepingcomputer.com/news/security/hackers-launch-mass-attacks-exploiting-outdated-wordpress-plugins/)
-- [Smishing Triad Linked to 194,000 Malicious Domains in Global Phishing Operation](https://thehackernews.com/2025/10/smishing-triad-linked-to-194000.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
