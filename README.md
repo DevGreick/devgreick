@@ -1138,11 +1138,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Google says everyone will be able to vibe code video games](https://www.bleepingcomputer.com/news/google/google-says-everyone-will-be-able-to-vibe-code-video-games/)
+- [Microsoft: New policy removes pre-installed Microsoft Store apps](https://www.bleepingcomputer.com/news/microsoft/microsoft-now-lets-admins-remove-pre-installed-microsoft-store-apps-via-policy/)
+- [New ChatGPT Atlas Browser Exploit Lets Attackers Plant Persistent Hidden Commands](https://thehackernews.com/2025/10/new-chatgpt-atlas-browser-exploit-lets.html)
+- [The State of Exposure Management in 2025: Insights From 3,000+ Organizations](https://www.bleepingcomputer.com/news/security/the-state-of-exposure-management-in-2025-insights-from-3-000-plus-organizations/)
 - [CISA orders feds to patch Windows Server WSUS flaw used in attacks](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-windows-server-wsus-flaw-exploited-in-attacks/)
-- [⚡ Weekly Recap: WSUS Exploited, LockBit 5.0 Returns, Telegram Backdoor, F5 Breach Widens](https://thehackernews.com/2025/10/weekly-recap-wsus-exploited-lockbit-50.html)
-- [Qilin Ransomware Combines Linux Payload With BYOVD Exploit in Hybrid Attack](https://thehackernews.com/2025/10/qilin-ransomware-combines-linux-payload.html)
-- [ChatGPT Atlas Browser Can Be Tricked by Fake URLs into Executing Hidden Commands](https://thehackernews.com/2025/10/chatgpt-atlas-browser-can-be-tricked-by.html)
-- [Hackers steal Discord accounts with RedTiger-based infostealer](https://www.bleepingcomputer.com/news/security/hackers-steal-discord-accounts-with-redtiger-based-infostealer/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
