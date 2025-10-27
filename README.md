@@ -1137,11 +1137,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [CISA orders feds to patch Windows Server WSUS flaw used in attacks](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-windows-server-wsus-flaw-exploited-in-attacks/)
+- [⚡ Weekly Recap: WSUS Exploited, LockBit 5.0 Returns, Telegram Backdoor, F5 Breach Widens](https://thehackernews.com/2025/10/weekly-recap-wsus-exploited-lockbit-50.html)
 - [Qilin Ransomware Combines Linux Payload With BYOVD Exploit in Hybrid Attack](https://thehackernews.com/2025/10/qilin-ransomware-combines-linux-payload.html)
 - [ChatGPT Atlas Browser Can Be Tricked by Fake URLs into Executing Hidden Commands](https://thehackernews.com/2025/10/chatgpt-atlas-browser-can-be-tricked-by.html)
 - [Hackers steal Discord accounts with RedTiger-based infostealer](https://www.bleepingcomputer.com/news/security/hackers-steal-discord-accounts-with-redtiger-based-infostealer/)
-- [New CoPhish attack steals OAuth tokens via Copilot Studio agents](https://www.bleepingcomputer.com/news/security/new-cophish-attack-steals-oauth-tokens-via-copilot-studio-agents/)
-- [Hackers launch mass attacks exploiting outdated WordPress plugins](https://www.bleepingcomputer.com/news/security/hackers-launch-mass-attacks-exploiting-outdated-wordpress-plugins/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
