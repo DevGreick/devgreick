@@ -24,9 +24,19 @@
 
   <!-- CVE-LIST:START -->
 <details>
-<summary><strong>Vulnerabilidades exploradas conhecidas da CISA</strong>  •  atualizado 28/10/2025 16:16 UTC  •  exibindo 10 itens</summary>
+<summary><strong>Vulnerabilidades exploradas conhecidas da CISA</strong>  •  atualizado 28/10/2025 18:19 UTC  •  exibindo 10 itens</summary>
 
 > Fonte: CISA Known Exploited Vulnerabilities
+
+- **CVE-2025-6204** - Dassault Systèmes DELMIA Apriso Code Injection Vulnerability  
+  Fornecedor: Dassault Systèmes | Produto: DELMIA Apriso | Adicionado: 2025-10-28  
+  Dassault Systèmes DELMIA Apriso contains a code injection vulnerability that could allow an attacker to execute arbitrary code.  
+  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
+
+- **CVE-2025-6205** - Dassault Systèmes DELMIA Apriso Missing Authorization Vulnerability  
+  Fornecedor: Dassault Systèmes | Produto: DELMIA Apriso | Adicionado: 2025-10-28  
+  Dassault Systèmes DELMIA Apriso contains a missing authorization vulnerability that could allow an attacker to gain privileged access to the application.  
+  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
 
 - **CVE-2025-54236** - Adobe Commerce and Magento Improper Input Validation Vulnerability  
   Fornecedor: Adobe | Produto: Commerce and Magento | Adicionado: 2025-10-24  
@@ -68,17 +78,8 @@
   Oracle E-Business Suite contains a server-side request forgery (SSRF) vulnerability in the Runtime component of Oracle Configurator. This vulnerability is remotely exploitable without authentication.  
   Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
 
-- **CVE-2025-54253** - Adobe Experience Manager Forms Code Execution Vulnerability  
-  Fornecedor: Adobe | Produto: Experience Manager (AEM) Forms | Adicionado: 2025-10-15  
-  Adobe Experience Manager Forms in JEE contains an unspecified vulnerability that allows for arbitrary code execution.  
-  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
-
-- **CVE-2025-47827** - IGEL OS Use of a Key Past its Expiration Date Vulnerability  
-  Fornecedor: IGEL | Produto: IGEL OS | Adicionado: 2025-10-14  
-  IGEL OS contains a use of a key past its expiration date vulnerability that allows for Secure Boot bypass. The igel-flash-driver module improperly verifies a cryptographic signature. Ultimately, a crafted root filesystem can be mounted from an unverified SquashFS image.  
-  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
-
 </details>
+
 
 
 
