@@ -1147,11 +1147,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Chrome Zero-Day Exploited to Deliver Italian Memento Labs&#39; LeetAgent Spyware](https://thehackernews.com/2025/10/chrome-zero-day-exploited-to-deliver.html)
 - [SideWinder Adopts New ClickOnce-Based Attack Chain Targeting South Asian Diplomats](https://thehackernews.com/2025/10/sidewinder-adopts-new-clickonce-based.html)
 - [Google disputes false claims of massive Gmail data breach](https://www.bleepingcomputer.com/news/security/google-disputes-false-claims-of-massive-gmail-data-breach/)
 - [X: Re-enroll 2FA security keys by November 10 or get locked out](https://www.bleepingcomputer.com/news/security/x-re-enroll-2fa-security-keys-by-november-10-or-get-locked-out/)
 - [Ransomware profits drop as victims stop paying hackers](https://www.bleepingcomputer.com/news/security/ransomware-profits-drop-as-victims-stop-paying-hackers/)
-- [Windows will soon prompt for memory scans after BSOD crashes](https://www.bleepingcomputer.com/news/microsoft/windows-will-soon-prompt-for-memory-scans-after-bsod-crashes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
