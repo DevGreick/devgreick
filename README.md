@@ -1153,11 +1153,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Advertising giant Dentsu reports data breach at subsidiary Merkle](https://www.bleepingcomputer.com/news/security/advertising-giant-dentsu-reports-data-breach-at-subsidiary-merkle/)
 - [New TEE.Fail Side-Channel Attack Extracts Secrets from Intel and AMD DDR5 Secure Enclaves](https://thehackernews.com/2025/10/new-teefail-side-channel-attack.html)
 - [Qilin ransomware abuses WSL to run Linux encryptors in Windows](https://www.bleepingcomputer.com/news/security/qilin-ransomware-abuses-wsl-to-run-linux-encryptors-in-windows/)
 - [CISA warns of two more actively exploited Dassault vulnerabilities](https://www.bleepingcomputer.com/news/security/cisa-warns-of-two-more-actively-exploited-dassault-vulnerabilities/)
 - [Microsoft: Copilot now lets you build apps, automate workflows](https://www.bleepingcomputer.com/news/microsoft/microsoft-copilot-now-lets-you-build-apps-automate-workflows/)
-- [Microsoft sued for allegedly tricking millions into Copilot M365 subscriptions](https://www.bleepingcomputer.com/news/microsoft/microsoft-sued-for-allegedly-tricking-millions-into-copilot-m365-subscriptions/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
