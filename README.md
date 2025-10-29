@@ -1159,11 +1159,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [10 npm Packages Caught Stealing Developer Credentials on Windows, macOS, and Linux](https://thehackernews.com/2025/10/10-npm-packages-caught-stealing.html)
+- [Active Exploits Hit Dassault and XWiki — CISA Confirms Critical Flaws Under Attack](https://thehackernews.com/2025/10/active-exploits-hit-dassault-and-xwiki.html)
 - [Windows 11 KB5067036 update rolls out Administrator Protection feature](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5067036-update-rolls-out-administrator-protection-feature/)
 - [Python rejects $1.5M grant from U.S. govt. fearing ethical compromise](https://www.bleepingcomputer.com/news/software/python-rejects-15m-grant-from-us-govt-fearing-ethical-compromise/)
 - [Advertising giant Dentsu reports data breach at subsidiary Merkle](https://www.bleepingcomputer.com/news/security/advertising-giant-dentsu-reports-data-breach-at-subsidiary-merkle/)
-- [New TEE.Fail Side-Channel Attack Extracts Secrets from Intel and AMD DDR5 Secure Enclaves](https://thehackernews.com/2025/10/new-teefail-side-channel-attack.html)
-- [Qilin ransomware abuses WSL to run Linux encryptors in Windows](https://www.bleepingcomputer.com/news/security/qilin-ransomware-abuses-wsl-to-run-linux-encryptors-in-windows/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
