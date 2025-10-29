@@ -1163,11 +1163,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft fixes Media Creation Tool broken on some Windows PCs](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-media-creation-tool-broken-on-some-windows-pcs/)
+- [Microsoft: DNS outage impacts Azure and Microsoft 365 services](https://www.bleepingcomputer.com/news/microsoft/microsoft-dns-outage-impacts-azure-and-microsoft-365-services/)
+- [PhantomRaven attack floods npm with credential-stealing packages](https://www.bleepingcomputer.com/news/security/phantomraven-attack-floods-npm-with-credential-stealing-packages/)
 - [Experts Reports Sharp Increase in Automated Botnet Attacks Targeting PHP Servers and IoT Devices](https://thehackernews.com/2025/10/experts-reports-sharp-increase-in.html)
 - [New AI-Targeted Cloaking Attack Tricks AI Crawlers Into Citing Fake Info as Verified Facts](https://thehackernews.com/2025/10/new-ai-targeted-cloaking-attack-tricks.html)
-- [Microsoft fixes 0x800F081F errors causing Windows update failures](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-0x800f081f-errors-causing-windows-update-failures/)
-- [Visibility Gaps: Streamlining Patching and Vulnerability Remediation](https://www.bleepingcomputer.com/news/security/visibility-gaps-streamlining-patching-and-vulnerability-remediation/)
-- [Discover Practical AI Tactics for GRC — Join the Free Expert Webinar](https://thehackernews.com/2025/10/discover-practical-ai-tactics-for-grc.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
