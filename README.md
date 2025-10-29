@@ -1160,11 +1160,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Discover Practical AI Tactics for GRC — Join the Free Expert Webinar](https://thehackernews.com/2025/10/discover-practical-ai-tactics-for-grc.html)
+- [Preparing for the Digital Battlefield of 2026: Ghost Identities, Poisoned Accounts, &amp; AI Agent Havoc](https://thehackernews.com/2025/10/preparing-for-digital-battlefield-of.html)
+- [Russian Hackers Target Ukrainian Organizations Using Stealthy Living-Off-the-Land Tactics](https://thehackernews.com/2025/10/russian-hackers-target-ukrainian.html)
 - [10 npm Packages Caught Stealing Developer Credentials on Windows, macOS, and Linux](https://thehackernews.com/2025/10/10-npm-packages-caught-stealing.html)
 - [Active Exploits Hit Dassault and XWiki — CISA Confirms Critical Flaws Under Attack](https://thehackernews.com/2025/10/active-exploits-hit-dassault-and-xwiki.html)
-- [Windows 11 KB5067036 update rolls out Administrator Protection feature](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5067036-update-rolls-out-administrator-protection-feature/)
-- [Python rejects $1.5M grant from U.S. govt. fearing ethical compromise](https://www.bleepingcomputer.com/news/software/python-rejects-15m-grant-from-us-govt-fearing-ethical-compromise/)
-- [Advertising giant Dentsu reports data breach at subsidiary Merkle](https://www.bleepingcomputer.com/news/security/advertising-giant-dentsu-reports-data-breach-at-subsidiary-merkle/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
