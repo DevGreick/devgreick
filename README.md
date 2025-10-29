@@ -1164,11 +1164,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Canada says hacktivists breached water and energy facilities](https://www.bleepingcomputer.com/news/security/canada-says-hacktivists-breached-water-and-energy-facilities/)
 - [Microsoft fixes Media Creation Tool broken on some Windows PCs](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-media-creation-tool-broken-on-some-windows-pcs/)
 - [Microsoft: DNS outage impacts Azure and Microsoft 365 services](https://www.bleepingcomputer.com/news/microsoft/microsoft-dns-outage-impacts-azure-and-microsoft-365-services/)
 - [PhantomRaven attack floods npm with credential-stealing packages](https://www.bleepingcomputer.com/news/security/phantomraven-attack-floods-npm-with-credential-stealing-packages/)
 - [Experts Reports Sharp Increase in Automated Botnet Attacks Targeting PHP Servers and IoT Devices](https://thehackernews.com/2025/10/experts-reports-sharp-increase-in.html)
-- [New AI-Targeted Cloaking Attack Tricks AI Crawlers Into Citing Fake Info as Verified Facts](https://thehackernews.com/2025/10/new-ai-targeted-cloaking-attack-tricks.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
