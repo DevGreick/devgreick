@@ -1175,11 +1175,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [WhatsApp adds passwordless chat backups on iOS and Android](https://www.bleepingcomputer.com/news/security/whatsapp-adds-passwordless-chat-backups-on-ios-and-android/)
+- [Google&#39;s Built-In AI Defenses on Android Now Block 10 Billion Scam Messages a Month](https://thehackernews.com/2025/10/googles-built-in-ai-defenses-on-android.html)
+- [Ex-L3Harris exec guilty of selling cyber exploits to Russian broker](https://www.bleepingcomputer.com/news/security/ex-l3harris-exec-guilty-of-selling-cyber-exploits-to-russian-broker/)
+- [Russian Ransomware Gangs Weaponize Open-Source AdaptixC2 for Advanced Attacks](https://thehackernews.com/2025/10/russian-ransomware-gangs-weaponize-open.html)
 - [CISA and NSA share tips on securing Microsoft Exchange servers](https://www.bleepingcomputer.com/news/security/cisa-and-nsa-share-tips-on-securing-microsoft-exchange-servers/)
-- [New &quot;Brash&quot; Exploit Crashes Chromium Browsers Instantly with a Single Malicious URL](https://thehackernews.com/2025/10/new-brash-exploit-crashes-chromium.html)
-- [Rethinking identity security in the age of autonomous AI agents](https://www.bleepingcomputer.com/news/security/rethinking-identity-security-in-the-age-of-autonomous-ai-agents/)
-- [LinkedIn phishing targets finance execs with fake board invites](https://www.bleepingcomputer.com/news/security/linkedin-phishing-targets-finance-execs-with-fake-board-invites/)
-- [The Death of the Security Checkbox: BAS Is the Power Behind Real Defense](https://thehackernews.com/2025/10/the-death-of-security-checkbox-bas-is.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
