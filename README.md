@@ -1172,11 +1172,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft promises more Copilot features in Microsoft 365 companion apps](https://www.bleepingcomputer.com/news/microsoft/microsoft-promises-more-copilot-features-in-microsoft-365-companion-apps/)
+- [ThreatsDay Bulletin: DNS Poisoning Flaw, Supply-Chain Heist, Rust Malware Trick and New RATs Rising](https://thehackernews.com/2025/10/threatsday-bulletin-dns-poisoning-flaw.html)
+- [PhantomRaven Malware Found in 126 npm Packages Stealing GitHub Tokens From Devs](https://thehackernews.com/2025/10/phantomraven-malware-found-in-126-npm.html)
 - [Malicious NPM packages fetch infostealer for Windows, Linux, macOS](https://www.bleepingcomputer.com/news/security/malicious-npm-packages-fetch-infostealer-for-windows-linux-macos/)
 - [WordPress security plugin exposes private data to site subscribers](https://www.bleepingcomputer.com/news/security/wordpress-security-plugin-exposes-private-data-to-site-subscribers/)
-- [Canada says hacktivists breached water and energy facilities](https://www.bleepingcomputer.com/news/security/canada-says-hacktivists-breached-water-and-energy-facilities/)
-- [Microsoft fixes Media Creation Tool broken on some Windows PCs](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-media-creation-tool-broken-on-some-windows-pcs/)
-- [Microsoft: DNS outage impacts Azure and Microsoft 365 services](https://www.bleepingcomputer.com/news/microsoft/microsoft-dns-outage-impacts-azure-and-microsoft-365-services/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
