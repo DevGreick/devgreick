@@ -1188,11 +1188,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [‘We got hacked’ emails threaten to leak University of Pennsylvania data](https://www.bleepingcomputer.com/news/security/offensive-we-got-hacked-emails-sent-in-penn-security-incident/)
+- [OpenAI Unveils Aardvark: GPT-5 Agent That Finds and Fixes Code Flaws Automatically](https://thehackernews.com/2025/10/openai-unveils-aardvark-gpt-5-agent.html)
 - [Microsoft Edge gets scareware sensor for faster scam detection](https://www.bleepingcomputer.com/news/microsoft/microsoft-edge-gets-scareware-sensor-for-faster-scam-detection/)
 - [Nation-State Hackers Deploy New Airstalk Malware in Suspected Supply Chain Attack](https://thehackernews.com/2025/10/nation-state-hackers-deploy-new.html)
 - [Australia warns of BadCandy infections on unpatched Cisco devices](https://www.bleepingcomputer.com/news/security/australia-warns-of-badcandy-infections-on-unpatched-cisco-devices/)
-- [Why password controls still matter in cybersecurity](https://www.bleepingcomputer.com/news/security/why-password-controls-still-matter-in-cybersecurity/)
-- [China-Linked Hackers Exploit Windows Shortcut Flaw to Target European Diplomats](https://thehackernews.com/2025/10/china-linked-hackers-exploit-windows.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
