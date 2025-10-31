@@ -1183,11 +1183,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Ukrainian extradited from Ireland on Conti ransomware charges](https://www.bleepingcomputer.com/news/security/ukrainian-extradited-from-ireland-on-conti-ransomware-charges/)
+- [CISA and NSA Issue Urgent Guidance to Secure WSUS and Microsoft Exchange Servers](https://thehackernews.com/2025/10/cisa-and-nsa-issue-urgent-guidance-to.html)
+- [Eclipse Foundation Revokes Leaked Open VSX Tokens Following Wiz Discovery](https://thehackernews.com/2025/10/eclipse-foundation-revokes-leaked-open.html)
 - [CISA Flags VMware Zero-Day Exploited by China-Linked Hackers in Active Attacks](https://thehackernews.com/2025/10/cisa-flags-vmware-zero-day-exploited-by.html)
 - [A New Security Layer for macOS Takes Aim at Admin Errors Before Hackers Do](https://thehackernews.com/2025/10/a-new-security-layer-for-macos-takes.html)
-- [OpenAI confirms GPT-5 is now better at handling mental and emotional distress](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-gpt-5-is-now-better-at-handling-mental-and-emotional-distress/)
-- [Massive surge of NFC relay malware steals Europeans’ credit cards](https://www.bleepingcomputer.com/news/security/massive-surge-of-nfc-relay-malware-steals-europeans-credit-cards/)
-- [CISA orders feds to patch VMware Tools flaw exploited by Chinese hackers](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-vmware-tools-flaw-exploited-since-october-2024/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
