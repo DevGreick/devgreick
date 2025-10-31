@@ -1185,11 +1185,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
-- [Google says Search AI Mode will know everything about you](https://www.bleepingcomputer.com/news/google/google-says-search-ai-mode-will-know-everything-about-you/)
-- [The MSP Cybersecurity Readiness Guide: Turning Security into Growth](https://thehackernews.com/2025/10/the-msp-cybersecurity-readiness-guide.html)
-- [Windows zero-day actively exploited to spy on European diplomats](https://www.bleepingcomputer.com/news/security/chinese-hackers-exploit-windows-zero-day-to-spy-on-european-diplomats/)
-- [Ukrainian extradited from Ireland on Conti ransomware charges](https://www.bleepingcomputer.com/news/security/ukrainian-extradited-from-ireland-on-conti-ransomware-charges/)
-- [CISA and NSA Issue Urgent Guidance to Secure WSUS and Microsoft Exchange Servers](https://thehackernews.com/2025/10/cisa-and-nsa-issue-urgent-guidance-to.html)
+- [Why password controls still matter in cybersecurity](https://www.bleepingcomputer.com/news/security/why-password-controls-still-matter-in-cybersecurity/)
+- [China-Linked Hackers Exploit Windows Shortcut Flaw to Target European Diplomats](https://thehackernews.com/2025/10/china-linked-hackers-exploit-windows.html)
+- [Alleged Meduza Stealer malware admins arrested after hacking Russian org](https://www.bleepingcomputer.com/news/security/alleged-meduza-stealer-malware-admins-arrested-after-hacking-russian-org/)
+- [China-Linked Tick Group Exploits Lanscope Zero-Day to Hijack Corporate Systems](https://thehackernews.com/2025/10/china-linked-tick-group-exploits.html)
+- [CISA: High-severity Linux flaw now exploited by ransomware gangs](https://www.bleepingcomputer.com/news/security/cisa-linux-privilege-escalation-flaw-now-exploited-in-ransomware-attacks/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
