@@ -1186,11 +1186,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Australia warns of BadCandy infections on unpatched Cisco devices](https://www.bleepingcomputer.com/news/security/australia-warns-of-badcandy-infections-on-unpatched-cisco-devices/)
 - [Why password controls still matter in cybersecurity](https://www.bleepingcomputer.com/news/security/why-password-controls-still-matter-in-cybersecurity/)
 - [China-Linked Hackers Exploit Windows Shortcut Flaw to Target European Diplomats](https://thehackernews.com/2025/10/china-linked-hackers-exploit-windows.html)
 - [Alleged Meduza Stealer malware admins arrested after hacking Russian org](https://www.bleepingcomputer.com/news/security/alleged-meduza-stealer-malware-admins-arrested-after-hacking-russian-org/)
 - [China-Linked Tick Group Exploits Lanscope Zero-Day to Hijack Corporate Systems](https://thehackernews.com/2025/10/china-linked-tick-group-exploits.html)
-- [CISA: High-severity Linux flaw now exploited by ransomware gangs](https://www.bleepingcomputer.com/news/security/cisa-linux-privilege-escalation-flaw-now-exploited-in-ransomware-attacks/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
