@@ -1184,11 +1184,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Google says Search AI Mode will know everything about you](https://www.bleepingcomputer.com/news/google/google-says-search-ai-mode-will-know-everything-about-you/)
+- [The MSP Cybersecurity Readiness Guide: Turning Security into Growth](https://thehackernews.com/2025/10/the-msp-cybersecurity-readiness-guide.html)
+- [Windows zero-day actively exploited to spy on European diplomats](https://www.bleepingcomputer.com/news/security/chinese-hackers-exploit-windows-zero-day-to-spy-on-european-diplomats/)
 - [Ukrainian extradited from Ireland on Conti ransomware charges](https://www.bleepingcomputer.com/news/security/ukrainian-extradited-from-ireland-on-conti-ransomware-charges/)
 - [CISA and NSA Issue Urgent Guidance to Secure WSUS and Microsoft Exchange Servers](https://thehackernews.com/2025/10/cisa-and-nsa-issue-urgent-guidance-to.html)
-- [Eclipse Foundation Revokes Leaked Open VSX Tokens Following Wiz Discovery](https://thehackernews.com/2025/10/eclipse-foundation-revokes-leaked-open.html)
-- [CISA Flags VMware Zero-Day Exploited by China-Linked Hackers in Active Attacks](https://thehackernews.com/2025/10/cisa-flags-vmware-zero-day-exploited-by.html)
-- [A New Security Layer for macOS Takes Aim at Admin Errors Before Hackers Do](https://thehackernews.com/2025/10/a-new-security-layer-for-macos-takes.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
