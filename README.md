@@ -1198,11 +1198,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [China-linked hackers exploited Lanscope flaw as a zero-day in attacks](https://www.bleepingcomputer.com/news/security/china-linked-hackers-exploited-lanscope-flaw-as-a-zero-day-in-attacks/)
+- [ASD Warns of Ongoing BADCANDY Attacks Exploiting Cisco IOS XE Vulnerability](https://thehackernews.com/2025/11/asd-warns-of-ongoing-badcandy-attacks.html)
 - [Windows 11 tests shared Bluetooth audio support, but only for AI PCs](https://www.bleepingcomputer.com/news/microsoft/windows-11-tests-shared-bluetooth-audio-support-but-only-for-ai-pcs/)
 - [‘We got hacked’ emails threaten to leak University of Pennsylvania data](https://www.bleepingcomputer.com/news/security/offensive-we-got-hacked-emails-sent-in-penn-security-incident/)
 - [OpenAI Unveils Aardvark: GPT-5 Agent That Finds and Fixes Code Flaws Automatically](https://thehackernews.com/2025/10/openai-unveils-aardvark-gpt-5-agent.html)
-- [Microsoft Edge gets scareware sensor for faster scam detection](https://www.bleepingcomputer.com/news/microsoft/microsoft-edge-gets-scareware-sensor-for-faster-scam-detection/)
-- [Nation-State Hackers Deploy New Airstalk Malware in Suspected Supply Chain Attack](https://thehackernews.com/2025/10/nation-state-hackers-deploy-new.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
