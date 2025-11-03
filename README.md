@@ -1221,11 +1221,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [⚡ Weekly Recap: Lazarus Hits Web3, Intel/AMD TEEs Cracked, Dark Web Leak Tool &amp; More](https://thehackernews.com/2025/11/weekly-recap-lazarus-hits-web3-intelamd.html)
+- [The Evolution of SOC Operations: How Continuous Exposure Management Transforms Security Operations](https://thehackernews.com/2025/11/the-evolution-of-soc-operations-how.html)
 - [Researchers Uncover BankBot-YNRK and DeliveryRAT Android Trojans Stealing Financial Data](https://thehackernews.com/2025/11/researchers-uncover-bankbot-ynrk-and.html)
 - [New HttpTroy Backdoor Poses as VPN Invoice in Targeted Cyberattack on South Korea](https://thehackernews.com/2025/11/new-httptroy-backdoor-poses-as-vpn.html)
 - [Microsoft: Windows Task Manager won’t quit after KB5067036 update](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-task-manager-wont-quit-after-kb5067036-update/)
-- [Penn hacker claims to have stolen 1.2 million donor records in data breach](https://www.bleepingcomputer.com/news/security/university-of-pennsylvania-hacker-claims-1.2-million-donor-data-breach/)
-- [Open VSX rotates access tokens used in supply-chain malware attack](https://www.bleepingcomputer.com/news/security/open-vsx-rotates-tokens-used-in-supply-chain-malware-attack/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
