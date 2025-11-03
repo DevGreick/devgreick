@@ -1223,11 +1223,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [US cybersecurity experts indicted for BlackCat ransomware attacks](https://www.bleepingcomputer.com/news/security/us-cybersecurity-experts-indicted-for-blackcat-ransomware-attacks/)
+- [Hackers use RMM tools to breach freighters and steal cargo shipments](https://www.bleepingcomputer.com/news/security/hackers-use-rmm-tools-to-breach-freighters-and-steal-cargo-shipments/)
 - [Microsoft: Patch for WSUS flaw disabled Windows Server hotpatching](https://www.bleepingcomputer.com/news/microsoft/microsoft-patch-for-wsus-flaw-disabled-windows-server-hotpatching/)
 - [OAuth Device Code Phishing: Azure vs. Google Compared](https://www.bleepingcomputer.com/news/security/oauth-device-code-phishing-azure-vs-google-compared/)
 - [Cybercriminals Exploit Remote Monitoring Tools to Infiltrate Logistics and Freight Networks](https://thehackernews.com/2025/11/cybercriminals-exploit-remote.html)
-- [⚡ Weekly Recap: Lazarus Hits Web3, Intel/AMD TEEs Cracked, Dark Web Leak Tool &amp; More](https://thehackernews.com/2025/11/weekly-recap-lazarus-hits-web3-intelamd.html)
-- [The Evolution of SOC Operations: How Continuous Exposure Management Transforms Security Operations](https://thehackernews.com/2025/11/the-evolution-of-soc-operations-how.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
