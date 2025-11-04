@@ -24,9 +24,19 @@
 
   <!-- CVE-LIST:START -->
 <details>
-<summary><strong>Vulnerabilidades exploradas conhecidas da CISA</strong>  •  atualizado 04/11/2025 16:16 UTC  •  exibindo 10 itens</summary>
+<summary><strong>Vulnerabilidades exploradas conhecidas da CISA</strong>  •  atualizado 04/11/2025 18:18 UTC  •  exibindo 10 itens</summary>
 
 > Fonte: CISA Known Exploited Vulnerabilities
+
+- **CVE-2025-48703** - CWP Control Web Panel OS Command Injection Vulnerability  
+  Fornecedor: CWP | Produto: Control Web Panel | Adicionado: 2025-11-04  
+  CWP Control Web Panel (formerly CentOS Web Panel) contains an OS command Injection vulnerability that allows unauthenticated remote code execution via shell metacharacters in the t_total parameter in a filemanager changePerm request. A valid non-root username must be known.  
+  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
+
+- **CVE-2025-11371** - Gladinet CentreStack and Triofox Files or Directories Accessible to External Parties Vulnerability  
+  Fornecedor: Gladinet | Produto: CentreStack and Triofox | Adicionado: 2025-11-04  
+  Gladinet CentreStack and Triofox contains a files or directories accessible to external parties vulnerability that allows unintended disclosure of system files.  
+  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
 
 - **CVE-2025-41244** - Broadcom VMware Aria Operations and VMware Tools Privilege Defined with Unsafe Actions Vulnerability  
   Fornecedor: Broadcom | Produto: VMware Aria Operations and VMware Tools | Adicionado: 2025-10-30  
@@ -68,17 +78,8 @@
   Apple macOS, iOS, tvOS, Safari, and watchOS contain an unspecified vulnerability in JavaScriptCore that when processing web content may lead to arbitrary code execution. The impacted product could be end-of-life (EoL) and/or end-of-service (EoS). Users should discontinue product utilization.  
   Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
 
-- **CVE-2025-2746** - Kentico Xperience CMS Authentication Bypass Using an Alternate Path or Channel Vulnerability  
-  Fornecedor: Kentico | Produto: Xperience CMS | Adicionado: 2025-10-20  
-  Kentico Xperience CMS contains an authentication bypass using an alternate path or channel vulnerability that could allow an attacker to control administrative objects.  
-  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
-
-- **CVE-2025-2747** - Kentico Xperience CMS Authentication Bypass Using an Alternate Path or Channel Vulnerability  
-  Fornecedor: Kentico | Produto: Xperience CMS | Adicionado: 2025-10-20  
-  Kentico Xperience CMS contains an authentication bypass using an alternate path or channel vulnerability that could allow an attacker to control administrative objects.  
-  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
-
 </details>
+
 
 
 
