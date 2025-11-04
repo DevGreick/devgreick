@@ -1230,11 +1230,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft Detects &quot;SesameOp&quot; Backdoor Using OpenAI&#39;s API as a Stealth Command Channel](https://thehackernews.com/2025/11/microsoft-detects-sesameop-backdoor.html)
 - [Hacker steals over $120 million from Balancer DeFi crypto protocol](https://www.bleepingcomputer.com/news/cryptocurrency/hacker-steals-over-120-million-from-balancer-defi-crypto-protocol/)
 - [Fake Solidity VSCode extension on Open VSX backdoors developers](https://www.bleepingcomputer.com/news/security/fake-solidity-vscode-extension-on-open-vsx-backdoors-developers/)
 - [Microsoft: SesameOp malware abuses OpenAI Assistants API in attacks](https://www.bleepingcomputer.com/news/security/microsoft-sesameop-malware-abuses-openai-assistants-api-in-attacks/)
 - [Malicious VSX Extension &quot;SleepyDuck&quot; Uses Ethereum to Keep Its Command Server Alive](https://thehackernews.com/2025/11/malicious-vsx-extension-sleepyduck-uses.html)
-- [US cybersecurity experts indicted for BlackCat ransomware attacks](https://www.bleepingcomputer.com/news/security/us-cybersecurity-experts-indicted-for-blackcat-ransomware-attacks/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
