@@ -1237,11 +1237,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Hackers exploit WordPress plugin Post SMTP to hijack admin accounts](https://www.bleepingcomputer.com/news/security/hackers-exploit-wordpress-plugin-post-smtp-to-hijack-admin-accounts/)
+- [Apache OpenOffice disputes data breach claims by ransomware gang](https://www.bleepingcomputer.com/news/security/apache-openoffice-disputes-data-breach-claims-by-ransomware-gang/)
+- [Malicious Android apps on Google Play downloaded 42 million times](https://www.bleepingcomputer.com/news/security/malicious-android-apps-on-google-play-downloaded-42-million-times/)
 - [Microsoft removing Defender Application Guard from Office](https://www.bleepingcomputer.com/news/microsoft/microsoft-removing-defender-application-guard-from-office/)
 - [A Cybercrime Merger Like No Other — Scattered Spider, LAPSUS$, and ShinyHunters Join Forces](https://thehackernews.com/2025/11/a-cybercrime-merger-like-no-other.html)
-- [Data breach at major Swedish software supplier impacts 1.5 million](https://www.bleepingcomputer.com/news/security/data-breach-at-major-swedish-software-supplier-impacts-15-million/)
-- [Media giant Nikkei reports data breach impacting 17,000 people](https://www.bleepingcomputer.com/news/security/media-giant-nikkei-reports-data-breach-impacting-17-000-people/)
-- [Europol and Eurojust Dismantle €600 Million Crypto Fraud Network in Global Sweep](https://thehackernews.com/2025/11/europol-and-eurojust-dismantle-600.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
