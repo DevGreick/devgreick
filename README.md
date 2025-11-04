@@ -1234,11 +1234,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Police arrests suspects linked to €600 million crypto fraud ring](https://www.bleepingcomputer.com/news/security/european-police-dismantles-600-million-crypto-investment-fraud-ring/)
+- [The Top 3 Browser Sandbox Threats That Slip Past Modern Security Tools](https://www.bleepingcomputer.com/news/security/the-top-3-browser-sandbox-threats-that-slip-past-modern-security-tools/)
+- [Critical React Native CLI Flaw Exposed Millions of Developers to Remote Attacks](https://thehackernews.com/2025/11/critical-react-native-cli-flaw-exposed.html)
+- [Microsoft Teams Bugs Let Attackers Impersonate Colleagues and Edit Messages Unnoticed](https://thehackernews.com/2025/11/microsoft-teams-bugs-let-attackers.html)
 - [Russian hackers abuse Hyper-V to hide malware in Linux VMs](https://www.bleepingcomputer.com/news/security/russian-hackers-abuse-hyper-v-to-hide-malware-in-linux-vms/)
-- [Windows 10 update bug triggers incorrect end-of-support alerts](https://www.bleepingcomputer.com/news/microsoft/windows-10-update-bug-triggers-incorrect-end-of-support-alerts/)
-- [Ransomware Defense Using the Wazuh Open Source Platform](https://thehackernews.com/2025/11/ransomware-defense-using-wazuh-open.html)
-- [Operation SkyCloak Deploys Tor-Enabled OpenSSH Backdoor Targeting Defense Sectors](https://thehackernews.com/2025/11/operation-skycloak-deploys-tor-enabled.html)
-- [Google’s AI ‘Big Sleep’ Finds 5 New Vulnerabilities in Apple’s Safari WebKit](https://thehackernews.com/2025/11/googles-ai-big-sleep-finds-5-new.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
