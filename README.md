@@ -1236,11 +1236,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft removing Defender Application Guard from Office](https://www.bleepingcomputer.com/news/microsoft/microsoft-removing-defender-application-guard-from-office/)
+- [A Cybercrime Merger Like No Other — Scattered Spider, LAPSUS$, and ShinyHunters Join Forces](https://thehackernews.com/2025/11/a-cybercrime-merger-like-no-other.html)
 - [Data breach at major Swedish software supplier impacts 1.5 million](https://www.bleepingcomputer.com/news/security/data-breach-at-major-swedish-software-supplier-impacts-15-million/)
 - [Media giant Nikkei reports data breach impacting 17,000 people](https://www.bleepingcomputer.com/news/security/media-giant-nikkei-reports-data-breach-impacting-17-000-people/)
 - [Europol and Eurojust Dismantle €600 Million Crypto Fraud Network in Global Sweep](https://thehackernews.com/2025/11/europol-and-eurojust-dismantle-600.html)
-- [Police arrests suspects linked to €600 million crypto fraud ring](https://www.bleepingcomputer.com/news/security/european-police-dismantles-600-million-crypto-investment-fraud-ring/)
-- [The Top 3 Browser Sandbox Threats That Slip Past Modern Security Tools](https://www.bleepingcomputer.com/news/security/the-top-3-browser-sandbox-threats-that-slip-past-modern-security-tools/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
