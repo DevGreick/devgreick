@@ -1235,11 +1235,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Data breach at major Swedish software supplier impacts 1.5 million](https://www.bleepingcomputer.com/news/security/data-breach-at-major-swedish-software-supplier-impacts-15-million/)
+- [Media giant Nikkei reports data breach impacting 17,000 people](https://www.bleepingcomputer.com/news/security/media-giant-nikkei-reports-data-breach-impacting-17-000-people/)
+- [Europol and Eurojust Dismantle €600 Million Crypto Fraud Network in Global Sweep](https://thehackernews.com/2025/11/europol-and-eurojust-dismantle-600.html)
 - [Police arrests suspects linked to €600 million crypto fraud ring](https://www.bleepingcomputer.com/news/security/european-police-dismantles-600-million-crypto-investment-fraud-ring/)
 - [The Top 3 Browser Sandbox Threats That Slip Past Modern Security Tools](https://www.bleepingcomputer.com/news/security/the-top-3-browser-sandbox-threats-that-slip-past-modern-security-tools/)
-- [Critical React Native CLI Flaw Exposed Millions of Developers to Remote Attacks](https://thehackernews.com/2025/11/critical-react-native-cli-flaw-exposed.html)
-- [Microsoft Teams Bugs Let Attackers Impersonate Colleagues and Edit Messages Unnoticed](https://thehackernews.com/2025/11/microsoft-teams-bugs-let-attackers.html)
-- [Russian hackers abuse Hyper-V to hide malware in Linux VMs](https://www.bleepingcomputer.com/news/security/russian-hackers-abuse-hyper-v-to-hide-malware-in-linux-vms/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
