@@ -1232,11 +1232,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Ransomware Defense Using the Wazuh Open Source Platform](https://thehackernews.com/2025/11/ransomware-defense-using-wazuh-open.html)
+- [Operation SkyCloak Deploys Tor-Enabled OpenSSH Backdoor Targeting Defense Sectors](https://thehackernews.com/2025/11/operation-skycloak-deploys-tor-enabled.html)
 - [Google’s AI ‘Big Sleep’ Finds 5 New Vulnerabilities in Apple’s Safari WebKit](https://thehackernews.com/2025/11/googles-ai-big-sleep-finds-5-new.html)
 - [Hackers exploit critical auth bypass flaw in JobMonster WordPress theme](https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-auth-bypass-flaw-in-jobmonster-wordpress-theme/)
 - [U.S. Prosecutors Indict Cybersecurity Insiders Accused of BlackCat Ransomware Attacks](https://thehackernews.com/2025/11/us-prosecutors-indict-cybersecurity.html)
-- [Microsoft Detects &quot;SesameOp&quot; Backdoor Using OpenAI&#39;s API as a Stealth Command Channel](https://thehackernews.com/2025/11/microsoft-detects-sesameop-backdoor.html)
-- [Hacker steals over $120 million from Balancer DeFi crypto protocol](https://www.bleepingcomputer.com/news/cryptocurrency/hacker-steals-over-120-million-from-balancer-defi-crypto-protocol/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
