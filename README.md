@@ -1244,11 +1244,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft: October Windows updates trigger BitLocker recovery](https://www.bleepingcomputer.com/news/microsoft/microsoft-october-windows-updates-trigger-bitlocker-recovery/)
-- [CISA Adds Gladinet and CWP Flaws to KEV Catalog Amid Active Exploitation Evidence](https://thehackernews.com/2025/11/cisa-adds-gladinet-and-cwp-flaws-to-kev.html)
-- [Hackers exploit WordPress plugin Post SMTP to hijack admin accounts](https://www.bleepingcomputer.com/news/security/hackers-exploit-wordpress-plugin-post-smtp-to-hijack-admin-accounts/)
-- [Apache OpenOffice disputes data breach claims by ransomware gang](https://www.bleepingcomputer.com/news/security/apache-openoffice-disputes-data-breach-claims-by-ransomware-gang/)
-- [Malicious Android apps on Google Play downloaded 42 million times](https://www.bleepingcomputer.com/news/security/malicious-android-apps-on-google-play-downloaded-42-million-times/)
+- [Securing the Open Android Ecosystem with Samsung Knox](https://thehackernews.com/2025/11/securing-open-android-ecosystem-with.html)
+- [Mysterious &#39;SmudgedSerpent&#39; Hackers Target U.S. Policy Experts Amid Iran–Israel Tensions](https://thehackernews.com/2025/11/mysterious-smudgedserpent-hackers.html)
+- [U.S. Sanctions 10 North Korean Entities for Laundering $12.7M in Crypto and IT Fraud](https://thehackernews.com/2025/11/us-sanctions-10-north-korean-entities.html)
+- [US sanctions North Korean bankers linked to cybercrime, IT worker fraud](https://www.bleepingcomputer.com/news/security/us-treasury-sanctions-north-korean-bankers-linked-to-cybercrime-it-worker-fraud/)
+- [Why SOC Burnout Can Be Avoided: Practical Steps](https://thehackernews.com/2025/11/why-soc-burnout-can-be-avoided.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
