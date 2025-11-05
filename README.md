@@ -1245,11 +1245,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Police busts credit card fraud rings with 4.3 million victims](https://www.bleepingcomputer.com/news/security/europol-credit-card-fraud-rings-stole-eur-300-million-from-43-million-cardholders/)
 - [Securing the Open Android Ecosystem with Samsung Knox](https://thehackernews.com/2025/11/securing-open-android-ecosystem-with.html)
 - [Mysterious &#39;SmudgedSerpent&#39; Hackers Target U.S. Policy Experts Amid Iran–Israel Tensions](https://thehackernews.com/2025/11/mysterious-smudgedserpent-hackers.html)
 - [U.S. Sanctions 10 North Korean Entities for Laundering $12.7M in Crypto and IT Fraud](https://thehackernews.com/2025/11/us-sanctions-10-north-korean-entities.html)
 - [US sanctions North Korean bankers linked to cybercrime, IT worker fraud](https://www.bleepingcomputer.com/news/security/us-treasury-sanctions-north-korean-bankers-linked-to-cybercrime-it-worker-fraud/)
-- [Why SOC Burnout Can Be Avoided: Practical Steps](https://thehackernews.com/2025/11/why-soc-burnout-can-be-avoided.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
