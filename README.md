@@ -1247,11 +1247,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Windows 11 Store gets Ninite-style multi-app installer feature](https://www.bleepingcomputer.com/news/microsoft/windows-11-store-gets-ninite-style-multi-app-installer-feature/)
+- [SonicWall says state-sponsored hackers behind September security breach](https://www.bleepingcomputer.com/news/security/sonicwall-says-state-sponsored-hackers-behind-security-breach-in-september/)
+- [UK carriers to block spoofed phone numbers in fraud crackdown](https://www.bleepingcomputer.com/news/security/uk-carriers-to-block-spoofed-phone-numbers-in-fraud-crackdown/)
 - [University of Pennsylvania confirms data stolen in cyberattack](https://www.bleepingcomputer.com/news/security/university-of-pennsylvania-confirms-data-stolen-in-cyberattack/)
 - [Google Uncovers PROMPTFLUX Malware That Uses Gemini AI to Rewrite Its Code Hourly](https://thehackernews.com/2025/11/google-uncovers-promptflux-malware-that.html)
-- [Cyber theory vs practice: Are you navigating with faulty instruments?](https://www.bleepingcomputer.com/news/security/cyber-theory-vs-practice-are-you-navigating-with-faulty-instruments/)
-- [Google warns of new AI-powered malware families deployed in the wild](https://www.bleepingcomputer.com/news/security/google-warns-of-new-ai-powered-malware-families-deployed-in-the-wild/)
-- [Researchers Find ChatGPT Vulnerabilities That Let Attackers Trick AI Into Leaking Data](https://thehackernews.com/2025/11/researchers-find-chatgpt.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
