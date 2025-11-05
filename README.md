@@ -1243,11 +1243,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft: October Windows updates trigger BitLocker recovery](https://www.bleepingcomputer.com/news/microsoft/microsoft-october-windows-updates-trigger-bitlocker-recovery/)
 - [CISA Adds Gladinet and CWP Flaws to KEV Catalog Amid Active Exploitation Evidence](https://thehackernews.com/2025/11/cisa-adds-gladinet-and-cwp-flaws-to-kev.html)
 - [Hackers exploit WordPress plugin Post SMTP to hijack admin accounts](https://www.bleepingcomputer.com/news/security/hackers-exploit-wordpress-plugin-post-smtp-to-hijack-admin-accounts/)
 - [Apache OpenOffice disputes data breach claims by ransomware gang](https://www.bleepingcomputer.com/news/security/apache-openoffice-disputes-data-breach-claims-by-ransomware-gang/)
 - [Malicious Android apps on Google Play downloaded 42 million times](https://www.bleepingcomputer.com/news/security/malicious-android-apps-on-google-play-downloaded-42-million-times/)
-- [Microsoft removing Defender Application Guard from Office](https://www.bleepingcomputer.com/news/microsoft/microsoft-removing-defender-application-guard-from-office/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
