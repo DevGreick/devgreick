@@ -1246,11 +1246,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
-- [Police busts credit card fraud rings with 4.3 million victims](https://www.bleepingcomputer.com/news/security/europol-credit-card-fraud-rings-stole-eur-300-million-from-43-million-cardholders/)
-- [Securing the Open Android Ecosystem with Samsung Knox](https://thehackernews.com/2025/11/securing-open-android-ecosystem-with.html)
-- [Mysterious &#39;SmudgedSerpent&#39; Hackers Target U.S. Policy Experts Amid Iran–Israel Tensions](https://thehackernews.com/2025/11/mysterious-smudgedserpent-hackers.html)
-- [U.S. Sanctions 10 North Korean Entities for Laundering $12.7M in Crypto and IT Fraud](https://thehackernews.com/2025/11/us-sanctions-10-north-korean-entities.html)
-- [US sanctions North Korean bankers linked to cybercrime, IT worker fraud](https://www.bleepingcomputer.com/news/security/us-treasury-sanctions-north-korean-bankers-linked-to-cybercrime-it-worker-fraud/)
+- [University of Pennsylvania confirms data stolen in cyberattack](https://www.bleepingcomputer.com/news/security/university-of-pennsylvania-confirms-data-stolen-in-cyberattack/)
+- [Google Uncovers PROMPTFLUX Malware That Uses Gemini AI to Rewrite Its Code Hourly](https://thehackernews.com/2025/11/google-uncovers-promptflux-malware-that.html)
+- [Cyber theory vs practice: Are you navigating with faulty instruments?](https://www.bleepingcomputer.com/news/security/cyber-theory-vs-practice-are-you-navigating-with-faulty-instruments/)
+- [Google warns of new AI-powered malware families deployed in the wild](https://www.bleepingcomputer.com/news/security/google-warns-of-new-ai-powered-malware-families-deployed-in-the-wild/)
+- [Researchers Find ChatGPT Vulnerabilities That Let Attackers Trick AI Into Leaking Data](https://thehackernews.com/2025/11/researchers-find-chatgpt.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
