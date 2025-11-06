@@ -1260,11 +1260,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [How a ransomware gang encrypted Nevada government&#39;s systems](https://www.bleepingcomputer.com/news/security/how-a-ransomware-gang-encrypted-nevada-governments-systems/)
 - [Trojanized ESET Installers Drop Kalambur Backdoor in Phishing Attacks on Ukraine](https://thehackernews.com/2025/11/trojanized-eset-installers-drop.html)
 - [Continuous Purple Teaming: Turning Red-Blue Rivalry into Real Defense](https://www.bleepingcomputer.com/news/security/continuous-purple-teaming-turning-red-blue-rivalry-into-real-defense/)
 - [Cisco Warns of New Firewall Attack Exploiting CVE-2025-20333 and CVE-2025-20362](https://thehackernews.com/2025/11/cisco-warns-of-new-firewall-attack.html)
 - [ClickFix malware attacks evolve with multi-OS support, video tutorials](https://www.bleepingcomputer.com/news/security/clickfix-malware-attacks-evolve-with-multi-os-support-video-tutorials/)
-- [Critical Cisco UCCX flaw lets attackers run commands as root](https://www.bleepingcomputer.com/news/security/critical-cisco-uccx-flaw-lets-hackers-run-commands-as-root/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
