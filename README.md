@@ -1253,11 +1253,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [SonicWall Confirms State-Sponsored Hackers Behind September Cloud Backup Breach](https://thehackernews.com/2025/11/sonicwall-confirms-state-sponsored.html)
 - [Gootloader malware is back with new tricks after 7-month break](https://www.bleepingcomputer.com/news/security/gootloader-malware-is-back-with-new-tricks-after-7-month-break/)
 - [Hyundai AutoEver America data breach exposes SSNs, drivers licenses](https://www.bleepingcomputer.com/news/security/hyundai-autoever-america-data-breach-exposes-ssns-drivers-licenses/)
 - [CISA warns of critical CentOS Web Panel bug exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-centos-web-panel-bug-exploited-in-attacks/)
 - [Windows 11 Store gets Ninite-style multi-app installer feature](https://www.bleepingcomputer.com/news/microsoft/windows-11-store-gets-ninite-style-multi-app-installer-feature/)
-- [SonicWall says state-sponsored hackers behind September security breach](https://www.bleepingcomputer.com/news/security/sonicwall-says-state-sponsored-hackers-behind-security-breach-in-september/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
