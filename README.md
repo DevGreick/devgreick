@@ -1256,11 +1256,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Bitdefender Named a Representative Vendor in the 2025 Gartner® Market Guide for Managed Detection and Response](https://thehackernews.com/2025/11/bitdefender-named-representative-vendor.html)
 - [Sandworm hackers use data wipers to disrupt Ukraine&#39;s grain sector](https://www.bleepingcomputer.com/news/security/sandworm-hackers-use-data-wipers-to-disrupt-ukraines-grain-sector/)
 - [Hackers Weaponize Windows Hyper-V to Hide Linux VM and Evade EDR Detection](https://thehackernews.com/2025/11/hackers-weaponize-windows-hyper-v-to.html)
 - [SonicWall Confirms State-Sponsored Hackers Behind September Cloud Backup Breach](https://thehackernews.com/2025/11/sonicwall-confirms-state-sponsored.html)
 - [Gootloader malware is back with new tricks after 7-month break](https://www.bleepingcomputer.com/news/security/gootloader-malware-is-back-with-new-tricks-after-7-month-break/)
-- [Hyundai AutoEver America data breach exposes SSNs, drivers licenses](https://www.bleepingcomputer.com/news/security/hyundai-autoever-america-data-breach-exposes-ssns-drivers-licenses/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
