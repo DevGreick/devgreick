@@ -1258,11 +1258,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Trojanized ESET Installers Drop Kalambur Backdoor in Phishing Attacks on Ukraine](https://thehackernews.com/2025/11/trojanized-eset-installers-drop.html)
+- [Continuous Purple Teaming: Turning Red-Blue Rivalry into Real Defense](https://www.bleepingcomputer.com/news/security/continuous-purple-teaming-turning-red-blue-rivalry-into-real-defense/)
+- [Cisco Warns of New Firewall Attack Exploiting CVE-2025-20333 and CVE-2025-20362](https://thehackernews.com/2025/11/cisco-warns-of-new-firewall-attack.html)
+- [ClickFix malware attacks evolve with multi-OS support, video tutorials](https://www.bleepingcomputer.com/news/security/clickfix-malware-attacks-evolve-with-multi-os-support-video-tutorials/)
 - [Critical Cisco UCCX flaw lets attackers run commands as root](https://www.bleepingcomputer.com/news/security/critical-cisco-uccx-flaw-lets-hackers-run-commands-as-root/)
-- [From Tabletop to Turnkey: Building Cyber Resilience in Financial Services](https://thehackernews.com/2025/11/from-tabletop-to-turnkey-building-cyber.html)
-- [ThreatsDay Bulletin: AI Tools in Malware, Botnets, GDI Flaws, Election Attacks &amp; More](https://thehackernews.com/2025/11/threatsday-bulletin-ai-tools-in-malware.html)
-- [Bitdefender Named a Representative Vendor in the 2025 Gartner® Market Guide for Managed Detection and Response](https://thehackernews.com/2025/11/bitdefender-named-representative-vendor.html)
-- [Sandworm hackers use data wipers to disrupt Ukraine&#39;s grain sector](https://www.bleepingcomputer.com/news/security/sandworm-hackers-use-data-wipers-to-disrupt-ukraines-grain-sector/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
