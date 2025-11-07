@@ -1269,11 +1269,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Leak confirms Google Gemini 3 Pro and Nano Banana 2 could launch soon](https://www.bleepingcomputer.com/news/artificial-intelligence/leak-confirms-google-gemini-3-pro-and-nano-banana-2-could-launch-soon/)
+- [Hidden Logic Bombs in Malware-Laced NuGet Packages Set to Detonate Years After Installation](https://thehackernews.com/2025/11/hidden-logic-bombs-in-malware-laced.html)
 - [Enterprise Credentials at Risk – Same Old, Same Old?](https://thehackernews.com/2025/11/enterprise-credentials-at-risk-same-old.html)
 - [Google Launches New Maps Feature to Help Businesses Report Review-Based Extortion Attempts](https://thehackernews.com/2025/11/google-launches-new-maps-feature-to.html)
 - [Vibe-Coded Malicious VS Code Extension Found with Built-In Ransomware Capabilities](https://thehackernews.com/2025/11/vibe-coded-malicious-vs-code-extension.html)
-- [U.S. Congressional Budget Office hit by suspected foreign cyberattack](https://www.bleepingcomputer.com/news/security/us-congressional-budget-office-hit-by-suspected-foreign-cyberattack/)
-- [AI-Slop ransomware test sneaks on to VS Code marketplace](https://www.bleepingcomputer.com/news/security/ai-slop-ransomware-test-sneaks-on-to-vs-code-marketplace/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
