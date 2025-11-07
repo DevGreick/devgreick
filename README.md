@@ -1271,11 +1271,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Samsung Zero-Click Flaw Exploited to Deploy LANDFALL Android Spyware via WhatsApp](https://thehackernews.com/2025/11/samsung-zero-click-flaw-exploited-to.html)
+- [From Log4j to IIS, China’s Hackers Turn Legacy Bugs into Global Espionage Tools](https://thehackernews.com/2025/11/from-log4j-to-iis-chinas-hackers-turn.html)
 - [Cisco: Actively exploited firewall flaws now abused for DoS attacks](https://www.bleepingcomputer.com/news/security/cisco-actively-exploited-firewall-flaws-now-abused-for-dos-attacks/)
 - [ID verification laws are fueling the next wave of breaches](https://www.bleepingcomputer.com/news/security/id-verification-laws-are-fueling-the-next-wave-of-breaches/)
 - [Leak confirms Google Gemini 3 Pro and Nano Banana 2 could launch soon](https://www.bleepingcomputer.com/news/artificial-intelligence/leak-confirms-google-gemini-3-pro-and-nano-banana-2-could-launch-soon/)
-- [Hidden Logic Bombs in Malware-Laced NuGet Packages Set to Detonate Years After Installation](https://thehackernews.com/2025/11/hidden-logic-bombs-in-malware-laced.html)
-- [Enterprise Credentials at Risk – Same Old, Same Old?](https://thehackernews.com/2025/11/enterprise-credentials-at-risk-same-old.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
