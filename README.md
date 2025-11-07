@@ -1266,11 +1266,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Vibe-Coded Malicious VS Code Extension Found with Built-In Ransomware Capabilities](https://thehackernews.com/2025/11/vibe-coded-malicious-vs-code-extension.html)
 - [U.S. Congressional Budget Office hit by suspected foreign cyberattack](https://www.bleepingcomputer.com/news/security/us-congressional-budget-office-hit-by-suspected-foreign-cyberattack/)
 - [AI-Slop ransomware test sneaks on to VS Code marketplace](https://www.bleepingcomputer.com/news/security/ai-slop-ransomware-test-sneaks-on-to-vs-code-marketplace/)
 - [How a ransomware gang encrypted Nevada government&#39;s systems](https://www.bleepingcomputer.com/news/security/how-a-ransomware-gang-encrypted-nevada-governments-systems/)
 - [Trojanized ESET Installers Drop Kalambur Backdoor in Phishing Attacks on Ukraine](https://thehackernews.com/2025/11/trojanized-eset-installers-drop.html)
-- [Continuous Purple Teaming: Turning Red-Blue Rivalry into Real Defense](https://www.bleepingcomputer.com/news/security/continuous-purple-teaming-turning-red-blue-rivalry-into-real-defense/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
