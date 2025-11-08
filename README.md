@@ -1281,7 +1281,7 @@
 - [Microsoft testing faster Quick Machine Recovery in Windows 11](https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-faster-quick-machine-recovery-in-windows-11/)
 - [QNAP fixes seven NAS zero-day flaws exploited at Pwn2Own](https://www.bleepingcomputer.com/news/security/qnap-fixes-seven-nas-zero-day-vulnerabilities-exploited-at-pwn2own/)
 - [New LandFall spyware exploited Samsung zero-day via WhatsApp messages](https://www.bleepingcomputer.com/news/security/new-landfall-spyware-exploited-samsung-zero-day-via-whatsapp-messages/)
-- [Samsung Zero-Click Flaw Exploited to Deploy LANDFALL Android Spyware via WhatsApp](https://thehackernews.com/2025/11/samsung-zero-click-flaw-exploited-to.html)
+- [Samsung Mobile Flaw Exploited as Zero-Day to Deploy LANDFALL Android Spyware](https://thehackernews.com/2025/11/samsung-zero-click-flaw-exploited-to.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
