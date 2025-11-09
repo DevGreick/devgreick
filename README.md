@@ -1286,11 +1286,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI plans to release GPT-5.1, GPT-5.1 Reasoning, and GPT-5.1 Pro](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-plans-to-release-gpt-51-gpt-51-reasoning-and-gpt-51-pro/)
+- [GlassWorm malware returns on OpenVSX with 3 new VSCode extensions](https://www.bleepingcomputer.com/news/security/glassworm-malware-returns-on-openvsx-with-3-new-vscode-extensions/)
+- [Still on Windows 10? Enroll in free ESU before next week’s Patch Tuesday](https://www.bleepingcomputer.com/news/microsoft/still-on-windows-10-enroll-in-free-extended-security-updates/)
 - [Microsoft Uncovers &#39;Whisper Leak&#39; Attack That Identifies AI Chat Topics in Encrypted Traffic](https://thehackernews.com/2025/11/microsoft-uncovers-whisper-leak-attack.html)
 - [Malicious NuGet packages drop disruptive &#39;time bombs&#39;](https://www.bleepingcomputer.com/news/security/malicious-nuget-packages-drop-disruptive-time-bombs/)
-- [Microsoft testing faster Quick Machine Recovery in Windows 11](https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-faster-quick-machine-recovery-in-windows-11/)
-- [QNAP fixes seven NAS zero-day flaws exploited at Pwn2Own](https://www.bleepingcomputer.com/news/security/qnap-fixes-seven-nas-zero-day-vulnerabilities-exploited-at-pwn2own/)
-- [New LandFall spyware exploited Samsung zero-day via WhatsApp messages](https://www.bleepingcomputer.com/news/security/new-landfall-spyware-exploited-samsung-zero-day-via-whatsapp-messages/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
