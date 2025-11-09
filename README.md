@@ -1294,11 +1294,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [NAKIVO Introduces v11.1 with Upgraded Disaster Recovery and MSP Features](https://www.bleepingcomputer.com/news/security/nakivo-introduces-v111-with-upgraded-disaster-recovery-and-msp-features/)
+- [Lost iPhone? Don’t fall for phishing texts saying it was found](https://www.bleepingcomputer.com/news/security/lost-iphone-dont-fall-for-phishing-texts-saying-it-was-found/)
+- [Dangerous runC flaws could allow hackers to escape Docker containers](https://www.bleepingcomputer.com/news/security/dangerous-runc-flaws-could-allow-hackers-to-escape-docker-containers/)
 - [OpenAI plans to release GPT-5.1, GPT-5.1 Reasoning, and GPT-5.1 Pro](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-plans-to-release-gpt-51-gpt-51-reasoning-and-gpt-51-pro/)
 - [GlassWorm malware returns on OpenVSX with 3 new VSCode extensions](https://www.bleepingcomputer.com/news/security/glassworm-malware-returns-on-openvsx-with-3-new-vscode-extensions/)
-- [Still on Windows 10? Enroll in free ESU before next week’s Patch Tuesday](https://www.bleepingcomputer.com/news/microsoft/still-on-windows-10-enroll-in-free-extended-security-updates/)
-- [Microsoft Uncovers &#39;Whisper Leak&#39; Attack That Identifies AI Chat Topics in Encrypted Traffic](https://thehackernews.com/2025/11/microsoft-uncovers-whisper-leak-attack.html)
-- [Malicious NuGet packages drop disruptive &#39;time bombs&#39;](https://www.bleepingcomputer.com/news/security/malicious-nuget-packages-drop-disruptive-time-bombs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
