@@ -1306,11 +1306,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [5 reasons why attackers are phishing over LinkedIn](https://www.bleepingcomputer.com/news/security/5-reasons-why-attackers-are-phishing-over-linkedin/)
 - [⚡ Weekly Recap: Hyper-V Malware, Malicious AI Bots, RDP Exploits, WhatsApp Lockdown and More](https://thehackernews.com/2025/11/weekly-recap-hyper-v-malware-malicious.html)
 - [New Browser Security Report Reveals Emerging Threats for Enterprises](https://thehackernews.com/2025/11/new-browser-security-report-reveals.html)
 - [Large-Scale ClickFix Phishing Attacks Target Hotel Systems with PureRAT Malware](https://thehackernews.com/2025/11/large-scale-clickfix-phishing-attacks.html)
 - [GlassWorm Malware Discovered in Three VS Code Extensions with Thousands of Installs](https://thehackernews.com/2025/11/glassworm-malware-discovered-in-three.html)
-- [How to use the new Windows 11 Start menu, now rolling out](https://www.bleepingcomputer.com/news/microsoft/how-to-use-the-new-windows-11-start-menu-now-rolling-out/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
