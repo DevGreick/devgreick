@@ -1308,11 +1308,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [CISA orders feds to patch Samsung zero-day used in spyware attacks](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-samsung-zero-day-used-in-spyware-attacks/)
+- [Yanluowang initial access broker to plead guilty to ransomware attacks](https://www.bleepingcomputer.com/news/security/yanluowang-initial-access-broker-to-plead-guilty-to-ransomware-attacks/)
+- [Popular JavaScript library expr-eval vulnerable to RCE flaw](https://www.bleepingcomputer.com/news/security/popular-javascript-library-expr-eval-vulnerable-to-rce-flaw/)
 - [5 reasons why attackers are phishing over LinkedIn](https://www.bleepingcomputer.com/news/security/5-reasons-why-attackers-are-phishing-over-linkedin/)
 - [⚡ Weekly Recap: Hyper-V Malware, Malicious AI Bots, RDP Exploits, WhatsApp Lockdown and More](https://thehackernews.com/2025/11/weekly-recap-hyper-v-malware-malicious.html)
-- [New Browser Security Report Reveals Emerging Threats for Enterprises](https://thehackernews.com/2025/11/new-browser-security-report-reveals.html)
-- [Large-Scale ClickFix Phishing Attacks Target Hotel Systems with PureRAT Malware](https://thehackernews.com/2025/11/large-scale-clickfix-phishing-attacks.html)
-- [GlassWorm Malware Discovered in Three VS Code Extensions with Thousands of Installs](https://thehackernews.com/2025/11/glassworm-malware-discovered-in-three.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
