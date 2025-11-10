@@ -1305,11 +1305,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [⚡ Weekly Recap: Hyper-V Malware, Malicious AI Bots, RDP Exploits, WhatsApp Lockdown and More](https://thehackernews.com/2025/11/weekly-recap-hyper-v-malware-malicious.html)
+- [New Browser Security Report Reveals Emerging Threats for Enterprises](https://thehackernews.com/2025/11/new-browser-security-report-reveals.html)
 - [Large-Scale ClickFix Phishing Attacks Target Hotel Systems with PureRAT Malware](https://thehackernews.com/2025/11/large-scale-clickfix-phishing-attacks.html)
 - [GlassWorm Malware Discovered in Three VS Code Extensions with Thousands of Installs](https://thehackernews.com/2025/11/glassworm-malware-discovered-in-three.html)
 - [How to use the new Windows 11 Start menu, now rolling out](https://www.bleepingcomputer.com/news/microsoft/how-to-use-the-new-windows-11-start-menu-now-rolling-out/)
-- [NAKIVO Introduces v11.1 with Upgraded Disaster Recovery and MSP Features](https://www.bleepingcomputer.com/news/security/nakivo-introduces-v111-with-upgraded-disaster-recovery-and-msp-features/)
-- [Lost iPhone? Don’t fall for phishing texts saying it was found](https://www.bleepingcomputer.com/news/security/lost-iphone-dont-fall-for-phishing-texts-saying-it-was-found/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
