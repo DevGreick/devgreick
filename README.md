@@ -1318,11 +1318,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
-- [CISO&#39;s Expert Guide To AI Supply Chain Attacks](https://thehackernews.com/2025/11/cisos-expert-guide-to-ai-supply-chain.html)
-- [Researchers Detect Malicious npm Package Targeting GitHub-Owned Repositories](https://thehackernews.com/2025/11/researchers-detect-malicious-npm.html)
-- [Android Trojan &#39;Fantasy Hub&#39; Malware Service Turns Telegram Into a Hub for Hackers](https://thehackernews.com/2025/11/android-trojan-fantasy-hub-malware.html)
-- [APT37 hackers abuse Google Find Hub in Android data-wiping attacks](https://www.bleepingcomputer.com/news/security/apt37-hackers-abuse-google-find-hub-in-android-data-wiping-attacks/)
-- [Mozilla Firefox gets new anti-fingerprinting defenses](https://www.bleepingcomputer.com/news/security/mozilla-firefox-gets-new-anti-fingerprinting-defenses/)
+- [GootLoader Is Back, Using a New Font Trick to Hide Malware on WordPress Sites](https://thehackernews.com/2025/11/gootloader-is-back-using-new-font-trick.html)
+- [SAP fixes hardcoded credentials flaw in SQL Anywhere Monitor](https://www.bleepingcomputer.com/news/security/sap-fixes-hardcoded-credentials-flaw-in-sql-anywhere-monitor/)
+- [GlobalLogic warns 10,000 employees of data theft after Oracle breach](https://www.bleepingcomputer.com/news/security/globallogic-warns-10-000-employees-of-data-theft-after-oracle-breach/)
+- [How a CPU spike led to uncovering a RansomHub ransomware attack](https://www.bleepingcomputer.com/news/security/how-a-cpu-spike-led-to-uncovering-a-ransomhub-ransomware-attack/)
+- [Webinar: Modern Patch Management – Strategies to patch faster with less risk](https://www.bleepingcomputer.com/news/security/webinar-modern-patch-management-strategies-to-patch-faster-with-less-risk/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
