@@ -1316,11 +1316,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [CISO&#39;s Expert Guide To AI Supply Chain Attacks](https://thehackernews.com/2025/11/cisos-expert-guide-to-ai-supply-chain.html)
+- [Researchers Detect Malicious npm Package Targeting GitHub-Owned Repositories](https://thehackernews.com/2025/11/researchers-detect-malicious-npm.html)
+- [Android Trojan &#39;Fantasy Hub&#39; Malware Service Turns Telegram Into a Hub for Hackers](https://thehackernews.com/2025/11/android-trojan-fantasy-hub-malware.html)
 - [APT37 hackers abuse Google Find Hub in Android data-wiping attacks](https://www.bleepingcomputer.com/news/security/apt37-hackers-abuse-google-find-hub-in-android-data-wiping-attacks/)
 - [Mozilla Firefox gets new anti-fingerprinting defenses](https://www.bleepingcomputer.com/news/security/mozilla-firefox-gets-new-anti-fingerprinting-defenses/)
-- [Quantum Route Redirect PhaaS targets Microsoft 365 users worldwide](https://www.bleepingcomputer.com/news/security/quantum-route-redirect-phaas-targets-microsoft-365-users-worldwide/)
-- [Hackers Exploiting Triofox Flaw to Install Remote Access Tools via Antivirus Feature](https://thehackernews.com/2025/11/hackers-exploiting-triofox-flaw-to.html)
-- [Konni Hackers Turn Google’s Find Hub into a Remote Data-Wiping Weapon](https://thehackernews.com/2025/11/konni-hackers-turn-googles-find-hub.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
