@@ -1320,11 +1320,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
-- [“Bitcoin Queen” gets 11 years in prison for $7.3 billion Bitcoin scam](https://www.bleepingcomputer.com/news/security/bitcoin-queen-gets-11-years-in-prison-for-73-billion-bitcoin-scam/)
-- [GootLoader Is Back, Using a New Font Trick to Hide Malware on WordPress Sites](https://thehackernews.com/2025/11/gootloader-is-back-using-new-font-trick.html)
-- [SAP fixes hardcoded credentials flaw in SQL Anywhere Monitor](https://www.bleepingcomputer.com/news/security/sap-fixes-hardcoded-credentials-flaw-in-sql-anywhere-monitor/)
-- [GlobalLogic warns 10,000 employees of data theft after Oracle breach](https://www.bleepingcomputer.com/news/security/globallogic-warns-10-000-employees-of-data-theft-after-oracle-breach/)
-- [How a CPU spike led to uncovering a RansomHub ransomware attack](https://www.bleepingcomputer.com/news/security/how-a-cpu-spike-led-to-uncovering-a-ransomhub-ransomware-attack/)
+- [Hackers abuse Triofox antivirus feature to deploy remote access tools](https://www.bleepingcomputer.com/news/security/hackers-abuse-triofox-antivirus-feature-to-deploy-remote-access-tools/)
+- [Microsoft: Windows 11 23H2 Home and Pro reach end of support](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-23h2-home-and-pro-reach-end-of-support/)
+- [Microsoft releases KB5068781 — The first Windows 10 extended security update](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-kb5068781-the-first-windows-10-extended-security-update/)
+- [Microsoft November 2025 Patch Tuesday fixes 1 zero-day, 63 flaws](https://www.bleepingcomputer.com/news/microsoft/microsoft-november-2025-patch-tuesday-fixes-1-zero-day-63-flaws/)
+- [WhatsApp Malware &#39;Maverick&#39; Hijacks Browser Sessions to Target Brazil&#39;s Biggest Banks](https://thehackernews.com/2025/11/whatsapp-malware-maverick-hijacks.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
