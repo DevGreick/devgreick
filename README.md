@@ -1328,11 +1328,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [[Webinar] Learn How Leading Security Teams Reduce Attack Surface Exposure with DASR](https://thehackernews.com/2025/11/webinar-learn-how-leading-security.html)
+- [Active Directory Under Siege: Why Critical Infrastructure Needs Stronger Security](https://thehackernews.com/2025/11/active-directory-under-siege-why.html)
+- [Microsoft fixes Windows Task Manager bug affecting performance](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-task-manager-bug-affecting-performance/)
+- [Microsoft Fixes 63 Security Flaws, Including a Windows Kernel Zero-Day Under Active Attack](https://thehackernews.com/2025/11/microsoft-fixes-63-security-flaws.html)
 - [Google Launches &#39;Private AI Compute&#39; — Secure AI Processing with On-Device-Level Privacy](https://thehackernews.com/2025/11/google-launches-private-ai-compute.html)
-- [Rhadamanthys infostealer disrupted as cybercriminals lose server access](https://www.bleepingcomputer.com/news/security/rhadamanthys-infostealer-disrupted-as-cybercriminals-lose-server-access/)
-- [Synology fixes BeeStation zero-days demoed at Pwn2Own Ireland](https://www.bleepingcomputer.com/news/security/synology-fixes-beestation-zero-days-demoed-at-pwn2own-ireland/)
-- [Hackers abuse Triofox antivirus feature to deploy remote access tools](https://www.bleepingcomputer.com/news/security/hackers-abuse-triofox-antivirus-feature-to-deploy-remote-access-tools/)
-- [Microsoft: Windows 11 23H2 Home and Pro reach end of support](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-23h2-home-and-pro-reach-end-of-support/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
