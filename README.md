@@ -24,9 +24,24 @@
 
   <!-- CVE-LIST:START -->
 <details>
-<summary><strong>Vulnerabilidades exploradas conhecidas da CISA</strong>  •  atualizado 12/11/2025 14:13 UTC  •  exibindo 10 itens</summary>
+<summary><strong>Vulnerabilidades exploradas conhecidas da CISA</strong>  •  atualizado 12/11/2025 16:17 UTC  •  exibindo 10 itens</summary>
 
 > Fonte: CISA Known Exploited Vulnerabilities
+
+- **CVE-2025-12480** - Gladinet Triofox Improper Access Control Vulnerability  
+  Fornecedor: Gladinet | Produto: Triofox | Adicionado: 2025-11-12  
+  Gladinet Triofox contains an improper access control vulnerability that allows access to initial setup pages even after setup is complete.  
+  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
+
+- **CVE-2025-62215** - Microsoft Windows Race Condition Vulnerability  
+  Fornecedor: Microsoft | Produto: Windows | Adicionado: 2025-11-12  
+  Microsoft Windows Kernel contains a race condition vulnerability that allows a local attacker with low-level privileges to escalate privileges. Successful exploitation of this vulnerability could enable the attacker to gain SYSTEM-level access.  
+  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
+
+- **CVE-2025-9242** - WatchGuard Firebox Out-of-Bounds Write Vulnerability  
+  Fornecedor: WatchGuard | Produto: Firebox | Adicionado: 2025-11-12  
+  WatchGuard Firebox contains an out-of-bounds write vulnerability in the OS iked process that may allow a remote unauthenticated attacker to execute arbitrary code.  
+  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
 
 - **CVE-2025-21042** - Samsung Mobile Devices Out-of-Bounds Write Vulnerability  
   Fornecedor: Samsung | Produto: Mobile Devices | Adicionado: 2025-11-10  
@@ -63,22 +78,8 @@
   Dassault Systèmes DELMIA Apriso contains a missing authorization vulnerability that could allow an attacker to gain privileged access to the application.  
   Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
 
-- **CVE-2025-54236** - Adobe Commerce and Magento Improper Input Validation Vulnerability  
-  Fornecedor: Adobe | Produto: Commerce and Magento | Adicionado: 2025-10-24  
-  Adobe Commerce and Magento Open Source contain an improper input validation vulnerability that could allow an attacker to take over customer accounts through the Commerce REST API.  
-  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
-
-- **CVE-2025-59287** - Microsoft Windows Server Update Service (WSUS) Deserialization of Untrusted Data Vulnerability  
-  Fornecedor: Microsoft | Produto: Windows | Adicionado: 2025-10-24  
-  Microsoft Windows Server Update Service (WSUS) contains a deserialization of untrusted data vulnerability that allows for remote code execution.  
-  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
-
-- **CVE-2025-61932** - Motex LANSCOPE Endpoint Manager Improper Verification of Source of a Communication Channel Vulnerability  
-  Fornecedor: Motex | Produto: LANSCOPE Endpoint Manager | Adicionado: 2025-10-22  
-  Motex LANSCOPE Endpoint Manager contains an improper verification of source of a communication channel vulnerability allowing an attacker to execute arbitrary code by sending specially crafted packets.  
-  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
-
 </details>
+
 
 
 
