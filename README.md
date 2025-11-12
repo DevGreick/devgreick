@@ -1329,11 +1329,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [New UK laws to strengthen critical infrastructure cyber defenses](https://www.bleepingcomputer.com/news/security/new-uk-laws-to-strengthen-critical-infrastructure-cyber-defenses/)
+- [Hackers exploited Citrix, Cisco ISE flaws in zero-day attacks](https://www.bleepingcomputer.com/news/security/hackers-exploited-citrix-cisco-ise-flaws-in-zero-day-attacks/)
+- [Synnovis notifies of data breach after 2024 ransomware attack](https://www.bleepingcomputer.com/news/security/synnovis-notifies-of-data-breach-after-2024-ransomware-attack/)
 - [[Webinar] Learn How Leading Security Teams Reduce Attack Surface Exposure with DASR](https://thehackernews.com/2025/11/webinar-learn-how-leading-security.html)
 - [Active Directory Under Siege: Why Critical Infrastructure Needs Stronger Security](https://thehackernews.com/2025/11/active-directory-under-siege-why.html)
-- [Microsoft fixes Windows Task Manager bug affecting performance](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-task-manager-bug-affecting-performance/)
-- [Microsoft Fixes 63 Security Flaws, Including a Windows Kernel Zero-Day Under Active Attack](https://thehackernews.com/2025/11/microsoft-fixes-63-security-flaws.html)
-- [Google Launches &#39;Private AI Compute&#39; — Secure AI Processing with On-Device-Level Privacy](https://thehackernews.com/2025/11/google-launches-private-ai-compute.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
