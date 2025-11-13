@@ -1338,11 +1338,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
-- [Over 46,000 Fake npm Packages Flood Registry in Worm-Like Spam Attack](https://thehackernews.com/2025/11/over-46000-fake-npm-packages-flood.html)
+- [CISA Flags Critical WatchGuard Fireware Flaw Exposing 54,000 Fireboxes to No-Login Attacks](https://thehackernews.com/2025/11/cisa-flags-critical-watchguard-fireware.html)
+- [Over 67,000 Fake npm Packages Flood Registry in Worm-Like Spam Attack](https://thehackernews.com/2025/11/over-46000-fake-npm-packages-flood.html)
 - [Google sues to dismantle Chinese phishing platform behind US toll scams](https://www.bleepingcomputer.com/news/security/google-sues-to-dismantle-chinese-phishing-platform-behind-us-toll-scams/)
 - [Windows 11 now supports 3rd-party apps for native passkey management](https://www.bleepingcomputer.com/news/security/windows-11-now-supports-3rd-party-apps-for-native-passkey-management/)
 - [DanaBot malware is back to infecting Windows after 6-month break](https://www.bleepingcomputer.com/news/security/danabot-malware-is-back-to-infecting-windows-after-6-month-break/)
-- [Google Sues China-Based Hackers Behind $1 Billion Lighthouse Phishing Platform](https://thehackernews.com/2025/11/google-sues-china-based-hackers-behind.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
