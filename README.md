@@ -1341,11 +1341,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft rolls out screen capture prevention for Teams users](https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-screen-capture-prevention-for-teams-users/)
+- [Fake Chrome Extension “Safery” Steals Ethereum Wallet Seed Phrases Using Sui Blockchain](https://thehackernews.com/2025/11/fake-chrome-extension-safery-steals.html)
+- [Popular Android-based photo frames download malware on boot](https://www.bleepingcomputer.com/news/security/popular-android-based-photo-frames-download-malware-on-boot/)
 - [CISA warns feds to fully patch actively exploited Cisco flaws](https://www.bleepingcomputer.com/news/security/cisa-warns-feds-to-fully-patch-actively-exploited-cisco-flaws/)
 - [When Attacks Come Faster Than Patches: Why 2026 Will be the Year of Machine-Speed Security](https://thehackernews.com/2025/11/when-attacks-come-faster-than-patches.html)
-- [Operation Endgame Dismantles Rhadamanthys, Venom RAT, and Elysium Botnet in Global Crackdown](https://thehackernews.com/2025/11/operation-endgame-dismantles.html)
-- [Police disrupts Rhadamanthys, VenomRAT, and Elysium malware operations](https://www.bleepingcomputer.com/news/security/police-disrupts-rhadamanthys-venomrat-and-elysium-malware-operations/)
-- [ThreatsDay Bulletin: Cisco 0-Days, AI Bug Bounties, Crypto Heists, State-Linked Leaks and 20 More Stories](https://thehackernews.com/2025/11/threatsday-bulletin-cisco-0-days-ai-bug.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
