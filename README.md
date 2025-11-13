@@ -1340,11 +1340,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
-- [CISA warns of WatchGuard firewall flaw exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-warns-of-watchguard-firewall-flaw-exploited-in-attacks/)
-- [CISA Flags Critical WatchGuard Fireware Flaw Exposing 54,000 Fireboxes to No-Login Attacks](https://thehackernews.com/2025/11/cisa-flags-critical-watchguard-fireware.html)
-- [Over 67,000 Fake npm Packages Flood Registry in Worm-Like Spam Attack](https://thehackernews.com/2025/11/over-46000-fake-npm-packages-flood.html)
-- [Google sues to dismantle Chinese phishing platform behind US toll scams](https://www.bleepingcomputer.com/news/security/google-sues-to-dismantle-chinese-phishing-platform-behind-us-toll-scams/)
-- [Windows 11 now supports 3rd-party apps for native passkey management](https://www.bleepingcomputer.com/news/security/windows-11-now-supports-3rd-party-apps-for-native-passkey-management/)
+- [CISA warns feds to fully patch actively exploited Cisco flaws](https://www.bleepingcomputer.com/news/security/cisa-warns-feds-to-fully-patch-actively-exploited-cisco-flaws/)
+- [When Attacks Come Faster Than Patches: Why 2026 Will be the Year of Machine-Speed Security](https://thehackernews.com/2025/11/when-attacks-come-faster-than-patches.html)
+- [Operation Endgame Dismantles Rhadamanthys, Venom RAT, and Elysium Botnet in Global Crackdown](https://thehackernews.com/2025/11/operation-endgame-dismantles.html)
+- [Police disrupts Rhadamanthys, VenomRAT, and Elysium malware operations](https://www.bleepingcomputer.com/news/security/police-disrupts-rhadamanthys-venomrat-and-elysium-malware-operations/)
+- [ThreatsDay Bulletin: Cisco 0-Days, AI Bug Bounties, Crypto Heists, State-Linked Leaks and 20 More Stories](https://thehackernews.com/2025/11/threatsday-bulletin-cisco-0-days-ai-bug.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
