@@ -1344,11 +1344,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [RCE flaw in ImunifyAV puts millions of Linux-hosted sites at risk](https://www.bleepingcomputer.com/news/security/rce-flaw-in-imunifyav-puts-millions-of-linux-hosted-sites-at-risk/)
 - [Washington Post data breach impacts nearly 10K employees, contractors](https://www.bleepingcomputer.com/news/security/washington-post-data-breach-impacts-nearly-10k-employees-contractors/)
 - [Kerberoasting in 2025: How to protect your service accounts](https://www.bleepingcomputer.com/news/security/kerberoasting-in-2025-how-to-protect-your-service-accounts/)
 - [Microsoft rolls out screen capture prevention for Teams users](https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-screen-capture-prevention-for-teams-users/)
 - [Fake Chrome Extension “Safery” Steals Ethereum Wallet Seed Phrases Using Sui Blockchain](https://thehackernews.com/2025/11/fake-chrome-extension-safery-steals.html)
-- [Popular Android-based photo frames download malware on boot](https://www.bleepingcomputer.com/news/security/popular-android-based-photo-frames-download-malware-on-boot/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
