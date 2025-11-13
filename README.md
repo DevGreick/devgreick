@@ -1342,11 +1342,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Washington Post data breach impacts nearly 10K employees, contractors](https://www.bleepingcomputer.com/news/security/washington-post-data-breach-impacts-nearly-10k-employees-contractors/)
+- [Kerberoasting in 2025: How to protect your service accounts](https://www.bleepingcomputer.com/news/security/kerberoasting-in-2025-how-to-protect-your-service-accounts/)
 - [Microsoft rolls out screen capture prevention for Teams users](https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-screen-capture-prevention-for-teams-users/)
 - [Fake Chrome Extension “Safery” Steals Ethereum Wallet Seed Phrases Using Sui Blockchain](https://thehackernews.com/2025/11/fake-chrome-extension-safery-steals.html)
 - [Popular Android-based photo frames download malware on boot](https://www.bleepingcomputer.com/news/security/popular-android-based-photo-frames-download-malware-on-boot/)
-- [CISA warns feds to fully patch actively exploited Cisco flaws](https://www.bleepingcomputer.com/news/security/cisa-warns-feds-to-fully-patch-actively-exploited-cisco-flaws/)
-- [When Attacks Come Faster Than Patches: Why 2026 Will be the Year of Machine-Speed Security](https://thehackernews.com/2025/11/when-attacks-come-faster-than-patches.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
