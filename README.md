@@ -24,9 +24,14 @@
 
   <!-- CVE-LIST:START -->
 <details>
-<summary><strong>Vulnerabilidades exploradas conhecidas da CISA</strong>  •  atualizado 14/11/2025 16:15 UTC  •  exibindo 10 itens</summary>
+<summary><strong>Vulnerabilidades exploradas conhecidas da CISA</strong>  •  atualizado 14/11/2025 18:18 UTC  •  exibindo 10 itens</summary>
 
 > Fonte: CISA Known Exploited Vulnerabilities
+
+- **CVE-2025-64446** - Fortinet FortiWeb Path Traversal Vulnerability  
+  Fornecedor: Fortinet | Produto: FortiWeb | Adicionado: 2025-11-14  
+  Fortinet FortiWeb contains a relative path traversal vulnerability that may allow an unauthenticated attacker to execute administrative commands on the system via crafted HTTP or HTTPS requests.  
+  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
 
 - **CVE-2025-12480** - Gladinet Triofox Improper Access Control Vulnerability  
   Fornecedor: Gladinet | Produto: Triofox | Adicionado: 2025-11-12  
@@ -73,12 +78,8 @@
   Dassault Systèmes DELMIA Apriso contains a code injection vulnerability that could allow an attacker to execute arbitrary code.  
   Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
 
-- **CVE-2025-6205** - Dassault Systèmes DELMIA Apriso Missing Authorization Vulnerability  
-  Fornecedor: Dassault Systèmes | Produto: DELMIA Apriso | Adicionado: 2025-10-28  
-  Dassault Systèmes DELMIA Apriso contains a missing authorization vulnerability that could allow an attacker to gain privileged access to the application.  
-  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
-
 </details>
+
 
 
 
