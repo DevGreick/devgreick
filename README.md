@@ -1351,11 +1351,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [ASUS warns of critical auth bypass flaw in DSL series routers](https://www.bleepingcomputer.com/news/security/asus-warns-of-critical-auth-bypass-flaw-in-dsl-series-routers/)
+- [Fortinet FortiWeb Flaw Actively Exploited in the Wild Before Company&#39;s Silent Patch](https://thehackernews.com/2025/11/fortinet-fortiweb-flaw-actively.html)
 - [DoorDash hit by new data breach in October exposing user information](https://www.bleepingcomputer.com/news/security/doordash-hit-by-new-data-breach-in-october-exposing-user-information/)
 - [Fortinet FortiWeb flaw with public PoC exploited to create admin users](https://www.bleepingcomputer.com/news/security/fortiweb-flaw-with-public-poc-actively-exploited-to-create-admin-users/)
 - [Kraken ransomware benchmarks systems for optimal encryption choice](https://www.bleepingcomputer.com/news/security/kraken-ransomware-benchmarks-systems-for-optimal-encryption-choice/)
-- [CISA warns of Akira ransomware Linux encryptor targeting Nutanix VMs](https://www.bleepingcomputer.com/news/security/cisa-warns-of-akira-ransomware-linux-encryptor-targeting-nutanix-vms/)
-- [New ‘IndonesianFoods’ worm floods npm with 100,000 packages](https://www.bleepingcomputer.com/news/security/new-indonesianfoods-worm-floods-npm-with-100-000-packages/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
