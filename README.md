@@ -1347,11 +1347,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Fortinet FortiWeb flaw with public PoC exploited to create admin users](https://www.bleepingcomputer.com/news/security/fortiweb-flaw-with-public-poc-actively-exploited-to-create-admin-users/)
+- [Kraken ransomware benchmarks systems for optimal encryption choice](https://www.bleepingcomputer.com/news/security/kraken-ransomware-benchmarks-systems-for-optimal-encryption-choice/)
 - [CISA warns of Akira ransomware Linux encryptor targeting Nutanix VMs](https://www.bleepingcomputer.com/news/security/cisa-warns-of-akira-ransomware-linux-encryptor-targeting-nutanix-vms/)
 - [New ‘IndonesianFoods’ worm floods npm with 100,000 packages](https://www.bleepingcomputer.com/news/security/new-indonesianfoods-worm-floods-npm-with-100-000-packages/)
 - [Russian Hackers Create 4,300 Fake Travel Sites to Steal Hotel Guests&#39; Payment Data](https://thehackernews.com/2025/11/russian-hackers-create-4300-fake-travel.html)
-- [RCE flaw in ImunifyAV puts millions of Linux-hosted sites at risk](https://www.bleepingcomputer.com/news/security/rce-flaw-in-imunifyav-puts-millions-of-linux-hosted-sites-at-risk/)
-- [Washington Post data breach impacts nearly 10K employees, contractors](https://www.bleepingcomputer.com/news/security/washington-post-data-breach-impacts-nearly-10k-employees-contractors/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
