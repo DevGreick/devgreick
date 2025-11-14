@@ -1356,11 +1356,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Anthropic claims of Claude AI-automated cyberattacks met with doubt](https://www.bleepingcomputer.com/news/security/anthropic-claims-of-claude-ai-automated-cyberattacks-met-with-doubt/)
+- [North Korean Hackers Turn JSON Services into Covert Malware Delivery Channels](https://thehackernews.com/2025/11/north-korean-hackers-turn-json-services.html)
 - [Fortinet confirms silent patch for FortiWeb zero-day exploited in attacks](https://www.bleepingcomputer.com/news/security/fortinet-confirms-silent-patch-for-fortiweb-zero-day-exploited-in-attacks/)
 - [Checkout.com snubs hackers after data breach, to donate ransom instead](https://www.bleepingcomputer.com/news/security/checkoutcom-snubs-shinyhunters-hackers-to-donate-ransom-instead/)
 - [Researchers Find Serious AI Bugs Exposing Meta, Nvidia, and Microsoft Inference Frameworks](https://thehackernews.com/2025/11/researchers-find-serious-ai-bugs.html)
-- [US announces new strike force targeting Chinese crypto scammers](https://www.bleepingcomputer.com/news/security/us-announces-new-strike-force-targeting-chinese-crypto-scammers/)
-- [Iranian Hackers Launch ‘SpearSpecter’ Spy Operation on Defense &amp; Government Targets](https://thehackernews.com/2025/11/iranian-hackers-launch-spearspecter-spy.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
