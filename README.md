@@ -1355,11 +1355,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Fortinet confirms silent patch for FortiWeb zero-day exploited in attacks](https://www.bleepingcomputer.com/news/security/fortinet-confirms-silent-patch-for-fortiweb-zero-day-exploited-in-attacks/)
+- [Checkout.com snubs hackers after data breach, to donate ransom instead](https://www.bleepingcomputer.com/news/security/checkoutcom-snubs-shinyhunters-hackers-to-donate-ransom-instead/)
 - [Researchers Find Serious AI Bugs Exposing Meta, Nvidia, and Microsoft Inference Frameworks](https://thehackernews.com/2025/11/researchers-find-serious-ai-bugs.html)
 - [US announces new strike force targeting Chinese crypto scammers](https://www.bleepingcomputer.com/news/security/us-announces-new-strike-force-targeting-chinese-crypto-scammers/)
 - [Iranian Hackers Launch ‘SpearSpecter’ Spy Operation on Defense &amp; Government Targets](https://thehackernews.com/2025/11/iranian-hackers-launch-spearspecter-spy.html)
-- [Google backpedals on new Android developer registration rules](https://www.bleepingcomputer.com/news/google/google-backpedals-on-new-android-developer-registration-rules/)
-- [Ransomware&#39;s Fragmentation Reaches a Breaking Point While LockBit Returns](https://thehackernews.com/2025/11/ransomwares-fragmentation-reaches.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
