@@ -1378,11 +1378,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Google to flag Android apps with excessive battery use on the Play Store](https://www.bleepingcomputer.com/news/security/google-to-flag-android-apps-with-excessive-battery-use-on-the-play-store/)
 - [Microsoft: Windows 10 KB5068781 ESU update may fail with 0x800f0922 errors](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-10-kb5068781-esu-update-may-fail-with-0x800f0922-errors/)
 - [Decades-old ‘Finger’ protocol abused in ClickFix malware attacks](https://www.bleepingcomputer.com/news/security/decades-old-finger-protocol-abused-in-clickfix-malware-attacks/)
 - [RondoDox Exploits Unpatched XWiki Servers to Pull More Devices Into Its Botnet](https://thehackernews.com/2025/11/rondodox-exploits-unpatched-xwiki.html)
 - [Jaguar Land Rover cyberattack cost the company over $220 million](https://www.bleepingcomputer.com/news/security/jaguar-land-rover-cyberattack-cost-the-company-over-220-million/)
-- [Five Plead Guilty in U.S. for Helping North Korean IT Workers Infiltrate 136 Companies](https://thehackernews.com/2025/11/five-us-citizens-plead-guilty-to.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
