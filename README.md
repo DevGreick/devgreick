@@ -1391,11 +1391,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft: Azure hit by 15 Tbps DDoS attack using 500,000 IP addresses](https://www.bleepingcomputer.com/news/microsoft/microsoft-aisuru-botnet-used-500-000-ips-in-15-tbps-azure-ddos-attack/)
+- [New EVALUSION ClickFix Campaign Delivers Amatera Stealer and NetSupport RAT](https://thehackernews.com/2025/11/new-evalusion-clickfix-campaign.html)
+- [DoorDash email spoofing vulnerability sparks messy disclosure dispute](https://www.bleepingcomputer.com/news/security/doordash-email-spoofing-vulnerability-sparks-messy-disclosure-dispute/)
 - [Pennsylvania AG confirms data breach after INC Ransom attack](https://www.bleepingcomputer.com/news/security/pennsylvania-ag-confirms-data-breach-after-inc-ransom-attack/)
 - [Microsoft: Windows bug blocks Microsoft 365 desktop app installs](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-bug-blocks-microsoft-365-desktop-app-installs/)
-- [⚡ Weekly Recap: Fortinet Exploited, China&#39;s AI Hacks, PhaaS Empire Falls &amp; More](https://thehackernews.com/2025/11/weekly-recap-fortinet-exploited-chinas.html)
-- [5 Reasons Why Attackers Are Phishing Over LinkedIn](https://thehackernews.com/2025/11/5-reasons-why-attackers-are-phishing.html)
-- [Dragon Breath Uses RONINGLOADER to Disable Security Tools and Deploy Gh0st RAT](https://thehackernews.com/2025/11/dragon-breath-uses-roningloader-to.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
