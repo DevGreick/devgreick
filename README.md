@@ -1388,11 +1388,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Dragon Breath Uses RONINGLOADER to Disable Security Tools and Deploy Gh0st RAT](https://thehackernews.com/2025/11/dragon-breath-uses-roningloader-to.html)
 - [Rust Adoption Drives Android Memory Safety Bugs Below 20% for First Time](https://thehackernews.com/2025/11/rust-adoption-drives-android-memory.html)
 - [Google to flag Android apps with excessive battery use on the Play Store](https://www.bleepingcomputer.com/news/security/google-to-flag-android-apps-with-excessive-battery-use-on-the-play-store/)
 - [Microsoft: Windows 10 KB5068781 ESU update may fail with 0x800f0922 errors](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-10-kb5068781-esu-update-may-fail-with-0x800f0922-errors/)
 - [Decades-old ‘Finger’ protocol abused in ClickFix malware attacks](https://www.bleepingcomputer.com/news/security/decades-old-finger-protocol-abused-in-clickfix-malware-attacks/)
-- [RondoDox Exploits Unpatched XWiki Servers to Pull More Devices Into Its Botnet](https://thehackernews.com/2025/11/rondodox-exploits-unpatched-xwiki.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
