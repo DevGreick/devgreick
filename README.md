@@ -1392,11 +1392,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Princeton University discloses data breach affecting donors, alumni](https://www.bleepingcomputer.com/news/security/princeton-university-discloses-data-breach-affecting-donors-alumni/)
+- [Dutch police seizes 250 servers used by “bulletproof hosting” service](https://www.bleepingcomputer.com/news/security/dutch-police-seizes-250-servers-used-by-bulletproof-hosting-service/)
 - [Microsoft: Azure hit by 15 Tbps DDoS attack using 500,000 IP addresses](https://www.bleepingcomputer.com/news/microsoft/microsoft-aisuru-botnet-used-500-000-ips-in-15-tbps-azure-ddos-attack/)
 - [New EVALUSION ClickFix Campaign Delivers Amatera Stealer and NetSupport RAT](https://thehackernews.com/2025/11/new-evalusion-clickfix-campaign.html)
 - [DoorDash email spoofing vulnerability sparks messy disclosure dispute](https://www.bleepingcomputer.com/news/security/doordash-email-spoofing-vulnerability-sparks-messy-disclosure-dispute/)
-- [Pennsylvania AG confirms data breach after INC Ransom attack](https://www.bleepingcomputer.com/news/security/pennsylvania-ag-confirms-data-breach-after-inc-ransom-attack/)
-- [Microsoft: Windows bug blocks Microsoft 365 desktop app installs](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-bug-blocks-microsoft-365-desktop-app-installs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
