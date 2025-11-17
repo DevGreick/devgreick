@@ -1390,11 +1390,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Pennsylvania AG confirms data breach after INC Ransom attack](https://www.bleepingcomputer.com/news/security/pennsylvania-ag-confirms-data-breach-after-inc-ransom-attack/)
+- [Microsoft: Windows bug blocks Microsoft 365 desktop app installs](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-bug-blocks-microsoft-365-desktop-app-installs/)
 - [⚡ Weekly Recap: Fortinet Exploited, China&#39;s AI Hacks, PhaaS Empire Falls &amp; More](https://thehackernews.com/2025/11/weekly-recap-fortinet-exploited-chinas.html)
 - [5 Reasons Why Attackers Are Phishing Over LinkedIn](https://thehackernews.com/2025/11/5-reasons-why-attackers-are-phishing.html)
 - [Dragon Breath Uses RONINGLOADER to Disable Security Tools and Deploy Gh0st RAT](https://thehackernews.com/2025/11/dragon-breath-uses-roningloader-to.html)
-- [Rust Adoption Drives Android Memory Safety Bugs Below 20% for First Time](https://thehackernews.com/2025/11/rust-adoption-drives-android-memory.html)
-- [Google to flag Android apps with excessive battery use on the Play Store](https://www.bleepingcomputer.com/news/security/google-to-flag-android-apps-with-excessive-battery-use-on-the-play-store/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
