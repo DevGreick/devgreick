@@ -1402,11 +1402,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Windows 11 gets new Cloud Rebuild, Point-in-Time Restore tools](https://www.bleepingcomputer.com/news/microsoft/windows-11-gets-new-cloud-rebuild-point-in-time-restore-tools/)
+- [Fortinet warns of new FortiWeb zero-day exploited in attacks](https://www.bleepingcomputer.com/news/security/fortinet-warns-of-new-fortiweb-zero-day-exploited-in-attacks/)
+- [Sneaky 2FA Phishing Kit Adds BitB Pop-ups Designed to Mimic the Browser Address Bar](https://thehackernews.com/2025/11/sneaky-2fa-phishing-kit-adds-bitb-pop.html)
 - [Microsoft to integrate Sysmon directly into Windows 11, Server 2025](https://www.bleepingcomputer.com/news/microsoft/microsoft-to-integrate-sysmon-directly-into-windows-11-server-2025/)
 - [Microsoft Teams to let users report messages wrongly flagged as threats](https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-to-let-users-report-messages-wrongly-flagged-as-threats/)
-- [French agency Pajemploi reports data breach affecting 1.2M people](https://www.bleepingcomputer.com/news/security/french-agency-pajemploi-reports-data-breach-affecting-12m-people/)
-- [Meta Expands WhatsApp Security Research with New Proxy Tool and $4M in Bounties This Year](https://thehackernews.com/2025/11/meta-expands-whatsapp-security-research.html)
-- [Learn How Leading Companies Secure Cloud Workloads and Infrastructure at Scale](https://thehackernews.com/2025/11/learn-how-leading-companies-secure.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
