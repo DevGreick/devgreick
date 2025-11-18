@@ -1401,11 +1401,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft to integrate Sysmon directly into Windows 11, Server 2025](https://www.bleepingcomputer.com/news/microsoft/microsoft-to-integrate-sysmon-directly-into-windows-11-server-2025/)
+- [Microsoft Teams to let users report messages wrongly flagged as threats](https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-to-let-users-report-messages-wrongly-flagged-as-threats/)
+- [French agency Pajemploi reports data breach affecting 1.2M people](https://www.bleepingcomputer.com/news/security/french-agency-pajemploi-reports-data-breach-affecting-12m-people/)
+- [Meta Expands WhatsApp Security Research with New Proxy Tool and $4M in Bounties This Year](https://thehackernews.com/2025/11/meta-expands-whatsapp-security-research.html)
 - [Learn How Leading Companies Secure Cloud Workloads and Infrastructure at Scale](https://thehackernews.com/2025/11/learn-how-leading-companies-secure.html)
-- [Tycoon 2FA and the Collapse of Legacy MFA](https://www.bleepingcomputer.com/news/security/tycoon-2fa-and-the-collapse-of-legacy-mfa/)
-- [Researchers Detail Tuoni C2&#39;s Role in an Attempted 2025 Real-Estate Cyber Intrusion](https://thehackernews.com/2025/11/researchers-detail-tuoni-c2s-role-in.html)
-- [Iranian Hackers Use DEEPROOT and TWOSTROKE Malware in Aerospace and Defense Attacks](https://thehackernews.com/2025/11/iranian-hackers-use-deeproot-and.html)
-- [Cloudflare hit by outage affecting global network services](https://www.bleepingcomputer.com/news/technology/cloudflare-hit-by-outage-affecting-global-network-services/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
