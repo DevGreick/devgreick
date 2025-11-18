@@ -1401,10 +1401,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Learn How Leading Companies Secure Cloud Workloads and Infrastructure at Scale](https://thehackernews.com/2025/11/learn-how-leading-companies-secure.html)
-- [Beyond IAM Silos: Why the Identity Security Fabric is Essential for Securing AI and Non-Human Identities](https://thehackernews.com/2025/11/beyond-iam-silos-why-identity-security.html)
-- [Seven npm Packages Use Adspect Cloaking to Trick Victims Into Crypto Scam Pages](https://thehackernews.com/2025/11/seven-npm-packages-use-adspect-cloaking.html)
-- [Microsoft Mitigates Record 15.72 Tbps DDoS Attack Driven by AISURU Botnet](https://thehackernews.com/2025/11/microsoft-mitigates-record-572-tbps.html)
-- [Google Issues Security Fix for Actively Exploited Chrome V8 Zero-Day Vulnerability](https://thehackernews.com/2025/11/google-issues-security-fix-for-actively.html)
+- [Tycoon 2FA and the Collapse of Legacy MFA](https://www.bleepingcomputer.com/news/security/tycoon-2fa-and-the-collapse-of-legacy-mfa/)
+- [Researchers Detail Tuoni C2&#39;s Role in an Attempted 2025 Real-Estate Cyber Intrusion](https://thehackernews.com/2025/11/researchers-detail-tuoni-c2s-role-in.html)
+- [Iranian Hackers Use DEEPROOT and TWOSTROKE Malware in Aerospace and Defense Attacks](https://thehackernews.com/2025/11/iranian-hackers-use-deeproot-and.html)
+- [Cloudflare hit by outage affecting global network services](https://www.bleepingcomputer.com/news/technology/cloudflare-hit-by-outage-affecting-global-network-services/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
