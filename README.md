@@ -1400,11 +1400,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
-- [Google fixes new Chrome zero-day flaw exploited in attacks](https://www.bleepingcomputer.com/news/security/google-fixes-new-chrome-zero-day-flaw-exploited-in-attacks/)
-- [Microsoft Mitigates Record 5.72 Tbps DDoS Attack Driven by AISURU Botnet](https://thehackernews.com/2025/11/microsoft-mitigates-record-572-tbps.html)
+- [Learn How Leading Companies Secure Cloud Workloads and Infrastructure at Scale](https://thehackernews.com/2025/11/learn-how-leading-companies-secure.html)
+- [Beyond IAM Silos: Why the Identity Security Fabric is Essential for Securing AI and Non-Human Identities](https://thehackernews.com/2025/11/beyond-iam-silos-why-identity-security.html)
+- [Seven npm Packages Use Adspect Cloaking to Trick Victims Into Crypto Scam Pages](https://thehackernews.com/2025/11/seven-npm-packages-use-adspect-cloaking.html)
+- [Microsoft Mitigates Record 15.72 Tbps DDoS Attack Driven by AISURU Botnet](https://thehackernews.com/2025/11/microsoft-mitigates-record-572-tbps.html)
 - [Google Issues Security Fix for Actively Exploited Chrome V8 Zero-Day Vulnerability](https://thehackernews.com/2025/11/google-issues-security-fix-for-actively.html)
-- [Microsoft: Windows 10 KB5072653 OOB update fixes ESU install errors](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-10-kb5072653-oob-update-fixes-esu-install-errors/)
-- [Malicious NPM packages abuse Adspect redirects to evade security](https://www.bleepingcomputer.com/news/security/malicious-npm-packages-abuse-adspect-redirects-to-evade-security/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
