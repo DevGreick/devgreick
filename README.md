@@ -1397,11 +1397,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Google Issues Security Fix for Actively Exploited Chrome V8 Zero-Day Vulnerability](https://thehackernews.com/2025/11/google-issues-security-fix-for-actively.html)
 - [Microsoft: Windows 10 KB5072653 OOB update fixes ESU install errors](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-10-kb5072653-oob-update-fixes-esu-install-errors/)
 - [Malicious NPM packages abuse Adspect redirects to evade security](https://www.bleepingcomputer.com/news/security/malicious-npm-packages-abuse-adspect-redirects-to-evade-security/)
 - [xAI&#39;s Grok 4.1 rolls out with improved quality and speed for free](https://www.bleepingcomputer.com/news/artificial-intelligence/xais-grok-41-rolls-out-with-improved-quality-and-speed-for-free/)
 - [RondoDox botnet malware now hacks servers using XWiki flaw](https://www.bleepingcomputer.com/news/security/rondodox-botnet-malware-now-hacks-servers-using-xwiki-flaw/)
-- [Google Gemini 3 spotted on AI Studio ahead of imminent release](https://www.bleepingcomputer.com/news/google/google-gemini-3-spotted-on-ai-studio-ahead-of-imminent-release/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
