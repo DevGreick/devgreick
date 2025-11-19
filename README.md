@@ -1412,11 +1412,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Python-Based WhatsApp Worm Spreads Eternidade Stealer Across Brazilian Devices](https://thehackernews.com/2025/11/python-based-whatsapp-worm-spreads.html)
+- [New WrtHug campaign hijacks thousands of end-of-life ASUS routers](https://www.bleepingcomputer.com/news/security/new-wrthug-campaign-hijacks-thousands-of-end-of-life-asus-routers/)
+- [The hidden risks in your DevOps stack data—and how to address them](https://www.bleepingcomputer.com/news/security/the-hidden-risks-in-your-devops-stack-data-and-how-to-address-them/)
 - [CISA gives govt agencies 7 days to patch new Fortinet flaw](https://www.bleepingcomputer.com/news/security/cisa-gives-govt-agencies-7-days-to-patch-new-fortinet-flaw/)
 - [Meet ShinySp1d3r: New Ransomware-as-a-Service created by ShinyHunters](https://www.bleepingcomputer.com/news/security/meet-shinysp1d3r-new-ransomware-as-a-service-created-by-shinyhunters/)
-- [WrtHug Exploits Six ASUS WRT Flaws to Hijack Tens of Thousands of EoL Routers Worldwide](https://thehackernews.com/2025/11/wrthug-exploits-six-asus-wrt-flaws-to.html)
-- [California man admits to laundering crypto stolen in $230M heist](https://www.bleepingcomputer.com/news/security/california-man-admits-to-laundering-crypto-stolen-in-230m-heist/)
-- [Application Containment: How to Use Ringfencing to Prevent the Weaponization of Trusted Software](https://thehackernews.com/2025/11/application-containment-how-to-use.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
