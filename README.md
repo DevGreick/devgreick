@@ -1411,11 +1411,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [CISA gives govt agencies 7 days to patch new Fortinet flaw](https://www.bleepingcomputer.com/news/security/cisa-gives-govt-agencies-7-days-to-patch-new-fortinet-flaw/)
+- [Meet ShinySp1d3r: New Ransomware-as-a-Service created by ShinyHunters](https://www.bleepingcomputer.com/news/security/meet-shinysp1d3r-new-ransomware-as-a-service-created-by-shinyhunters/)
+- [WrtHug Exploits Six ASUS WRT Flaws to Hijack Tens of Thousands of EoL Routers Worldwide](https://thehackernews.com/2025/11/wrthug-exploits-six-asus-wrt-flaws-to.html)
 - [California man admits to laundering crypto stolen in $230M heist](https://www.bleepingcomputer.com/news/security/california-man-admits-to-laundering-crypto-stolen-in-230m-heist/)
 - [Application Containment: How to Use Ringfencing to Prevent the Weaponization of Trusted Software](https://thehackernews.com/2025/11/application-containment-how-to-use.html)
-- [Cloudflare blames this week&#39;s massive outage on database issues](https://www.bleepingcomputer.com/news/technology/cloudflare-blames-this-weeks-massive-outage-on-database-issues/)
-- [EdgeStepper Implant Reroutes DNS Queries to Deploy Malware via Hijacked Software Updates](https://thehackernews.com/2025/11/edgestepper-implant-reroutes-dns.html)
-- [‘PlushDaemon’ hackers hijack software updates in supply-chain attacks](https://www.bleepingcomputer.com/news/security/plushdaemon-hackers-hijack-software-updates-in-supply-chain-attacks/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
