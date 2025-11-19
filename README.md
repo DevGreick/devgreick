@@ -1413,11 +1413,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [W3 Total Cache WordPress plugin vulnerable to PHP command injection](https://www.bleepingcomputer.com/news/security/w3-total-cache-wordpress-plugin-vulnerable-to-php-command-injection/)
+- [Russian bulletproof hosting provider sanctioned over ransomware ties](https://www.bleepingcomputer.com/news/security/us-sanctions-russian-bulletproof-hosting-provider-media-land-over-ransomware-ties/)
+- [Hackers Actively Exploiting 7-Zip Symbolic Link–Based RCE Vulnerability &lpar;CVE-2025-11001&rpar;](https://thehackernews.com/2025/11/hackers-actively-exploiting-7-zip.html)
 - [Python-Based WhatsApp Worm Spreads Eternidade Stealer Across Brazilian Devices](https://thehackernews.com/2025/11/python-based-whatsapp-worm-spreads.html)
 - [New WrtHug campaign hijacks thousands of end-of-life ASUS routers](https://www.bleepingcomputer.com/news/security/new-wrthug-campaign-hijacks-thousands-of-end-of-life-asus-routers/)
-- [The hidden risks in your DevOps stack data—and how to address them](https://www.bleepingcomputer.com/news/security/the-hidden-risks-in-your-devops-stack-data-and-how-to-address-them/)
-- [CISA gives govt agencies 7 days to patch new Fortinet flaw](https://www.bleepingcomputer.com/news/security/cisa-gives-govt-agencies-7-days-to-patch-new-fortinet-flaw/)
-- [Meet ShinySp1d3r: New Ransomware-as-a-Service created by ShinyHunters](https://www.bleepingcomputer.com/news/security/meet-shinysp1d3r-new-ransomware-as-a-service-created-by-shinyhunters/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
