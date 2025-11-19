@@ -1410,11 +1410,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [California man admits to laundering crypto stolen in $230M heist](https://www.bleepingcomputer.com/news/security/california-man-admits-to-laundering-crypto-stolen-in-230m-heist/)
+- [Application Containment: How to Use Ringfencing to Prevent the Weaponization of Trusted Software](https://thehackernews.com/2025/11/application-containment-how-to-use.html)
+- [Cloudflare blames this week&#39;s massive outage on database issues](https://www.bleepingcomputer.com/news/technology/cloudflare-blames-this-weeks-massive-outage-on-database-issues/)
+- [EdgeStepper Implant Reroutes DNS Queries to Deploy Malware via Hijacked Software Updates](https://thehackernews.com/2025/11/edgestepper-implant-reroutes-dns.html)
 - [‘PlushDaemon’ hackers hijack software updates in supply-chain attacks](https://www.bleepingcomputer.com/news/security/plushdaemon-hackers-hijack-software-updates-in-supply-chain-attacks/)
-- [Fortinet Warns of New FortiWeb CVE-2025-58034 Vulnerability Exploited in the Wild](https://thehackernews.com/2025/11/fortinet-warns-of-new-fortiweb-cve-2025.html)
-- [Thunderbird adds native support for Microsoft Exchange accounts](https://www.bleepingcomputer.com/news/software/thunderbird-adds-native-support-for-microsoft-exchange-accounts/)
-- [New ShadowRay attacks convert Ray clusters into crypto miners](https://www.bleepingcomputer.com/news/security/new-shadowray-attacks-convert-ray-clusters-into-crypto-miners/)
-- [Windows 11 gets new Cloud Rebuild, Point-in-Time Restore tools](https://www.bleepingcomputer.com/news/microsoft/windows-11-gets-new-cloud-rebuild-point-in-time-restore-tools/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
