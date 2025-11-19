@@ -1414,11 +1414,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Google Search is now using AI to create interactive UI to answer your questions](https://www.bleepingcomputer.com/news/artificial-intelligence/google-search-is-now-using-ai-to-create-interactive-ui-to-answer-your-questions/)
 - [W3 Total Cache WordPress plugin vulnerable to PHP command injection](https://www.bleepingcomputer.com/news/security/w3-total-cache-wordpress-plugin-vulnerable-to-php-command-injection/)
 - [Russian bulletproof hosting provider sanctioned over ransomware ties](https://www.bleepingcomputer.com/news/security/us-sanctions-russian-bulletproof-hosting-provider-media-land-over-ransomware-ties/)
 - [Hackers Actively Exploiting 7-Zip Symbolic Link–Based RCE Vulnerability &lpar;CVE-2025-11001&rpar;](https://thehackernews.com/2025/11/hackers-actively-exploiting-7-zip.html)
 - [Python-Based WhatsApp Worm Spreads Eternidade Stealer Across Brazilian Devices](https://thehackernews.com/2025/11/python-based-whatsapp-worm-spreads.html)
-- [New WrtHug campaign hijacks thousands of end-of-life ASUS routers](https://www.bleepingcomputer.com/news/security/new-wrthug-campaign-hijacks-thousands-of-end-of-life-asus-routers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
