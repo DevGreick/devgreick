@@ -1424,11 +1424,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [New SonicWall SonicOS flaw allows hackers to crash firewalls](https://www.bleepingcomputer.com/news/security/new-sonicwall-sonicos-flaw-allows-hackers-to-crash-firewalls/)
+- [D-Link warns of new RCE flaws in end-of-life DIR-878 routers](https://www.bleepingcomputer.com/news/security/d-link-warns-of-new-rce-flaws-in-end-of-life-dir-878-routers/)
+- [Turn your Windows 11 migration into a security opportunity](https://www.bleepingcomputer.com/news/security/turn-your-windows-11-migration-into-a-security-opportunity/)
 - [TV streaming piracy service with 26M yearly visits shut down](https://www.bleepingcomputer.com/news/security/tv-streaming-piracy-service-photocall-with-26m-yearly-visits-shut-down/)
 - [ThreatsDay Bulletin: 0-Days, LinkedIn Spies, Crypto Crimes, IoT Flaws and New Malware Waves](https://thehackernews.com/2025/11/threatsday-bulletin-0-days-linkedin.html)
-- [CTM360 Exposes a Global WhatsApp Hijacking Campaign: HackOnChat](https://thehackernews.com/2025/11/ctm360-exposes-global-whatsapp.html)
-- [New Sturnus Android Trojan Quietly Captures Encrypted Chats and Hijacks Devices](https://thehackernews.com/2025/11/new-sturnus-android-trojan-quietly.html)
-- [Crypto mixer founders sent to prison for laundering over $237 million](https://www.bleepingcomputer.com/news/security/samourai-cryptomixer-founders-sent-to-prison-for-laundering-over-237-million/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
