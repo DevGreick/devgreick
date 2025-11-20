@@ -1422,11 +1422,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [CTM360 Exposes a Global WhatsApp Hijacking Campaign: HackOnChat](https://thehackernews.com/2025/11/ctm360-exposes-global-whatsapp.html)
+- [New Sturnus Android Trojan Quietly Captures Encrypted Chats and Hijacks Devices](https://thehackernews.com/2025/11/new-sturnus-android-trojan-quietly.html)
+- [Crypto mixer founders sent to prison for laundering over $237 million](https://www.bleepingcomputer.com/news/security/samourai-cryptomixer-founders-sent-to-prison-for-laundering-over-237-million/)
 - [Multi-threat Android malware Sturnus steals Signal, WhatsApp messages](https://www.bleepingcomputer.com/news/security/multi-threat-android-malware-sturnus-steals-signal-whatsapp-messages/)
 - [Iran-Linked Hackers Mapped Ship AIS Data Days Before Real-World Missile Strike Attempt](https://thehackernews.com/2025/11/iran-linked-hackers-mapped-ship-ais.html)
-- [TamperedChef Malware Spreads via Fake Software Installers in Ongoing Global Campaign](https://thehackernews.com/2025/11/tamperedchef-malware-spreads-via-fake.html)
-- [OpenAI says its latest GPT-5.1 Codex can code independently for hours](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-its-latest-gpt-51-codex-can-code-independently-for-hours/)
-- [Sneaky2FA PhaaS kit now uses redteamers&#39; Browser-in-the-Browser attack](https://www.bleepingcomputer.com/news/security/sneaky2fa-phaas-kit-now-uses-redteamers-browser-in-the-browser-attack/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
