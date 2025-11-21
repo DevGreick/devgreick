@@ -24,9 +24,14 @@
 
   <!-- CVE-LIST:START -->
 <details>
-<summary><strong>Vulnerabilidades exploradas conhecidas da CISA</strong>  •  atualizado 21/11/2025 20:14 UTC  •  exibindo 10 itens</summary>
+<summary><strong>Vulnerabilidades exploradas conhecidas da CISA</strong>  •  atualizado 21/11/2025 22:12 UTC  •  exibindo 10 itens</summary>
 
 > Fonte: CISA Known Exploited Vulnerabilities
+
+- **CVE-2025-61757** - Oracle Fusion Middleware Missing Authentication for Critical Function Vulnerability  
+  Fornecedor: Oracle | Produto: Fusion Middleware | Adicionado: 2025-11-21  
+  Oracle Fusion Middleware contains a missing authentication for critical function vulnerability, allowing unauthenticated remote attackers to take over Identity Manager.  
+  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
 
 - **CVE-2025-13223** - Google Chromium V8 Type Confusion Vulnerability  
   Fornecedor: Google | Produto: Chromium V8 | Adicionado: 2025-11-19  
@@ -73,12 +78,8 @@
   Gladinet CentreStack and Triofox contains a files or directories accessible to external parties vulnerability that allows unintended disclosure of system files.  
   Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
 
-- **CVE-2025-41244** - Broadcom VMware Aria Operations and VMware Tools Privilege Defined with Unsafe Actions Vulnerability  
-  Fornecedor: Broadcom | Produto: VMware Aria Operations and VMware Tools | Adicionado: 2025-10-30  
-  Broadcom VMware Aria Operations and VMware Tools contain a privilege defined with unsafe actions vulnerability. A malicious local actor with non-administrative privileges having access to a VM with VMware Tools installed and managed by Aria Operations with SDMP enabled may exploit this vulnerability to escalate privileges to root on the same VM.  
-  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
-
 </details>
+
 
 
 
