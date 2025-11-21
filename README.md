@@ -1428,11 +1428,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Google exposes BadAudio malware used in APT24 espionage campaigns](https://www.bleepingcomputer.com/news/security/google-exposes-badaudio-malware-used-in-apt24-espionage-campaigns/)
 - [Hacker claims to steal 2.3TB data from Italian rail group, Almavia](https://www.bleepingcomputer.com/news/security/hacker-claims-to-steal-23tb-data-from-italian-rail-group-almavia/)
 - [ShadowRay 2.0 Exploits Unpatched Ray Flaw to Build Self-Spreading GPU Cryptomining Botnet](https://thehackernews.com/2025/11/shadowray-20-exploits-unpatched-ray.html)
 - [GlobalProtect VPN portals probed with 2.3 million scan sessions](https://www.bleepingcomputer.com/news/security/globalprotect-vpn-portals-probed-with-23-million-scan-sessions/)
 - [Tsundere Botnet Expands Using Game Lures and Ethereum-Based C2 on Windows](https://thehackernews.com/2025/11/tsundere-botnet-expands-using-game.html)
-- [Salesforce investigates customer data theft via Gainsight breach](https://www.bleepingcomputer.com/news/security/salesforce-investigates-customer-data-theft-via-gainsight-breach/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
