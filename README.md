@@ -1435,11 +1435,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Google begins showing ads in AI Mode &lpar;AI answers&rpar;](https://www.bleepingcomputer.com/news/artificial-intelligence/google-begins-showing-ads-in-ai-mode-ai-answers/)
+- [Google Brings AirDrop Compatibility to Android’s Quick Share Using Rust-Hardened Security](https://thehackernews.com/2025/11/google-adds-airdrop-compatibility-to.html)
 - [Why IT Admins Choose Samsung for Mobile Security](https://thehackernews.com/2025/11/why-it-admins-choose-samsung-for-mobile.html)
 - [APT24 Deploys BADAUDIO in Years-Long Espionage Hitting Taiwan and 1,000+ Domains](https://thehackernews.com/2025/11/apt24-deploys-badaudio-in-years-long.html)
 - [SEC Drops SolarWinds Case After Years of High-Stakes Cybersecurity Scrutiny](https://thehackernews.com/2025/11/sec-drops-solarwinds-case-after-years.html)
-- [Salesforce Flags Unauthorized Data Access via Gainsight-Linked OAuth Activity](https://thehackernews.com/2025/11/salesforce-flags-unauthorized-data.html)
-- [Google exposes BadAudio malware used in APT24 espionage campaigns](https://www.bleepingcomputer.com/news/security/google-exposes-badaudio-malware-used-in-apt24-espionage-campaigns/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
