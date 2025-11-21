@@ -1434,11 +1434,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Why IT Admins Choose Samsung for Mobile Security](https://thehackernews.com/2025/11/why-it-admins-choose-samsung-for-mobile.html)
+- [APT24 Deploys BADAUDIO in Years-Long Espionage Hitting Taiwan and 1,000+ Domains](https://thehackernews.com/2025/11/apt24-deploys-badaudio-in-years-long.html)
 - [SEC Drops SolarWinds Case After Years of High-Stakes Cybersecurity Scrutiny](https://thehackernews.com/2025/11/sec-drops-solarwinds-case-after-years.html)
 - [Salesforce Flags Unauthorized Data Access via Gainsight-Linked OAuth Activity](https://thehackernews.com/2025/11/salesforce-flags-unauthorized-data.html)
 - [Google exposes BadAudio malware used in APT24 espionage campaigns](https://www.bleepingcomputer.com/news/security/google-exposes-badaudio-malware-used-in-apt24-espionage-campaigns/)
-- [Hacker claims to steal 2.3TB data from Italian rail group, Almaviva](https://www.bleepingcomputer.com/news/security/hacker-claims-to-steal-23tb-data-from-italian-rail-group-almaviva/)
-- [ShadowRay 2.0 Exploits Unpatched Ray Flaw to Build Self-Spreading GPU Cryptomining Botnet](https://thehackernews.com/2025/11/shadowray-20-exploits-unpatched-ray.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
