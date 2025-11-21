@@ -1436,11 +1436,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [FCC rolls back cybersecurity rules for telcos, despite state-hacking risks](https://www.bleepingcomputer.com/news/security/fcc-rolls-back-cybersecurity-rules-for-telcos-despite-state-hacking-risks/)
+- [&#39;Scattered Spider&#39; teens plead not guilty to UK transport hack](https://www.bleepingcomputer.com/news/security/scattered-spider-teens-plead-not-guilty-to-uk-transport-hack/)
+- [Grafana Patches CVSS 10.0 SCIM Flaw Enabling Impersonation and Privilege Escalation](https://thehackernews.com/2025/11/grafana-patches-cvss-100-scim-flaw.html)
+- [Avast Makes AI-Driven Scam Defense Available for Free Worldwide](https://www.bleepingcomputer.com/news/security/avast-makes-ai-driven-scam-defense-available-for-free-worldwide/)
 - [Google begins showing ads in AI Mode &lpar;AI answers&rpar;](https://www.bleepingcomputer.com/news/artificial-intelligence/google-begins-showing-ads-in-ai-mode-ai-answers/)
-- [Google Brings AirDrop Compatibility to Android’s Quick Share Using Rust-Hardened Security](https://thehackernews.com/2025/11/google-adds-airdrop-compatibility-to.html)
-- [Why IT Admins Choose Samsung for Mobile Security](https://thehackernews.com/2025/11/why-it-admins-choose-samsung-for-mobile.html)
-- [APT24 Deploys BADAUDIO in Years-Long Espionage Hitting Taiwan and 1,000+ Domains](https://thehackernews.com/2025/11/apt24-deploys-badaudio-in-years-long.html)
-- [SEC Drops SolarWinds Case After Years of High-Stakes Cybersecurity Scrutiny](https://thehackernews.com/2025/11/sec-drops-solarwinds-case-after-years.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
