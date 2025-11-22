@@ -1450,11 +1450,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [WhatsApp API flaw let researchers scrape 3.5 billion accounts](https://www.bleepingcomputer.com/news/security/whatsapp-api-flaw-let-researchers-scrape-35-billion-accounts/)
 - [China-Linked APT31 Launches Stealthy Cyberattacks on Russian IT Using Cloud Services](https://thehackernews.com/2025/11/china-linked-apt31-launches-stealthy.html)
+- [Cox Enterprises discloses Oracle E-Business Suite data breach](https://www.bleepingcomputer.com/news/security/cox-enterprises-discloses-oracle-e-business-suite-data-breach/)
+- [Piecing Together the Puzzle: A Qilin Ransomware Investigation](https://www.bleepingcomputer.com/news/security/piecing-together-the-puzzle-a-qilin-ransomware-investigation/)
 - [Matrix Push C2 Uses Browser Notifications for Fileless, Cross-Platform Phishing Attacks](https://thehackernews.com/2025/11/matrix-push-c2-uses-browser.html)
-- [CISA Warns of Actively Exploited Critical Oracle Identity Manager Zero-Day Vulnerability](https://thehackernews.com/2025/11/cisa-warns-of-actively-exploited.html)
-- [CISA warns Oracle Identity Manager RCE flaw is being actively exploited](https://www.bleepingcomputer.com/news/security/cisa-warns-oracle-identity-manager-rce-flaw-is-being-actively-exploited/)
-- [Nvidia confirms October Windows updates cause gaming issues](https://www.bleepingcomputer.com/news/technology/nvidia-fixes-gaming-issues-caused-by-october-windows-update/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
