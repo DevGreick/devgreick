@@ -1449,11 +1449,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [China-Linked APT31 Launches Stealthy Cyberattacks on Russian IT Using Cloud Services](https://thehackernews.com/2025/11/china-linked-apt31-launches-stealthy.html)
 - [Matrix Push C2 Uses Browser Notifications for Fileless, Cross-Platform Phishing Attacks](https://thehackernews.com/2025/11/matrix-push-c2-uses-browser.html)
 - [CISA Warns of Actively Exploited Critical Oracle Identity Manager Zero-Day Vulnerability](https://thehackernews.com/2025/11/cisa-warns-of-actively-exploited.html)
 - [CISA warns Oracle Identity Manager RCE flaw is being actively exploited](https://www.bleepingcomputer.com/news/security/cisa-warns-oracle-identity-manager-rce-flaw-is-being-actively-exploited/)
 - [Nvidia confirms October Windows updates cause gaming issues](https://www.bleepingcomputer.com/news/technology/nvidia-fixes-gaming-issues-caused-by-october-windows-update/)
-- [Microsoft: Out-of-band update fixes Windows 11 hotpatch install loop](https://www.bleepingcomputer.com/news/microsoft/microsoft-out-of-band-update-fixes-windows-11-hotpatch-install-loop/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
