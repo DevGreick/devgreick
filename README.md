@@ -1459,11 +1459,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Iberia discloses customer data leak after vendor security breach](https://www.bleepingcomputer.com/news/security/iberia-discloses-customer-data-leak-after-vendor-security-breach/)
+- [New Costco Gold Star Members also get a $40 Digital Costco Shop Card*](https://www.bleepingcomputer.com/news/security/new-costco-gold-star-members-also-get-a-40-digital-costco-shop-card-/)
 - [WhatsApp API flaw let researchers scrape 3.5 billion accounts](https://www.bleepingcomputer.com/news/security/whatsapp-api-flaw-let-researchers-scrape-35-billion-accounts/)
 - [China-Linked APT31 Launches Stealthy Cyberattacks on Russian IT Using Cloud Services](https://thehackernews.com/2025/11/china-linked-apt31-launches-stealthy.html)
 - [Cox Enterprises discloses Oracle E-Business Suite data breach](https://www.bleepingcomputer.com/news/security/cox-enterprises-discloses-oracle-e-business-suite-data-breach/)
-- [Piecing Together the Puzzle: A Qilin Ransomware Investigation](https://www.bleepingcomputer.com/news/security/piecing-together-the-puzzle-a-qilin-ransomware-investigation/)
-- [Matrix Push C2 Uses Browser Notifications for Fileless, Cross-Platform Phishing Attacks](https://thehackernews.com/2025/11/matrix-push-c2-uses-browser.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
