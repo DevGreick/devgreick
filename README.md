@@ -1461,11 +1461,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Google enables Pixel-to-iPhone file sharing via Quick Share, AirDrop](https://www.bleepingcomputer.com/news/mobile/google-enables-pixel-to-iphone-file-sharing-via-quick-share-airdrop/)
+- [Enterprise password security and secrets management with Passwork 7](https://www.bleepingcomputer.com/news/security/enterprise-password-security-and-secrets-management-with-passwork-7/)
 - [Iberia discloses customer data leak after vendor security breach](https://www.bleepingcomputer.com/news/security/iberia-discloses-customer-data-leak-after-vendor-security-breach/)
-- [New Costco Gold Star Members also get a $40 Digital Costco Shop Card*](https://www.bleepingcomputer.com/news/security/new-costco-gold-star-members-also-get-a-40-digital-costco-shop-card-/)
+- [New Costco Gold Star Members also get a $40 Digital Costco Shop Card](https://www.bleepingcomputer.com/news/security/new-costco-gold-star-members-also-get-a-40-digital-costco-shop-card/)
 - [WhatsApp API flaw let researchers scrape 3.5 billion accounts](https://www.bleepingcomputer.com/news/security/whatsapp-api-flaw-let-researchers-scrape-35-billion-accounts/)
-- [China-Linked APT31 Launches Stealthy Cyberattacks on Russian IT Using Cloud Services](https://thehackernews.com/2025/11/china-linked-apt31-launches-stealthy.html)
-- [Cox Enterprises discloses Oracle E-Business Suite data breach](https://www.bleepingcomputer.com/news/security/cox-enterprises-discloses-oracle-e-business-suite-data-breach/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
