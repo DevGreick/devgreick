@@ -1472,11 +1472,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [New Fluent Bit Flaws Expose Cloud to RCE and Stealthy Infrastructure Intrusions](https://thehackernews.com/2025/11/new-fluent-bit-flaws-expose-cloud-to.html)
+- [SCCM and WSUS in a Hybrid World: Why It’s Time for Cloud-native Patching](https://www.bleepingcomputer.com/news/security/sccm-and-wsus-in-a-hybrid-world-why-its-time-for-cloud-native-patching/)
+- [Shai-Hulud malware infects 500 npm packages, leaks secrets on GitHub](https://www.bleepingcomputer.com/news/security/shai-hulud-malware-infects-500-npm-packages-leaks-secrets-on-github/)
 - [Harvard University discloses data breach affecting alumni, donors](https://www.bleepingcomputer.com/news/security/harvard-university-discloses-data-breach-affecting-alumni-donors/)
 - [Microsoft tests File Explorer preloading for faster performance](https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-file-explorer-preloading-for-faster-launches/)
-- [Second Sha1-Hulud Wave Affects 25,000+ Repositories via npm Preinstall Credential Theft](https://thehackernews.com/2025/11/second-sha1-hulud-wave-affects-25000.html)
-- [⚡ Weekly Recap: Fortinet Exploit, Chrome 0-Day, BadIIS Malware, Record DDoS, SaaS Breach &amp; More](https://thehackernews.com/2025/11/weekly-recap-fortinet-exploit-chrome-0.html)
-- [Microsoft to remove WINS support after Windows Server 2025](https://www.bleepingcomputer.com/news/microsoft/microsoft-to-remove-wins-support-after-windows-server-2025/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
