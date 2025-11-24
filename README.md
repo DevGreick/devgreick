@@ -1475,11 +1475,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Malicious Blender model files deliver StealC infostealing malware](https://www.bleepingcomputer.com/news/security/malicious-blender-model-files-deliver-stealc-infostealing-malware/)
+- [ClickFix attack uses fake Windows Update screen to push malware](https://www.bleepingcomputer.com/news/security/clickfix-attack-uses-fake-windows-update-screen-to-push-malware/)
 - [Real-estate finance services giant SitusAMC breach exposes client data](https://www.bleepingcomputer.com/news/security/real-estate-finance-services-giant-situsamc-breach-exposes-client-data/)
 - [New Fluent Bit Flaws Expose Cloud to RCE and Stealthy Infrastructure Intrusions](https://thehackernews.com/2025/11/new-fluent-bit-flaws-expose-cloud-to.html)
 - [SCCM and WSUS in a Hybrid World: Why It’s Time for Cloud-native Patching](https://www.bleepingcomputer.com/news/security/sccm-and-wsus-in-a-hybrid-world-why-its-time-for-cloud-native-patching/)
-- [Shai-Hulud malware infects 500 npm packages, leaks secrets on GitHub](https://www.bleepingcomputer.com/news/security/shai-hulud-malware-infects-500-npm-packages-leaks-secrets-on-github/)
-- [Harvard University discloses data breach affecting alumni, donors](https://www.bleepingcomputer.com/news/security/harvard-university-discloses-data-breach-affecting-alumni-donors/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
