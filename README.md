@@ -1471,11 +1471,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Harvard University discloses data breach affecting alumni, donors](https://www.bleepingcomputer.com/news/security/harvard-university-discloses-data-breach-affecting-alumni-donors/)
+- [Microsoft tests File Explorer preloading for faster performance](https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-file-explorer-preloading-for-faster-launches/)
+- [Second Sha1-Hulud Wave Affects 25,000+ Repositories via npm Preinstall Credential Theft](https://thehackernews.com/2025/11/second-sha1-hulud-wave-affects-25000.html)
+- [⚡ Weekly Recap: Fortinet Exploit, Chrome 0-Day, BadIIS Malware, Record DDoS, SaaS Breach &amp; More](https://thehackernews.com/2025/11/weekly-recap-fortinet-exploit-chrome-0.html)
 - [Microsoft to remove WINS support after Windows Server 2025](https://www.bleepingcomputer.com/news/microsoft/microsoft-to-remove-wins-support-after-windows-server-2025/)
-- [Chinese DeepSeek-R1 AI Generates Insecure Code When Prompts Mention Tibet or Uyghurs](https://thehackernews.com/2025/11/chinese-ai-model-deepseek-r1-generates.html)
-- [Microsoft: Windows 11 24H2 bug crashes Explorer and Start Menu](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-24h2-bug-crashes-key-system-components/)
-- [ShadowPad Malware Actively Exploits WSUS Vulnerability for Full System Access](https://thehackernews.com/2025/11/shadowpad-malware-actively-exploits.html)
-- [Google enables Pixel-to-iPhone file sharing via Quick Share, AirDrop](https://www.bleepingcomputer.com/news/mobile/google-enables-pixel-to-iphone-file-sharing-via-quick-share-airdrop/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
