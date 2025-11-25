@@ -1486,11 +1486,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [The Black Friday 2025 Cybersecurity, IT, VPN, &amp; Antivirus Deals](https://www.bleepingcomputer.com/news/security/the-black-friday-2025-cybersecurity-it-vpn-and-antivirus-deals/)
 - [FBI: Cybercriminals stole $262M by impersonating bank support teams](https://www.bleepingcomputer.com/news/security/fbi-cybercriminals-stole-262-million-by-impersonating-bank-support-teams-since-january/)
 - [Tor switches to new Counter Galois Onion relay encryption algorithm](https://www.bleepingcomputer.com/news/security/tor-switches-to-new-counter-galois-onion-relay-encryption-algorithm/)
 - [Years of JSONFormatter and CodeBeautify Leaks Expose Thousands of Passwords and API Keys](https://thehackernews.com/2025/11/years-of-jsonformatter-and-codebeautify.html)
 - [Microsoft: Exchange Online outage blocks access to Outlook mailboxes](https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-outage-blocks-access-to-outlook-mailboxes/)
-- [Microsoft is speeding up the Teams desktop client for Windows](https://www.bleepingcomputer.com/news/microsoft/microsoft-to-boost-teams-performance-with-new-call-handler/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
