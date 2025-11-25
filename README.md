@@ -1484,11 +1484,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft is speeding up the Teams desktop client for Windows](https://www.bleepingcomputer.com/news/microsoft/microsoft-to-boost-teams-performance-with-new-call-handler/)
+- [JackFix Uses Fake Windows Update Pop-Ups on Adult Sites to Deliver Multiple Stealers](https://thehackernews.com/2025/11/jackfix-uses-fake-windows-update-pop.html)
 - [Year-end approaches: How to maximize your cyber spend](https://www.bleepingcomputer.com/news/security/year-end-approaches-how-to-maximize-your-cyber-spend/)
-- [Code-formatters expose thousands of secrets from banks, govt, tech orgs](https://www.bleepingcomputer.com/news/security/code-formatters-expose-thousands-of-secrets-from-banks-govt-tech-orgs/)
+- [Code beautifiers expose credentials from banks, govt, tech orgs](https://www.bleepingcomputer.com/news/security/code-beautifiers-expose-credentials-from-banks-govt-tech-orgs/)
 - [ToddyCat’s New Hacking Tools Steal Outlook Emails and Microsoft 365 Access Tokens](https://thehackernews.com/2025/11/toddycats-new-hacking-tools-steal.html)
-- [3 SOC Challenges You Need to Solve Before 2026](https://thehackernews.com/2025/11/3-soc-challenges-you-need-to-solve.html)
-- [Hackers Hijack Blender 3D Assets to Deploy StealC V2 Data-Stealing Malware](https://thehackernews.com/2025/11/hackers-hijack-blender-3d-assets-to.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
