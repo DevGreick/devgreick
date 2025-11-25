@@ -1483,11 +1483,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Year-end approaches: How to maximize your cyber spend](https://www.bleepingcomputer.com/news/security/year-end-approaches-how-to-maximize-your-cyber-spend/)
 - [Code-formatters expose thousands of secrets from banks, govt, tech orgs](https://www.bleepingcomputer.com/news/security/code-formatters-expose-thousands-of-secrets-from-banks-govt-tech-orgs/)
+- [ToddyCat’s New Hacking Tools Steal Outlook Emails and Microsoft 365 Access Tokens](https://thehackernews.com/2025/11/toddycats-new-hacking-tools-steal.html)
 - [3 SOC Challenges You Need to Solve Before 2026](https://thehackernews.com/2025/11/3-soc-challenges-you-need-to-solve.html)
 - [Hackers Hijack Blender 3D Assets to Deploy StealC V2 Data-Stealing Malware](https://thehackernews.com/2025/11/hackers-hijack-blender-3d-assets-to.html)
-- [Dartmouth College confirms data breach after Clop extortion attack](https://www.bleepingcomputer.com/news/security/dartmouth-college-confirms-data-breach-after-clop-extortion-attack/)
-- [CISA Warns of Active Spyware Campaigns Hijacking High-Value Signal and WhatsApp Users](https://thehackernews.com/2025/11/cisa-warns-of-active-spyware-campaigns.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
