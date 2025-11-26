@@ -1497,11 +1497,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Shai-Hulud v2 Campaign Spreads From npm to Maven, Exposing Thousands of Secrets](https://thehackernews.com/2025/11/shai-hulud-v2-campaign-spreads-from-npm.html)
+- [Multiple London councils&#39; IT systems disrupted by cyberattack](https://www.bleepingcomputer.com/news/security/multiple-london-councils-it-systems-disrupted-by-cyberattack/)
 - [Microsoft: Security keys may prompt for PIN after recent updates](https://www.bleepingcomputer.com/news/microsoft/microsoft-fido2-security-keys-may-prompt-for-pin-after-recent-windows-updates/)
 - [Qilin Ransomware Turns South Korean MSP Breach Into 28-Victim &#39;Korean Leaks&#39; Data Heist](https://thehackernews.com/2025/11/qilin-ransomware-turns-south-korean-msp.html)
 - [Microsoft to secure Entra ID sign-ins from script injection attacks](https://www.bleepingcomputer.com/news/microsoft/microsoft-to-secure-entra-id-sign-ins-from-external-script-injection-attacks/)
-- [When Your $2M Security Detection Fails: Can your SOC Save You?](https://thehackernews.com/2025/11/when-your-2m-security-detection-fails.html)
-- [ASUS warns of new critical auth bypass flaw in AiCloud routers](https://www.bleepingcomputer.com/news/security/asus-warns-of-new-critical-auth-bypass-flaw-in-aicloud-routers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
