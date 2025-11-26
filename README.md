@@ -1495,11 +1495,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft to secure Entra ID sign-ins from script injection attacks](https://www.bleepingcomputer.com/news/microsoft/microsoft-to-secure-entra-id-sign-ins-from-external-script-injection-attacks/)
+- [When Your $2M Security Detection Fails: Can your SOC Save You?](https://thehackernews.com/2025/11/when-your-2m-security-detection-fails.html)
 - [ASUS warns of new critical auth bypass flaw in AiCloud routers](https://www.bleepingcomputer.com/news/security/asus-warns-of-new-critical-auth-bypass-flaw-in-aicloud-routers/)
 - [Webinar: Learn to Spot Risks and Patch Safely with Community-Maintained Tools](https://thehackernews.com/2025/11/webinar-learn-to-spot-risks-and-patch.html)
 - [Chrome Extension Caught Injecting Hidden Solana Transfer Fees Into Raydium Swaps](https://thehackernews.com/2025/11/chrome-extension-caught-injecting.html)
-- [RomCom Uses SocGholish Fake Update Attacks to Deliver Mythic Agent Malware](https://thehackernews.com/2025/11/romcom-uses-socgholish-fake-update.html)
-- [FBI Reports $262M in ATO Fraud as Researchers Cite Growing AI Phishing and Holiday Scams](https://thehackernews.com/2025/11/fbi-reports-262m-in-ato-fraud-as.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
