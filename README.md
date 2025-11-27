@@ -1504,11 +1504,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Gainsight Expands Impacted Customer List Following Salesforce Security Alert](https://thehackernews.com/2025/11/gainsight-expands-impacted-customer.html)
 - [New ShadowV2 botnet malware used AWS outage as a test opportunity](https://www.bleepingcomputer.com/news/security/new-shadowv2-botnet-malware-used-aws-outage-as-a-test-opportunity/)
 - [NordVPN Black Friday Deal: Unlock 77% off VPN plans in 2025](https://www.bleepingcomputer.com/news/security/nordvpn-black-friday-deal-unlock-77-percent-off-vpn-plans-in-2025/)
 - [Popular Forge library gets fix for signature verification bypass flaw](https://www.bleepingcomputer.com/news/security/popular-forge-library-gets-fix-for-signature-verification-bypass-flaw/)
 - [Comcast to pay $1.5M fine for vendor breach affecting 270K customers](https://www.bleepingcomputer.com/news/security/comcast-to-pay-15-million-fine-after-a-vendor-data-breach-affecting-270-000-customers/)
-- [Shai-Hulud v2 Spreads From npm to Maven, as Campaign Exposes Thousands of Secrets](https://thehackernews.com/2025/11/shai-hulud-v2-campaign-spreads-from-npm.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
