@@ -1506,7 +1506,7 @@
 - [NordVPN Black Friday Deal: Unlock 77% off VPN plans in 2025](https://www.bleepingcomputer.com/news/security/nordvpn-black-friday-deal-unlock-77-percent-off-vpn-plans-in-2025/)
 - [Popular Forge library gets fix for signature verification bypass flaw](https://www.bleepingcomputer.com/news/security/popular-forge-library-gets-fix-for-signature-verification-bypass-flaw/)
 - [Comcast to pay $1.5M fine for vendor breach affecting 270K customers](https://www.bleepingcomputer.com/news/security/comcast-to-pay-15-million-fine-after-a-vendor-data-breach-affecting-270-000-customers/)
-- [Shai-Hulud v2 Campaign Spreads From npm to Maven, Exposing Thousands of Secrets](https://thehackernews.com/2025/11/shai-hulud-v2-campaign-spreads-from-npm.html)
+- [Shai-Hulud v2 Spreads From npm to Maven, as Campaign Exposes Thousands of Secrets](https://thehackernews.com/2025/11/shai-hulud-v2-campaign-spreads-from-npm.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
