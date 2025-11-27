@@ -1510,11 +1510,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Bloody Wolf Expands Java-based NetSupport RAT Attacks in Kyrgyzstan and Uzbekistan](https://thehackernews.com/2025/11/bloody-wolf-expands-java-based.html)
 - [Microsoft to Block Unauthorized Scripts in Entra ID Logins with 2026 CSP Update](https://thehackernews.com/2025/11/microsoft-to-block-unauthorized-scripts.html)
 - [Webinar: Learn to Spot Risks and Patch Safely with Community-Maintained Tools](https://thehackernews.com/2025/11/webinar-learn-to-spot-risks-and-patch.html)
 - [OpenAI discloses API customer data breach via Mixpanel vendor hack](https://www.bleepingcomputer.com/news/security/openai-discloses-api-customer-data-breach-via-mixpanel-vendor-hack/)
 - [ThreatsDay Bulletin: AI Malware, Voice Bot Flaws, Crypto Laundering, IoT Attacks — and 20 More Stories](https://thehackernews.com/2025/11/threatsday-bulletin-ai-malware-voice.html)
-- [Gainsight Expands Impacted Customer List Following Salesforce Security Alert](https://thehackernews.com/2025/11/gainsight-expands-impacted-customer.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
