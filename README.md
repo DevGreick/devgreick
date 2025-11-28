@@ -1521,11 +1521,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft: Windows updates make password login option invisible](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-updates-hide-password-icon-on-lock-screen/)
+- [Public GitLab repositories exposed more than 17,000 secrets](https://www.bleepingcomputer.com/news/security/public-gitlab-repositories-exposed-more-than-17-000-secrets/)
+- [Legacy Python Bootstrap Scripts Create Domain-Takeover Risk in Multiple PyPI Packages](https://thehackernews.com/2025/11/legacy-python-bootstrap-scripts-create.html)
+- [North Korean Hackers Deploy 197 npm Packages to Spread Updated OtterCookie Malware](https://thehackernews.com/2025/11/north-korean-hackers-deploy-197-npm.html)
 - [French Football Federation discloses data breach after cyberattack](https://www.bleepingcomputer.com/news/security/french-football-federation-fff-discloses-data-breach-after-cyberattack/)
-- [Why Organizations Are Turning to RPAM](https://thehackernews.com/2025/11/why-organizations-are-turning-to-rpam.html)
-- [MS Teams Guest Access Can Remove Defender Protection When Users Join External Tenants](https://thehackernews.com/2025/11/ms-teams-guest-access-can-remove.html)
-- [Bloody Wolf Expands Java-based NetSupport RAT Attacks in Kyrgyzstan and Uzbekistan](https://thehackernews.com/2025/11/bloody-wolf-expands-java-based.html)
-- [Malicious LLMs empower inexperienced hackers with advanced tools](https://www.bleepingcomputer.com/news/security/malicious-llms-empower-inexperienced-hackers-with-advanced-tools/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
