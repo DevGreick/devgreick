@@ -1520,11 +1520,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [French Football Federation discloses data breach after cyberattack](https://www.bleepingcomputer.com/news/security/french-football-federation-fff-discloses-data-breach-after-cyberattack/)
 - [Why Organizations Are Turning to RPAM](https://thehackernews.com/2025/11/why-organizations-are-turning-to-rpam.html)
 - [MS Teams Guest Access Can Remove Defender Protection When Users Join External Tenants](https://thehackernews.com/2025/11/ms-teams-guest-access-can-remove.html)
 - [Bloody Wolf Expands Java-based NetSupport RAT Attacks in Kyrgyzstan and Uzbekistan](https://thehackernews.com/2025/11/bloody-wolf-expands-java-based.html)
 - [Malicious LLMs empower inexperienced hackers with advanced tools](https://www.bleepingcomputer.com/news/security/malicious-llms-empower-inexperienced-hackers-with-advanced-tools/)
-- [Microsoft to Block Unauthorized Scripts in Entra ID Logins with 2026 CSP Update](https://thehackernews.com/2025/11/microsoft-to-block-unauthorized-scripts.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
