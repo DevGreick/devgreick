@@ -24,9 +24,14 @@
 
   <!-- CVE-LIST:START -->
 <details>
-<summary><strong>Vulnerabilidades exploradas conhecidas da CISA</strong>  •  atualizado 28/11/2025 16:15 UTC  •  exibindo 10 itens</summary>
+<summary><strong>Vulnerabilidades exploradas conhecidas da CISA</strong>  •  atualizado 28/11/2025 18:17 UTC  •  exibindo 10 itens</summary>
 
 > Fonte: CISA Known Exploited Vulnerabilities
+
+- **CVE-2021-26829** - OpenPLC ScadaBR Cross-site Scripting Vulnerability  
+  Fornecedor: OpenPLC | Produto: ScadaBR | Adicionado: 2025-11-28  
+  OpenPLC ScadaBR contains a cross-site scripting vulnerability via system_settings.shtm.  
+  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
 
 - **CVE-2025-61757** - Oracle Fusion Middleware Missing Authentication for Critical Function Vulnerability  
   Fornecedor: Oracle | Produto: Fusion Middleware | Adicionado: 2025-11-21  
@@ -73,12 +78,8 @@
   CWP Control Web Panel (formerly CentOS Web Panel) contains an OS command Injection vulnerability that allows unauthenticated remote code execution via shell metacharacters in the t_total parameter in a filemanager changePerm request. A valid non-root username must be known.  
   Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
 
-- **CVE-2025-11371** - Gladinet CentreStack and Triofox Files or Directories Accessible to External Parties Vulnerability  
-  Fornecedor: Gladinet | Produto: CentreStack and Triofox | Adicionado: 2025-11-04  
-  Gladinet CentreStack and Triofox contains a files or directories accessible to external parties vulnerability that allows unintended disclosure of system files.  
-  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
-
 </details>
+
 
 
 
