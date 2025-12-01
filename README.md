@@ -1559,11 +1559,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Glassworm malware returns in third wave of malicious VS Code packages](https://www.bleepingcomputer.com/news/security/glassworm-malware-returns-in-third-wave-of-malicious-vs-code-packages/)
 - [SmartTube YouTube app for Android TV breached to push malicious update](https://www.bleepingcomputer.com/news/security/smarttube-youtube-app-for-android-tv-breached-to-push-malicious-update/)
 - [India Orders Phone Makers to Pre-Install Sanchar Saathi App to Tackle Telecom Fraud](https://thehackernews.com/2025/12/india-orders-phone-makers-to-pre.html)
 - [Microsoft says new Outlook can&#39;t open some Excel attachments](https://www.bleepingcomputer.com/news/microsoft/microsoft-says-new-outlook-cant-open-some-excel-attachments/)
 - [ShadyPanda Turns Popular Browser Extensions with 4.3 Million Installs Into Spyware](https://thehackernews.com/2025/12/shadypanda-turns-popular-browser.html)
-- [Retail giant Coupang data breach impacts 33.7 million customers](https://www.bleepingcomputer.com/news/security/retail-giant-coupang-suffers-data-breach-impacting-337-million-people/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
