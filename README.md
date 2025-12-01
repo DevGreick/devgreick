@@ -1557,11 +1557,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [India Orders Phone Makers to Pre-Install Sanchar Saathi App to Tackle Telecom Fraud](https://thehackernews.com/2025/12/india-orders-phone-makers-to-pre.html)
+- [Microsoft says new Outlook can&#39;t open some Excel attachments](https://www.bleepingcomputer.com/news/microsoft/microsoft-says-new-outlook-cant-open-some-excel-attachments/)
+- [ShadyPanda Turns Popular Browser Extensions with 4.3 Million Installs Into Spyware](https://thehackernews.com/2025/12/shadypanda-turns-popular-browser.html)
+- [Retail giant Coupang data breach impacts 33.7 million customers](https://www.bleepingcomputer.com/news/security/retail-giant-coupang-suffers-data-breach-impacting-337-million-people/)
 - [When Hackers Wear Suits: Protecting Your Team from Insider Cyber Threats](https://www.bleepingcomputer.com/news/security/when-hackers-wear-suits-protecting-your-team-from-insider-cyber-threats/)
-- [ShadyPanda browser extensions amass 4.3M installs in malicious campaign](https://www.bleepingcomputer.com/news/security/shadypanda-browser-extensions-amass-43m-installs-in-malicious-campaign/)
-- [⚡ Weekly Recap: Hot CVEs, npm Worm Returns, Firefox RCE, M365 Email Raid &amp; More](https://thehackernews.com/2025/12/weekly-recap-hot-cves-npm-worm-returns.html)
-- [Google deletes X post after getting caught using a ‘stolen’ AI recipe infographic](https://www.bleepingcomputer.com/news/artificial-intelligence/google-deletes-x-post-after-getting-caught-using-a-stolen-ai-recipe-infographic/)
-- [Webinar: The &quot;Agentic&quot; Trojan Horse: Why the New AI Browsers War is a Nightmare for Security Teams](https://thehackernews.com/2025/12/webinar-agentic-trojan-horse-why-new-ai.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
