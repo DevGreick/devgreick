@@ -1555,11 +1555,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [⚡ Weekly Recap: Hot CVEs, npm Worm Returns, Firefox RCE, M365 Email Raid &amp; More](https://thehackernews.com/2025/12/weekly-recap-hot-cves-npm-worm-returns.html)
 - [Google deletes X post after getting caught using a ‘stolen’ AI recipe infographic](https://www.bleepingcomputer.com/news/artificial-intelligence/google-deletes-x-post-after-getting-caught-using-a-stolen-ai-recipe-infographic/)
 - [Webinar: The &quot;Agentic&quot; Trojan Horse: Why the New AI Browsers War is a Nightmare for Security Teams](https://thehackernews.com/2025/12/webinar-agentic-trojan-horse-why-new-ai.html)
 - [Police takes down Cryptomixer cryptocurrency mixing service](https://www.bleepingcomputer.com/news/security/police-takes-down-cryptomixer-cryptocurrency-mixing-service/)
 - [New Albiriox MaaS Malware Targets 400+ Apps for On-Device Fraud and Screen Control](https://thehackernews.com/2025/12/new-albiriox-maas-malware-targets-400.html)
-- [Tomiris Shifts to Public-Service Implants for Stealthier C2 in Attacks on Government Targets](https://thehackernews.com/2025/12/tomiris-shifts-to-public-service.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
