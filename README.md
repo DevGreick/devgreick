@@ -1556,11 +1556,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [When Hackers Wear Suits: Protecting Your Team from Insider Cyber Threats](https://www.bleepingcomputer.com/news/security/when-hackers-wear-suits-protecting-your-team-from-insider-cyber-threats/)
+- [ShadyPanda browser extensions amass 4.3M installs in malicious campaign](https://www.bleepingcomputer.com/news/security/shadypanda-browser-extensions-amass-43m-installs-in-malicious-campaign/)
 - [⚡ Weekly Recap: Hot CVEs, npm Worm Returns, Firefox RCE, M365 Email Raid &amp; More](https://thehackernews.com/2025/12/weekly-recap-hot-cves-npm-worm-returns.html)
 - [Google deletes X post after getting caught using a ‘stolen’ AI recipe infographic](https://www.bleepingcomputer.com/news/artificial-intelligence/google-deletes-x-post-after-getting-caught-using-a-stolen-ai-recipe-infographic/)
 - [Webinar: The &quot;Agentic&quot; Trojan Horse: Why the New AI Browsers War is a Nightmare for Security Teams](https://thehackernews.com/2025/12/webinar-agentic-trojan-horse-why-new-ai.html)
-- [Police takes down Cryptomixer cryptocurrency mixing service](https://www.bleepingcomputer.com/news/security/police-takes-down-cryptomixer-cryptocurrency-mixing-service/)
-- [New Albiriox MaaS Malware Targets 400+ Apps for On-Device Fraud and Screen Control](https://thehackernews.com/2025/12/new-albiriox-maas-malware-targets-400.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
