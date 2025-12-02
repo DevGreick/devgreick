@@ -1566,11 +1566,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [SecAlerts Cuts Through the Noise with a Smarter, Faster Way to Track Vulnerabilities](https://thehackernews.com/2025/12/secalerts-cuts-through-noise-with.html)
+- [Windows 11 KB5070311 update fixes File Explorer freezes, search issues](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5070311-update-fixes-file-explorer-freezes-search-issues/)
 - [Google Patches 107 Android Flaws, Including Two Framework Bugs Exploited in the Wild](https://thehackernews.com/2025/12/google-patches-107-android-flaws.html)
 - [Glassworm malware returns in third wave of malicious VS Code packages](https://www.bleepingcomputer.com/news/security/glassworm-malware-returns-in-third-wave-of-malicious-vs-code-packages/)
 - [SmartTube YouTube app for Android TV breached to push malicious update](https://www.bleepingcomputer.com/news/security/smarttube-youtube-app-for-android-tv-breached-to-push-malicious-update/)
-- [India Orders Phone Makers to Pre-Install Government App to Tackle Telecom Fraud](https://thehackernews.com/2025/12/india-orders-phone-makers-to-pre.html)
-- [Microsoft says new Outlook can&#39;t open some Excel attachments](https://www.bleepingcomputer.com/news/microsoft/microsoft-says-new-outlook-cant-open-some-excel-attachments/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
