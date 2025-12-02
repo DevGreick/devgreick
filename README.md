@@ -1567,11 +1567,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft: KB5070311 triggers File Explorer white flash in dark mode](https://www.bleepingcomputer.com/news/microsoft/microsoft-kb5070311-triggers-file-explorer-bright-white-flashes-in-dark-mode/)
+- [University of Pennsylvania confirms new data breach after Oracle hack](https://www.bleepingcomputer.com/news/security/university-of-pennsylvania-confirms-data-theft-after-oracle-ebs-hack/)
 - [SecAlerts Cuts Through the Noise with a Smarter, Faster Way to Track Vulnerabilities](https://thehackernews.com/2025/12/secalerts-cuts-through-noise-with.html)
 - [Windows 11 KB5070311 update fixes File Explorer freezes, search issues](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5070311-update-fixes-file-explorer-freezes-search-issues/)
 - [Google Patches 107 Android Flaws, Including Two Framework Bugs Exploited in the Wild](https://thehackernews.com/2025/12/google-patches-107-android-flaws.html)
-- [Glassworm malware returns in third wave of malicious VS Code packages](https://www.bleepingcomputer.com/news/security/glassworm-malware-returns-in-third-wave-of-malicious-vs-code-packages/)
-- [SmartTube YouTube app for Android TV breached to push malicious update](https://www.bleepingcomputer.com/news/security/smarttube-youtube-app-for-android-tv-breached-to-push-malicious-update/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
