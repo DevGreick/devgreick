@@ -24,9 +24,19 @@
 
   <!-- CVE-LIST:START -->
 <details>
-<summary><strong>Vulnerabilidades exploradas conhecidas da CISA</strong>  •  atualizado 02/12/2025 16:18 UTC  •  exibindo 10 itens</summary>
+<summary><strong>Vulnerabilidades exploradas conhecidas da CISA</strong>  •  atualizado 02/12/2025 18:20 UTC  •  exibindo 10 itens</summary>
 
 > Fonte: CISA Known Exploited Vulnerabilities
+
+- **CVE-2025-48633** - Android Framework Information Disclosure Vulnerability  
+  Fornecedor: Android | Produto: Framework | Adicionado: 2025-12-02  
+  Android Framework contains an unspecified vulnerability that allows for information disclosure.  
+  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
+
+- **CVE-2025-48572** - Android Framework Privilege Escalation Vulnerability  
+  Fornecedor: Android | Produto: Framework | Adicionado: 2025-12-02  
+  Android Framework contains an unspecified vulnerability that allows for privilege escalation.  
+  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
 
 - **CVE-2021-26829** - OpenPLC ScadaBR Cross-site Scripting Vulnerability  
   Fornecedor: OpenPLC | Produto: ScadaBR | Adicionado: 2025-11-28  
@@ -68,17 +78,8 @@
   WatchGuard Firebox contains an out-of-bounds write vulnerability in the OS iked process that may allow a remote unauthenticated attacker to execute arbitrary code.  
   Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
 
-- **CVE-2025-21042** - Samsung Mobile Devices Out-of-Bounds Write Vulnerability  
-  Fornecedor: Samsung | Produto: Mobile Devices | Adicionado: 2025-11-10  
-  Samsung mobile devices contain an out-of-bounds write vulnerability in libimagecodec.quram.so. This vulnerability could allow remote attackers to execute arbitrary code.  
-  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
-
-- **CVE-2025-48703** - CWP Control Web Panel OS Command Injection Vulnerability  
-  Fornecedor: CWP | Produto: Control Web Panel | Adicionado: 2025-11-04  
-  CWP Control Web Panel (formerly CentOS Web Panel) contains an OS command Injection vulnerability that allows unauthenticated remote code execution via shell metacharacters in the t_total parameter in a filemanager changePerm request. A valid non-root username must be known.  
-  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
-
 </details>
+
 
 
 
