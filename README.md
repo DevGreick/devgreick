@@ -1578,11 +1578,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Chopping AI Down to Size: Turning Disruptive Technology into a Strategic Advantage](https://thehackernews.com/2025/12/chopping-ai-down-to-size-turning.html)
 - [Picklescan Bugs Allow Malicious PyTorch Models to Evade Scans and Execute Code](https://thehackernews.com/2025/12/picklescan-bugs-allow-malicious-pytorch.html)
 - [Malicious Rust Crate Delivers OS-Specific Malware to Web3 Developer Systems](https://thehackernews.com/2025/12/malicious-rust-crate-delivers-os.html)
 - [Korea arrests suspects selling intimate videos from hacked IP cameras](https://www.bleepingcomputer.com/news/security/korea-arrests-suspects-selling-intimate-videos-from-hacked-ip-cameras/)
 - [FTC settlement requires Illuminate to delete unnecessary student data](https://www.bleepingcomputer.com/news/security/ftc-settlement-requires-illuminate-to-delete-unnecessary-student-data/)
-- [ChatGPT is down worldwide, conversations disappeared for users](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-is-down-worldwide-conversations-disappeared-for-users/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
