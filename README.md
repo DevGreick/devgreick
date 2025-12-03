@@ -1577,11 +1577,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Picklescan Bugs Allow Malicious PyTorch Models to Evade Scans and Execute Code](https://thehackernews.com/2025/12/picklescan-bugs-allow-malicious-pytorch.html)
+- [Malicious Rust Crate Delivers OS-Specific Malware to Web3 Developer Systems](https://thehackernews.com/2025/12/malicious-rust-crate-delivers-os.html)
 - [Korea arrests suspects selling intimate videos from hacked IP cameras](https://www.bleepingcomputer.com/news/security/korea-arrests-suspects-selling-intimate-videos-from-hacked-ip-cameras/)
 - [FTC settlement requires Illuminate to delete unnecessary student data](https://www.bleepingcomputer.com/news/security/ftc-settlement-requires-illuminate-to-delete-unnecessary-student-data/)
-- [ChatGPT is down worldwide, conversations dissapeared for users](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-is-down-worldwide-conversations-dissapeared-for-users/)
-- [Shai-Hulud 2.0 NPM malware attack exposed up to 400,000 dev secrets](https://www.bleepingcomputer.com/news/security/shai-hulud-20-npm-malware-attack-exposed-up-to-400-000-dev-secrets/)
-- [India Orders Messaging Apps to Work Only With Active SIM Cards to Prevent Fraud and Misuse](https://thehackernews.com/2025/12/india-orders-messaging-apps-to-work.html)
+- [ChatGPT is down worldwide, conversations disappeared for users](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-is-down-worldwide-conversations-disappeared-for-users/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
