@@ -1580,11 +1580,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Deep dive into DragonForce ransomware and its Scattered Spider connection](https://www.bleepingcomputer.com/news/security/deep-dive-into-dragonforce-ransomware-and-its-scattered-spider-connection/)
 - [Aisuru botnet behind new record-breaking 29.7 Tbps DDoS attack](https://www.bleepingcomputer.com/news/security/aisuru-botnet-behind-new-record-breaking-297-tbps-ddos-attack/)
 - [University of Phoenix discloses data breach after Oracle hack](https://www.bleepingcomputer.com/news/security/university-of-phoenix-discloses-data-breach-after-oracle-hack/)
 - [Discover the AI Tools Fueling the Next Cybercrime Wave — Watch the Webinar](https://thehackernews.com/2025/12/discover-ai-tools-fueling-next.html)
 - [Chopping AI Down to Size: Turning Disruptive Technology into a Strategic Advantage](https://thehackernews.com/2025/12/chopping-ai-down-to-size-turning.html)
-- [Picklescan Bugs Allow Malicious PyTorch Models to Evade Scans and Execute Code](https://thehackernews.com/2025/12/picklescan-bugs-allow-malicious-pytorch.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
