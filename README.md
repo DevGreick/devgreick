@@ -1582,11 +1582,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Critical RSC Bugs in React and Next.js Allow Unauthenticated Remote Code Execution](https://thehackernews.com/2025/12/critical-rsc-bugs-in-react-and-nextjs.html)
+- [Discover the AI Tools Fueling the Next Cybercrime Wave — Watch the Webinar](https://thehackernews.com/2025/12/discover-ai-tools-fueling-next.html)
 - [Microsoft Silently Patches Windows LNK Flaw After Years of Active Exploitation](https://thehackernews.com/2025/12/microsoft-silently-patches-windows-lnk.html)
 - [Russia blocks Roblox over distribution of LGBT &quot;propaganda&quot;](https://www.bleepingcomputer.com/news/security/russia-blocks-roblox-over-distribution-of-lgbt-propaganda/)
 - [WordPress King Addons Flaw Under Active Attack Lets Hackers Make Admin Accounts](https://thehackernews.com/2025/12/wordpress-king-addons-flaw-under-active.html)
-- [Google expands Android scam protection feature to Chase, Cash App in U.S.](https://www.bleepingcomputer.com/news/security/google-expands-android-scam-protection-feature-to-chase-cash-app-in-us/)
-- [Microsoft &quot;mitigates&quot; Windows LNK flaw exploited as zero-day](https://www.bleepingcomputer.com/news/microsoft/microsoft-mitigates-windows-lnk-flaw-exploited-as-zero-day/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
