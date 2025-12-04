@@ -1595,11 +1595,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
-- [Russia blocks FaceTime and Snapchat over use in terrorist attacks](https://www.bleepingcomputer.com/news/security/russia-blocks-facetime-and-snapchat-over-use-in-terrorist-attacks/)
+- [Predator spyware uses new infection vector for zero-click attacks](https://www.bleepingcomputer.com/news/security/predator-spyware-uses-new-infection-vector-for-zero-click-attacks/)
+- [Russia blocks FaceTime and Snapchat for alleged use by terrorists](https://www.bleepingcomputer.com/news/security/russia-blocks-facetime-and-snapchat-over-use-in-terrorist-attacks/)
 - [CISA warns of Chinese &quot;BrickStorm&quot; malware attacks on VMware servers](https://www.bleepingcomputer.com/news/security/cisa-warns-of-chinese-brickstorm-malware-attacks-on-vmware-servers/)
 - [Silver Fox Uses Fake Microsoft Teams Installer to Spread ValleyRAT Malware in China](https://thehackernews.com/2025/12/silver-fox-uses-fake-microsoft-teams.html)
 - [Contractors with hacking records accused of wiping 96 govt databases](https://www.bleepingcomputer.com/news/security/contractors-with-hacking-records-accused-of-wiping-96-govt-databases/)
-- [Critical React, Next.js flaw lets hackers execute code on servers](https://www.bleepingcomputer.com/news/security/critical-react2shell-flaw-in-react-nextjs-lets-hackers-run-javascript-code/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
