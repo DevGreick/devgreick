@@ -1592,11 +1592,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Critical React, Next.js flaw lets hackers execute code on servers](https://www.bleepingcomputer.com/news/security/critical-react2shell-flaw-in-react-nextjs-lets-hackers-run-javascript-code/)
+- [How strong password policies secure OT systems against cyber threats](https://www.bleepingcomputer.com/news/security/how-strong-password-policies-secure-ot-systems-against-cyber-threats/)
 - [Microsoft 365 license check bug blocks desktop app downloads](https://www.bleepingcomputer.com/news/microsoft/microsoft-bug-in-microsoft-365-license-checks-blocks-desktop-app-downloads/)
 - [ThreatsDay Bulletin: Wi-Fi Hack, npm Worm, DeFi Theft, Phishing Blasts— and 15 More Stories](https://thehackernews.com/2025/12/threatsday-bulletin-wi-fi-hack-npm-worm.html)
 - [5 Threats That Reshaped Web Security This Year [2025]](https://thehackernews.com/2025/12/5-threats-that-reshaped-web-security.html)
-- [GoldFactory Hits Southeast Asia with Modified Banking Apps Driving 11,000+ Infections](https://thehackernews.com/2025/12/goldfactory-hits-southeast-asia-with.html)
-- [Record 29.7 Tbps DDoS Attack Linked to AISURU Botnet with up to 4 Million Infected Hosts](https://thehackernews.com/2025/12/record-297-tbps-ddos-attack-linked-to.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
