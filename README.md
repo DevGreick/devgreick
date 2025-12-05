@@ -1602,11 +1602,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Intellexa Leaks Reveal Zero-Days and Ads-Based Vector for Predator Spyware Delivery](https://thehackernews.com/2025/12/intellexa-leaks-reveal-zero-days-and.html)
+- [&quot;Getting to Yes&quot;: An Anti-Sales Guide for MSPs](https://thehackernews.com/2025/12/getting-to-yes-anti-sales-guide-for-msps.html)
+- [React2Shell critical flaw actively exploited in China-linked attacks](https://www.bleepingcomputer.com/news/security/react2shell-critical-flaw-actively-exploited-in-china-linked-attacks/)
 - [Cloudflare down, websites offline with 500 Internal Server Error](https://www.bleepingcomputer.com/news/technology/cloudflare-down-websites-offline-with-500-internal-server-error/)
 - [CISA Reports PRC Hackers Using BRICKSTORM for Long-Term Access in U.S. Systems](https://thehackernews.com/2025/12/cisa-reports-prc-hackers-using.html)
-- [JPCERT Confirms Active Command Injection Attacks on Array AG Gateways](https://thehackernews.com/2025/12/jpcert-confirms-active-command.html)
-- [Hackers are exploiting ArrayOS AG VPN flaw to plant webshells](https://www.bleepingcomputer.com/news/security/hackers-are-exploiting-arrayos-ag-vpn-flaw-to-plant-webshells/)
-- [NCSC&#39;s ‘Proactive Notifications’ warns orgs of flaws in exposed devices](https://www.bleepingcomputer.com/news/security/ncscs-proactive-notifications-warns-orgs-of-flaws-in-exposed-devices/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
