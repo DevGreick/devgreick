@@ -24,9 +24,14 @@
 
   <!-- CVE-LIST:START -->
 <details>
-<summary><strong>Vulnerabilidades exploradas conhecidas da CISA</strong>  •  atualizado 05/12/2025 14:13 UTC  •  exibindo 10 itens</summary>
+<summary><strong>Vulnerabilidades exploradas conhecidas da CISA</strong>  •  atualizado 05/12/2025 16:16 UTC  •  exibindo 10 itens</summary>
 
 > Fonte: CISA Known Exploited Vulnerabilities
+
+- **CVE-2025-55182** - Meta React Server Components Remote Code Execution Vulnerability  
+  Fornecedor: Meta | Produto: React Server Components | Adicionado: 2025-12-05  
+  Meta React Server Components contains a remote code execution vulnerability that could allow unauthenticated remote code execution by exploiting a flaw in how React decodes payloads sent to React Server Function endpoints.  
+  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
 
 - **CVE-2021-26828** - OpenPLC ScadaBR Unrestricted Upload of File with Dangerous Type Vulnerability  
   Fornecedor: OpenPLC | Produto: ScadaBR | Adicionado: 2025-12-03  
@@ -73,12 +78,8 @@
   Gladinet Triofox contains an improper access control vulnerability that allows access to initial setup pages even after setup is complete.  
   Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
 
-- **CVE-2025-62215** - Microsoft Windows Race Condition Vulnerability  
-  Fornecedor: Microsoft | Produto: Windows | Adicionado: 2025-11-12  
-  Microsoft Windows Kernel contains a race condition vulnerability that allows a local attacker with low-level privileges to escalate privileges. Successful exploitation of this vulnerability could enable the attacker to gain SYSTEM-level access.  
-  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
-
 </details>
+
 
 
 
