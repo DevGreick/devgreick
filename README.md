@@ -1605,11 +1605,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [FBI warns of virtual kidnapping scams using altered social media photos](https://www.bleepingcomputer.com/news/security/fbi-warns-of-virtual-kidnapping-ransom-scams-using-altered-social-media-photos/)
+- [Critical XXE Bug CVE-2025-66516 &lpar;CVSS 10.0&rpar; Hits Apache Tika, Requires Urgent Patch](https://thehackernews.com/2025/12/critical-xxe-bug-cve-2025-66516-cvss.html)
+- [A Practical Guide to Continuous Attack Surface Visibility](https://www.bleepingcomputer.com/news/security/a-practical-guide-to-continuous-attack-surface-visibility/)
 - [EU fines X $140 million over deceptive blue checkmarks](https://www.bleepingcomputer.com/news/security/eu-fines-x-140-million-over-deceptive-blue-checkmarks-transparency-violations/)
 - [Chinese Hackers Have Started Exploiting the Newly Disclosed React2Shell Vulnerability](https://thehackernews.com/2025/12/chinese-hackers-have-started-exploiting.html)
-- [Cloudflare blames today&#39;s outage on emergency React2Shell patch](https://www.bleepingcomputer.com/news/security/cloudflare-blames-todays-outage-on-emergency-react2shell-patch/)
-- [Pharma firm Inotiv discloses data breach after ransomware attack](https://www.bleepingcomputer.com/news/security/pharma-firm-inotiv-discloses-data-breach-after-ransomware-attack/)
-- [Intellexa Leaks Reveal Zero-Days and Ads-Based Vector for Predator Spyware Delivery](https://thehackernews.com/2025/12/intellexa-leaks-reveal-zero-days-and.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
