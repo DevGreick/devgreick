@@ -1604,11 +1604,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [EU fines X $140 million over deceptive blue checkmarks](https://www.bleepingcomputer.com/news/security/eu-fines-x-140-million-over-deceptive-blue-checkmarks-transparency-violations/)
+- [Chinese Hackers Have Started Exploiting the Newly Disclosed React2Shell Vulnerability](https://thehackernews.com/2025/12/chinese-hackers-have-started-exploiting.html)
 - [Cloudflare blames today&#39;s outage on emergency React2Shell patch](https://www.bleepingcomputer.com/news/security/cloudflare-blames-todays-outage-on-emergency-react2shell-patch/)
 - [Pharma firm Inotiv discloses data breach after ransomware attack](https://www.bleepingcomputer.com/news/security/pharma-firm-inotiv-discloses-data-breach-after-ransomware-attack/)
 - [Intellexa Leaks Reveal Zero-Days and Ads-Based Vector for Predator Spyware Delivery](https://thehackernews.com/2025/12/intellexa-leaks-reveal-zero-days-and.html)
-- [&quot;Getting to Yes&quot;: An Anti-Sales Guide for MSPs](https://thehackernews.com/2025/12/getting-to-yes-anti-sales-guide-for-msps.html)
-- [React2Shell critical flaw actively exploited in China-linked attacks](https://www.bleepingcomputer.com/news/security/react2shell-critical-flaw-actively-exploited-in-china-linked-attacks/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
