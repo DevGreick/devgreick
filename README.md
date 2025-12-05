@@ -1603,11 +1603,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Cloudflare blames today&#39;s outage on emergency React2Shell patch](https://www.bleepingcomputer.com/news/security/cloudflare-blames-todays-outage-on-emergency-react2shell-patch/)
+- [Pharma firm Inotiv discloses data breach after ransomware attack](https://www.bleepingcomputer.com/news/security/pharma-firm-inotiv-discloses-data-breach-after-ransomware-attack/)
 - [Intellexa Leaks Reveal Zero-Days and Ads-Based Vector for Predator Spyware Delivery](https://thehackernews.com/2025/12/intellexa-leaks-reveal-zero-days-and.html)
 - [&quot;Getting to Yes&quot;: An Anti-Sales Guide for MSPs](https://thehackernews.com/2025/12/getting-to-yes-anti-sales-guide-for-msps.html)
 - [React2Shell critical flaw actively exploited in China-linked attacks](https://www.bleepingcomputer.com/news/security/react2shell-critical-flaw-actively-exploited-in-china-linked-attacks/)
-- [Cloudflare down, websites offline with 500 Internal Server Error](https://www.bleepingcomputer.com/news/technology/cloudflare-down-websites-offline-with-500-internal-server-error/)
-- [CISA Reports PRC Hackers Using BRICKSTORM for Long-Term Access in U.S. Systems](https://thehackernews.com/2025/12/cisa-reports-prc-hackers-using.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
