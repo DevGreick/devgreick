@@ -1618,11 +1618,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [React2Shell flaw exploited to breach 30 orgs, 77k IP addresses vulnerable](https://www.bleepingcomputer.com/news/security/react2shell-flaw-exploited-to-breach-30-orgs-77k-ip-addresses-vulnerable/)
 - [Researchers Uncover 30+ Flaws in AI Coding Tools Enabling Data Theft and RCE Attacks](https://thehackernews.com/2025/12/researchers-uncover-30-flaws-in-ai.html)
+- [New wave of VPN login attempts targets Palo Alto GlobalProtect portals](https://www.bleepingcomputer.com/news/security/new-wave-of-vpn-login-attempts-targets-palo-alto-globalprotect-portals/)
 - [Critical React2Shell Flaw Added to CISA KEV After Confirmed Active Exploitation](https://thehackernews.com/2025/12/critical-react2shell-flaw-added-to-cisa.html)
 - [Barts Health NHS discloses data breach after Oracle zero-day hack](https://www.bleepingcomputer.com/news/security/barts-health-nhs-discloses-data-breach-after-oracle-zero-day-hack/)
-- [Zero-Click Agentic Browser Attack Can Delete Entire Google Drive Using Crafted Emails](https://thehackernews.com/2025/12/zero-click-agentic-browser-attack-can.html)
-- [FBI warns of virtual kidnapping scams using altered social media photos](https://www.bleepingcomputer.com/news/security/fbi-warns-of-virtual-kidnapping-ransom-scams-using-altered-social-media-photos/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
