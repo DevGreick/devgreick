@@ -1631,11 +1631,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI denies rolling out ads on ChatGPT paid plans](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-denies-rolling-out-ads-on-chatgpt-paid-plans/)
 - [Portugal updates cybercrime law to exempt security researchers](https://www.bleepingcomputer.com/news/security/portugal-updates-cybercrime-law-to-exempt-security-researchers/)
 - [React2Shell flaw exploited to breach 30 orgs, 77k IP addresses vulnerable](https://www.bleepingcomputer.com/news/security/react2shell-flaw-exploited-to-breach-30-orgs-77k-ip-addresses-vulnerable/)
 - [Researchers Uncover 30+ Flaws in AI Coding Tools Enabling Data Theft and RCE Attacks](https://thehackernews.com/2025/12/researchers-uncover-30-flaws-in-ai.html)
 - [New wave of VPN login attempts targets Palo Alto GlobalProtect portals](https://www.bleepingcomputer.com/news/security/new-wave-of-vpn-login-attempts-targets-palo-alto-globalprotect-portals/)
-- [Critical React2Shell Flaw Added to CISA KEV After Confirmed Active Exploitation](https://thehackernews.com/2025/12/critical-react2shell-flaw-added-to-cisa.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
