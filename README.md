@@ -1640,11 +1640,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [How Agentic BAS AI Turns Threat Headlines Into Defense Strategies](https://www.bleepingcomputer.com/news/security/how-agentic-bas-ai-turns-threat-headlines-into-defense-strategies/)
 - [⚡ Weekly Recap: USB Malware, React2Shell, WhatsApp Worms, AI IDE Bugs &amp; More](https://thehackernews.com/2025/12/weekly-recap-usb-malware-react2shell.html)
 - [How Can Retailers Cyber-Prepare for the Most Vulnerable Time of the Year?](https://thehackernews.com/2025/12/how-can-retailers-cyber-prepare-for.html)
 - [Android Malware FvncBot, SeedSnatcher, and ClayRat Gain Stronger Data Theft Features](https://thehackernews.com/2025/12/android-malware-fvncbot-seedsnatcher.html)
 - [Sneeit WordPress RCE Exploited in the Wild While ICTBroadcast Bug Fuels Frost Botnet Attacks](https://thehackernews.com/2025/12/sneeit-wordpress-rce-exploited-in-wild.html)
-- [MuddyWater Deploys UDPGangster Backdoor in Targeted Turkey-Israel-Azerbaijan Campaign](https://thehackernews.com/2025/12/muddywater-deploys-udpgangster-backdoor.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
