@@ -24,9 +24,19 @@
 
   <!-- CVE-LIST:START -->
 <details>
-<summary><strong>Vulnerabilidades exploradas conhecidas da CISA</strong>  •  atualizado 08/12/2025 18:20 UTC  •  exibindo 10 itens</summary>
+<summary><strong>Vulnerabilidades exploradas conhecidas da CISA</strong>  •  atualizado 08/12/2025 20:14 UTC  •  exibindo 10 itens</summary>
 
 > Fonte: CISA Known Exploited Vulnerabilities
+
+- **CVE-2022-37055** - D-Link Routers Buffer Overflow Vulnerability  
+  Fornecedor: D-Link | Produto: Routers | Adicionado: 2025-12-08  
+  D-Link Routers contains a buffer overflow vulnerability that has a high impact on confidentiality, integrity, and availability. The impacted products could be end-of-life (EoL) and/or end-of-service (EoS). Users should discontinue product utilization.  
+  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
+
+- **CVE-2025-66644** - Array Networks ArrayOS AG OS Command Injection Vulnerability  
+  Fornecedor: Array Networks  | Produto: ArrayOS AG | Adicionado: 2025-12-08  
+  Array Networks ArrayOS AG contains an OS command injection vulnerability that could allow an attacker to execute arbitrary commands.  
+  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
 
 - **CVE-2025-55182** - Meta React Server Components Remote Code Execution Vulnerability  
   Fornecedor: Meta | Produto: React Server Components | Adicionado: 2025-12-05  
@@ -68,17 +78,8 @@
   Fortinet FortiWeb contains an OS command Injection vulnerability that may allow an authenticated attacker to execute unauthorized code on the underlying system via crafted HTTP requests or CLI commands.  
   Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
 
-- **CVE-2025-64446** - Fortinet FortiWeb Path Traversal Vulnerability  
-  Fornecedor: Fortinet | Produto: FortiWeb | Adicionado: 2025-11-14  
-  Fortinet FortiWeb contains a relative path traversal vulnerability that may allow an unauthenticated attacker to execute administrative commands on the system via crafted HTTP or HTTPS requests.  
-  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
-
-- **CVE-2025-12480** - Gladinet Triofox Improper Access Control Vulnerability  
-  Fornecedor: Gladinet | Produto: Triofox | Adicionado: 2025-11-12  
-  Gladinet Triofox contains an improper access control vulnerability that allows access to initial setup pages even after setup is complete.  
-  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
-
 </details>
+
 
 
 
