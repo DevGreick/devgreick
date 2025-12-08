@@ -1637,11 +1637,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Sneeit WordPress RCE Exploited in the Wild While ICTBroadcast Bug Fuels Frost Botnet Attacks](https://thehackernews.com/2025/12/sneeit-wordpress-rce-exploited-in-wild.html)
 - [MuddyWater Deploys UDPGangster Backdoor in Targeted Turkey-Israel-Azerbaijan Campaign](https://thehackernews.com/2025/12/muddywater-deploys-udpgangster-backdoor.html)
 - [OpenAI denies rolling out ads on ChatGPT paid plans](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-denies-rolling-out-ads-on-chatgpt-paid-plans/)
 - [Portugal updates cybercrime law to exempt security researchers](https://www.bleepingcomputer.com/news/security/portugal-updates-cybercrime-law-to-exempt-security-researchers/)
 - [React2Shell flaw exploited to breach 30 orgs, 77k IP addresses vulnerable](https://www.bleepingcomputer.com/news/security/react2shell-flaw-exploited-to-breach-30-orgs-77k-ip-addresses-vulnerable/)
-- [Researchers Uncover 30+ Flaws in AI Coding Tools Enabling Data Theft and RCE Attacks](https://thehackernews.com/2025/12/researchers-uncover-30-flaws-in-ai.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
