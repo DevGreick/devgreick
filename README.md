@@ -1653,11 +1653,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Ivanti warns of critical Endpoint Manager code execution flaw](https://www.bleepingcomputer.com/news/security/ivanti-warns-of-critical-endpoint-manager-code-execution-flaw/)
+- [Maintaining enterprise IT hygiene using Wazuh SIEM/XDR](https://www.bleepingcomputer.com/news/security/maintaining-enterprise-it-hygiene-using-wazuh-siem-xdr/)
+- [Spain arrests teen who stole 64 million personal data records](https://www.bleepingcomputer.com/news/security/spain-arrests-teen-who-stole-64-million-personal-data-records/)
+- [Four Threat Clusters Using CastleLoader as GrayBravo Expands Its Malware Service Infrastructure](https://thehackernews.com/2025/12/four-threat-clusters-using-castleloader.html)
 - [North Korean hackers exploit React2Shell flaw in EtherRAT malware attacks](https://www.bleepingcomputer.com/news/security/north-korean-hackers-exploit-react2shell-flaw-in-etherrat-malware-attacks/)
-- [Ransomware IAB abuses EDR for stealthy malware execution](https://www.bleepingcomputer.com/news/security/ransomware-iab-abuses-edr-for-stealthy-malware-execution/)
-- [Storm-0249 Escalates Ransomware Attacks with ClickFix, Fileless PowerShell, and DLL Sideloading](https://thehackernews.com/2025/12/storm-0249-escalates-ransomware-attacks.html)
-- [Microsoft investigates Copilot outage affecting users in Europe](https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-copilot-outage-affecting-users-in-europe/)
-- [How to Streamline Zero Trust Using the Shared Signals Framework](https://thehackernews.com/2025/12/how-to-streamline-zero-trust-using.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
