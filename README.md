@@ -1652,10 +1652,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Microsoft investigates Copilot outage affecting users in Europe](https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-copilot-outage-affecting-users-in-europe/)
+- [How to Streamline Zero Trust Using the Shared Signals Framework](https://thehackernews.com/2025/12/how-to-streamline-zero-trust-using.html)
+- [Google Adds Layered Defenses to Chrome to Block Indirect Prompt Injection Threats](https://thehackernews.com/2025/12/google-adds-layered-defenses-to-chrome.html)
 - [STAC6565 Targets Canada in 80% of Attacks as Gold Blade Deploys QWCrypt Ransomware](https://thehackernews.com/2025/12/stac6565-targets-canada-in-80-of.html)
 - [Researchers Find Malicious VS Code, Go, npm, and Rust Packages Stealing Developer Data](https://thehackernews.com/2025/12/researchers-find-malicious-vs-code-go.html)
-- [Ransomware gangs turn to Shanya EXE packer to hide EDR killers](https://www.bleepingcomputer.com/news/security/ransomware-gangs-turn-to-shanya-exe-packer-to-hide-edr-killers/)
-- [Malicious VSCode extensions on Microsoft&#39;s registry drop infostealers](https://www.bleepingcomputer.com/news/security/malicious-vscode-extensions-on-microsofts-registry-drop-infostealers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
