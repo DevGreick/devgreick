@@ -1644,11 +1644,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Ransomware gangs turn to Shanya EXE packer to hide EDR killers](https://www.bleepingcomputer.com/news/security/ransomware-gangs-turn-to-shanya-exe-packer-to-hide-edr-killers/)
+- [Malicious VSCode extensions on Microsoft&#39;s registry drop infostealers](https://www.bleepingcomputer.com/news/security/malicious-vscode-extensions-on-microsofts-registry-drop-infostealers/)
 - [FinCEN says ransomware gangs extorted over $2.1B from 2022 to 2024](https://www.bleepingcomputer.com/news/security/fincen-says-ransomware-gangs-extorted-over-21b-from-2022-to-2024/)
 - [Poland arrests Ukrainians utilizing &#39;advanced&#39; hacking equipment](https://www.bleepingcomputer.com/news/security/poland-arrests-ukrainians-utilizing-advanced-hacking-equipment/)
 - [Google Chrome adds new security layer for Gemini AI agentic browsing](https://www.bleepingcomputer.com/news/security/google-chrome-adds-new-security-layer-for-gemini-ai-agentic-browsing/)
-- [Experts Confirm JS#SMUGGLER Uses Compromised Sites to Deploy NetSupport RAT](https://thehackernews.com/2025/12/experts-confirm-jssmuggler-uses.html)
-- [How Agentic BAS AI Turns Threat Headlines Into Defense Strategies](https://www.bleepingcomputer.com/news/security/how-agentic-bas-ai-turns-threat-headlines-into-defense-strategies/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
