@@ -1655,11 +1655,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Windows PowerShell now warns when running Invoke-WebRequest scripts](https://www.bleepingcomputer.com/news/security/microsoft-windows-powershell-now-warns-when-running-invoke-webrequest-scripts/)
 - [Microsoft releases Windows 10 KB5071546 extended security update](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5071546-extended-security-update/)
 - [Microsoft December 2025 Patch Tuesday fixes 3 zero-days, 57 flaws](https://www.bleepingcomputer.com/news/microsoft/microsoft-december-2025-patch-tuesday-fixes-3-zero-days-57-flaws/)
 - [Fortinet warns of critical FortiCloud SSO login auth bypass flaws](https://www.bleepingcomputer.com/news/security/fortinet-warns-of-critical-forticloud-sso-login-auth-bypass-flaws/)
 - [Windows 11 KB5072033 &amp; KB5071417 cumulative updates released](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5072033-and-kb5071417-cumulative-updates-released/)
-- [North Korea-linked Actors Exploit React2Shell to Deploy New EtherRAT Malware](https://thehackernews.com/2025/12/north-korea-linked-actors-exploit.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
