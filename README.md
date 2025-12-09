@@ -24,9 +24,19 @@
 
   <!-- CVE-LIST:START -->
 <details>
-<summary><strong>Vulnerabilidades exploradas conhecidas da CISA</strong>  •  atualizado 09/12/2025 18:17 UTC  •  exibindo 10 itens</summary>
+<summary><strong>Vulnerabilidades exploradas conhecidas da CISA</strong>  •  atualizado 09/12/2025 20:13 UTC  •  exibindo 10 itens</summary>
 
 > Fonte: CISA Known Exploited Vulnerabilities
+
+- **CVE-2025-6218** - RARLAB WinRAR Path Traversal Vulnerability  
+  Fornecedor: RARLAB | Produto: WinRAR | Adicionado: 2025-12-09  
+  RARLAB WinRAR contains a path traversal vulnerability allowing an attacker to execute code in the context of the current user.  
+  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
+
+- **CVE-2025-62221** - Microsoft Windows Use After Free Vulnerability  
+  Fornecedor: Microsoft | Produto: Windows | Adicionado: 2025-12-09  
+  Microsoft Windows Cloud Files Mini Filter Driver contains a use after free vulnerability that can allow an authorized attacker to elevate privileges locally.  
+  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
 
 - **CVE-2022-37055** - D-Link Routers Buffer Overflow Vulnerability  
   Fornecedor: D-Link | Produto: Routers | Adicionado: 2025-12-08  
@@ -68,17 +78,8 @@
   Oracle Fusion Middleware contains a missing authentication for critical function vulnerability, allowing unauthenticated remote attackers to take over Identity Manager.  
   Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
 
-- **CVE-2025-13223** - Google Chromium V8 Type Confusion Vulnerability  
-  Fornecedor: Google | Produto: Chromium V8 | Adicionado: 2025-11-19  
-  Google Chromium V8 contains a type confusion vulnerability that allows for heap corruption.  
-  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
-
-- **CVE-2025-58034** - Fortinet FortiWeb OS Command Injection Vulnerability  
-  Fornecedor: Fortinet | Produto: FortiWeb | Adicionado: 2025-11-18  
-  Fortinet FortiWeb contains an OS command Injection vulnerability that may allow an authenticated attacker to execute unauthorized code on the underlying system via crafted HTTP requests or CLI commands.  
-  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
-
 </details>
+
 
 
 
