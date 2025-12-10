@@ -1662,11 +1662,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Ukrainian hacker charged with helping Russian hacktivist groups](https://www.bleepingcomputer.com/news/security/ukrainian-hacker-charged-with-helping-russian-hacktivist-groups/)
+- [Webinar: How Attackers Exploit Cloud Misconfigurations Across AWS, AI Models, and Kubernetes](https://thehackernews.com/2025/12/webinar-how-attackers-exploit-cloud.html)
+- [Warning: WinRAR Vulnerability CVE-2025-6218 Under Active Attack by Multiple Threat Groups](https://thehackernews.com/2025/12/warning-winrar-vulnerability-cve-2025.html)
 - [Microsoft Issues Security Fixes for 56 Flaws, Including Active Exploit and Two Zero-Days](https://thehackernews.com/2025/12/microsoft-issues-security-fixes-for-56.html)
 - [Fortinet, Ivanti, and SAP Issue Urgent Patches for Authentication and Code Execution Flaws](https://thehackernews.com/2025/12/fortinet-ivanti-and-sap-issue-urgent.html)
-- [SAP fixes three critical vulnerabilities across multiple products](https://www.bleepingcomputer.com/news/security/sap-fixes-three-critical-vulnerabilities-across-multiple-products/)
-- [Windows PowerShell now warns when running Invoke-WebRequest scripts](https://www.bleepingcomputer.com/news/security/microsoft-windows-powershell-now-warns-when-running-invoke-webrequest-scripts/)
-- [Microsoft releases Windows 10 KB5071546 extended security update](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5071546-extended-security-update/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
