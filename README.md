@@ -1666,11 +1666,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft Teams to warn of suspicious traffic with external domains](https://www.bleepingcomputer.com/news/security/microsoft-teams-to-warn-of-suspicious-traffic-with-external-domains/)
+- [.NET SOAPwn Flaw Opens Door for File Writes and Remote Code Execution via Rogue WSDL](https://thehackernews.com/2025/12/net-soapwn-flaw-opens-door-for-file.html)
+- [Over 10,000 Docker Hub images found leaking credentials, auth keys](https://www.bleepingcomputer.com/news/security/over-10-000-docker-hub-images-found-leaking-credentials-auth-keys/)
 - [Why a secure software development life cycle is critical for manufacturers](https://www.bleepingcomputer.com/news/security/why-a-secure-software-development-life-cycle-is-critical-for-manufacturers/)
 - [New Spiderman phishing service targets dozens of European banks](https://www.bleepingcomputer.com/news/security/new-spiderman-phishing-service-targets-dozens-of-european-banks/)
-- [Three PCIe Encryption Weaknesses Expose PCIe 5.0+ Systems to Faulty Data Handling](https://thehackernews.com/2025/12/three-pcie-encryption-weaknesses-expose.html)
-- [Ukrainian hacker charged with helping Russian hacktivist groups](https://www.bleepingcomputer.com/news/security/ukrainian-hacker-charged-with-helping-russian-hacktivist-groups/)
-- [Webinar: How Attackers Exploit Cloud Misconfigurations Across AWS, AI Models, and Kubernetes](https://thehackernews.com/2025/12/webinar-how-attackers-exploit-cloud.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
