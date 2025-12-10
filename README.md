@@ -1667,11 +1667,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [New DroidLock malware locks Android devices and demands a ransom](https://www.bleepingcomputer.com/news/security/new-droidlock-malware-locks-android-devices-and-demands-a-ransom/)
+- [React2Shell Exploitation Delivers Crypto Miners and New Malware Across Multiple Sectors](https://thehackernews.com/2025/12/react2shell-exploitation-delivers.html)
 - [Microsoft Teams to warn of suspicious traffic with external domains](https://www.bleepingcomputer.com/news/security/microsoft-teams-to-warn-of-suspicious-traffic-with-external-domains/)
 - [.NET SOAPwn Flaw Opens Door for File Writes and Remote Code Execution via Rogue WSDL](https://thehackernews.com/2025/12/net-soapwn-flaw-opens-door-for-file.html)
 - [Over 10,000 Docker Hub images found leaking credentials, auth keys](https://www.bleepingcomputer.com/news/security/over-10-000-docker-hub-images-found-leaking-credentials-auth-keys/)
-- [Why a secure software development life cycle is critical for manufacturers](https://www.bleepingcomputer.com/news/security/why-a-secure-software-development-life-cycle-is-critical-for-manufacturers/)
-- [New Spiderman phishing service targets dozens of European banks](https://www.bleepingcomputer.com/news/security/new-spiderman-phishing-service-targets-dozens-of-european-banks/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
