@@ -24,9 +24,14 @@
 
   <!-- CVE-LIST:START -->
 <details>
-<summary><strong>Vulnerabilidades exploradas conhecidas da CISA</strong>  •  atualizado 11/12/2025 18:18 UTC  •  exibindo 10 itens</summary>
+<summary><strong>Vulnerabilidades exploradas conhecidas da CISA</strong>  •  atualizado 11/12/2025 20:16 UTC  •  exibindo 10 itens</summary>
 
 > Fonte: CISA Known Exploited Vulnerabilities
+
+- **CVE-2025-58360** - OSGeo GeoServer Improper Restriction of XML External Entity Reference Vulnerability  
+  Fornecedor: OSGeo | Produto: GeoServer | Adicionado: 2025-12-11  
+  OSGeo GeoServer contains an improper restriction of XML external entity reference vulnerability that occurs when the application accepts XML input through a specific endpoint /geoserver/wms operation GetMap and could allow an attacker to define external entities within the XML request.  
+  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
 
 - **CVE-2025-6218** - RARLAB WinRAR Path Traversal Vulnerability  
   Fornecedor: RARLAB | Produto: WinRAR | Adicionado: 2025-12-09  
@@ -73,12 +78,8 @@
   OpenPLC ScadaBR contains a cross-site scripting vulnerability via system_settings.shtm.  
   Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
 
-- **CVE-2025-61757** - Oracle Fusion Middleware Missing Authentication for Critical Function Vulnerability  
-  Fornecedor: Oracle | Produto: Fusion Middleware | Adicionado: 2025-11-21  
-  Oracle Fusion Middleware contains a missing authentication for critical function vulnerability, allowing unauthenticated remote attackers to take over Identity Manager.  
-  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
-
 </details>
+
 
 
 
