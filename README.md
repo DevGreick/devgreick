@@ -1675,11 +1675,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [ThreatsDay Bulletin: Spyware Alerts, Mirai Strikes, Docker Leaks, ValleyRAT Rootkit — and 20 More Stories](https://thehackernews.com/2025/12/threatsday-bulletin-spyware-alerts.html)
+- [Hackers exploit unpatched Gogs zero-day to breach 700 servers](https://www.bleepingcomputer.com/news/security/unpatched-gogs-zero-day-rce-flaw-actively-exploited-in-attacks/)
+- [NANOREMOTE Malware Uses Google Drive API for Hidden Control on Windows Systems](https://thehackernews.com/2025/12/nanoremote-malware-uses-google-drive.html)
+- [The Impact of Robotic Process Automation &lpar;RPA&rpar; on Identity and Access Management](https://thehackernews.com/2025/12/the-impact-of-robotic-process.html)
 - [WIRTE Leverages AshenLoader Sideloading to Install the AshTag Espionage Backdoor](https://thehackernews.com/2025/12/wirte-leverages-ashenloader-sideloading.html)
-- [Unpatched Gogs Zero-Day Exploited Across 700+ Instances Amid Active Attacks](https://thehackernews.com/2025/12/unpatched-gogs-zero-day-exploited.html)
-- [Microsoft fixes Windows Explorer white flashes in dark mode](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-explorer-white-flashes-in-dark-mode/)
-- [Google fixes eighth Chrome zero-day exploited in attacks in 2025](https://www.bleepingcomputer.com/news/security/google-fixes-eighth-chrome-zero-day-exploited-in-attacks-in-2025/)
-- [Chrome Targeted by Active In-the-Wild Exploit Tied to Undisclosed High-Severity Flaw](https://thehackernews.com/2025/12/chrome-targeted-by-active-in-wild.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
