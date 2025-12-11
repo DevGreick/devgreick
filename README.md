@@ -1676,11 +1676,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft bounty program now includes any flaw impacting its services](https://www.bleepingcomputer.com/news/microsoft/microsoft-bounty-program-now-includes-any-flaw-impacting-its-services/)
+- [New ConsentFix attack hijacks Microsoft accounts via Azure CLI](https://www.bleepingcomputer.com/news/security/new-consentfix-attack-hijacks-microsoft-accounts-via-azure-cli/)
+- [AI is accelerating cyberattacks. Is your network prepared?](https://www.bleepingcomputer.com/news/security/ai-is-accelerating-cyberattacks-is-your-network-prepared/)
 - [ThreatsDay Bulletin: Spyware Alerts, Mirai Strikes, Docker Leaks, ValleyRAT Rootkit — and 20 More Stories](https://thehackernews.com/2025/12/threatsday-bulletin-spyware-alerts.html)
 - [Hackers exploit unpatched Gogs zero-day to breach 700 servers](https://www.bleepingcomputer.com/news/security/unpatched-gogs-zero-day-rce-flaw-actively-exploited-in-attacks/)
-- [NANOREMOTE Malware Uses Google Drive API for Hidden Control on Windows Systems](https://thehackernews.com/2025/12/nanoremote-malware-uses-google-drive.html)
-- [The Impact of Robotic Process Automation &lpar;RPA&rpar; on Identity and Access Management](https://thehackernews.com/2025/12/the-impact-of-robotic-process.html)
-- [WIRTE Leverages AshenLoader Sideloading to Install the AshTag Espionage Backdoor](https://thehackernews.com/2025/12/wirte-leverages-ashenloader-sideloading.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
