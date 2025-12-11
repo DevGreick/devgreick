@@ -1674,11 +1674,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [WIRTE Leverages AshenLoader Sideloading to Install the AshTag Espionage Backdoor](https://thehackernews.com/2025/12/wirte-leverages-ashenloader-sideloading.html)
+- [Unpatched Gogs Zero-Day Exploited Across 700+ Instances Amid Active Attacks](https://thehackernews.com/2025/12/unpatched-gogs-zero-day-exploited.html)
 - [Microsoft fixes Windows Explorer white flashes in dark mode](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-explorer-white-flashes-in-dark-mode/)
 - [Google fixes eighth Chrome zero-day exploited in attacks in 2025](https://www.bleepingcomputer.com/news/security/google-fixes-eighth-chrome-zero-day-exploited-in-attacks-in-2025/)
 - [Chrome Targeted by Active In-the-Wild Exploit Tied to Undisclosed High-Severity Flaw](https://thehackernews.com/2025/12/chrome-targeted-by-active-in-wild.html)
-- [Active Attacks Exploit Gladinet&#39;s Hard-Coded Keys for Unauthorized Access and Code Execution](https://thehackernews.com/2025/12/hard-coded-gladinet-keys-let-attackers.html)
-- [Google ads for shared ChatGPT, Grok guides push macOS infostealer malware](https://www.bleepingcomputer.com/news/security/google-ads-for-shared-chatgpt-grok-guides-push-macos-infostealer-malware/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
