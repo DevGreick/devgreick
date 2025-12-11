@@ -1679,11 +1679,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Hackers exploit Gladinet CentreStack cryptographic flaw in RCE attacks](https://www.bleepingcomputer.com/news/security/hackers-exploit-gladinet-centrestack-cryptographic-flaw-in-rce-attacks/)
+- [Notepad++ fixes flaw that let attackers push malicious update files](https://www.bleepingcomputer.com/news/security/notepad-plus-plus-fixes-flaw-that-let-attackers-push-malicious-update-files/)
+- [Malicious VSCode Marketplace extensions hid trojan in fake PNG file](https://www.bleepingcomputer.com/news/security/malicious-vscode-marketplace-extensions-hid-trojan-in-fake-png-file/)
 - [UK fines LastPass over 2022 data breach impacting 1.6 million users](https://www.bleepingcomputer.com/news/security/uk-fines-lastpass-over-2022-data-breach-impacting-16-million-users/)
 - [Microsoft bounty program now includes any flaw impacting its services](https://www.bleepingcomputer.com/news/microsoft/microsoft-bounty-program-now-includes-any-flaw-impacting-its-services/)
-- [New ConsentFix attack hijacks Microsoft accounts via Azure CLI](https://www.bleepingcomputer.com/news/security/new-consentfix-attack-hijacks-microsoft-accounts-via-azure-cli/)
-- [AI is accelerating cyberattacks. Is your network prepared?](https://www.bleepingcomputer.com/news/security/ai-is-accelerating-cyberattacks-is-your-network-prepared/)
-- [ThreatsDay Bulletin: Spyware Alerts, Mirai Strikes, Docker Leaks, ValleyRAT Rootkit — and 20 More Stories](https://thehackernews.com/2025/12/threatsday-bulletin-spyware-alerts.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
