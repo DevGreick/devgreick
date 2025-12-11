@@ -1668,11 +1668,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Google ads for shared ChatGPT, Grok guides push macOS infostealer malware](https://www.bleepingcomputer.com/news/security/google-ads-for-shared-chatgpt-grok-guides-push-macos-infostealer-malware/)
 - [New DroidLock malware locks Android devices and demands a ransom](https://www.bleepingcomputer.com/news/security/new-droidlock-malware-locks-android-devices-and-demands-a-ransom/)
 - [React2Shell Exploitation Delivers Crypto Miners and New Malware Across Multiple Sectors](https://thehackernews.com/2025/12/react2shell-exploitation-delivers.html)
 - [Microsoft Teams to warn of suspicious traffic with external domains](https://www.bleepingcomputer.com/news/security/microsoft-teams-to-warn-of-suspicious-traffic-with-external-domains/)
 - [.NET SOAPwn Flaw Opens Door for File Writes and Remote Code Execution via Rogue WSDL](https://thehackernews.com/2025/12/net-soapwn-flaw-opens-door-for-file.html)
-- [Over 10,000 Docker Hub images found leaking credentials, auth keys](https://www.bleepingcomputer.com/news/security/over-10-000-docker-hub-images-found-leaking-credentials-auth-keys/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
