@@ -24,13 +24,18 @@
 
   <!-- CVE-LIST:START -->
 <details>
-<summary><strong>Vulnerabilidades exploradas conhecidas da CISA</strong>  •  atualizado 12/12/2025 20:14 UTC  •  exibindo 10 itens</summary>
+<summary><strong>Vulnerabilidades exploradas conhecidas da CISA</strong>  •  atualizado 12/12/2025 22:12 UTC  •  exibindo 10 itens</summary>
 
 > Fonte: CISA Known Exploited Vulnerabilities
 
 - **CVE-2018-4063** - Sierra Wireless AirLink ALEOS Unrestricted Upload of File with Dangerous Type Vulnerability  
   Fornecedor: Sierra Wireless | Produto: AirLink ALEOS | Adicionado: 2025-12-12  
   Sierra Wireless AirLink ALEOS contains an unrestricted upload of file with dangerous type vulnerability. A specially crafted HTTP request can upload a file, resulting in executable code being uploaded, and routable, to the webserver. An attacker can make an authenticated HTTP request to trigger this vulnerability. The impacted product could be end-of-life (EoL) and/or end-of-service (EoS). Users should discontinue product utilization.  
+  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
+
+- **CVE-2025-14174** - Google Chromium Out of Bounds Memory Access Vulnerability  
+  Fornecedor: Google | Produto: Chromium | Adicionado: 2025-12-12  
+  Google Chromium contains an out of bounds memory access vulnerability in ANGLE that could allow a remote attacker to perform out of bounds memory access via a crafted HTML page. This vulnerability could affect multiple web browsers that utilize Chromium, including, but not limited to, Google Chrome, Microsoft Edge, and Opera.  
   Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
 
 - **CVE-2025-58360** - OSGeo GeoServer Improper Restriction of XML External Entity Reference Vulnerability  
@@ -73,12 +78,8 @@
   Android Framework contains an unspecified vulnerability that allows for information disclosure.  
   Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
 
-- **CVE-2025-48572** - Android Framework Privilege Escalation Vulnerability  
-  Fornecedor: Android | Produto: Framework | Adicionado: 2025-12-02  
-  Android Framework contains an unspecified vulnerability that allows for privilege escalation.  
-  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
-
 </details>
+
 
 
 
