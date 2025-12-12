@@ -1685,11 +1685,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [CISA orders feds to patch actively exploited Geoserver flaw](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-geoserver-flaw/)
+- [New React RSC Vulnerabilities Enable DoS and Source Code Exposure](https://thehackernews.com/2025/12/new-react-rsc-vulnerabilities-enable.html)
+- [MITRE shares 2025&#39;s top 25 most dangerous software weaknesses](https://www.bleepingcomputer.com/news/security/mitre-shares-2025s-top-25-most-dangerous-software-weaknesses/)
+- [React2Shell Exploitation Escalates into Large-Scale Global Attacks, Forcing Emergency Mitigation](https://thehackernews.com/2025/12/react2shell-exploitation-escalates-into.html)
 - [MKVCinemas streaming piracy service with 142M visits shuts down](https://www.bleepingcomputer.com/news/security/mkvcinemas-streaming-piracy-service-with-142m-visits-shuts-down/)
-- [CISA Flags Actively Exploited GeoServer XXE Flaw in Updated KEV Catalog](https://thehackernews.com/2025/12/cisa-flags-actively-exploited-geoserver.html)
-- [Brave browser starts testing agentic AI mode for automated tasks](https://www.bleepingcomputer.com/news/artificial-intelligence/brave-browser-starts-testing-agentic-ai-mode-for-automated-tasks/)
-- [Hackers exploit Gladinet CentreStack cryptographic flaw in RCE attacks](https://www.bleepingcomputer.com/news/security/hackers-exploit-gladinet-centrestack-cryptographic-flaw-in-rce-attacks/)
-- [Notepad++ fixes flaw that let attackers push malicious update files](https://www.bleepingcomputer.com/news/security/notepad-plus-plus-fixes-flaw-that-let-attackers-push-malicious-update-files/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
