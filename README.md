@@ -1683,11 +1683,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [CISA Flags Actively Exploited GeoServer XXE Flaw in Updated KEV Catalog](https://thehackernews.com/2025/12/cisa-flags-actively-exploited-geoserver.html)
 - [Brave browser starts testing agentic AI mode for automated tasks](https://www.bleepingcomputer.com/news/artificial-intelligence/brave-browser-starts-testing-agentic-ai-mode-for-automated-tasks/)
 - [Hackers exploit Gladinet CentreStack cryptographic flaw in RCE attacks](https://www.bleepingcomputer.com/news/security/hackers-exploit-gladinet-centrestack-cryptographic-flaw-in-rce-attacks/)
 - [Notepad++ fixes flaw that let attackers push malicious update files](https://www.bleepingcomputer.com/news/security/notepad-plus-plus-fixes-flaw-that-let-attackers-push-malicious-update-files/)
 - [Malicious VSCode Marketplace extensions hid trojan in fake PNG file](https://www.bleepingcomputer.com/news/security/malicious-vscode-marketplace-extensions-hid-trojan-in-fake-png-file/)
-- [UK fines LastPass over 2022 data breach impacting 1.6 million users](https://www.bleepingcomputer.com/news/security/uk-fines-lastpass-over-2022-data-breach-impacting-16-million-users/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
