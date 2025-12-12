@@ -24,9 +24,14 @@
 
   <!-- CVE-LIST:START -->
 <details>
-<summary><strong>Vulnerabilidades exploradas conhecidas da CISA</strong>  •  atualizado 12/12/2025 18:20 UTC  •  exibindo 10 itens</summary>
+<summary><strong>Vulnerabilidades exploradas conhecidas da CISA</strong>  •  atualizado 12/12/2025 20:14 UTC  •  exibindo 10 itens</summary>
 
 > Fonte: CISA Known Exploited Vulnerabilities
+
+- **CVE-2018-4063** - Sierra Wireless AirLink ALEOS Unrestricted Upload of File with Dangerous Type Vulnerability  
+  Fornecedor: Sierra Wireless | Produto: AirLink ALEOS | Adicionado: 2025-12-12  
+  Sierra Wireless AirLink ALEOS contains an unrestricted upload of file with dangerous type vulnerability. A specially crafted HTTP request can upload a file, resulting in executable code being uploaded, and routable, to the webserver. An attacker can make an authenticated HTTP request to trigger this vulnerability. The impacted product could be end-of-life (EoL) and/or end-of-service (EoS). Users should discontinue product utilization.  
+  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
 
 - **CVE-2025-58360** - OSGeo GeoServer Improper Restriction of XML External Entity Reference Vulnerability  
   Fornecedor: OSGeo | Produto: GeoServer | Adicionado: 2025-12-11  
@@ -73,12 +78,8 @@
   Android Framework contains an unspecified vulnerability that allows for privilege escalation.  
   Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
 
-- **CVE-2021-26829** - OpenPLC ScadaBR Cross-site Scripting Vulnerability  
-  Fornecedor: OpenPLC | Produto: ScadaBR | Adicionado: 2025-11-28  
-  OpenPLC ScadaBR contains a cross-site scripting vulnerability via system_settings.shtm.  
-  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
-
 </details>
+
 
 
 
