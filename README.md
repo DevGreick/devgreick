@@ -1686,11 +1686,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [New Windows RasMan zero-day flaw gets free, unofficial patches](https://www.bleepingcomputer.com/news/microsoft/new-windows-rasman-zero-day-flaw-gets-free-unofficial-patches/)
+- [Securing GenAI in the Browser: Policy, Isolation, and Data Controls That Actually Work](https://thehackernews.com/2025/12/securing-genai-in-browser-policy.html)
 - [CISA orders feds to patch actively exploited Geoserver flaw](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-geoserver-flaw/)
 - [New React RSC Vulnerabilities Enable DoS and Source Code Exposure](https://thehackernews.com/2025/12/new-react-rsc-vulnerabilities-enable.html)
 - [MITRE shares 2025&#39;s top 25 most dangerous software weaknesses](https://www.bleepingcomputer.com/news/security/mitre-shares-2025s-top-25-most-dangerous-software-weaknesses/)
-- [React2Shell Exploitation Escalates into Large-Scale Global Attacks, Forcing Emergency Mitigation](https://thehackernews.com/2025/12/react2shell-exploitation-escalates-into.html)
-- [MKVCinemas streaming piracy service with 142M visits shuts down](https://www.bleepingcomputer.com/news/security/mkvcinemas-streaming-piracy-service-with-142m-visits-shuts-down/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
