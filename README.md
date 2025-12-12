@@ -1690,11 +1690,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Fake OSINT and GPT Utility GitHub Repos Spread PyStoreRAT Malware Payloads](https://thehackernews.com/2025/12/fake-osint-and-gpt-utility-github-repos.html)
+- [Coupang data breach traced to ex-employee who retained system access](https://www.bleepingcomputer.com/news/security/coupang-data-breach-traced-to-ex-employee-who-retained-system-access/)
 - [Fake ‘One Battle After Another’ torrent hides malware in subtitles](https://www.bleepingcomputer.com/news/security/fake-one-battle-after-another-torrent-hides-malware-in-subtitles/)
 - [Kali Linux 2025.4 released with 3 new tools, desktop updates](https://www.bleepingcomputer.com/news/security/kali-linux-20254-released-with-3-new-tools-desktop-updates/)
 - [Shadow spreadsheets: The security gap your tools can’t see](https://www.bleepingcomputer.com/news/security/shadow-spreadsheets-the-security-gap-your-tools-cant-see/)
-- [New Advanced Phishing Kits Use AI and MFA Bypass Tactics to Steal Credentials at Scale](https://thehackernews.com/2025/12/new-advanced-phishing-kits-use-ai-and.html)
-- [New Windows RasMan zero-day flaw gets free, unofficial patches](https://www.bleepingcomputer.com/news/microsoft/new-windows-rasman-zero-day-flaw-gets-free-unofficial-patches/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
