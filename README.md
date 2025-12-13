@@ -1692,11 +1692,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple fixes two zero-day flaws exploited in &#39;sophisticated&#39; attacks](https://www.bleepingcomputer.com/news/security/apple-fixes-two-zero-day-flaws-exploited-in-sophisticated-attacks/)
 - [Fake OSINT and GPT Utility GitHub Repos Spread PyStoreRAT Malware Payloads](https://thehackernews.com/2025/12/fake-osint-and-gpt-utility-github-repos.html)
 - [Coupang data breach traced to ex-employee who retained system access](https://www.bleepingcomputer.com/news/security/coupang-data-breach-traced-to-ex-employee-who-retained-system-access/)
 - [Fake ‘One Battle After Another’ torrent hides malware in subtitles](https://www.bleepingcomputer.com/news/security/fake-one-battle-after-another-torrent-hides-malware-in-subtitles/)
 - [Kali Linux 2025.4 released with 3 new tools, desktop updates](https://www.bleepingcomputer.com/news/security/kali-linux-20254-released-with-3-new-tools-desktop-updates/)
-- [Shadow spreadsheets: The security gap your tools can’t see](https://www.bleepingcomputer.com/news/security/shadow-spreadsheets-the-security-gap-your-tools-cant-see/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
