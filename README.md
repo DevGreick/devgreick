@@ -1712,11 +1712,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Beware: PayPal subscriptions abused to send fake purchase emails](https://www.bleepingcomputer.com/news/security/beware-paypal-subscriptions-abused-to-send-fake-purchase-emails/)
+- [CyberVolk’s ransomware debut stumbles on cryptography weakness](https://www.bleepingcomputer.com/news/security/cybervolks-ransomware-debut-stumbles-on-cryptography-weakness/)
 - [CISA Adds Actively Exploited Sierra Wireless Router Flaw Enabling RCE Attacks](https://thehackernews.com/2025/12/cisa-adds-actively-exploited-sierra.html)
 - [Apple Issues Security Updates After Two WebKit Flaws Found Exploited in the Wild](https://thehackernews.com/2025/12/apple-issues-security-updates-after-two.html)
 - [Apple fixes two zero-day flaws exploited in &#39;sophisticated&#39; attacks](https://www.bleepingcomputer.com/news/security/apple-fixes-two-zero-day-flaws-exploited-in-sophisticated-attacks/)
-- [Fake OSINT and GPT Utility GitHub Repos Spread PyStoreRAT Malware Payloads](https://thehackernews.com/2025/12/fake-osint-and-gpt-utility-github-repos.html)
-- [Coupang data breach traced to ex-employee who retained system access](https://www.bleepingcomputer.com/news/security/coupang-data-breach-traced-to-ex-employee-who-retained-system-access/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
