@@ -24,9 +24,19 @@
 
   <!-- CVE-LIST:START -->
 <details>
-<summary><strong>Vulnerabilidades exploradas conhecidas da CISA</strong>  •  atualizado 15/12/2025 18:20 UTC  •  exibindo 10 itens</summary>
+<summary><strong>Vulnerabilidades exploradas conhecidas da CISA</strong>  •  atualizado 15/12/2025 20:15 UTC  •  exibindo 10 itens</summary>
 
 > Fonte: CISA Known Exploited Vulnerabilities
+
+- **CVE-2025-14611** - Gladinet CentreStack and Triofox Hard Coded Cryptographic Vulnerability  
+  Fornecedor: Gladinet | Produto: CentreStack and Triofox | Adicionado: 2025-12-15  
+  Gladinet CentreStack and TrioFox contain a hardcoded cryptographic keys vulnerability for their implementation of the AES cryptoscheme. This vulnerability degrades security for public exposed endpoints that may make use of it and may offer arbitrary local file inclusion when provided a specially crafted request without authentication.  
+  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
+
+- **CVE-2025-43529** - Apple Multiple Products Use-After-Free WebKit Vulnerability  
+  Fornecedor: Apple | Produto: Multiple Products | Adicionado: 2025-12-15  
+  Apple iOS, iPadOS, macOS, and other Apple products contain a use-after-free vulnerability in WebKit. Processing maliciously crafted web content may lead to memory corruption. This vulnerability could impact HTML parsers that use WebKit, including but not limited to Apple Safari and non-Apple products which rely on WebKit for HTML processing.  
+  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
 
 - **CVE-2018-4063** - Sierra Wireless AirLink ALEOS Unrestricted Upload of File with Dangerous Type Vulnerability  
   Fornecedor: Sierra Wireless | Produto: AirLink ALEOS | Adicionado: 2025-12-12  
@@ -68,17 +78,8 @@
   Meta React Server Components contains a remote code execution vulnerability that could allow unauthenticated remote code execution by exploiting a flaw in how React decodes payloads sent to React Server Function endpoints. Please note CVE-2025-66478 has been rejected, but it is associated with CVE-2025- 55182.  
   Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
 
-- **CVE-2021-26828** - OpenPLC ScadaBR Unrestricted Upload of File with Dangerous Type Vulnerability  
-  Fornecedor: OpenPLC | Produto: ScadaBR | Adicionado: 2025-12-03  
-  OpenPLC ScadaBR contains an unrestricted upload of file with dangerous type vulnerability that allows remote authenticated users to upload and execute arbitrary JSP files via view_edit.shtm.  
-  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
-
-- **CVE-2025-48633** - Android Framework Information Disclosure Vulnerability  
-  Fornecedor: Android | Produto: Framework | Adicionado: 2025-12-02  
-  Android Framework contains an unspecified vulnerability that allows for information disclosure.  
-  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
-
 </details>
+
 
 
 
