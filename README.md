@@ -1721,11 +1721,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Phantom Stealer Spread by ISO Phishing Emails Hitting Russian Finance Sector](https://thehackernews.com/2025/12/phantom-stealer-spread-by-iso-phishing.html)
+- [Microsoft: December security updates cause Message Queuing failures](https://www.bleepingcomputer.com/news/microsoft/microsoft-december-security-updates-cause-message-queuing-failures/)
 - [VolkLocker Ransomware Exposed by Hard-Coded Master Key Allowing Free Decryption](https://thehackernews.com/2025/12/volklocker-ransomware-exposed-by-hard.html)
 - [Beware: PayPal subscriptions abused to send fake purchase emails](https://www.bleepingcomputer.com/news/security/beware-paypal-subscriptions-abused-to-send-fake-purchase-emails/)
 - [CyberVolk’s ransomware debut stumbles on cryptography weakness](https://www.bleepingcomputer.com/news/security/cybervolks-ransomware-debut-stumbles-on-cryptography-weakness/)
-- [CISA Adds Actively Exploited Sierra Wireless Router Flaw Enabling RCE Attacks](https://thehackernews.com/2025/12/cisa-adds-actively-exploited-sierra.html)
-- [Apple Issues Security Updates After Two WebKit Flaws Found Exploited in the Wild](https://thehackernews.com/2025/12/apple-issues-security-updates-after-two.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
