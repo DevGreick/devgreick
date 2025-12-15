@@ -1723,11 +1723,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Google links more Chinese hacking groups to React2Shell attacks](https://www.bleepingcomputer.com/news/security/google-links-more-chinese-hacking-groups-to-react2shell-attacks/)
+- [⚡ Weekly Recap: Apple 0-Days, WinRAR Exploit, LastPass Fines, .NET RCE, OAuth Scams &amp; More](https://thehackernews.com/2025/12/weekly-recap-apple-0-days-winrar.html)
+- [A Browser Extension Risk Guide After the ShadyPanda Campaign](https://thehackernews.com/2025/12/a-browser-extension-risk-guide-after.html)
 - [French Interior Ministry confirms cyberattack on email servers](https://www.bleepingcomputer.com/news/security/france-interior-ministry-confirms-cyberattack-on-email-servers/)
 - [Phantom Stealer Spread by ISO Phishing Emails Hitting Russian Finance Sector](https://thehackernews.com/2025/12/phantom-stealer-spread-by-iso-phishing.html)
-- [Microsoft: December security updates cause Message Queuing failures](https://www.bleepingcomputer.com/news/microsoft/microsoft-december-security-updates-cause-message-queuing-failures/)
-- [VolkLocker Ransomware Exposed by Hard-Coded Master Key Allowing Free Decryption](https://thehackernews.com/2025/12/volklocker-ransomware-exposed-by-hard.html)
-- [Beware: PayPal subscriptions abused to send fake purchase emails](https://www.bleepingcomputer.com/news/security/beware-paypal-subscriptions-abused-to-send-fake-purchase-emails/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
