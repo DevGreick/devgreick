@@ -1736,11 +1736,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Hackers exploit newly patched Fortinet auth bypass flaws](https://www.bleepingcomputer.com/news/security/hackers-exploit-newly-patched-fortinet-auth-bypass-flaws/)
+- [Rogue NuGet Package Poses as Tracer.Fody, Steals Cryptocurrency Wallet Data](https://thehackernews.com/2025/12/rogue-nuget-package-poses-as-tracerfody.html)
+- [Cyberattack disrupts Venezuelan oil giant PDVSA&#39;s operations](https://www.bleepingcomputer.com/news/security/cyberattack-disrupts-venezuelan-oil-giant-pdvsas-operations/)
+- [The Hidden Risk in Virtualization: Why Hypervisors are a Ransomware Magnet](https://www.bleepingcomputer.com/news/security/the-hidden-risk-in-virtualization-why-hypervisors-are-a-ransomware-magnet/)
 - [Microsoft to block Exchange Online access for outdated mobile devices](https://www.bleepingcomputer.com/news/microsoft/microsoft-to-block-exchange-online-access-for-outdated-mobile-devices/)
-- [Amazon Exposes Years-Long GRU Cyber Campaign Targeting Energy and Cloud Infrastructure](https://thehackernews.com/2025/12/amazon-exposes-years-long-gru-cyber.html)
-- [European authorities dismantle call center fraud ring in Ukraine](https://www.bleepingcomputer.com/news/security/european-authorities-dismantle-call-center-fraud-ring-in-ukraine/)
-- [Why Data Security and Privacy Need to Start in Code](https://thehackernews.com/2025/12/why-data-security-and-privacy-need-to.html)
-- [Fortinet FortiGate Under Active Attack Through SAML SSO Authentication Bypass](https://thehackernews.com/2025/12/fortinet-fortigate-under-active-attack.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
