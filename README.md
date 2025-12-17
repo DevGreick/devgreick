@@ -1749,11 +1749,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Sonicwall warns of new SMA1000 zero-day exploited in attacks](https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-new-sma1000-zero-day-exploited-in-attacks/)
 - [Critical React2Shell flaw exploited in ransomware attacks](https://www.bleepingcomputer.com/news/security/critical-react2shell-flaw-exploited-in-ransomware-attacks/)
 - [APT28 Targets Ukrainian UKR-net Users in Long-Running Credential Phishing Campaign](https://thehackernews.com/2025/12/apt28-targets-ukrainian-ukr-net-users.html)
 - [New ForumTroll Phishing Attacks Target Russian Scholars Using Fake eLibrary Emails](https://thehackernews.com/2025/12/new-forumtroll-phishing-attacks-target.html)
 - [Your MFA Is Costing You Millions. It Doesn&#39;t Have To.](https://www.bleepingcomputer.com/news/security/your-mfa-is-costing-you-millions-it-doesnt-have-to/)
-- [Microsoft asks IT admins to reach out for Windows IIS failures fix](https://www.bleepingcomputer.com/news/microsoft/microsoft-asks-it-admins-to-reach-out-for-windows-iis-failures-fix/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
