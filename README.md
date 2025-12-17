@@ -24,9 +24,24 @@
 
   <!-- CVE-LIST:START -->
 <details>
-<summary><strong>Vulnerabilidades exploradas conhecidas da CISA</strong>  •  atualizado 17/12/2025 20:15 UTC  •  exibindo 10 itens</summary>
+<summary><strong>Vulnerabilidades exploradas conhecidas da CISA</strong>  •  atualizado 17/12/2025 22:13 UTC  •  exibindo 10 itens</summary>
 
 > Fonte: CISA Known Exploited Vulnerabilities
+
+- **CVE-2025-59374** - ASUS Live Update Embedded Malicious Code Vulnerability  
+  Fornecedor: ASUS | Produto: Live Update | Adicionado: 2025-12-17  
+  ASUS Live Update contains an embedded malicious code vulnerability client were distributed with unauthorized modifications introduced through a supply chain compromise. The modified builds could cause devices meeting specific targeting conditions to perform unintended actions. The impacted product could be end-of-life (EoL) and/or end-of-service (EoS). Users should discontinue product utilization.  
+  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
+
+- **CVE-2025-40602** - SonicWall SMA1000 Missing Authorization Vulnerability  
+  Fornecedor: SonicWall | Produto: SMA1000 appliance | Adicionado: 2025-12-17  
+  SonicWall SMA1000 contains a missing authorization vulnerability that could allow for privilege escalation appliance management console (AMC) of affected devices.  
+  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable
+
+- **CVE-2025-20393** - Cisco Multiple Products Improper Input Validation Vulnerability  
+  Fornecedor: Cisco | Produto: Multiple Products | Adicionado: 2025-12-17  
+  Cisco Secure Email Gateway, Secure Email, AsyncOS Software, and Web Manager appliances contains an improper input validation vulnerability that allows threat actors to execute arbitrary commands with root privileges on the underlying operating system of an affected appliance.  
+  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
 
 - **CVE-2025-59718** - Fortinet Multiple Products Improper Verification of Cryptographic Signature Vulnerability  
   Fornecedor: Fortinet | Produto: Multiple Products | Adicionado: 2025-12-16  
@@ -63,22 +78,8 @@
   RARLAB WinRAR contains a path traversal vulnerability allowing an attacker to execute code in the context of the current user.  
   Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
 
-- **CVE-2025-62221** - Microsoft Windows Use After Free Vulnerability  
-  Fornecedor: Microsoft | Produto: Windows | Adicionado: 2025-12-09  
-  Microsoft Windows Cloud Files Mini Filter Driver contains a use after free vulnerability that can allow an authorized attacker to elevate privileges locally.  
-  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
-
-- **CVE-2022-37055** - D-Link Routers Buffer Overflow Vulnerability  
-  Fornecedor: D-Link | Produto: Routers | Adicionado: 2025-12-08  
-  D-Link Routers contains a buffer overflow vulnerability that has a high impact on confidentiality, integrity, and availability. The impacted products could be end-of-life (EoL) and/or end-of-service (EoS). Users should discontinue product utilization.  
-  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
-
-- **CVE-2025-66644** - Array Networks ArrayOS AG OS Command Injection Vulnerability  
-  Fornecedor: Array Networks  | Produto: ArrayOS AG | Adicionado: 2025-12-08  
-  Array Networks ArrayOS AG contains an OS command injection vulnerability that could allow an attacker to execute arbitrary commands.  
-  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
-
 </details>
+
 
 
 
