@@ -1745,11 +1745,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [GhostPoster Malware Found in 17 Firefox Add-ons with 50,000+ Downloads](https://thehackernews.com/2025/12/ghostposter-malware-found-in-17-firefox.html)
 - [Cellik Android malware builds malicious versions from Google Play apps](https://www.bleepingcomputer.com/news/security/cellik-android-malware-builds-malicious-versions-from-google-play-apps/)
 - [GhostPoster attacks hide malicious JavaScript in Firefox addon logos](https://www.bleepingcomputer.com/news/security/ghostposter-attacks-hide-malicious-javascript-in-firefox-addon-logos/)
 - [Amazon disrupts Russian GRU hackers attacking edge network devices](https://www.bleepingcomputer.com/news/security/amazon-disrupts-russian-gru-hackers-attacking-edge-network-devices/)
 - [Texas sues TV makers for taking screenshots of what people watch](https://www.bleepingcomputer.com/news/security/texas-sues-tv-makers-for-spying-on-users-selling-data-without-consent/)
-- [Compromised IAM Credentials Power a Large AWS Crypto Mining Campaign](https://thehackernews.com/2025/12/compromised-iam-credentials-power-large.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
