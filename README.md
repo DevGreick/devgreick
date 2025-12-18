@@ -1761,11 +1761,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [China-Aligned Threat Group Uses Windows Group Policy to Deploy Espionage Malware](https://thehackernews.com/2025/12/china-aligned-threat-group-uses-windows.html)
+- [New password spraying attacks target Cisco, PAN VPN gateways](https://www.bleepingcomputer.com/news/security/new-password-spraying-attacks-target-cisco-pan-vpn-gateways/)
 - [US seizes E-Note crypto exchange for laundering ransomware payments](https://www.bleepingcomputer.com/news/security/us-seizes-e-note-crypto-exchange-for-laundering-ransomware-payments/)
 - [NIS2 compliance: How to get passwords and MFA right](https://www.bleepingcomputer.com/news/security/nis2-compliance-how-to-get-passwords-and-mfa-right/)
 - [HPE OneView Flaw Rated CVSS 10.0 Allows Unauthenticated Remote Code Execution](https://thehackernews.com/2025/12/hpe-oneview-flaw-rated-cvss-100-allows.html)
-- [France arrests Latvian for installing malware on Italian ferry](https://www.bleepingcomputer.com/news/security/france-arrests-latvian-for-installing-malware-on-italian-ferry/)
-- [ThreatsDay Bulletin: WhatsApp Hijacks, MCP Leaks, AI Recon, React2Shell Exploit and 15 More Stories](https://thehackernews.com/2025/12/threatsday-bulletin-whatsapp-hijacks.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
