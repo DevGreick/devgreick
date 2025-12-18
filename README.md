@@ -1759,11 +1759,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [France arrests Latvian for installing malware on Italian ferry](https://www.bleepingcomputer.com/news/security/france-arrests-latvian-for-installing-malware-on-italian-ferry/)
+- [ThreatsDay Bulletin: WhatsApp Hijacks, MCP Leaks, AI Recon, React2Shell Exploit and 15 More Stories](https://thehackernews.com/2025/12/threatsday-bulletin-whatsapp-hijacks.html)
+- [North Korea-Linked Hackers Steal $2.02 Billion in 2025, Leading Global Crypto Theft](https://thehackernews.com/2025/12/north-korea-linked-hackers-steal-202.html)
 - [HPE warns of maximum severity RCE flaw in OneView software](https://www.bleepingcomputer.com/news/security/hpe-warns-of-maximum-severity-rce-flaw-in-oneview-software/)
 - [The Case for Dynamic AI-SaaS Security as Copilots Scale](https://thehackernews.com/2025/12/the-case-for-dynamic-ai-saas-security.html)
-- [Microsoft: Recent Windows updates break RemoteApp connections](https://www.bleepingcomputer.com/news/microsoft/microsoft-recent-updates-break-azure-virtual-desktop-remoteapp-sessions/)
-- [Kimsuky Spreads DocSwap Android Malware via QR Phishing Posing as Delivery App](https://thehackernews.com/2025/12/kimsuky-spreads-docswap-android-malware.html)
-- [CISA Flags Critical ASUS Live Update Flaw After Evidence of Active Exploitation](https://thehackernews.com/2025/12/cisa-flags-critical-asus-live-update.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
