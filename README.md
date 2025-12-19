@@ -24,9 +24,14 @@
 
   <!-- CVE-LIST:START -->
 <details>
-<summary><strong>Vulnerabilidades exploradas conhecidas da CISA</strong>  •  atualizado 19/12/2025 18:19 UTC  •  exibindo 10 itens</summary>
+<summary><strong>Vulnerabilidades exploradas conhecidas da CISA</strong>  •  atualizado 19/12/2025 20:14 UTC  •  exibindo 10 itens</summary>
 
 > Fonte: CISA Known Exploited Vulnerabilities
+
+- **CVE-2025-14733** - WatchGuard Firebox Out of Bounds Write Vulnerability  
+  Fornecedor: WatchGuard | Produto: Firebox | Adicionado: 2025-12-19  
+  WatchGuard Fireware OS iked process contains an out of bounds write vulnerability in the OS iked process. This vulnerability may allow a remote unauthenticated attacker to execute arbitrary code and affects both the mobile user VPN with IKEv2 and the branch office VPN using IKEv2 when configured with a dynamic gateway peer.  
+  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
 
 - **CVE-2025-59374** - ASUS Live Update Embedded Malicious Code Vulnerability  
   Fornecedor: ASUS | Produto: Live Update | Adicionado: 2025-12-17  
@@ -73,12 +78,8 @@
   OSGeo GeoServer contains an improper restriction of XML external entity reference vulnerability that occurs when the application accepts XML input through a specific endpoint /geoserver/wms operation GetMap and could allow an attacker to define external entities within the XML request.  
   Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
 
-- **CVE-2025-6218** - RARLAB WinRAR Path Traversal Vulnerability  
-  Fornecedor: RARLAB | Produto: WinRAR | Adicionado: 2025-12-09  
-  RARLAB WinRAR contains a path traversal vulnerability allowing an attacker to execute code in the context of the current user.  
-  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
-
 </details>
+
 
 
 
