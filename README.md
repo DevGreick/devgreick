@@ -1769,11 +1769,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [FTC: Instacart to refund $60M over deceptive subscription tactics](https://www.bleepingcomputer.com/news/legal/instacart-to-refund-60m-over-deceptive-subscription-tactics/)
+- [New UEFI Flaw Enables Early-Boot DMA Attacks on ASRock, ASUS, GIGABYTE, MSI Motherboards](https://thehackernews.com/2025/12/new-uefi-flaw-enables-early-boot-dma.html)
 - [Windows 10 OOB update released to fix Message Queuing &lpar;MSMQ&rpar; issues](https://www.bleepingcomputer.com/news/microsoft/windows-10-oob-update-released-to-fix-message-queuing-msmq-issues/)
 - [University of Sydney suffers data breach exposing student and staff info](https://www.bleepingcomputer.com/news/security/university-of-sydney-suffers-data-breach-exposing-student-and-staff-info/)
 - [Clop ransomware targets Gladinet CentreStack in data theft attacks](https://www.bleepingcomputer.com/news/security/clop-ransomware-targets-gladinet-centrestack-servers-for-extortion/)
-- [China-Aligned Threat Group Uses Windows Group Policy to Deploy Espionage Malware](https://thehackernews.com/2025/12/china-aligned-threat-group-uses-windows.html)
-- [New password spraying attacks target Cisco, PAN VPN gateways](https://www.bleepingcomputer.com/news/security/new-password-spraying-attacks-target-cisco-pan-vpn-gateways/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
