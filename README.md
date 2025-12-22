@@ -1809,11 +1809,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Fake WhatsApp API Package on npm Steals Messages, Contacts, and Login Tokens](https://thehackernews.com/2025/12/fake-whatsapp-api-package-on-npm-steals.html)
 - [Malicious npm package steals WhatsApp accounts and messages](https://www.bleepingcomputer.com/news/security/malicious-npm-package-steals-whatsapp-accounts-and-messages/)
 - [Romanian water authority hit by ransomware attack over weekend](https://www.bleepingcomputer.com/news/security/romanian-water-authority-hit-by-ransomware-attack-over-weekend/)
 - [University of Phoenix data breach impacts nearly 3.5 million individuals](https://www.bleepingcomputer.com/news/security/university-of-phoenix-data-breach-impacts-nearly-35-million-individuals/)
 - [Coupang breach affecting 33.7 million users raises data protection questions](https://www.bleepingcomputer.com/news/security/coupang-breach-affecting-337-million-users-raises-data-protection-questions/)
-- [⚡ Weekly Recap: Firewall Exploits, AI Data Theft, Android Hacks, APT Attacks, Insider Leaks &amp; More](https://thehackernews.com/2025/12/weekly-recap-firewall-exploits-ai-data.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
