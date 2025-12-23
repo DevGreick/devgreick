@@ -1818,11 +1818,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Malicious extensions in Chrome Web store steal user credentials](https://www.bleepingcomputer.com/news/security/malicious-extensions-in-chrome-web-store-steal-user-credentials/)
+- [Microsoft Teams strengthens messaging security by default in January](https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-strengthens-messaging-security-by-default-in-january/)
 - [Cyberattack knocks offline France&#39;s postal, banking services](https://www.bleepingcomputer.com/news/security/cyberattack-knocks-offline-frances-postal-banking-services/)
 - [INTERPOL Arrests 574 in Africa; Ukrainian Ransomware Affiliate Pleads Guilty](https://thehackernews.com/2025/12/interpol-arrests-574-in-africa.html)
 - [Passwd: A walkthrough of the Google Workspace Password Manager](https://thehackernews.com/2025/12/passwd-walkthrough-of-google-workspace.html)
-- [Italy fines Apple $116 million over App Store privacy policy issues](https://www.bleepingcomputer.com/news/security/italy-fines-apple-116-million-over-app-store-tracking-privacy-practices/)
-- [Baker University says 2024 data breach impacts 53,000 people](https://www.bleepingcomputer.com/news/security/baker-university-data-breach-impacts-over-53-000-individuals/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
