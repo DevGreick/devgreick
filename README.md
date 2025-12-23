@@ -1816,11 +1816,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Critical n8n Flaw &lpar;CVSS 9.9&rpar; Enables Arbitrary Code Execution Across Thousands of Instances](https://thehackernews.com/2025/12/critical-n8n-flaw-cvss-99-enables.html)
+- [FCC Bans Foreign-Made Drones and Key Parts Over U.S. National Security Risks](https://thehackernews.com/2025/12/fcc-bans-foreign-made-drones-and-key.html)
 - [Nissan says thousands of customers exposed in Red Hat breach](https://www.bleepingcomputer.com/news/security/nissan-says-thousands-of-customers-exposed-in-red-hat-breach/)
 - [New MacSync malware dropper evades macOS Gatekeeper checks](https://www.bleepingcomputer.com/news/security/new-macsync-malware-dropper-evades-macos-gatekeeper-checks/)
 - [Interpol-led action decrypts 6 ransomware strains, arrests hundreds](https://www.bleepingcomputer.com/news/security/interpol-led-action-decrypts-6-ransomware-strains-arrests-hundreds/)
-- [Fake WhatsApp API Package on npm Steals Messages, Contacts, and Login Tokens](https://thehackernews.com/2025/12/fake-whatsapp-api-package-on-npm-steals.html)
-- [Malicious npm package steals WhatsApp accounts and messages](https://www.bleepingcomputer.com/news/security/malicious-npm-package-steals-whatsapp-accounts-and-messages/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
