@@ -1843,11 +1843,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Google will finally allow you to change your @gmail.com address](https://www.bleepingcomputer.com/news/google/google-will-finally-allow-you-to-change-your-gmailcom-address/)
+- [ThreatsDay Bulletin: Stealth Loaders, AI Chatbot Flaws AI Exploits, Docker Hack, and 15 More Stories](https://thehackernews.com/2025/12/threatsday-bulletin-stealth-loaders-ai.html)
 - [LastPass 2022 Breach Led to Years-Long Cryptocurrency Thefts, TRM Labs Finds](https://thehackernews.com/2025/12/lastpass-2022-breach-led-to-years-long.html)
 - [Fortinet Warns of Active Exploitation of FortiOS SSL VPN 2FA Bypass Vulnerability](https://thehackernews.com/2025/12/fortinet-warns-of-active-exploitation.html)
 - [CISA Flags Actively Exploited Digiever NVR Vulnerability Allowing Remote Code Execution](https://thehackernews.com/2025/12/cisa-flags-actively-exploited-digiever.html)
-- [OpenAI is reportedly testing Claude-like Skills for ChatGPT](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-reportedly-testing-claude-like-skills-for-chatgpt/)
-- [Fake MAS Windows activation domain used to spread PowerShell malware](https://www.bleepingcomputer.com/news/security/fake-mas-windows-activation-domain-used-to-spread-powershell-malware/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
