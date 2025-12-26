@@ -1852,11 +1852,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Trust Wallet Chrome extension hack tied to millions in losses](https://www.bleepingcomputer.com/news/security/trust-wallet-chrome-extension-hack-tied-to-millions-in-losses/)
+- [Critical LangChain Core Vulnerability Exposes Secrets via Serialization Injection](https://thehackernews.com/2025/12/critical-langchain-core-vulnerability.html)
 - [ChatGPT’s new formatting blocks make its UI look more like a task tool](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpts-new-formatting-blocks-make-its-ui-look-more-like-a-task-tool/)
 - [Google will finally allow you to change your @gmail.com address](https://www.bleepingcomputer.com/news/google/google-will-finally-allow-you-to-change-your-gmailcom-address/)
 - [ThreatsDay Bulletin: Stealth Loaders, AI Chatbot Flaws AI Exploits, Docker Hack, and 15 More Stories](https://thehackernews.com/2025/12/threatsday-bulletin-stealth-loaders-ai.html)
-- [LastPass 2022 Breach Led to Years-Long Cryptocurrency Thefts, TRM Labs Finds](https://thehackernews.com/2025/12/lastpass-2022-breach-led-to-years-long.html)
-- [Fortinet Warns of Active Exploitation of FortiOS SSL VPN 2FA Bypass Vulnerability](https://thehackernews.com/2025/12/fortinet-warns-of-active-exploitation.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
