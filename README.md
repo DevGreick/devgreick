@@ -1886,11 +1886,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [MongoDB Vulnerability CVE-2025-14847 Under Active Exploitation Worldwide](https://thehackernews.com/2025/12/mongodb-vulnerability-cve-2025-14847.html)
+- [Traditional Security Frameworks Leave Organizations Exposed to AI-Specific Attack Vectors](https://thehackernews.com/2025/12/traditional-security-frameworks-leave.html)
 - [Exploited MongoBleed flaw leaks MongoDB secrets, 87K servers exposed](https://www.bleepingcomputer.com/news/security/exploited-mongobleed-flaw-leaks-mongodb-secrets-87k-servers-exposed/)
 - [Hacker claims to leak WIRED database with 2.3 million records](https://www.bleepingcomputer.com/news/security/hacker-claims-to-leak-wired-database-with-23-million-records/)
 - [Massive Rainbow Six Siege breach gives players billions of credits](https://www.bleepingcomputer.com/news/security/massive-rainbow-six-siege-breach-gives-players-billions-of-credits/)
-- [OpenAI&#39;s ChatGPT ads will allegedly prioritize sponsored content in answers](https://www.bleepingcomputer.com/news/artificial-intelligence/openais-chatgpt-ads-will-allegedly-prioritize-sponsored-content-in-answers/)
-- [New MongoDB Flaw Lets Unauthenticated Attackers Read Uninitialized Memory](https://thehackernews.com/2025/12/new-mongodb-flaw-lets-unauthenticated.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
