@@ -24,7 +24,7 @@
 
   <!-- CVE-LIST:START -->
 <details>
-<summary><strong>Vulnerabilidades exploradas conhecidas da CISA</strong>  •  atualizado 29/12/2025 04:42 UTC  •  exibindo 10 itens</summary>
+<summary><strong>Vulnerabilidades exploradas conhecidas da CISA</strong>  •  atualizado 29/12/2025 03:42 UTC  •  exibindo 10 itens</summary>
 
 > Fonte: CISA Known Exploited Vulnerabilities
 
@@ -79,7 +79,6 @@
   Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
 
 </details>
-
 
 
 
@@ -1932,10 +1931,11 @@
 ---
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=devgreick&theme=matrix&no-bg=true&no-frame=true&row=1&column=5" alt="Troféus do GitHub" />
+  <img src="https://github-trophies.vercel.app/?username=devgreick&theme=matrix&no-bg=true&no-frame=true&row=1&column=5" alt="Troféus do GitHub" />
   <br><br>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devgreick&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=39FF14&icon_color=39FF14&text_color=58A6FF&bg_color=0D1117" alt="GitHub Stats de devgreick" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devgreick&layout=compact&langs_count=8&hide_border=true&title_color=39FF14&text_color=58A6FF&bg_color=0D1117" alt="Linguagens mais usadas" />
+  <img height="180em" src="https://github-readme-stats-one.vercel.app/api?username=devgreick&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=39FF14&icon_color=39FF14&text_color=58A6FF&bg_color=0D1117" alt="GitHub Stats de devgreick" />
+
+<img height="180em" src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=devgreick&layout=compact&langs_count=8&hide_border=true&title_color=39FF14&text_color=58A6FF&bg_color=0D1117" alt="Linguagens mais usadas" />
   <br><br>
   <img src="https://raw.githubusercontent.com/devgreick/devgreick/main/output/snake.svg" alt="Snake animation" />
 </div>
