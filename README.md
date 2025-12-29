@@ -1889,11 +1889,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Korean Air data breach exposes data of thousands of employees](https://www.bleepingcomputer.com/news/security/korean-air-data-breach-exposes-data-of-thousands-of-employees/)
 - [Microsoft Copilot is rolling out GPT 5.2 as &quot;Smart Plus&quot; mode](https://www.bleepingcomputer.com/news/microsoft/microsoft-copilot-is-rolling-out-gpt-52-as-smart-plus-mode/)
 - [Fortinet warns of 5-year-old FortiOS 2FA bypass still exploited in attacks](https://www.bleepingcomputer.com/news/security/fortinet-warns-of-5-year-old-fortios-2fa-bypass-still-exploited-in-attacks/)
 - [MongoDB Vulnerability CVE-2025-14847 Under Active Exploitation Worldwide](https://thehackernews.com/2025/12/mongodb-vulnerability-cve-2025-14847.html)
 - [27 Malicious npm Packages Used as Phishing Infrastructure to Steal Login Credentials](https://thehackernews.com/2025/12/27-malicious-npm-packages-used-as.html)
-- [Traditional Security Frameworks Leave Organizations Exposed to AI-Specific Attack Vectors](https://thehackernews.com/2025/12/traditional-security-frameworks-leave.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
