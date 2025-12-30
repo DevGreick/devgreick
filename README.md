@@ -1902,11 +1902,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [US cybersecurity experts plead guilty to BlackCat ransomware attacks](https://www.bleepingcomputer.com/news/security/us-cybersecurity-experts-plead-guilty-to-blackcat-alphv-ransomware-attacks/)
+- [CISA orders feds to patch MongoBleed flaw exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-orders-federal-agencies-to-patch-mongobleed-flaw-actively-exploited-in-attacks/)
 - [Silver Fox Targets Indian Users With Tax-Themed Emails Delivering ValleyRAT Malware](https://thehackernews.com/2025/12/silver-fox-targets-indian-users-with.html)
 - [How to Integrate AI into Modern SOC Workflows](https://thehackernews.com/2025/12/how-to-integrate-ai-into-modern-soc.html)
 - [Mustang Panda Uses Signed Kernel-Mode Rootkit to Load TONESHELL Backdoor](https://thehackernews.com/2025/12/mustang-panda-uses-signed-kernel-driver.html)
-- [Chinese state hackers use rootkit to hide ToneShell malware activity](https://www.bleepingcomputer.com/news/security/chinese-state-hackers-use-rootkit-to-hide-toneshell-malware-activity/)
-- [Coupang to split $1.17 billion among 33.7 million data breach victims](https://www.bleepingcomputer.com/news/security/coupang-to-split-117-billion-among-337-million-data-breach-victims/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
