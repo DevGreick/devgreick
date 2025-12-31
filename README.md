@@ -1913,11 +1913,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [IBM Warns of Critical API Connect Bug Allowing Remote Authentication Bypass](https://thehackernews.com/2025/12/ibm-warns-of-critical-api-connect-bug.html)
+- [Researchers Spot Modified Shai-Hulud Worm Testing Payload on npm Registry](https://thehackernews.com/2025/12/researchers-spot-modified-shai-hulud.html)
 - [IBM warns of critical API Connect auth bypass vulnerability](https://www.bleepingcomputer.com/news/security/ibm-warns-of-critical-api-connect-auth-bypass-vulnerability/)
 - [Disney will pay $10 million to settle children&#39;s data privacy lawsuit](https://www.bleepingcomputer.com/news/security/disney-will-pay-10m-to-settle-claims-of-childrens-privacy-violations-on-youtube/)
 - [U.S. Treasury Lifts Sanctions on Three Individuals Linked to Intellexa and Predator Spyware](https://thehackernews.com/2025/12/us-treasury-lifts-sanctions-on-three.html)
-- [New ErrTraffic service enables ClickFix attacks via fake browser glitches](https://www.bleepingcomputer.com/news/security/new-errtraffic-service-enables-clickfix-attacks-via-fake-browser-glitches/)
-- [CSA Issues Alert on Critical SmarterMail Bug Allowing Remote Code Execution](https://thehackernews.com/2025/12/csa-issues-alert-on-critical.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
