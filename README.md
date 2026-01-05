@@ -1975,11 +1975,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Russia-Aligned Hackers Abuse Viber to Target Ukrainian Military and Government](https://thehackernews.com/2026/01/russia-aligned-hackers-abuse-viber-to.html)
+- [VSCode IDE forks expose users to &quot;recommended extension&quot; attacks](https://www.bleepingcomputer.com/news/security/vscode-ide-forks-expose-users-to-recommended-extension-attacks/)
+- [Kimwolf Android Botnet Infects Over 2 Million Devices via Exposed ADB and Proxy Networks](https://thehackernews.com/2026/01/kimwolf-android-botnet-infects-over-2.html)
 - [Ledger customers impacted by third-party Global-e data breach](https://www.bleepingcomputer.com/news/security/ledger-customers-impacted-by-third-party-global-e-data-breach/)
 - [Agentic AI Is an Identity Problem and CISOs Will Be Accountable for the Outcome](https://www.bleepingcomputer.com/news/security/agentic-ai-is-an-identity-problem-and-cisos-will-be-accountable-for-the-outcome/)
-- [NordVPN denies breach claims, says attackers have &quot;dummy data&quot;](https://www.bleepingcomputer.com/news/security/nordvpn-denies-breach-claims-says-attackers-have-dummy-data/)
-- [⚡ Weekly Recap: IoT Exploits, Wallet Breaches, Rogue Extensions, AI Abuse &amp; More](https://thehackernews.com/2026/01/weekly-recap-iot-exploits-wallet.html)
-- [The State of Cybersecurity in 2025: Key Segments, Insights, and Innovations](https://thehackernews.com/2026/01/the-state-of-cybersecurity-in-2025key.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
