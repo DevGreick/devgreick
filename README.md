@@ -1989,11 +1989,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft cancels plans to rate limit Exchange Online bulk emails](https://www.bleepingcomputer.com/news/microsoft/microsoft-cancels-plans-to-rate-limit-exchange-online-bulk-emails/)
 - [New D-Link flaw in legacy DSL routers actively exploited in attacks](https://www.bleepingcomputer.com/news/security/new-d-link-flaw-in-legacy-dsl-routers-actively-exploited-in-attacks/)
 - [Kimwolf Android botnet abuses residential proxies to infect internal devices](https://www.bleepingcomputer.com/news/security/kimwolf-android-botnet-abuses-residential-proxies-to-infect-internal-devices/)
 - [Jaguar Land Rover wholesale volumes down 43% after cyberattack](https://www.bleepingcomputer.com/news/security/jaguar-land-rover-wholesale-volumes-down-43-percent-after-cyberattack/)
 - [Two Chrome Extensions Caught Stealing ChatGPT and DeepSeek Chats from 900,000 Users](https://thehackernews.com/2026/01/two-chrome-extensions-caught-stealing.html)
-- [Unpatched Firmware Flaw Exposes TOTOLINK EX200 to Full Remote Device Takeover](https://thehackernews.com/2026/01/unpatched-firmware-flaw-exposes.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
