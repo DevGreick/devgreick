@@ -1987,11 +1987,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Two Chrome Extensions Caught Stealing ChatGPT and DeepSeek Chats from 900,000 Users](https://thehackernews.com/2026/01/two-chrome-extensions-caught-stealing.html)
+- [Unpatched Firmware Flaw Exposes TOTOLINK EX200 to Full Remote Device Takeover](https://thehackernews.com/2026/01/unpatched-firmware-flaw-exposes.html)
 - [Sedgwick confirms breach at government contractor subsidiary](https://www.bleepingcomputer.com/news/security/sedgwick-confirms-breach-at-government-contractor-subsidiary/)
 - [How generative AI accelerates identity attacks against Active Directory](https://www.bleepingcomputer.com/news/security/how-generative-ai-accelerates-identity-attacks-against-active-directory/)
 - [Fake Booking Emails Redirect Hotel Staff to Fake BSoD Pages Delivering DCRat](https://thehackernews.com/2026/01/fake-booking-emails-redirect-hotel.html)
-- [What is Identity Dark Matter?](https://thehackernews.com/2026/01/what-is-identity-dark-matter.html)
-- [VS Code Forks Recommend Missing Extensions, Creating Supply Chain Risk in Open VSX](https://thehackernews.com/2026/01/vs-code-forks-recommend-missing.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
