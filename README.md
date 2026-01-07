@@ -24,9 +24,19 @@
 
   <!-- CVE-LIST:START -->
 <details>
-<summary><strong>Vulnerabilidades exploradas conhecidas da CISA</strong>  •  atualizado 07/01/2026 18:21 UTC  •  exibindo 10 itens</summary>
+<summary><strong>Vulnerabilidades exploradas conhecidas da CISA</strong>  •  atualizado 07/01/2026 20:16 UTC  •  exibindo 10 itens</summary>
 
 > Fonte: CISA Known Exploited Vulnerabilities
+
+- **CVE-2009-0556** - Microsoft Office PowerPoint Code Injection Vulnerability  
+  Fornecedor: Microsoft | Produto: Office | Adicionado: 2026-01-07  
+  Microsoft Office PowerPoint contains a code injection vulnerability that allows remote attackers to execute arbitrary code via a PowerPoint file with an OutlineTextRefAtom containing an invalid index value that triggers memory corruption.  
+  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
+
+- **CVE-2025-37164** - Hewlett Packard Enterprise OneView Code Injection Vulnerability  
+  Fornecedor: Hewlett Packard (HP) | Produto: OneView | Adicionado: 2026-01-07  
+  Hewlett Packard Enterprise OneView contains a code injection vulnerability that allows a remote unauthenticated user to perform remote code execution.  
+  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
 
 - **CVE-2025-14847** - MongoDB and MongoDB Server Improper Handling of Length Parameter Inconsistency Vulnerability  
   Fornecedor: MongoDB | Produto: MongoDB and MongoDB Server | Adicionado: 2025-12-29  
@@ -68,17 +78,8 @@
   Gladinet CentreStack and TrioFox contain a hardcoded cryptographic keys vulnerability for their implementation of the AES cryptoscheme. This vulnerability degrades security for public exposed endpoints that may make use of it and may offer arbitrary local file inclusion when provided a specially crafted request without authentication.  
   Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
 
-- **CVE-2025-43529** - Apple Multiple Products Use-After-Free WebKit Vulnerability  
-  Fornecedor: Apple | Produto: Multiple Products | Adicionado: 2025-12-15  
-  Apple iOS, iPadOS, macOS, and other Apple products contain a use-after-free vulnerability in WebKit. Processing maliciously crafted web content may lead to memory corruption. This vulnerability could impact HTML parsers that use WebKit, including but not limited to Apple Safari and non-Apple products which rely on WebKit for HTML processing.  
-  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
-
-- **CVE-2018-4063** - Sierra Wireless AirLink ALEOS Unrestricted Upload of File with Dangerous Type Vulnerability  
-  Fornecedor: Sierra Wireless | Produto: AirLink ALEOS | Adicionado: 2025-12-12  
-  Sierra Wireless AirLink ALEOS contains an unrestricted upload of file with dangerous type vulnerability. A specially crafted HTTP request can upload a file, resulting in executable code being uploaded, and routable, to the webserver. An attacker can make an authenticated HTTP request to trigger this vulnerability. The impacted product could be end-of-life (EoL) and/or end-of-service (EoS). Users should discontinue product utilization.  
-  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
-
 </details>
+
 
 
 
