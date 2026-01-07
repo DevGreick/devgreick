@@ -2001,11 +2001,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Critical jsPDF flaw lets hackers steal secrets via generated PDFs](https://www.bleepingcomputer.com/news/security/critical-jspdf-flaw-lets-hackers-steal-secrets-via-generated-pdfs/)
+- [ChatGPT is losing market share as Google Gemini gains ground](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-is-losing-market-share-as-google-gemini-gains-ground/)
 - [Logitech Options+, G HUB macOS apps break after certificate expires](https://www.bleepingcomputer.com/news/hardware/logitech-options-plus-g-hub-macos-apps-break-after-certificate-expires/)
 - [Max severity Ni8mare flaw lets hackers hijack n8n servers](https://www.bleepingcomputer.com/news/security/max-severity-ni8mare-flaw-lets-hackers-hijack-n8n-servers/)
 - [Webinar: Learn How AI-Powered Zero Trust Detects Attacks with No Files or Indicators](https://thehackernews.com/2026/01/webinar-learn-how-ai-powered-zero-trust.html)
-- [Black Cat Behind SEO Poisoning Malware Campaign Targeting Popular Software Searches](https://thehackernews.com/2026/01/black-cat-behind-seo-poisoning-malware.html)
-- [Microsoft: Classic Outlook bug prevents opening encrypted emails](https://www.bleepingcomputer.com/news/microsoft/microsoft-classic-outlook-bug-prevents-opening-encrypted-emails/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
