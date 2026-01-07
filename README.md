@@ -1998,11 +1998,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [ownCloud urges users to enable MFA after credential theft reports](https://www.bleepingcomputer.com/news/security/owncloud-urges-users-to-enable-mfa-after-credential-theft-reports/)
+- [Critical n8n Vulnerability &lpar;CVSS 10.0&rpar; Allows Unauthenticated Attackers to Take Full Control](https://thehackernews.com/2026/01/critical-n8n-vulnerability-cvss-100.html)
 - [New Veeam vulnerabilities expose backup servers to RCE attacks](https://www.bleepingcomputer.com/news/security/new-veeam-vulnerabilities-expose-backup-servers-to-rce-attacks/)
 - [Google Search AI hallucinations push Google to hire &quot;AI Answers Quality&quot; engineers](https://www.bleepingcomputer.com/news/google/google-search-ai-hallucinations-push-google-to-hire-ai-answers-quality-engineers/)
 - [UK announces plan to strengthen public sector cyber defenses](https://www.bleepingcomputer.com/news/security/uk-announces-plan-to-strengthen-public-sector-cyber-defenses/)
-- [Webinar: Learn How AI-Powered Zero Trust Detects Attacks with No Files or Indicators](https://thehackernews.com/2026/01/webinar-learn-how-ai-powered-zero-trust.html)
-- [n8n Warns of CVSS 10.0 RCE Vulnerability Affecting Self-Hosted and Cloud Versions](https://thehackernews.com/2026/01/n8n-warns-of-cvss-100-rce-vulnerability.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
