@@ -1990,11 +1990,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI is rolling out GPT-5.2 “Codex-Max” for some users](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-rolling-out-gpt-52-codex-max-for-some-users/)
+- [Taiwan says China&#39;s attacks on its energy sector increased tenfold](https://www.bleepingcomputer.com/news/security/taiwan-says-chinas-attacks-on-its-energy-sector-increased-tenfold/)
 - [Microsoft cancels plans to rate limit Exchange Online bulk emails](https://www.bleepingcomputer.com/news/microsoft/microsoft-cancels-plans-to-rate-limit-exchange-online-bulk-emails/)
 - [New D-Link flaw in legacy DSL routers actively exploited in attacks](https://www.bleepingcomputer.com/news/security/new-d-link-flaw-in-legacy-dsl-routers-actively-exploited-in-attacks/)
 - [Kimwolf Android botnet abuses residential proxies to infect internal devices](https://www.bleepingcomputer.com/news/security/kimwolf-android-botnet-abuses-residential-proxies-to-infect-internal-devices/)
-- [Jaguar Land Rover wholesale volumes down 43% after cyberattack](https://www.bleepingcomputer.com/news/security/jaguar-land-rover-wholesale-volumes-down-43-percent-after-cyberattack/)
-- [Two Chrome Extensions Caught Stealing ChatGPT and DeepSeek Chats from 900,000 Users](https://thehackernews.com/2026/01/two-chrome-extensions-caught-stealing.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
