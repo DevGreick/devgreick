@@ -2006,11 +2006,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [CISA tags max severity HPE OneView flaw as actively exploited](https://www.bleepingcomputer.com/news/security/cisa-tags-max-severity-hpe-oneview-flaw-as-actively-exploited/)
+- [OpenAI Launches ChatGPT Health with Isolated, Encrypted Health Data Controls](https://thehackernews.com/2026/01/openai-launches-chatgpt-health-with.html)
 - [CISA Flags Microsoft Office and HPE OneView Bugs as Actively Exploited](https://thehackernews.com/2026/01/cisa-flags-microsoft-office-and-hpe.html)
 - [OpenAI says ChatGPT won&#39;t use your health information to train its models](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-chatgpt-wont-use-your-health-information-to-train-its-models/)
 - [New GoBruteforcer attack wave targets crypto, blockchain projects](https://www.bleepingcomputer.com/news/security/new-gobruteforcer-attack-wave-targets-crypto-blockchain-projects/)
-- [Critical jsPDF flaw lets hackers steal secrets via generated PDFs](https://www.bleepingcomputer.com/news/security/critical-jspdf-flaw-lets-hackers-steal-secrets-via-generated-pdfs/)
-- [ChatGPT is losing market share as Google Gemini gains ground](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-is-losing-market-share-as-google-gemini-gains-ground/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
