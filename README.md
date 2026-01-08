@@ -2008,11 +2008,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
-- [Cisco warns of Identity Service Engine flaw with exploit code](https://www.bleepingcomputer.com/news/security/cisco-warns-of-identity-service-engine-flaw-with-exploit-code/)
-- [CISA tags max severity HPE OneView flaw as actively exploited](https://www.bleepingcomputer.com/news/security/cisa-tags-max-severity-hpe-oneview-flaw-as-actively-exploited/)
-- [OpenAI Launches ChatGPT Health with Isolated, Encrypted Health Data Controls](https://thehackernews.com/2026/01/openai-launches-chatgpt-health-with.html)
-- [CISA Flags Microsoft Office and HPE OneView Bugs as Actively Exploited](https://thehackernews.com/2026/01/cisa-flags-microsoft-office-and-hpe.html)
-- [OpenAI says ChatGPT won&#39;t use your health information to train its models](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-chatgpt-wont-use-your-health-information-to-train-its-models/)
+- [Microsoft to enforce MFA for Microsoft 365 admin center sign-ins](https://www.bleepingcomputer.com/news/microsoft/microsoft-to-enforce-mfa-for-microsoft-365-admin-center-sign-ins/)
+- [The State of Trusted Open Source](https://thehackernews.com/2026/01/the-state-of-trusted-open-source.html)
+- [Cisco Patches ISE Security Vulnerability After Public PoC Exploit Release](https://thehackernews.com/2026/01/cisco-patches-ise-security.html)
+- [Researchers Uncover NodeCordRAT Hidden in npm Bitcoin-Themed Packages](https://thehackernews.com/2026/01/researchers-uncover-nodecordrat-hidden.html)
+- [Coolify Discloses 11 Critical Flaws Enabling Full Server Compromise on Self-Hosted Instances](https://thehackernews.com/2026/01/coolify-discloses-11-critical-flaws.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
