@@ -2013,11 +2013,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [VMware ESXi zero-days likely exploited a year before disclosure](https://www.bleepingcomputer.com/news/security/vmware-esxi-zero-days-likely-exploited-a-year-before-disclosure/)
+- [Cisco switches hit by reboot loops due to DNS client bug](https://www.bleepingcomputer.com/news/security/cisco-switches-hit-by-reboot-loops-due-to-dns-client-bug/)
 - [WhatsApp Worm Spreads Astaroth Banking Trojan Across Brazil via Contact Auto-Messaging](https://thehackernews.com/2026/01/whatsapp-worm-spreads-astaroth-banking.html)
-- [Texas court blocks Samsung from collecting smart TV viewing data](https://www.bleepingcomputer.com/news/security/texas-court-blocks-samsung-from-collecting-smart-tv-viewing-data/)
+- [Texas court blocks Samsung from tracking TV viewing, then vacates order](https://www.bleepingcomputer.com/news/security/texas-court-blocks-samsung-from-tracking-tv-viewing-then-vacates-order/)
 - [Six for 2026: The cyber threats you can’t ignore](https://www.bleepingcomputer.com/news/security/six-for-2026-the-cyber-threats-you-cant-ignore/)
-- [China-Linked UAT-7290 Targets Telecoms with Linux Malware and ORB Nodes](https://thehackernews.com/2026/01/china-linked-uat-7290-targets-telecoms.html)
-- [ThreatsDay Bulletin: RustFS Flaw, Iranian Ops, WebUI RCE, Cloud Leaks, and 12 More Stories](https://thehackernews.com/2026/01/threatsday-bulletin-rustfs-flaw-iranian.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
