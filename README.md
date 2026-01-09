@@ -2020,11 +2020,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Cybersecurity Predictions 2026: The Hype We Can Ignore &lpar;And the Risks We Can&#39;t&rpar;](https://thehackernews.com/2026/01/cybersecurity-predictions-2026-hype-we.html)
+- [Trend Micro warns of critical Apex Central RCE vulnerability](https://www.bleepingcomputer.com/news/security/trend-micro-fixes-critical-rce-flaw-in-apex-central-console/)
 - [Trend Micro Apex Central RCE Flaw Scores 9.8 CVSS in On-Prem Windows Versions](https://thehackernews.com/2026/01/trend-micro-apex-central-rce-flaw.html)
 - [CISA Retires 10 Emergency Cybersecurity Directives Issued Between 2019 and 2024](https://thehackernews.com/2026/01/cisa-retires-10-emergency-cybersecurity.html)
 - [FBI Warns North Korean Hackers Using Malicious QR Codes in Spear-Phishing](https://thehackernews.com/2026/01/fbi-warns-north-korean-hackers-using.html)
-- [CISA retires 10 emergency cyber orders in rare bulk closure](https://www.bleepingcomputer.com/news/security/cisa-retires-10-emergency-cyber-orders-in-rare-bulk-closure/)
-- [Gmail&#39;s new AI Inbox uses Gemini, but Google says it won’t train AI on user emails](https://www.bleepingcomputer.com/news/google/gmails-new-ai-inbox-uses-gemini-but-google-says-it-wont-train-ai-on-user-emails/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
