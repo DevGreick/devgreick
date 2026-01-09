@@ -2025,11 +2025,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft may soon allow IT admins to uninstall Copilot](https://www.bleepingcomputer.com/news/microsoft/microsoft-may-soon-allow-it-admins-to-uninstall-copilot-on-managed-devices/)
 - [Hackers target misconfigured proxies to access paid LLM services](https://www.bleepingcomputer.com/news/security/hackers-target-misconfigured-proxies-to-access-paid-llm-services/)
 - [China-Linked Hackers Exploit VMware ESXi Zero-Days to Escape Virtual Machines](https://thehackernews.com/2026/01/chinese-linked-hackers-exploit-vmware.html)
 - [Illinois Department of Human Services data breach affects 700K people](https://www.bleepingcomputer.com/news/security/illinois-department-of-human-services-data-breach-affects-700k-people/)
 - [Russian APT28 Runs Credential-Stealing Campaign Targeting Energy and Policy Organizations](https://thehackernews.com/2026/01/russian-apt28-runs-credential-stealing.html)
-- [Email security needs more seatbelts: Why click rate is the wrong metric](https://www.bleepingcomputer.com/news/security/email-security-needs-more-seatbelts-why-click-rate-is-the-wrong-metric/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
