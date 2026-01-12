@@ -2058,11 +2058,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Spanish energy giant Endesa discloses data breach affecting customers](https://www.bleepingcomputer.com/news/security/spanish-energy-giant-endesa-discloses-data-breach-affecting-customers/)
+- [Microsoft is retiring the Lens scanner app for iOS, Android](https://www.bleepingcomputer.com/news/microsoft/microsoft-is-retiring-the-lens-scanner-app-for-ios-android/)
+- [Prevent cloud data leaks with Microsoft 365 access reviews](https://www.bleepingcomputer.com/news/security/prevent-cloud-data-leaks-with-microsoft-365-access-reviews/)
 - [Max severity Ni8mare flaw impacts nearly 60,000 n8n instances](https://www.bleepingcomputer.com/news/security/max-severity-ni8mare-flaw-impacts-nearly-60-000-n8n-instances/)
 - [⚡ Weekly Recap: AI Automation Exploits, Telecom Espionage, Prompt Poaching &amp; More](https://thehackernews.com/2026/01/weekly-recap-ai-automation-exploits.html)
-- [GoBruteforcer Botnet Targets Crypto Project Databases by Exploiting Weak Credentials](https://thehackernews.com/2026/01/gobruteforcer-botnet-targets-crypto.html)
-- [Anthropic brings Claude to healthcare with HIPAA-ready Enterprise tools](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-brings-claude-to-healthcare-with-hipaa-ready-enterprise-tools/)
-- [Anthropic Launches Claude AI for Healthcare with Secure Health Record Access](https://thehackernews.com/2026/01/anthropic-launches-claude-ai-for.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
