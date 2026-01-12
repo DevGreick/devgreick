@@ -2055,11 +2055,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Anthropic brings Claude to healthcare with HIPAA-ready Enterprise tools](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-brings-claude-to-healthcare-with-hipaa-ready-enterprise-tools/)
+- [Anthropic Launches Claude AI for Healthcare with Secure Health Record Access](https://thehackernews.com/2026/01/anthropic-launches-claude-ai-for.html)
+- [Researchers Uncover Service Providers Fueling Industrial-Scale Pig Butchering Fraud](https://thehackernews.com/2026/01/researchers-uncover-service-providers.html)
 - [Instagram denies breach amid claims of 17 million account data leak](https://www.bleepingcomputer.com/news/security/instagram-denies-breach-amid-claims-of-17-million-account-data-leak/)
 - [California bans data broker reselling health data of millions](https://www.bleepingcomputer.com/news/legal/california-bans-data-broker-reselling-health-data-of-millions/)
-- [Microsoft is retiring &#39;Send to Kindle&#39; in Word](https://www.bleepingcomputer.com/news/microsoft/microsoft-is-retiring-send-to-kindle-in-word/)
-- [BreachForums hacking forum database leaked, exposing 324,000 accounts](https://www.bleepingcomputer.com/news/security/breachforums-hacking-forum-database-leaked-exposing-324-000-accounts/)
-- [Spain arrests 34 suspects linked to Black Axe cyber crime](https://www.bleepingcomputer.com/news/security/spain-arrests-34-suspects-linked-to-black-axe-cyber-crime/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
