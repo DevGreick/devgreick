@@ -2057,11 +2057,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Max severity Ni8mare flaw impacts nearly 60,000 n8n instances](https://www.bleepingcomputer.com/news/security/max-severity-ni8mare-flaw-impacts-nearly-60-000-n8n-instances/)
+- [⚡ Weekly Recap: AI Automation Exploits, Telecom Espionage, Prompt Poaching &amp; More](https://thehackernews.com/2026/01/weekly-recap-ai-automation-exploits.html)
 - [GoBruteforcer Botnet Targets Crypto Project Databases by Exploiting Weak Credentials](https://thehackernews.com/2026/01/gobruteforcer-botnet-targets-crypto.html)
 - [Anthropic brings Claude to healthcare with HIPAA-ready Enterprise tools](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-brings-claude-to-healthcare-with-hipaa-ready-enterprise-tools/)
 - [Anthropic Launches Claude AI for Healthcare with Secure Health Record Access](https://thehackernews.com/2026/01/anthropic-launches-claude-ai-for.html)
-- [Researchers Uncover Service Providers Fueling Industrial-Scale Pig Butchering Fraud](https://thehackernews.com/2026/01/researchers-uncover-service-providers.html)
-- [Instagram denies breach amid claims of 17 million account data leak](https://www.bleepingcomputer.com/news/security/instagram-denies-breach-amid-claims-of-17-million-account-data-leak/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
