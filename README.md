@@ -2069,11 +2069,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Target employees confirm leaked code after ‘accelerated’ Git lockdown](https://www.bleepingcomputer.com/news/security/target-employees-confirm-leaked-code-after-accelerated-git-lockdown/)
+- [New Advanced Linux VoidLink Malware Targets Cloud and container Environments](https://thehackernews.com/2026/01/new-advanced-linux-voidlink-malware.html)
 - [What Should We Learn From How Attackers Leveraged AI in 2025?](https://thehackernews.com/2026/01/what-should-we-learn-from-how-attackers.html)
 - [ServiceNow Patches Critical AI Platform Flaw Allowing Unauthenticated User Impersonation](https://thehackernews.com/2026/01/servicenow-patches-critical-ai-platform.html)
 - [New Malware Campaign Delivers Remcos RAT Through Multi-Stage Windows Attack](https://thehackernews.com/2026/01/new-malware-campaign-delivers-remcos.html)
-- [CISA Warns of Active Exploitation of Gogs Vulnerability Enabling Code Execution](https://thehackernews.com/2026/01/cisa-warns-of-active-exploitation-of.html)
-- [Hacker gets seven years for breaching Rotterdam and Antwerp ports](https://www.bleepingcomputer.com/news/security/hacker-gets-seven-years-for-breaching-rotterdam-and-antwerp-ports/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
