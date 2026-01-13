@@ -24,13 +24,13 @@
 
   <!-- CVE-LIST:START -->
 <details>
-<summary><strong>Vulnerabilidades exploradas conhecidas da CISA</strong>  •  atualizado 13/01/2026 20:16 UTC  •  exibindo 10 itens</summary>
+<summary><strong>Vulnerabilidades exploradas conhecidas da CISA</strong>  •  atualizado 13/01/2026 22:14 UTC  •  exibindo 10 itens</summary>
 
 > Fonte: CISA Known Exploited Vulnerabilities
 
 - **CVE-2026-20805** - Microsoft Windows Information Disclosure Vulnerability  
   Fornecedor: Microsoft | Produto: Windows | Adicionado: 2026-01-13  
-  Microsoft Windows contains an information disclosure vulnerability that allows an authorized attacker to disclose information locally.  
+  Microsoft Windows Desktop Windows Manager contains an information disclosure vulnerability that allows an authorized attacker to disclose information locally.  
   Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
 
 - **CVE-2025-8110** - Gogs Path Traversal Vulnerability  
@@ -79,6 +79,7 @@
   Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
 
 </details>
+
 
 
 
