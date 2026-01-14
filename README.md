@@ -2080,11 +2080,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Cloud marketplace Pax8 accidentally exposes data on 1,800 MSP partners](https://www.bleepingcomputer.com/news/security/cloud-marketplace-pax8-accidentally-exposes-data-on-1-800-msp-partners/)
+- [Fortinet Fixes Critical FortiSIEM Flaw Allowing Unauthenticated Remote Code Execution](https://thehackernews.com/2026/01/fortinet-fixes-critical-fortisiem-flaw.html)
+- [Victorian Department of Education says hackers stole students’ data](https://www.bleepingcomputer.com/news/security/victorian-department-of-education-notifies-parents-of-data-breach/)
+- [New Research: 64% of 3rd-Party Applications Access Sensitive Data Without Justification](https://thehackernews.com/2026/01/new-research-64-of-3rd-party.html)
 - [Microsoft: Windows 365 update blocks access to Cloud PC sessions](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-365-update-blocks-access-to-cloud-pc-sessions/)
-- [Monroe University says 2024 data breach affects 320,000 people](https://www.bleepingcomputer.com/news/security/monroe-university-says-2024-data-breach-affects-320-000-people/)
-- [Critical Node.js Vulnerability Can Cause Server Crashes via async_hooks Stack Overflow](https://thehackernews.com/2026/01/critical-nodejs-vulnerability-can-cause.html)
-- [PLUGGYAPE Malware Uses Signal and WhatsApp to Target Ukrainian Defense Forces](https://thehackernews.com/2026/01/pluggyape-malware-uses-signal-and.html)
-- [Ukraine&#39;s army targeted in new charity-themed malware campaign](https://www.bleepingcomputer.com/news/security/ukraines-army-targeted-in-new-charity-themed-malware-campaign/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
