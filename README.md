@@ -2090,11 +2090,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft disrupts massive RedVDS cybercrime virtual desktop service](https://www.bleepingcomputer.com/news/security/microsoft-seizes-servers-disrupts-massive-redvds-cybercrime-platform/)
 - [ChatGPT&#39;s upcoming cross-platform feature is codenamed &quot;Agora&quot;](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpts-upcoming-cross-platform-feature-is-codenamed-agora/)
 - [Google plans to make Chrome for Android an agentic browser with Gemini](https://www.bleepingcomputer.com/news/artificial-intelligence/google-plans-to-make-chrome-for-android-an-agentic-browser-with-gemini/)
 - [Google&#39;s Personal Intelligence links Gmail, Photos and Search to Gemini](https://www.bleepingcomputer.com/news/artificial-intelligence/googles-personal-intelligence-links-gmail-photos-and-search-to-gemini/)
 - [OpenAI&#39;s hidden ChatGPT Translate tool takes on Google Translate](https://www.bleepingcomputer.com/news/artificial-intelligence/openais-hidden-chatgpt-translate-tool-takes-on-google-translate/)
-- [South Korean giant Kyowon confirms data theft in ransomware attack](https://www.bleepingcomputer.com/news/security/south-korean-giant-kyowon-confirms-data-theft-in-ransomware-attack/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
