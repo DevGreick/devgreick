@@ -2091,11 +2091,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [FTC bans GM from selling drivers&#39; location data for five years](https://www.bleepingcomputer.com/news/security/ftc-bans-general-motors-from-selling-drivers-location-data-for-five-years/)
+- [Microsoft Legal Action Disrupts RedVDS Cybercrime Infrastructure Used for Online Fraud](https://thehackernews.com/2026/01/microsoft-legal-action-disrupts-redvds.html)
+- [Palo Alto Networks warns of DoS bug letting hackers disable firewalls](https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-dos-bug-letting-hackers-disable-firewalls/)
+- [Palo Alto Fixes GlobalProtect DoS Flaw That Can Crash Firewalls Without Login](https://thehackernews.com/2026/01/palo-alto-fixes-globalprotect-dos-flaw.html)
 - [Microsoft disrupts massive RedVDS cybercrime virtual desktop service](https://www.bleepingcomputer.com/news/security/microsoft-seizes-servers-disrupts-massive-redvds-cybercrime-platform/)
-- [ChatGPT&#39;s upcoming cross-platform feature is codenamed &quot;Agora&quot;](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpts-upcoming-cross-platform-feature-is-codenamed-agora/)
-- [Google plans to make Chrome for Android an agentic browser with Gemini](https://www.bleepingcomputer.com/news/artificial-intelligence/google-plans-to-make-chrome-for-android-an-agentic-browser-with-gemini/)
-- [Google&#39;s Personal Intelligence links Gmail, Photos and Search to Gemini](https://www.bleepingcomputer.com/news/artificial-intelligence/googles-personal-intelligence-links-gmail-photos-and-search-to-gemini/)
-- [OpenAI&#39;s hidden ChatGPT Translate tool takes on Google Translate](https://www.bleepingcomputer.com/news/artificial-intelligence/openais-hidden-chatgpt-translate-tool-takes-on-google-translate/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
