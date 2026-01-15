@@ -2097,11 +2097,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Grubhub confirms hackers stole data in recent security breach](https://www.bleepingcomputer.com/news/security/grubhub-confirms-hackers-stole-data-in-recent-security-breach/)
+- [Hackers exploit Modular DS WordPress plugin flaw for admin access](https://www.bleepingcomputer.com/news/security/hackers-exploit-modular-ds-wordpress-plugin-flaw-for-admin-access/)
 - [Verizon blames nationwide outage on a &quot;software issue&quot;](https://www.bleepingcomputer.com/news/mobile/verizon-blames-nationwide-outage-on-a-software-issue/)
+- [AWS CodeBuild Misconfiguration Exposed GitHub Repos to Potential Supply Chain Attacks](https://thehackernews.com/2026/01/aws-codebuild-misconfiguration-exposed.html)
 - [Microsoft Copilot Studio extension for VS Code now publicly available](https://www.bleepingcomputer.com/news/microsoft/microsoft-copilot-studio-extension-for-vs-code-now-publicly-available/)
-- [Critical flaw lets hackers track, eavesdrop via Bluetooth audio devices](https://www.bleepingcomputer.com/news/security/critical-flaw-lets-hackers-track-eavesdrop-via-bluetooth-audio-devices/)
-- [Critical WordPress Modular DS Plugin Flaw Actively Exploited to Gain Admin Access](https://thehackernews.com/2026/01/critical-wordpress-modular-ds-plugin.html)
-- [Researchers Reveal Reprompt Attack Allowing Single-Click Data Exfiltration From Microsoft Copilot](https://thehackernews.com/2026/01/researchers-reveal-reprompt-attack.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
