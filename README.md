@@ -2096,11 +2096,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Verizon blames nationwide outage on a &quot;software issue&quot;](https://www.bleepingcomputer.com/news/mobile/verizon-blames-nationwide-outage-on-a-software-issue/)
+- [Microsoft Copilot Studio extension for VS Code now publicly available](https://www.bleepingcomputer.com/news/microsoft/microsoft-copilot-studio-extension-for-vs-code-now-publicly-available/)
 - [Critical flaw lets hackers track, eavesdrop via Bluetooth audio devices](https://www.bleepingcomputer.com/news/security/critical-flaw-lets-hackers-track-eavesdrop-via-bluetooth-audio-devices/)
 - [Critical WordPress Modular DS Plugin Flaw Actively Exploited to Gain Admin Access](https://thehackernews.com/2026/01/critical-wordpress-modular-ds-plugin.html)
 - [Researchers Reveal Reprompt Attack Allowing Single-Click Data Exfiltration From Microsoft Copilot](https://thehackernews.com/2026/01/researchers-reveal-reprompt-attack.html)
-- [How to automate just-in-time access to applications with Tines](https://www.bleepingcomputer.com/news/security/how-to-automate-just-in-time-access-to-applications-with-tines/)
-- [ThreatsDay Bulletin: AI Voice Cloning Exploit, Wi-Fi Kill Switch, PLC Vulns, and 14 More Stories](https://thehackernews.com/2026/01/threatsday-bulletin-ai-voice-cloning.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
