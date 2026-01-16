@@ -2102,11 +2102,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Cisco Patches Zero-Day RCE Exploited by China-Linked APT in Secure Email Gateways](https://thehackernews.com/2026/01/cisco-patches-zero-day-rce-exploited-by.html)
 - [Google now lets you change your @gmail.com address, rolling out](https://www.bleepingcomputer.com/news/technology/google-now-lets-you-change-your-gmailcom-address-rolling-out/)
 - [ChatGPT is now more reliable at finding and remembering your past chat](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-is-now-more-reliable-at-finding-and-remembering-your-past-chat/)
 - [Gootloader now uses 1,000-part ZIP archives for stealthy delivery](https://www.bleepingcomputer.com/news/security/gootloader-now-uses-1-000-part-zip-archives-for-stealthy-delivery/)
 - [Grubhub confirms hackers stole data in recent security breach](https://www.bleepingcomputer.com/news/security/grubhub-confirms-hackers-stole-data-in-recent-security-breach/)
-- [Hackers exploit Modular DS WordPress plugin flaw for admin access](https://www.bleepingcomputer.com/news/security/hackers-exploit-modular-ds-wordpress-plugin-flaw-for-admin-access/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
