@@ -2103,11 +2103,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Cisco finally fixes AsyncOS zero-day exploited since November](https://www.bleepingcomputer.com/news/security/cisco-finally-fixes-asyncos-zero-day-exploited-since-november/)
+- [Microsoft: Some Windows PCs fail to shut down after January update](https://www.bleepingcomputer.com/news/security/microsoft-some-windows-pcs-fail-to-shut-down-after-january-update/)
+- [China-Linked APT Exploits Sitecore Zero-Day in Attacks on American Critical Infrastructure](https://thehackernews.com/2026/01/china-linked-apt-exploits-sitecore-zero.html)
 - [Cisco Patches Zero-Day RCE Exploited by China-Linked APT in Secure Email Gateways](https://thehackernews.com/2026/01/cisco-patches-zero-day-rce-exploited-by.html)
 - [Google now lets you change your @gmail.com address, rolling out](https://www.bleepingcomputer.com/news/technology/google-now-lets-you-change-your-gmailcom-address-rolling-out/)
-- [ChatGPT is now more reliable at finding and remembering your past chat](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-is-now-more-reliable-at-finding-and-remembering-your-past-chat/)
-- [Gootloader now uses 1,000-part ZIP archives for stealthy delivery](https://www.bleepingcomputer.com/news/security/gootloader-now-uses-1-000-part-zip-archives-for-stealthy-delivery/)
-- [Grubhub confirms hackers stole data in recent security breach](https://www.bleepingcomputer.com/news/security/grubhub-confirms-hackers-stole-data-in-recent-security-breach/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
