@@ -2143,11 +2143,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Google Gemini Prompt Injection Flaw Exposed Private Calendar Data via Malicious Invites](https://thehackernews.com/2026/01/google-gemini-prompt-injection-flaw.html)
+- [UK govt. warns about ongoing Russian hacktivist group attacks](https://www.bleepingcomputer.com/news/security/uk-govt-warns-about-ongoing-russian-hacktivist-group-attacks/)
 - [Hacker admits to leaking stolen Supreme Court data on Instagram](https://www.bleepingcomputer.com/news/security/hacker-admits-to-leaking-stolen-supreme-court-data-on-instagram/)
 - [Jordanian pleads guilty to selling access to 50 corporate networks](https://www.bleepingcomputer.com/news/security/jordanian-pleads-guilty-to-selling-access-to-50-corporate-networks/)
 - [Ingram Micro says ransomware attack affected 42,000 people](https://www.bleepingcomputer.com/news/security/ingram-micro-says-ransomware-attack-affected-42-000-people/)
-- [⚡ Weekly Recap: Fortinet Exploits, RedLine Clipjack, NTLM Crack, Copilot Attack &amp; More](https://thehackernews.com/2026/01/weekly-recap-fortinet-exploits-redline.html)
-- [DevOps &amp; SaaS Downtime: The High &lpar;and Hidden&rpar; Costs for Cloud-First Businesses](https://thehackernews.com/2026/01/high-costs-of-devops-saas-downtime.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
