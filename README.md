@@ -2138,11 +2138,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Security Bug in StealC Malware Panel Let Researchers Spy on Threat Actor Operations](https://thehackernews.com/2026/01/security-bug-in-stealc-malware-panel.html)
 - [New OpenAI leak hints at upcoming ChatGPT features](https://www.bleepingcomputer.com/news/artificial-intelligence/new-openai-leak-hints-at-upcoming-chatgpt-features/)
 - [Microsoft releases OOB Windows updates to fix shutdown, Cloud PC bugs](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-oob-windows-updates-to-fix-shutdown-cloud-pc-bugs/)
 - [CIRO confirms data breach exposed info on 750,000 Canadian investors](https://www.bleepingcomputer.com/news/security/ciro-data-breach-last-year-exposed-info-on-750-000-canadian-investors/)
 - [Google Chrome tests Gemini-powered AI &quot;Skills&quot;](https://www.bleepingcomputer.com/news/artificial-intelligence/google-chrome-tests-gemini-powered-ai-skills/)
-- [Google Chrome now lets you turn off on-device AI model powering scam detection](https://www.bleepingcomputer.com/news/artificial-intelligence/google-chrome-now-lets-you-turn-off-on-device-ai-model-powering-scam-detection/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
