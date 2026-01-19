@@ -2141,11 +2141,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Ingram Micro says ransomware attack affected 42,000 people](https://www.bleepingcomputer.com/news/security/ingram-micro-says-ransomware-attack-affected-42-000-people/)
+- [⚡ Weekly Recap: Fortinet Exploits, RedLine Clipjack, NTLM Crack, Copilot Attack &amp; More](https://thehackernews.com/2026/01/weekly-recap-fortinet-exploits-redline.html)
+- [DevOps &amp; SaaS Downtime: The High &lpar;and Hidden&rpar; Costs for Cloud-First Businesses](https://thehackernews.com/2026/01/high-costs-of-devops-saas-downtime.html)
+- [New StackWarp Hardware Flaw Breaks AMD SEV-SNP Protections on Zen 1–5 CPUs](https://thehackernews.com/2026/01/new-stackwarp-hardware-flaw-breaks-amd.html)
 - [CrashFix Chrome Extension Delivers ModeloRAT Using ClickFix-Style Browser Crash Lures](https://thehackernews.com/2026/01/crashfix-chrome-extension-delivers.html)
-- [Security Bug in StealC Malware Panel Let Researchers Spy on Threat Actor Operations](https://thehackernews.com/2026/01/security-bug-in-stealc-malware-panel.html)
-- [OpenAI hostname hints at a new ChatGPT feature codenamed &quot;Sonata&quot;](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-hostname-hints-at-a-new-chatgpt-feature-codenamed-sonata/)
-- [New OpenAI leak hints at upcoming ChatGPT features](https://www.bleepingcomputer.com/news/artificial-intelligence/new-openai-leak-hints-at-upcoming-chatgpt-features/)
-- [Microsoft releases OOB Windows updates to fix shutdown, Cloud PC bugs](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-oob-windows-updates-to-fix-shutdown-cloud-pc-bugs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
