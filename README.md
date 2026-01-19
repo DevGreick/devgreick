@@ -2142,11 +2142,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Hacker admits to leaking stolen Supreme Court data on Instagram](https://www.bleepingcomputer.com/news/security/hacker-admits-to-leaking-stolen-supreme-court-data-on-instagram/)
+- [Jordanian pleads guilty to selling access to 50 corporate networks](https://www.bleepingcomputer.com/news/security/jordanian-pleads-guilty-to-selling-access-to-50-corporate-networks/)
 - [Ingram Micro says ransomware attack affected 42,000 people](https://www.bleepingcomputer.com/news/security/ingram-micro-says-ransomware-attack-affected-42-000-people/)
 - [⚡ Weekly Recap: Fortinet Exploits, RedLine Clipjack, NTLM Crack, Copilot Attack &amp; More](https://thehackernews.com/2026/01/weekly-recap-fortinet-exploits-redline.html)
 - [DevOps &amp; SaaS Downtime: The High &lpar;and Hidden&rpar; Costs for Cloud-First Businesses](https://thehackernews.com/2026/01/high-costs-of-devops-saas-downtime.html)
-- [New StackWarp Hardware Flaw Breaks AMD SEV-SNP Protections on Zen 1–5 CPUs](https://thehackernews.com/2026/01/new-stackwarp-hardware-flaw-breaks-amd.html)
-- [CrashFix Chrome Extension Delivers ModeloRAT Using ClickFix-Style Browser Crash Lures](https://thehackernews.com/2026/01/crashfix-chrome-extension-delivers.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
