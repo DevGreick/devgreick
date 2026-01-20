@@ -2156,11 +2156,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [VoidLink cloud malware shows clear signs of being AI-generated](https://www.bleepingcomputer.com/news/security/voidlink-cloud-malware-shows-clear-signs-of-being-ai-generated/)
+- [EU plans cybersecurity overhaul to block foreign high-risk suppliers](https://www.bleepingcomputer.com/news/security/eu-plans-cybersecurity-overhaul-to-block-foreign-high-risk-suppliers/)
+- [North Korea-Linked Hackers Target Developers via Malicious VS Code Projects](https://thehackernews.com/2026/01/north-korea-linked-hackers-target.html)
 - [Gemini AI assistant tricked into leaking Google Calendar data](https://www.bleepingcomputer.com/news/security/gemini-ai-assistant-tricked-into-leaking-google-calendar-data/)
 - [Microsoft PowerToys adds new CursorWrap mouse &#39;teleport&#39; tool](https://www.bleepingcomputer.com/news/microsoft/microsoft-powertoys-adds-new-cursorwrap-mouse-teleport-tool/)
-- [Make Identity Threat Detection your security strategy for 2026](https://www.bleepingcomputer.com/news/security/make-identity-threat-detection-your-security-strategy-for-2026/)
-- [Three Flaws in Anthropic MCP Git Server Enable File Access and Code Execution](https://thehackernews.com/2026/01/three-flaws-in-anthropic-mcp-git-server.html)
-- [Hackers Use LinkedIn Messages to Spread RAT Malware Through DLL Sideloading](https://thehackernews.com/2026/01/hackers-use-linkedin-messages-to-spread.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
