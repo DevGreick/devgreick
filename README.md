@@ -2165,11 +2165,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Hackers exploit security testing apps to breach Fortune 500 firms](https://www.bleepingcomputer.com/news/security/hackers-exploit-security-testing-apps-to-breach-fortune-500-firms/)
+- [GitLab warns of high-severity 2FA bypass, denial-of-service flaws](https://www.bleepingcomputer.com/news/security/gitlab-warns-of-high-severity-2fa-bypass-denial-of-service-flaws/)
 - [Tesla hacked, 37 zero-days demoed at Pwn2Own Automotive 2026](https://www.bleepingcomputer.com/news/security/tesla-hacked-37-zero-days-demoed-at-pwn2own-automotive-2026/)
 - [Webinar: How Smart MSSPs Using AI to Boost Margins with Half the Staff](https://thehackernews.com/2026/01/webinar-how-smart-mssps-using-ai-to.html)
 - [Exposure Assessment Platforms Signal a Shift in Focus](https://thehackernews.com/2026/01/exposure-assessment-platforms-signal.html)
-- [Chainlit AI Framework Flaws Enable Data Theft via File Read and SSRF Bugs](https://thehackernews.com/2026/01/chainlit-ai-framework-flaws-enable-data.html)
-- [VoidLink Linux Malware Framework Built with AI Assistance Reaches 88,000 Lines of Code](https://thehackernews.com/2026/01/voidlink-linux-malware-framework-built.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
