@@ -2169,11 +2169,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Cisco fixes Unified Communications RCE zero day exploited in attacks](https://www.bleepingcomputer.com/news/security/cisco-fixes-unified-communications-rce-zero-day-exploited-in-attacks/)
+- [New Android malware uses AI to click on hidden browser ads](https://www.bleepingcomputer.com/news/security/new-android-malware-uses-ai-to-click-on-hidden-browser-ads/)
+- [Online retailer PcComponentes says data breach claims are fake](https://www.bleepingcomputer.com/news/security/online-retailer-pccomponentes-says-data-breach-claims-are-fake/)
 - [Fortinet admins report patched FortiGate firewalls getting hacked](https://www.bleepingcomputer.com/news/security/fortinet-admins-report-patched-fortigate-firewalls-getting-hacked/)
 - [North Korean PurpleBravo Campaign Targeted 3,136 IP Addresses via Fake Job Interviews](https://thehackernews.com/2026/01/north-korean-purplebravo-campaign.html)
-- [Fake Lastpass emails pose as password vault backup alerts](https://www.bleepingcomputer.com/news/security/fake-lastpass-emails-pose-as-password-vault-backup-alerts/)
-- [Zoom and GitLab Release Security Updates Fixing RCE, DoS, and 2FA Bypass Flaws](https://thehackernews.com/2026/01/zoom-and-gitlab-release-security.html)
-- [Microsoft shares workaround for Outlook freezes after Windows update](https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-workaround-for-outlook-freezes-after-windows-update/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
