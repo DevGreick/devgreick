@@ -2162,11 +2162,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [LastPass Warns of Fake Maintenance Messages Targeting Users’ Master Passwords](https://thehackernews.com/2026/01/lastpass-warns-of-fake-maintenance.html)
+- [CERT/CC Warns binary-parser Bug Allows Node.js Privilege-Level Code Execution](https://thehackernews.com/2026/01/certcc-warns-binary-parser-bug-allows.html)
 - [OpenAI&#39;s ChatGPT Atlas browser is testing actions feature](https://www.bleepingcomputer.com/news/artificial-intelligence/openais-chatgpt-atlas-browser-is-testing-actions-feature/)
 - [Google says Gemini won’t have ads, as ChatGPT prepares to add them](https://www.bleepingcomputer.com/news/artificial-intelligence/google-says-gemini-wont-have-ads-as-chatgpt-prepares-to-add-them/)
 - [OpenAI rolls out age prediction model on ChatGPT to detect your age](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-rolls-out-age-prediction-model-on-chatgpt-to-detect-your-age/)
-- [ACF plugin bug gives hackers admin on 50,000 WordPress sites](https://www.bleepingcomputer.com/news/security/acf-plugin-bug-gives-hackers-admin-on-50-000-wordpress-sites/)
-- [VoidLink cloud malware shows clear signs of being AI-generated](https://www.bleepingcomputer.com/news/security/voidlink-cloud-malware-shows-clear-signs-of-being-ai-generated/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
