@@ -2174,11 +2174,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Automated FortiGate Attacks Exploit FortiCloud SSO to Alter Firewall Configurations](https://thehackernews.com/2026/01/automated-fortigate-attacks-exploit.html)
 - [Cisco Fixes Actively Exploited Zero-Day CVE-2026-20045 in Unified CM and Webex](https://thehackernews.com/2026/01/cisco-fixes-actively-exploited-zero-day.html)
 - [Zendesk ticket systems hijacked in massive global spam wave](https://www.bleepingcomputer.com/news/security/zendesk-ticket-systems-hijacked-in-massive-global-spam-wave/)
 - [Chainlit AI framework bugs let hackers breach cloud environments](https://www.bleepingcomputer.com/news/security/chainlit-ai-framework-bugs-let-hackers-breach-cloud-environments/)
 - [Cisco fixes Unified Communications RCE zero day exploited in attacks](https://www.bleepingcomputer.com/news/security/cisco-fixes-unified-communications-rce-zero-day-exploited-in-attacks/)
-- [New Android malware uses AI to click on hidden browser ads](https://www.bleepingcomputer.com/news/security/new-android-malware-uses-ai-to-click-on-hidden-browser-ads/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
