@@ -24,9 +24,29 @@
 
   <!-- CVE-LIST:START -->
 <details>
-<summary><strong>Vulnerabilidades exploradas conhecidas da CISA</strong>  •  atualizado 22/01/2026 18:20 UTC  •  exibindo 10 itens</summary>
+<summary><strong>Vulnerabilidades exploradas conhecidas da CISA</strong>  •  atualizado 22/01/2026 20:17 UTC  •  exibindo 10 itens</summary>
 
 > Fonte: CISA Known Exploited Vulnerabilities
+
+- **CVE-2025-68645** - Synacor Zimbra Collaboration Suite (ZCS) PHP Remote File Inclusion Vulnerability  
+  Fornecedor: Synacor | Produto:  Zimbra Collaboration Suite (ZCS) | Adicionado: 2026-01-22  
+  Synacor Zimbra Collaboration Suite (ZCS) contains a PHP remote file inclusion vulnerability that could allow for remote attackers to craft requests to the /h/rest endpoint to influence internal request dispatching, allowing inclusion of arbitrary files from the WebRoot directory.  
+  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
+
+- **CVE-2025-34026** - Versa Concerto Improper Authentication Vulnerability  
+  Fornecedor: Versa | Produto: Concerto | Adicionado: 2026-01-22  
+  Versa Concerto SD-WAN orchestration platform contains an improper authentication vulnerability in the Traefik reverse proxy configuration, allowing at attacker to access administrative endpoints. The internal Actuator endpoint can be leveraged for access to heap dumps and trace logs.  
+  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
+
+- **CVE-2025-31125** - Vite Vitejs Improper Access Control Vulnerability  
+  Fornecedor: Vite | Produto: Vitejs | Adicionado: 2026-01-22  
+  Vite Vitejs contains an improper access control vulnerability that exposes content of non-allowed files using ?inline&import or ?raw?import. Only apps explicitly exposing the Vite dev server to the network (using --host or server.host config option) are affected.  
+  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
+
+- **CVE-2025-54313** - Prettier eslint-config-prettier Embedded Malicious Code Vulnerability  
+  Fornecedor: Prettier | Produto: eslint-config-prettier | Adicionado: 2026-01-22  
+  Prettier eslint-config-prettier contains an embedded malicious code vulnerability. Installing an affected package executes an install.js file that launches the node-gyp.dll malware on Windows.  
+  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
 
 - **CVE-2026-20045** - Cisco Unified Communications Products Code Injection Vulnerability  
   Fornecedor: Cisco | Produto: Unified Communications Manager | Adicionado: 2026-01-21  
@@ -58,27 +78,8 @@
   MongoDB Server contains an improper handling of length parameter inconsistency vulnerability in Zlib compressed protocol headers. This vulnerability may allow a read of uninitialized heap memory by an unauthenticated client.  
   Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
 
-- **CVE-2023-52163** - Digiever DS-2105 Pro Missing Authorization Vulnerability  
-  Fornecedor: Digiever | Produto: DS-2105 Pro | Adicionado: 2025-12-22  
-  Digiever DS-2105 Pro contains a missing authorization vulnerability which could allow for command injection via time_tzsetup.cgi.  
-  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
-
-- **CVE-2025-14733** - WatchGuard Firebox Out of Bounds Write Vulnerability  
-  Fornecedor: WatchGuard | Produto: Firebox | Adicionado: 2025-12-19  
-  WatchGuard Fireware OS iked process contains an out of bounds write vulnerability in the OS iked process. This vulnerability may allow a remote unauthenticated attacker to execute arbitrary code and affects both the mobile user VPN with IKEv2 and the branch office VPN using IKEv2 when configured with a dynamic gateway peer.  
-  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
-
-- **CVE-2025-59374** - ASUS Live Update Embedded Malicious Code Vulnerability  
-  Fornecedor: ASUS | Produto: Live Update | Adicionado: 2025-12-17  
-  ASUS Live Update contains an embedded malicious code vulnerability client were distributed with unauthorized modifications introduced through a supply chain compromise. The modified builds could cause devices meeting specific targeting conditions to perform unintended actions. The impacted product could be end-of-life (EoL) and/or end-of-service (EoS). Users should discontinue product utilization.  
-  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
-
-- **CVE-2025-40602** - SonicWall SMA1000 Missing Authorization Vulnerability  
-  Fornecedor: SonicWall | Produto: SMA1000 appliance | Adicionado: 2025-12-17  
-  SonicWall SMA1000 contains a missing authorization vulnerability that could allow for privilege escalation appliance management console (AMC) of affected devices.  
-  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable
-
 </details>
+
 
 
 
