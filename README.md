@@ -2176,11 +2176,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
-- [Automated FortiGate Attacks Exploit FortiCloud SSO to Alter Firewall Configurations](https://thehackernews.com/2026/01/automated-fortigate-attacks-exploit.html)
-- [Cisco Fixes Actively Exploited Zero-Day CVE-2026-20045 in Unified CM and Webex](https://thehackernews.com/2026/01/cisco-fixes-actively-exploited-zero-day.html)
-- [Zendesk ticket systems hijacked in massive global spam wave](https://www.bleepingcomputer.com/news/security/zendesk-ticket-systems-hijacked-in-massive-global-spam-wave/)
-- [Chainlit AI framework bugs let hackers breach cloud environments](https://www.bleepingcomputer.com/news/security/chainlit-ai-framework-bugs-let-hackers-breach-cloud-environments/)
-- [Cisco fixes Unified Communications RCE zero day exploited in attacks](https://www.bleepingcomputer.com/news/security/cisco-fixes-unified-communications-rce-zero-day-exploited-in-attacks/)
+- [Hackers exploit 29 zero-days on second day of Pwn2Own Automotive](https://www.bleepingcomputer.com/news/security/hackers-exploit-29-zero-day-vulnerabilities-on-second-day-of-pwn2own-automotive/)
+- [Hackers breach Fortinet FortiGate devices, steal firewall configs](https://www.bleepingcomputer.com/news/security/hackers-breach-fortinet-fortigate-devices-steal-firewall-configs/)
+- [Filling the Most Common Gaps in Google Workspace Security](https://thehackernews.com/2026/01/filling-most-common-gaps-in-google.html)
+- [Malicious PyPI Package Impersonates SymPy, Deploys XMRig Miner on Linux Hosts](https://thehackernews.com/2026/01/malicious-pypi-package-impersonates.html)
+- [SmarterMail Auth Bypass Exploited in the Wild Two Days After Patch Release](https://thehackernews.com/2026/01/smartermail-auth-bypass-exploited-in.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
