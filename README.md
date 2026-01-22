@@ -2178,11 +2178,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [INC ransomware opsec fail allowed data recovery for 12 US orgs](https://www.bleepingcomputer.com/news/security/inc-ransomware-opsec-fail-allowed-data-recovery-for-12-us-orgs/)
+- [Why Active Directory password resets are surging in hybrid work](https://www.bleepingcomputer.com/news/security/why-active-directory-password-resets-are-surging-in-hybrid-work/)
+- [ThreatsDay Bulletin: Pixel Zero-Click, Redis RCE, China C2s, RAT Ads, Crypto Scams &amp; 15+ Stories](https://thehackernews.com/2026/01/threatsday-bulletin-pixel-zero-click.html)
 - [Microsoft updates Notepad and Paint with more AI features](https://www.bleepingcomputer.com/news/microsoft/microsoft-updates-notepad-and-paint-with-more-ai-features/)
 - [Hackers exploit 29 zero-days on second day of Pwn2Own Automotive](https://www.bleepingcomputer.com/news/security/hackers-exploit-29-zero-day-vulnerabilities-on-second-day-of-pwn2own-automotive/)
-- [Hackers breach Fortinet FortiGate devices, steal firewall configs](https://www.bleepingcomputer.com/news/security/hackers-breach-fortinet-fortigate-devices-steal-firewall-configs/)
-- [Filling the Most Common Gaps in Google Workspace Security](https://thehackernews.com/2026/01/filling-most-common-gaps-in-google.html)
-- [Malicious PyPI Package Impersonates SymPy, Deploys XMRig Miner on Linux Hosts](https://thehackernews.com/2026/01/malicious-pypi-package-impersonates.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
