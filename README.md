@@ -24,9 +24,14 @@
 
   <!-- CVE-LIST:START -->
 <details>
-<summary><strong>Vulnerabilidades exploradas conhecidas da CISA</strong>  •  atualizado 23/01/2026 16:20 UTC  •  exibindo 10 itens</summary>
+<summary><strong>Vulnerabilidades exploradas conhecidas da CISA</strong>  •  atualizado 23/01/2026 18:21 UTC  •  exibindo 10 itens</summary>
 
 > Fonte: CISA Known Exploited Vulnerabilities
+
+- **CVE-2024-37079** - Broadcom VMware vCenter Server Out-of-bounds Write Vulnerability  
+  Fornecedor: Broadcom | Produto: VMware vCenter Server | Adicionado: 2026-01-23  
+  Broadcom VMware vCenter Server contains an out-of-bounds write vulnerability in the implementation of the DCERPC protocol. This could allow a malicious actor with network access to vCenter Server to send specially crafted network packets, potentially leading to remote code execution.  
+  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
 
 - **CVE-2025-68645** - Synacor Zimbra Collaboration Suite (ZCS) PHP Remote File Inclusion Vulnerability  
   Fornecedor: Synacor | Produto:  Zimbra Collaboration Suite (ZCS) | Adicionado: 2026-01-22  
@@ -73,12 +78,8 @@
   Hewlett Packard Enterprise (HPE) OneView contains a code injection vulnerability that allows a remote unauthenticated user to perform remote code execution.  
   Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
 
-- **CVE-2025-14847** - MongoDB and MongoDB Server Improper Handling of Length Parameter Inconsistency Vulnerability  
-  Fornecedor: MongoDB | Produto: MongoDB and MongoDB Server | Adicionado: 2025-12-29  
-  MongoDB Server contains an improper handling of length parameter inconsistency vulnerability in Zlib compressed protocol headers. This vulnerability may allow a read of uninitialized heap memory by an unauthenticated client.  
-  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
-
 </details>
+
 
 
 
