@@ -2188,11 +2188,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [TikTok Forms U.S. Joint Venture to Continue Operations Under 2025 Executive Order](https://thehackernews.com/2026/01/tiktok-forms-us-joint-venture-to.html)
+- [Phishing Attack Uses Stolen Credentials to Install LogMeIn RMM for Persistent Access](https://thehackernews.com/2026/01/phishing-attack-uses-stolen-credentials.html)
+- [Fortinet confirms critical FortiCloud auth bypass not fully patched](https://www.bleepingcomputer.com/news/security/fortinet-confirms-critical-forticloud-auth-bypass-not-fully-patched/)
 - [Microsoft Flags Multi-Stage AitM Phishing and BEC Attacks Targeting Energy Firms](https://thehackernews.com/2026/01/microsoft-flags-multi-stage-aitm.html)
 - [Okta SSO accounts targeted in vishing-based data theft attacks](https://www.bleepingcomputer.com/news/security/okta-sso-accounts-targeted-in-vishing-based-data-theft-attacks/)
-- [Curl ending bug bounty program after flood of AI slop reports](https://www.bleepingcomputer.com/news/security/curl-ending-bug-bounty-program-after-flood-of-ai-slop-reports/)
-- [SmarterMail auth bypass flaw now exploited to hijack admin accounts](https://www.bleepingcomputer.com/news/security/smartermail-auth-bypass-flaw-now-exploited-to-hijack-admin-accounts/)
-- [New Osiris Ransomware Emerges as New Strain Using POORTRY Driver in BYOVD Attack](https://thehackernews.com/2026/01/new-osiris-ransomware-emerges-as-new.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
