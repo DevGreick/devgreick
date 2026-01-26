@@ -2226,11 +2226,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Malicious VS Code AI Extensions with 1.5 Million Installs Steal Developer Source Code](https://thehackernews.com/2026/01/malicious-vs-code-ai-extensions-with-15.html)
+- [Nearly 800,000 Telnet servers exposed to remote attacks](https://www.bleepingcomputer.com/news/security/nearly-800-000-telnet-servers-exposed-to-remote-attacks/)
+- [6 Okta security settings you might have overlooked](https://www.bleepingcomputer.com/news/security/6-okta-security-settings-you-might-have-overlooked/)
 - [Hackers can bypass npm’s Shai-Hulud defenses via Git dependencies](https://www.bleepingcomputer.com/news/security/hackers-can-bypass-npms-shai-hulud-defenses-via-git-dependencies/)
 - [⚡ Weekly Recap: Firewall Flaws, AI-Built Malware, Browser Traps, Critical CVEs &amp; More](https://thehackernews.com/2026/01/weekly-recap-firewall-flaws-ai-built.html)
-- [CISA says critical VMware RCE flaw now actively exploited](https://www.bleepingcomputer.com/news/security/cisa-says-critical-vmware-rce-flaw-now-actively-exploited/)
-- [Winning Against AI-Based Attacks Requires a Combined Defensive Approach](https://thehackernews.com/2026/01/winning-against-ai-based-attacks.html)
-- [Konni Hackers Deploy AI-Generated PowerShell Backdoor Against Blockchain Developers](https://thehackernews.com/2026/01/konni-hackers-deploy-ai-generated.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
