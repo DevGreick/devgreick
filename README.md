@@ -24,9 +24,34 @@
 
   <!-- CVE-LIST:START -->
 <details>
-<summary><strong>Vulnerabilidades exploradas conhecidas da CISA</strong>  •  atualizado 26/01/2026 20:17 UTC  •  exibindo 10 itens</summary>
+<summary><strong>Vulnerabilidades exploradas conhecidas da CISA</strong>  •  atualizado 26/01/2026 22:14 UTC  •  exibindo 10 itens</summary>
 
 > Fonte: CISA Known Exploited Vulnerabilities
+
+- **CVE-2018-14634** - Linux Kernel Integer Overflow Vulnerability  
+  Fornecedor: Linux | Produto: Kernal | Adicionado: 2026-01-26  
+  Linux Kernel contains an integer overflow vulnerability in the create_elf_tables() function which could allow an unprivileged local user with access to SUID (or otherwise privileged) binary to escalate their privileges on the system.  
+  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
+
+- **CVE-2025-52691** - SmarterTools SmarterMail Unrestricted Upload of File with Dangerous Type Vulnerability  
+  Fornecedor: SmarterTools | Produto: SmarterMail | Adicionado: 2026-01-26  
+  SmarterTools SmarterMail contains an unrestricted upload of file with dangerous type vulnerability that could allow an unauthenticated attacker to upload arbitrary files to any location on the mail server, potentially enabling remote code execution.  
+  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
+
+- **CVE-2026-23760** - SmarterTools SmarterMail Authentication Bypass Using an Alternate Path or Channel Vulnerability  
+  Fornecedor: SmarterTools | Produto: SmarterMail | Adicionado: 2026-01-26  
+  SmarterTools SmarterMail contains an authentication bypass using an alternate path or channel vulnerability in the password reset API. The force-reset-password endpoint permits anonymous requests and fails to verify the existing password or a reset token when resetting system administrator accounts. This could allow an unauthenticated attacker to supply a target administrator username and a new password to reset the account, resulting in full administrative compromise of the SmarterMail instance.  
+  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
+
+- **CVE-2026-24061** - GNU InetUtils Argument Injection Vulnerability  
+  Fornecedor: GNU | Produto: InetUtils | Adicionado: 2026-01-26  
+  GNU InetUtils contains an argument injection vulnerability in telnetd that could allow for remote authentication bypass via a "-f root" value for the USER environment variable.  
+  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
+
+- **CVE-2026-21509** - Microsoft Office Security Feature Bypass Vulnerability  
+  Fornecedor: Microsoft | Produto: Office | Adicionado: 2026-01-26  
+  Microsoft Office contains a security feature bypass vulnerability in which reliance on untrusted inputs in a security decision in Microsoft Office could allow an unauthorized attacker to bypass a security feature locally.  
+  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
 
 - **CVE-2024-37079** - Broadcom VMware vCenter Server Out-of-bounds Write Vulnerability  
   Fornecedor: Broadcom | Produto: VMware vCenter Server | Adicionado: 2026-01-23  
@@ -53,32 +78,8 @@
   Prettier eslint-config-prettier contains an embedded malicious code vulnerability. Installing an affected package executes an install.js file that launches the node-gyp.dll malware on Windows.  
   Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
 
-- **CVE-2026-20045** - Cisco Unified Communications Products Code Injection Vulnerability  
-  Fornecedor: Cisco | Produto: Unified Communications Manager | Adicionado: 2026-01-21  
-  Cisco Unified Communications Manager (Unified CM), Cisco Unified Communications Manager Session Management Edition (Unified CM SME), Cisco Unified Communications Manager IM & Presence Service (Unified CM IM&P), Cisco Unity Connection, and Cisco Webex Calling Dedicated Instance contain a code injection vulnerability that could allow the attacker to obtain user-level access to the underlying operating system and then elevate privileges to root.  
-  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
-
-- **CVE-2026-20805** - Microsoft Windows Information Disclosure Vulnerability  
-  Fornecedor: Microsoft | Produto: Windows | Adicionado: 2026-01-13  
-  Microsoft Windows Desktop Windows Manager contains an information disclosure vulnerability that allows an authorized attacker to disclose information locally.  
-  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
-
-- **CVE-2025-8110** - Gogs Path Traversal Vulnerability  
-  Fornecedor: Gogs | Produto: Gogs | Adicionado: 2026-01-12  
-  Gogs contains a path traversal vulnerability affecting improper Symbolic link handling in the PutContents API that could allow for code execution.  
-  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
-
-- **CVE-2009-0556** - Microsoft Office PowerPoint Code Injection Vulnerability  
-  Fornecedor: Microsoft | Produto: Office | Adicionado: 2026-01-07  
-  Microsoft Office PowerPoint contains a code injection vulnerability that allows remote attackers to execute arbitrary code via a PowerPoint file with an OutlineTextRefAtom containing an invalid index value that triggers memory corruption.  
-  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
-
-- **CVE-2025-37164** - Hewlett Packard Enterprise (HPE) OneView Code Injection Vulnerability  
-  Fornecedor: Hewlett Packard Enterprise (HPE) | Produto: OneView | Adicionado: 2026-01-07  
-  Hewlett Packard Enterprise (HPE) OneView contains a code injection vulnerability that allows a remote unauthenticated user to perform remote code execution.  
-  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
-
 </details>
+
 
 
 
