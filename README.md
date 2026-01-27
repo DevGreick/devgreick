@@ -2238,11 +2238,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [From Cipher to Fear: The psychology behind modern ransomware extortion](https://www.bleepingcomputer.com/news/security/from-cipher-to-fear-the-psychology-behind-modern-ransomware-extortion/)
+- [ClickFix Attacks Expand Using Fake CAPTCHAs, Microsoft Scripts, and Trusted Web Services](https://thehackernews.com/2026/01/clickfix-attacks-expand-using-fake.html)
 - [Over 6,000 SmarterMail servers exposed to automated hijacking attacks](https://www.bleepingcomputer.com/news/security/over-6-000-smartermail-servers-exposed-to-automated-hijacking-attacks/)
 - [Have I Been Pwned: SoundCloud data breach impacts 29.8 million accounts](https://www.bleepingcomputer.com/news/security/have-i-been-pwned-soundcloud-data-breach-impacts-298-million-accounts/)
 - [CTEM in Practice: Prioritization, Validation, and Outcomes That Matter](https://thehackernews.com/2026/01/ctem-in-practice-prioritization.html)
-- [Microsoft Office Zero-Day &lpar;CVE-2026-21509&rpar; - Emergency Patch Issued for Active Exploitation](https://thehackernews.com/2026/01/microsoft-issues-emergency-patch-for.html)
-- [Critical Grist-Core Vulnerability Allows RCE Attacks via Spreadsheet Formulas](https://thehackernews.com/2026/01/critical-grist-core-vulnerability.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
