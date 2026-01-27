@@ -2236,11 +2236,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Have I Been Pwned: SoundCloud data breach impacts 29.8 million accounts](https://www.bleepingcomputer.com/news/security/have-i-been-pwned-soundcloud-data-breach-impacts-298-million-accounts/)
 - [Microsoft Office Zero-Day &lpar;CVE-2026-21509&rpar; - Emergency Patch Issued for Active Exploitation](https://thehackernews.com/2026/01/microsoft-issues-emergency-patch-for.html)
+- [Critical Grist-Core Vulnerability Allows RCE Attacks via Spreadsheet Formulas](https://thehackernews.com/2026/01/critical-grist-core-vulnerability.html)
+- [China-Linked Hackers Have Used the PeckBirdy JavaScript C2 Framework Since 2023](https://thehackernews.com/2026/01/china-linked-hackers-have-used.html)
 - [New malware service guarantees phishing extensions on Chrome web store](https://www.bleepingcomputer.com/news/security/new-malware-service-guarantees-phishing-extensions-on-chrome-web-store/)
-- [New ClickFix attacks abuse Windows App-V scripts to push malware](https://www.bleepingcomputer.com/news/security/new-clickfix-attacks-abuse-windows-app-v-scripts-to-push-malware/)
-- [Microsoft patches actively exploited Office zero-day vulnerability](https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-actively-exploited-office-zero-day-vulnerability/)
-- [Cloudflare misconfiguration behind recent BGP route leak](https://www.bleepingcomputer.com/news/security/cloudflare-misconfiguration-behind-recent-bgp-route-leak/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
