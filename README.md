@@ -2250,11 +2250,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [AI Is Rewriting Compliance Controls and CISOs Must Take Notice](https://www.bleepingcomputer.com/news/security/ai-is-rewriting-compliance-controls-and-cisos-must-take-notice/)
+- [SolarWinds warns of critical Web Help Desk RCE, auth bypass flaws](https://www.bleepingcomputer.com/news/security/solarwinds-warns-of-critical-web-help-desk-rce-auth-bypass-flaws/)
+- [Critical vm2 Node.js Flaw Allows Sandbox Escape and Arbitrary Code Execution](https://thehackernews.com/2026/01/critical-vm2-nodejs-flaw-allows-sandbox.html)
 - [Hackers hijack exposed LLM endpoints in Bizarre Bazaar operation](https://www.bleepingcomputer.com/news/security/hackers-hijack-exposed-llm-endpoints-in-bizarre-bazaar-operation/)
 - [Slovakian man pleads guilty to operating darknet marketplace](https://www.bleepingcomputer.com/news/security/slovakian-man-pleads-guilty-to-operating-kingdown-market-cybercrime-marketplace/)
-- [Two High-Severity n8n Flaws Allow Authenticated Remote Code Execution](https://thehackernews.com/2026/01/two-high-severity-n8n-flaws-allow.html)
-- [From Triage to Threat Hunts: How AI Accelerates SecOps](https://thehackernews.com/2026/01/from-triage-to-threat-hunts-how-ai.html)
-- [New WhatsApp lockdown feature protects high-risk users from hackers](https://www.bleepingcomputer.com/news/security/whatsapp-gets-new-lockdown-feature-that-blocks-cyberattacks/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
