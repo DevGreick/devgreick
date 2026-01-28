@@ -2251,11 +2251,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Is Rewriting Compliance Controls and CISOs Must Take Notice](https://www.bleepingcomputer.com/news/security/ai-is-rewriting-compliance-controls-and-cisos-must-take-notice/)
-- [SolarWinds warns of critical Web Help Desk RCE, auth bypass flaws](https://www.bleepingcomputer.com/news/security/solarwinds-warns-of-critical-web-help-desk-rce-auth-bypass-flaws/)
-- [Critical vm2 Node.js Flaw Allows Sandbox Escape and Arbitrary Code Execution](https://thehackernews.com/2026/01/critical-vm2-nodejs-flaw-allows-sandbox.html)
-- [Hackers hijack exposed LLM endpoints in Bizarre Bazaar operation](https://www.bleepingcomputer.com/news/security/hackers-hijack-exposed-llm-endpoints-in-bizarre-bazaar-operation/)
-- [Slovakian man pleads guilty to operating darknet marketplace](https://www.bleepingcomputer.com/news/security/slovakian-man-pleads-guilty-to-operating-kingdown-market-cybercrime-marketplace/)
+- [New sandbox escape flaw exposes n8n instances to RCE attacks](https://www.bleepingcomputer.com/news/security/new-sandbox-escape-flaw-exposes-n8n-instances-to-rce-attacks/)
+- [Fake Moltbot AI Coding Assistant on VS Code Marketplace Drops Malware](https://thehackernews.com/2026/01/fake-moltbot-ai-coding-assistant-on-vs.html)
+- [FBI seizes RAMP cybercrime forum used by ransomware gangs](https://www.bleepingcomputer.com/news/security/fbi-seizes-ramp-cybercrime-forum-used-by-ransomware-gangs/)
+- [Empire cybercrime market owner pleads guilty to drug conspiracy](https://www.bleepingcomputer.com/news/security/empire-cybercrime-market-owner-pleads-guilty-to-drug-conspiracy/)
+- [Russian ELECTRUM Tied to December 2025 Cyber Attack on Polish Power Grid](https://thehackernews.com/2026/01/russian-electrum-tied-to-december-2025.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
