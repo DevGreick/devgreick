@@ -2263,11 +2263,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Google disrupts IPIDEA residential proxy networks fueled by malware](https://www.bleepingcomputer.com/news/security/google-disrupts-ipidea-residential-proxy-networks-fueled-by-malware/)
+- [Researchers Find 175,000 Publicly Exposed Ollama AI Servers Across 130 Countries](https://thehackernews.com/2026/01/researchers-find-175000-publicly.html)
 - [Match Group breach exposes data from Hinge, Tinder, OkCupid, and Match](https://www.bleepingcomputer.com/news/security/match-group-breach-exposes-data-from-hinge-tinder-okcupid-and-match/)
 - [Marquis blames ransomware breach on SonicWall cloud backup hack](https://www.bleepingcomputer.com/news/security/marquis-blames-ransomware-breach-on-sonicwall-cloud-backup-hack/)
 - [Not a Kids Game: From Roblox Mod to Compromising Your Company](https://www.bleepingcomputer.com/news/security/not-a-kids-game-from-roblox-mod-to-compromising-your-company/)
-- [Aisuru botnet sets new record with 31.4 Tbps DDoS attack](https://www.bleepingcomputer.com/news/security/aisuru-botnet-sets-new-record-with-314-tbps-ddos-attack/)
-- [New Microsoft Teams feature will let you report suspicious calls](https://www.bleepingcomputer.com/news/microsoft/new-microsoft-teams-feature-will-let-you-report-suspicious-calls/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
