@@ -2271,11 +2271,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Researchers Uncover Chrome Extensions Abusing Affiliate Links and Stealing ChatGPT Access](https://thehackernews.com/2026/01/researchers-uncover-chrome-extensions.html)
+- [China-Linked UAT-8099 Targets IIS Servers in Asia with BadIIS SEO Malware](https://thehackernews.com/2026/01/china-linked-uat-8099-targets-iis.html)
 - [Windows 11 KB5074105 update fixes boot, sign-in, and activation issues](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5074105-update-fixes-boot-sign-in-and-activation-issues/)
 - [Badges, Bytes and Blackmail](https://thehackernews.com/2026/01/badges-bytes-and-blackmail.html)
 - [Ex-Google Engineer Convicted for Stealing 2,000 AI Trade Secrets for China Startup](https://thehackernews.com/2026/01/ex-google-engineer-convicted-for.html)
-- [SmarterMail Fixes Critical Unauthenticated RCE Flaw with CVSS 9.3 Score](https://thehackernews.com/2026/01/smartermail-fixes-critical.html)
-- [Two Ivanti EPMM Zero-Day RCE Flaws Actively Exploited, Security Updates Released](https://thehackernews.com/2026/01/two-ivanti-epmm-zero-day-rce-flaws.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
