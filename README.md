@@ -2307,11 +2307,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Mozilla announces switch to disable all Firefox AI features](https://www.bleepingcomputer.com/news/software/mozilla-will-let-you-turn-off-all-firefox-ai-features/)
+- [Microsoft: January update shutdown bug affects more Windows PCs](https://www.bleepingcomputer.com/news/microsoft/microsoft-january-update-shutdown-bug-affects-more-windows-pcs/)
+- [OpenClaw Bug Enables One-Click Remote Code Execution via Malicious Link](https://thehackernews.com/2026/02/openclaw-bug-enables-one-click-remote.html)
 - [Microsoft Begins NTLM Phase-Out With Three-Stage Plan to Move Windows to Kerberos](https://thehackernews.com/2026/02/microsoft-begins-ntlm-phase-out-with.html)
 - [CTM360 Report Warns of Global Surge in Fake High-Yield Investment Scams](https://www.bleepingcomputer.com/news/security/ctm360-report-warns-of-global-surge-in-fake-high-yield-investment-scams/)
-- [Notepad++ update feature hijacked by Chinese state hackers for months](https://www.bleepingcomputer.com/news/security/notepad-plus-plus-update-feature-hijacked-by-chinese-state-hackers-for-months/)
-- [Panera Bread breach impacts 5.1 million accounts, not 14 million customers](https://www.bleepingcomputer.com/news/security/panera-bread-data-breach-impacts-51-million-accounts-not-14-million-customers/)
-- [⚡ Weekly Recap: Proxy Botnet, Office Zero-Day, MongoDB Ransoms, AI Hijacks &amp; New Threats](https://thehackernews.com/2026/02/weekly-recap-proxy-botnet-office-zero.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
