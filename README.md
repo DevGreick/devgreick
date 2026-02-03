@@ -24,9 +24,24 @@
 
   <!-- CVE-LIST:START -->
 <details>
-<summary><strong>Vulnerabilidades exploradas conhecidas da CISA</strong>  •  atualizado 03/02/2026 14:38 UTC  •  exibindo 10 itens</summary>
+<summary><strong>Vulnerabilidades exploradas conhecidas da CISA</strong>  •  atualizado 03/02/2026 16:42 UTC  •  exibindo 10 itens</summary>
 
 > Fonte: CISA Known Exploited Vulnerabilities
+
+- **CVE-2021-39935** - GitLab Community and Enterprise Editions Server-Side Request Forgery (SSRF) Vulnerability  
+  Fornecedor: GitLab | Produto: Community and Enterprise Editions | Adicionado: 2026-02-03  
+  GitLab Community and Enterprise Editions contain a server-side request forgery vulnerability which could allow unauthorized external users to perform Server Side Requests via the CI Lint API.   
+  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
+
+- **CVE-2025-64328** - Sangoma FreePBX OS Command Injection Vulnerability  
+  Fornecedor: Sangoma | Produto: FreePBX  | Adicionado: 2026-02-03  
+  Sangoma FreePBX Endpoint Manager contains an OS command injection vulnerability that could allow for a post-authentication command injection by an authenticated known user via the testconnection -> check_ssh_connect() function. An attacker can leverage this vulnerability to potentially obtain remote access to the system as an asterisk user.   
+  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
+
+- **CVE-2019-19006** -  Sangoma FreePBX Improper Authentication Vulnerability  
+  Fornecedor: Sangoma | Produto: FreePBX | Adicionado: 2026-02-03  
+  Sangoma FreePBX contains an improper authentication vulnerability that potentially allows unauthorized users to bypass password authentication and access services provided by the FreePBX admin.  
+  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
 
 - **CVE-2026-1281** - Ivanti Endpoint Manager Mobile (EPMM) Code Injection Vulnerability  
   Fornecedor: Ivanti | Produto: Endpoint Manager Mobile (EPMM) | Adicionado: 2026-01-29  
@@ -63,22 +78,8 @@
   Microsoft Office contains a security feature bypass vulnerability in which reliance on untrusted inputs in a security decision in Microsoft Office could allow an unauthorized attacker to bypass a security feature locally. Some of the impacted product(s) could be end-of-life (EoL) and/or end-of-service (EoS). Users are advised to discontinue use and/or transition to a supported version.  
   Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
 
-- **CVE-2024-37079** - Broadcom VMware vCenter Server Out-of-bounds Write Vulnerability  
-  Fornecedor: Broadcom | Produto: VMware vCenter Server | Adicionado: 2026-01-23  
-  Broadcom VMware vCenter Server contains an out-of-bounds write vulnerability in the implementation of the DCERPC protocol. This could allow a malicious actor with network access to vCenter Server to send specially crafted network packets, potentially leading to remote code execution.  
-  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
-
-- **CVE-2025-68645** - Synacor Zimbra Collaboration Suite (ZCS) PHP Remote File Inclusion Vulnerability  
-  Fornecedor: Synacor | Produto:  Zimbra Collaboration Suite (ZCS) | Adicionado: 2026-01-22  
-  Synacor Zimbra Collaboration Suite (ZCS) contains a PHP remote file inclusion vulnerability that could allow for remote attackers to craft requests to the /h/rest endpoint to influence internal request dispatching, allowing inclusion of arbitrary files from the WebRoot directory.  
-  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
-
-- **CVE-2025-34026** - Versa Concerto Improper Authentication Vulnerability  
-  Fornecedor: Versa | Produto: Concerto | Adicionado: 2026-01-22  
-  Versa Concerto SD-WAN orchestration platform contains an improper authentication vulnerability in the Traefik reverse proxy configuration, allowing at attacker to access administrative endpoints. The internal Actuator endpoint can be leveraged for access to heap dumps and trace logs.  
-  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
-
 </details>
+
 
 
 
