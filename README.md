@@ -2314,11 +2314,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [UK privacy watchdog probes Grok over AI-generated sexual images](https://www.bleepingcomputer.com/news/security/uk-privacy-watchdog-probes-grok-over-ai-generated-sexual-images/)
+- [Hackers exploit critical React Native Metro bug to breach dev systems](https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-react-native-metro-bug-to-breach-dev-systems/)
+- [French prosecutors raid X offices, summon Musk over Grok deepfakes](https://www.bleepingcomputer.com/news/security/french-prosecutors-raid-x-offices-over-grok-sexual-deepfakes/)
 - [When Cloud Outages Ripple Across the Internet](https://thehackernews.com/2026/02/when-cloud-outages-ripple-across.html)
 - [APT28 Uses Microsoft Office CVE-2026-21509 in Espionage-Focused Malware Attacks](https://thehackernews.com/2026/02/apt28-uses-microsoft-office-cve-2026.html)
-- [Mozilla Adds One-Click Option to Disable Generative AI Features in Firefox](https://thehackernews.com/2026/02/mozilla-adds-one-click-option-to.html)
-- [Notepad++ Hosting Breach Attributed to China-Linked Lotus Blossom Hacking Group](https://thehackernews.com/2026/02/notepad-hosting-breach-attributed-to.html)
-- [New GlassWorm attack targets macOS via compromised OpenVSX extensions](https://www.bleepingcomputer.com/news/security/new-glassworm-attack-targets-macos-via-compromised-openvsx-extensions/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
