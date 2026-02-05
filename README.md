@@ -2334,11 +2334,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Zendesk spam wave returns, floods users with &#39;Activate account&#39; emails](https://www.bleepingcomputer.com/news/security/zendesk-spam-wave-returns-floods-users-with-activate-account-emails/)
 - [Critical n8n Flaw CVE-2026-25049 Enables System Command Execution via Malicious Workflows](https://thehackernews.com/2026/02/critical-n8n-flaw-cve-2026-25049.html)
 - [Malicious NGINX Configurations Enable Large-Scale Web Traffic Hijacking Campaign](https://thehackernews.com/2026/02/hackers-exploit-react2shell-to-hijack.html)
 - [Hackers compromise NGINX servers to redirect user traffic](https://www.bleepingcomputer.com/news/security/hackers-compromise-nginx-servers-to-redirect-user-traffic/)
 - [Critical n8n flaws disclosed along with public exploits](https://www.bleepingcomputer.com/news/security/critical-n8n-flaws-disclosed-along-with-public-exploits/)
-- [Microsoft Develops Scanner to Detect Backdoors in Open-Weight Large Language Models](https://thehackernews.com/2026/02/microsoft-develops-scanner-to-detect.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
