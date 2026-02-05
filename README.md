@@ -24,9 +24,19 @@
 
   <!-- CVE-LIST:START -->
 <details>
-<summary><strong>Vulnerabilidades exploradas conhecidas da CISA</strong>  •  atualizado 05/02/2026 18:38 UTC  •  exibindo 10 itens</summary>
+<summary><strong>Vulnerabilidades exploradas conhecidas da CISA</strong>  •  atualizado 05/02/2026 20:23 UTC  •  exibindo 10 itens</summary>
 
 > Fonte: CISA Known Exploited Vulnerabilities
+
+- **CVE-2025-11953** - React Native Community CLI OS Command Injection Vulnerability  
+  Fornecedor: React Native Community | Produto: CLI | Adicionado: 2026-02-05  
+  React Native Community CLI contains an OS command injection vulnerability which could allow unauthenticated network attackers to send POST requests to the Metro Development Server and run arbitrary executables via a vulnerable endpoint exposed by the server. On Windows, attackers can also execute arbitrary shell commands with fully controlled arguments.  
+  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
+
+- **CVE-2026-24423** - SmarterTools SmarterMail Missing Authentication for Critical Function Vulnerability  
+  Fornecedor: SmarterTools | Produto: SmarterMail | Adicionado: 2026-02-05  
+  SmarterTools SmarterMail contains a missing authentication for critical function vulnerability in the ConnectToHub API method. This could allow the attacker to point the SmarterMail instance to a malicious HTTP server which serves the malicious OS command and could lead to command execution.   
+  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
 
 - **CVE-2021-39935** - GitLab Community and Enterprise Editions Server-Side Request Forgery (SSRF) Vulnerability  
   Fornecedor: GitLab | Produto: Community and Enterprise Editions | Adicionado: 2026-02-03  
@@ -68,17 +78,8 @@
   SmarterTools SmarterMail contains an unrestricted upload of file with dangerous type vulnerability that could allow an unauthenticated attacker to upload arbitrary files to any location on the mail server, potentially enabling remote code execution.  
   Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
 
-- **CVE-2026-23760** - SmarterTools SmarterMail Authentication Bypass Using an Alternate Path or Channel Vulnerability  
-  Fornecedor: SmarterTools | Produto: SmarterMail | Adicionado: 2026-01-26  
-  SmarterTools SmarterMail contains an authentication bypass using an alternate path or channel vulnerability in the password reset API. The force-reset-password endpoint permits anonymous requests and fails to verify the existing password or a reset token when resetting system administrator accounts. This could allow an unauthenticated attacker to supply a target administrator username and a new password to reset the account, resulting in full administrative compromise of the SmarterMail instance.  
-  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
-
-- **CVE-2026-24061** - GNU InetUtils Argument Injection Vulnerability  
-  Fornecedor: GNU | Produto: InetUtils | Adicionado: 2026-01-26  
-  GNU InetUtils contains an argument injection vulnerability in telnetd that could allow for remote authentication bypass via a "-f root" value for the USER environment variable.  
-  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
-
 </details>
+
 
 
 
