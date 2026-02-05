@@ -2337,11 +2337,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Romanian oil pipeline operator Conpet discloses cyberattack](https://www.bleepingcomputer.com/news/security/romanian-oil-pipeline-operator-conpet-discloses-cyberattack-qilin-ransomware/)
+- [When cloud logs fall short, the network tells the truth](https://www.bleepingcomputer.com/news/security/when-cloud-logs-fall-short-the-network-tells-the-truth/)
 - [ThreatsDay Bulletin: Codespaces RCE, AsyncRAT C2, BYOVD Abuse, AI Cloud Intrusions &amp; 15+ Stories](https://thehackernews.com/2026/02/threatsday-bulletin-codespaces-rce.html)
 - [Newsletter platform Substack notifies users of data breach](https://www.bleepingcomputer.com/news/security/newsletter-platform-substack-notifies-users-of-data-breach/)
 - [The Buyer’s Guide to AI Usage Control](https://thehackernews.com/2026/02/the-buyers-guide-to-ai-usage-control.html)
-- [Data breach at fintech firm Betterment exposes 1.4 million accounts](https://www.bleepingcomputer.com/news/security/data-breach-at-fintech-firm-betterment-exposes-14-million-accounts/)
-- [Infy Hackers Resume Operations with New C2 Servers After Iran Internet Blackout Ends](https://thehackernews.com/2026/02/infy-hackers-resume-operations-with-new.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
