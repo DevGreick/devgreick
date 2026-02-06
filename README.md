@@ -2347,11 +2347,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [EU says TikTok faces large fine over &quot;addictive design&quot;](https://www.bleepingcomputer.com/news/security/european-commission-says-tiktok-facing-fine-over-addictive-design/)
+- [CISA Orders Removal of Unsupported Edge Devices to Reduce Federal Network Risk](https://thehackernews.com/2026/02/cisa-orders-removal-of-unsupported-edge.html)
 - [Man pleads guilty to hacking nearly 600 women’s Snapchat accounts](https://www.bleepingcomputer.com/news/security/man-pleads-guilty-to-hacking-nearly-600-womens-snapchat-accounts/)
 - [Asian State-Backed Group TGR-STA-1030 Breaches 70 Government, Infrastructure Entities](https://thehackernews.com/2026/02/asian-state-backed-group-tgr-sta-1030.html)
 - [How Samsung Knox Helps Stop Your Network Security Breach](https://thehackernews.com/2026/02/how-samsung-knox-helps-stop-your-network-security-breach.html)
-- [Flickr discloses potential data breach exposing users&#39; names, emails](https://www.bleepingcomputer.com/news/security/flickr-discloses-potential-data-breach-exposing-users-names-emails/)
-- [CISA orders federal agencies to replace end-of-life edge devices](https://www.bleepingcomputer.com/news/security/cisa-orders-federal-agencies-to-replace-end-of-life-edge-devices/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
