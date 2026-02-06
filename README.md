@@ -2343,11 +2343,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Claude Opus 4.6 Finds 500+ High-Severity Flaws Across Major Open-Source Libraries](https://thehackernews.com/2026/02/claude-opus-46-finds-500-high-severity.html)
 - [Spain&#39;s Ministry of Science shuts down systems after breach claims](https://www.bleepingcomputer.com/news/security/spains-ministry-of-science-shuts-down-systems-after-breach-claims/)
 - [Ransomware gang uses ISPsystem VMs for stealthy payload delivery](https://www.bleepingcomputer.com/news/security/ransomware-gang-uses-ispsystem-vms-for-stealthy-payload-delivery/)
 - [Microsoft to shut down Exchange Online EWS in April 2027](https://www.bleepingcomputer.com/news/microsoft/microsoft-to-shut-down-exchange-web-services-in-cloud-in-2027/)
 - [AISURU/Kimwolf Botnet Launches Record-Setting 31.4 Tbps DDoS Attack](https://thehackernews.com/2026/02/aisurukimwolf-botnet-launches-record.html)
-- [Italian university La Sapienza goes offline after cyberattack](https://www.bleepingcomputer.com/news/security/italian-university-la-sapienza-goes-offline-after-cyberattack/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
