@@ -2377,11 +2377,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [BeyondTrust Fixes Critical Pre-Auth RCE Vulnerability in Remote Support and PRA](https://thehackernews.com/2026/02/beyondtrust-fixes-critical-pre-auth-rce.html)
 - [New tool blocks imposter attacks disguised as safe commands](https://www.bleepingcomputer.com/news/security/new-tool-blocks-imposter-attacks-disguised-as-safe-commands/)
 - [OpenClaw Integrates VirusTotal Scanning to Detect Malicious ClawHub Skills](https://thehackernews.com/2026/02/openclaw-integrates-virustotal-scanning.html)
 - [State actor targets 155 countries in &#39;Shadow Campaigns&#39; espionage op](https://www.bleepingcomputer.com/news/security/state-actor-targets-155-countries-in-shadow-campaigns-espionage-op/)
 - [German Agencies Warn of Signal Phishing Targeting Politicians, Military, Journalists](https://thehackernews.com/2026/02/german-agencies-warn-of-signal-phishing.html)
-- [Payments platform BridgePay confirms ransomware attack behind outage](https://www.bleepingcomputer.com/news/security/payments-platform-bridgepay-confirms-ransomware-attack-behind-outage/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
