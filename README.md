@@ -2381,11 +2381,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [China-Linked UNC3886 Targets Singapore Telecom Sector in Cyber Espionage Campaign](https://thehackernews.com/2026/02/china-linked-unc3886-targets-singapore.html)
+- [Password guessing without AI: How attackers build targeted wordlists](https://www.bleepingcomputer.com/news/security/password-guessing-without-ai-how-attackers-build-targeted-wordlists/)
+- [SolarWinds Web Help Desk Exploited for RCE in Multi-Stage Attacks on Exposed Servers](https://thehackernews.com/2026/02/solarwinds-web-help-desk-exploited-for.html)
 - [BeyondTrust warns of critical RCE flaw in remote support software](https://www.bleepingcomputer.com/news/security/beyondtrust-warns-of-critical-rce-flaw-in-remote-support-software/)
 - [⚡ Weekly Recap: AI Skill Malware, 31Tbps DDoS, Notepad++ Hack, LLM Backdoors and More](https://thehackernews.com/2026/02/weekly-recap-ai-skill-malware-31tbps.html)
-- [Men charged in FanDuel scheme fueled by thousands of stolen identities](https://www.bleepingcomputer.com/news/security/men-charged-in-massive-fanduel-fraud-scheme-fueled-by-thousands-of-stolen-identities/)
-- [How Top CISOs Solve Burnout and Speed up MTTR without Extra Hiring](https://thehackernews.com/2026/02/how-top-cisos-solve-burnout-and-speed.html)
-- [Bloody Wolf Targets Uzbekistan, Russia Using NetSupport RAT in Spear-Phishing Campaign](https://thehackernews.com/2026/02/bloody-wolf-targets-uzbekistan-russia.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
