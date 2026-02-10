@@ -2392,11 +2392,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft 365 outage takes down admin center in North America](https://www.bleepingcomputer.com/news/microsoft/microsoft-365-outage-takes-down-admin-center-in-north-america/)
-- [How to Automate AWS Incident Investigation with Tines and AI](https://www.bleepingcomputer.com/news/security/how-to-automate-aws-incident-investigation-with-tines-and-ai/)
-- [Reynolds Ransomware Embeds BYOVD Driver to Disable EDR Security Tools](https://thehackernews.com/2026/02/reynolds-ransomware-embeds-byovd-driver.html)
-- [From Ransomware to Residency: Inside the Rise of the Digital Parasite](https://thehackernews.com/2026/02/from-ransomware-to-residency-inside.html)
-- [Fortinet Patches Critical SQLi Flaw Enabling Unauthenticated Code Execution](https://thehackernews.com/2026/02/fortinet-patches-critical-sqli-flaw.html)
+- [Microsoft February 2026 Patch Tuesday fixes 6 zero-days, 58 flaws](https://www.bleepingcomputer.com/news/microsoft/microsoft-february-2026-patch-tuesday-fixes-6-zero-days-58-flaws/)
+- [Windows 11 KB5077181 &amp; KB5075941 cumulative updates released](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5077181-and-kb5075941-cumulative-updates-released/)
+- [DPRK Operatives Impersonate Professionals on LinkedIn to Infiltrate Companies](https://thehackernews.com/2026/02/dprk-operatives-impersonate.html)
+- [Volvo Group North America customer data exposed in Conduent hack](https://www.bleepingcomputer.com/news/security/volvo-group-north-america-customer-data-exposed-in-conduent-hack/)
+- [Microsoft rolls out new Secure Boot certificates before June expiration](https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-new-secure-boot-certificates-before-june-expiration/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
