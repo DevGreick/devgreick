@@ -24,9 +24,39 @@
 
   <!-- CVE-LIST:START -->
 <details>
-<summary><strong>Vulnerabilidades exploradas conhecidas da CISA</strong>  •  atualizado 10/02/2026 16:54 UTC  •  exibindo 10 itens</summary>
+<summary><strong>Vulnerabilidades exploradas conhecidas da CISA</strong>  •  atualizado 10/02/2026 18:55 UTC  •  exibindo 10 itens</summary>
 
 > Fonte: CISA Known Exploited Vulnerabilities
+
+- **CVE-2026-21513** - Microsoft Internet Explorer Protection Mechanism Failure Vulnerability  
+  Fornecedor: Microsoft | Produto: Windows | Adicionado: 2026-02-10  
+  Microsoft Internet Explorer contains a protection mechanism failure vulnerability that could allow an unauthorized attacker to bypass a security feature over a network.  
+  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
+
+- **CVE-2026-21525** - Microsoft Windows NULL Pointer Dereference Vulnerability  
+  Fornecedor: Microsoft | Produto: Windows | Adicionado: 2026-02-10  
+  Microsoft Windows Remote Access Connection Manager contains a NULL pointer dereference that could allow an unauthorized attacker to deny service locally.  
+  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
+
+- **CVE-2026-21510** - Microsoft Windows Shell Protection Mechanism Failure Vulnerability  
+  Fornecedor: Microsoft | Produto: Windows | Adicionado: 2026-02-10  
+  Microsoft Windows Shell contains a protection mechanism failure vulnerability that could allow an unauthorized attacker to bypass a security feature over a network.   
+  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
+
+- **CVE-2026-21533** - Microsoft Windows Improper Privilege Management Vulnerability  
+  Fornecedor: Microsoft | Produto: Windows | Adicionado: 2026-02-10  
+  Microsoft Windows Remote Desktop Services contains an improper privilege management vulnerability that could allow an authorized attacker to elevate privileges locally.  
+  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
+
+- **CVE-2026-21519** - Microsoft Windows Type Confusion Vulnerability  
+  Fornecedor: Microsoft | Produto: Windows | Adicionado: 2026-02-10  
+  Microsoft Desktop Windows Manager contains a type confusion vulnerability that could allow an authorized attacker to elevate privileges locally.  
+  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
+
+- **CVE-2026-21514** - Microsoft Office Word Reliance on Untrusted Inputs in a Security Decision Vulnerability  
+  Fornecedor: Microsoft | Produto: Office | Adicionado: 2026-02-10  
+  Microsoft Office Word contains a reliance on untrusted inputs in a security decision vulnerability that could allow an authorized attacker to elevate privileges locally.  
+  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
 
 - **CVE-2025-11953** - React Native Community CLI OS Command Injection Vulnerability  
   Fornecedor: React Native Community | Produto: CLI | Adicionado: 2026-02-05  
@@ -48,37 +78,8 @@
   Sangoma FreePBX Endpoint Manager contains an OS command injection vulnerability that could allow for a post-authentication command injection by an authenticated known user via the testconnection -> check_ssh_connect() function. An attacker can leverage this vulnerability to potentially obtain remote access to the system as an asterisk user.   
   Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
 
-- **CVE-2019-19006** -  Sangoma FreePBX Improper Authentication Vulnerability  
-  Fornecedor: Sangoma | Produto: FreePBX | Adicionado: 2026-02-03  
-  Sangoma FreePBX contains an improper authentication vulnerability that potentially allows unauthorized users to bypass password authentication and access services provided by the FreePBX admin.  
-  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
-
-- **CVE-2025-40551** - SolarWinds Web Help Desk Deserialization of Untrusted Data Vulnerability  
-  Fornecedor: SolarWinds | Produto: Web Help Desk | Adicionado: 2026-02-03  
-  SolarWinds Web Help Desk contains a deserialization of untrusted data vulnerability that could lead to remote code execution, which would allow an attacker to run commands on the host machine. This could be exploited without authentication.  
-  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
-
-- **CVE-2026-1281** - Ivanti Endpoint Manager Mobile (EPMM) Code Injection Vulnerability  
-  Fornecedor: Ivanti | Produto: Endpoint Manager Mobile (EPMM) | Adicionado: 2026-01-29  
-  Ivanti Endpoint Manager Mobile (EPMM) contains a code injection vulnerability that could allow attackers to achieve unauthenticated remote code execution.  
-  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
-
-- **CVE-2026-24858** - Fortinet Multiple Products Authentication Bypass Using an Alternate Path or Channel Vulnerability  
-  Fornecedor: Fortinet | Produto: Multiple Products | Adicionado: 2026-01-27  
-  Fortinet FortiAnalyzer, FortiManager, FortiOS, and FortiProxy contain an authentication bypass using an alternate path or channel that could allow an attacker with a FortiCloud account and a registered device to log into other devices registered to other accounts, if FortiCloud SSO authentication is enabled on those devices.  
-  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
-
-- **CVE-2018-14634** - Linux Kernel Integer Overflow Vulnerability  
-  Fornecedor: Linux | Produto: Kernal | Adicionado: 2026-01-26  
-  Linux Kernel contains an integer overflow vulnerability in the create_elf_tables() function which could allow an unprivileged local user with access to SUID (or otherwise privileged) binary to escalate their privileges on the system.  
-  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
-
-- **CVE-2025-52691** - SmarterTools SmarterMail Unrestricted Upload of File with Dangerous Type Vulnerability  
-  Fornecedor: SmarterTools | Produto: SmarterMail | Adicionado: 2026-01-26  
-  SmarterTools SmarterMail contains an unrestricted upload of file with dangerous type vulnerability that could allow an unauthenticated attacker to upload arbitrary files to any location on the mail server, potentially enabling remote code execution.  
-  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
-
 </details>
+
 
 
 
