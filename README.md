@@ -24,13 +24,13 @@
 
   <!-- CVE-LIST:START -->
 <details>
-<summary><strong>Vulnerabilidades exploradas conhecidas da CISA</strong>  •  atualizado 10/02/2026 18:55 UTC  •  exibindo 10 itens</summary>
+<summary><strong>Vulnerabilidades exploradas conhecidas da CISA</strong>  •  atualizado 10/02/2026 20:36 UTC  •  exibindo 10 itens</summary>
 
 > Fonte: CISA Known Exploited Vulnerabilities
 
-- **CVE-2026-21513** - Microsoft Internet Explorer Protection Mechanism Failure Vulnerability  
+- **CVE-2026-21513** - Microsoft MSHTML Framework Protection Mechanism Failure Vulnerability  
   Fornecedor: Microsoft | Produto: Windows | Adicionado: 2026-02-10  
-  Microsoft Internet Explorer contains a protection mechanism failure vulnerability that could allow an unauthorized attacker to bypass a security feature over a network.  
+  Microsoft MSHTML Framework contains a protection mechanism failure vulnerability that could allow an unauthorized attacker to bypass a security feature over a network.  
   Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
 
 - **CVE-2026-21525** - Microsoft Windows NULL Pointer Dereference Vulnerability  
@@ -79,6 +79,7 @@
   Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
 
 </details>
+
 
 
 
