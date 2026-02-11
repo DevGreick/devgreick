@@ -2400,11 +2400,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Exposed Training Open the Door for Crypto-Mining in Fortune 500 Cloud Environments](https://thehackernews.com/2026/02/exposed-training-open-door-for-crypto.html)
+- [Microsoft Patches 59 Vulnerabilities Including Six Actively Exploited Zero-Days](https://thehackernews.com/2026/02/microsoft-patches-59-vulnerabilities.html)
+- [SSHStalker Botnet Uses IRC C2 to Control Linux Systems via Legacy Kernel Exploits](https://thehackernews.com/2026/02/sshstalker-botnet-uses-irc-c2-to.html)
 - [North Korea-Linked UNC1069 Uses AI Lures to Attack Cryptocurrency Organizations](https://thehackernews.com/2026/02/north-korea-linked-unc1069-uses-ai.html)
 - [Microsoft releases Windows 11 26H1 for select and upcoming CPUs](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-11-26h1-for-select-and-upcoming-cpus/)
-- [New Linux botnet SSHStalker uses old-school IRC for C2 comms](https://www.bleepingcomputer.com/news/security/new-linux-botnet-sshstalker-uses-old-school-irc-for-c2-comms/)
-- [North Korean hackers use new macOS malware in crypto-theft attacks](https://www.bleepingcomputer.com/news/security/north-korean-hackers-use-new-macos-malware-in-crypto-theft-attacks/)
-- [Malicious 7-Zip site distributes installer laced with proxy tool](https://www.bleepingcomputer.com/news/security/malicious-7-zip-site-distributes-installer-laced-with-proxy-tool/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
