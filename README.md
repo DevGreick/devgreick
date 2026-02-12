@@ -24,7 +24,7 @@
 
   <!-- CVE-LIST:START -->
 <details>
-<summary><strong>Vulnerabilidades exploradas conhecidas da CISA</strong>  •  atualizado 12/02/2026 20:25 UTC  •  exibindo 10 itens</summary>
+<summary><strong>Vulnerabilidades exploradas conhecidas da CISA</strong>  •  atualizado 12/02/2026 22:23 UTC  •  exibindo 10 itens</summary>
 
 > Fonte: CISA Known Exploited Vulnerabilities
 
@@ -41,6 +41,11 @@
 - **CVE-2025-15556** - Notepad++ Download of Code Without Integrity Check Vulnerability  
   Fornecedor: Notepad++ | Produto: Notepad++ | Adicionado: 2026-02-12  
   Notepad++ when using the WinGUp updater, contains a download of code without integrity check vulnerability that could allow an attacker to intercept or redirect update traffic to download and execute an attacker-controlled installer. This could lead to arbitrary code execution with the privileges of the user.  
+  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
+
+- **CVE-2025-40536** - SolarWinds Web Help Desk Security Control Bypass Vulnerability  
+  Fornecedor: SolarWinds | Produto: Web Help Desk | Adicionado: 2026-02-12  
+  SolarWinds Web Help Desk contains a security control bypass vulnerability that could allow an unauthenticated attacker to gain access to certain restricted functionality.  
   Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
 
 - **CVE-2026-21513** - Microsoft MSHTML Framework Protection Mechanism Failure Vulnerability  
@@ -73,12 +78,8 @@
   Microsoft Office Word contains a reliance on untrusted inputs in a security decision vulnerability that could allow an authorized attacker to elevate privileges locally.  
   Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
 
-- **CVE-2025-11953** - React Native Community CLI OS Command Injection Vulnerability  
-  Fornecedor: React Native Community | Produto: CLI | Adicionado: 2026-02-05  
-  React Native Community CLI contains an OS command injection vulnerability which could allow unauthenticated network attackers to send POST requests to the Metro Development Server and run arbitrary executables via a vulnerable endpoint exposed by the server. On Windows, attackers can also execute arbitrary shell commands with fully controlled arguments.  
-  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
-
 </details>
+
 
 
 
