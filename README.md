@@ -2459,11 +2459,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Eurail says stolen traveler data now up for sale on dark web](https://www.bleepingcomputer.com/news/security/eurail-says-stolen-traveler-data-now-up-for-sale-on-dark-web/)
+- [Man arrested for demanding reward after accidental police data leak](https://www.bleepingcomputer.com/news/security/man-arrested-for-demanding-reward-after-accidental-police-data-leak/)
+- [Infostealer Steals OpenClaw AI Agent Configuration Files and Gateway Tokens](https://thehackernews.com/2026/02/infostealer-steals-openclaw-ai-agent.html)
+- [Study Uncovers 25 Password Recovery Attacks in Major Cloud Password Managers](https://thehackernews.com/2026/02/study-uncovers-25-password-recovery.html)
 - [Infostealer malware found stealing OpenClaw secrets for first time](https://www.bleepingcomputer.com/news/security/infostealer-malware-found-stealing-openclaw-secrets-for-first-time/)
-- [Passwords to passkeys: Staying ISO 27001 compliant in a passwordless era](https://www.bleepingcomputer.com/news/security/passwords-to-passkeys-staying-iso-27001-compliant-in-a-passwordless-era/)
-- [Weekly Recap: Outlook Add-Ins Hijack, 0-Day Patches, Wormable Botnet &amp; AI Malware](https://thehackernews.com/2026/02/weekly-recap-outlook-add-ins-hijack-0.html)
-- [CISA gives feds 3 days to patch actively exploited BeyondTrust flaw](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-beyondtrust-flaw-within-three-days/)
-- [Safe and Inclusive E‑Society: How Lithuania Is Bracing for AI‑Driven Cyber Fraud](https://thehackernews.com/2026/02/safe-and-inclusive-esociety-how.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
