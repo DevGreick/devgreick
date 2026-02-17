@@ -24,9 +24,29 @@
 
   <!-- CVE-LIST:START -->
 <details>
-<summary><strong>Vulnerabilidades exploradas conhecidas da CISA</strong>  •  atualizado 17/02/2026 20:28 UTC  •  exibindo 10 itens</summary>
+<summary><strong>Vulnerabilidades exploradas conhecidas da CISA</strong>  •  atualizado 17/02/2026 22:21 UTC  •  exibindo 10 itens</summary>
 
 > Fonte: CISA Known Exploited Vulnerabilities
+
+- **CVE-2020-7796** - Synacor Zimbra Collaboration Suite (ZCS) Server-Side Request Forgery Vulnerability  
+  Fornecedor: Synacor | Produto: Zimbra Collaboration Suite | Adicionado: 2026-02-17  
+  Synacor Zimbra Collaboration Suite (ZCS) contains a server-side request forgery vulnerability if WebEx zimlet installed and zimlet JSP is enabled.  
+  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
+
+- **CVE-2024-7694** - TeamT5 ThreatSonar Anti-Ransomware Unrestricted Upload of File with Dangerous Type Vulnerability  
+  Fornecedor: TeamT5 | Produto: ThreatSonar Anti-Ransomware | Adicionado: 2026-02-17  
+  TeamT5 ThreatSonar Anti-Ransomware contains an unrestricted upload of file with dangerous type vulnerability. ThreatSonar Anti-Ransomware does not properly validate the content of uploaded files. Remote attackers with administrator privileges on the product platform can upload malicious files, which can be used to execute arbitrary system commands on the server.  
+  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
+
+- **CVE-2008-0015** -  Microsoft Windows Video ActiveX Control Remote Code Execution Vulnerability  
+  Fornecedor: Microsoft | Produto: Windows | Adicionado: 2026-02-17  
+  Microsoft Windows Video ActiveX Control contains a remote code execution vulnerability. An attacker could exploit the vulnerability by constructing a specially crafted Web page. When a user views the Web page, the vulnerability could allow remote code execution. An attacker who successfully exploited this vulnerability could gain the same user rights as the logged-on user.  
+  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
+
+- **CVE-2026-2441** - Google Chromium CSS Use-After-Free Vulnerability  
+  Fornecedor: Google | Produto: Chromium | Adicionado: 2026-02-17  
+  Google Chromium CSS contains a use-after-free vulnerability that could allow a remote attacker to potentially exploit heap corruption via a crafted HTML page. This vulnerability could affect multiple web browsers that utilize Chromium, including, but not limited to, Google Chrome, Microsoft Edge, and Opera.  
+  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
 
 - **CVE-2026-1731** - BeyondTrust Remote Support (RS) and Privileged Remote Access (PRA) OS Command Injection Vulnerability  
   Fornecedor: BeyondTrust | Produto: Remote Support (RS) and Privileged Remote Access (PRA) | Adicionado: 2026-02-13  
@@ -58,27 +78,8 @@
   Microsoft MSHTML Framework contains a protection mechanism failure vulnerability that could allow an unauthorized attacker to bypass a security feature over a network.  
   Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
 
-- **CVE-2026-21525** - Microsoft Windows NULL Pointer Dereference Vulnerability  
-  Fornecedor: Microsoft | Produto: Windows | Adicionado: 2026-02-10  
-  Microsoft Windows Remote Access Connection Manager contains a NULL pointer dereference that could allow an unauthorized attacker to deny service locally.  
-  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
-
-- **CVE-2026-21510** - Microsoft Windows Shell Protection Mechanism Failure Vulnerability  
-  Fornecedor: Microsoft | Produto: Windows | Adicionado: 2026-02-10  
-  Microsoft Windows Shell contains a protection mechanism failure vulnerability that could allow an unauthorized attacker to bypass a security feature over a network.   
-  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
-
-- **CVE-2026-21533** - Microsoft Windows Improper Privilege Management Vulnerability  
-  Fornecedor: Microsoft | Produto: Windows | Adicionado: 2026-02-10  
-  Microsoft Windows Remote Desktop Services contains an improper privilege management vulnerability that could allow an authorized attacker to elevate privileges locally.  
-  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
-
-- **CVE-2026-21519** - Microsoft Windows Type Confusion Vulnerability  
-  Fornecedor: Microsoft | Produto: Windows | Adicionado: 2026-02-10  
-  Microsoft Desktop Windows Manager contains a type confusion vulnerability that could allow an authorized attacker to elevate privileges locally.  
-  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
-
 </details>
+
 
 
 
