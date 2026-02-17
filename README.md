@@ -2470,11 +2470,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Chinese hackers exploiting Dell zero-day flaw since mid-2024](https://www.bleepingcomputer.com/news/security/chinese-hackers-exploiting-dell-zero-day-flaw-since-mid-2024/)
+- [Webinar: How Modern SOC Teams Use AI and Context to Investigate Cloud Breaches Faster](https://thehackernews.com/2026/02/cloud-forensics-webinar-learn-how-ai.html)
 - [Notepad++ boosts update security with ‘double-lock’ mechanism](https://www.bleepingcomputer.com/news/security/notepad-plus-plus-boosts-update-security-with-double-lock-mechanism/)
 - [Researchers Show Copilot and Grok Can Be Abused as Malware C2 Proxies](https://thehackernews.com/2026/02/researchers-show-copilot-and-grok-can.html)
 - [Keenadu Firmware Backdoor Infects Android Tablets via Signed OTA Updates](https://thehackernews.com/2026/02/keenadu-firmware-backdoor-infects.html)
-- [Microsoft Teams outage affects users in United States, Europe](https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-outage-affects-users-in-united-states-europe/)
-- [What 5 Million Apps Revealed About Secrets in JavaScript](https://www.bleepingcomputer.com/news/security/what-5-million-apps-revealed-about-secrets-in-javascript/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
