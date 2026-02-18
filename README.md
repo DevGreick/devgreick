@@ -24,9 +24,19 @@
 
   <!-- CVE-LIST:START -->
 <details>
-<summary><strong>Vulnerabilidades exploradas conhecidas da CISA</strong>  •  atualizado 18/02/2026 14:39 UTC  •  exibindo 10 itens</summary>
+<summary><strong>Vulnerabilidades exploradas conhecidas da CISA</strong>  •  atualizado 18/02/2026 16:53 UTC  •  exibindo 10 itens</summary>
 
 > Fonte: CISA Known Exploited Vulnerabilities
+
+- **CVE-2021-22175** - GitLab Server-Side Request Forgery (SSRF) Vulnerability  
+  Fornecedor: GitLab | Produto: GitLab | Adicionado: 2026-02-18  
+  GitLab contains a server-side request forgery (SSRF) vulnerability when requests to the internal network for webhooks are enabled.  
+  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
+
+- **CVE-2026-22769** - Dell RecoverPoint for Virtual Machines (RP4VMs) Use of Hard-coded Credentials Vulnerability  
+  Fornecedor: Dell | Produto: RecoverPoint for Virtual Machines (RP4VMs) | Adicionado: 2026-02-18  
+  Dell RecoverPoint for Virtual Machines (RP4VMs) contains an use of hard-coded credentials vulnerability that could allow an unauthenticated remote attacker to gain unauthorized access to the underlying operating system and root-level persistence.  
+  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
 
 - **CVE-2020-7796** - Synacor Zimbra Collaboration Suite (ZCS) Server-Side Request Forgery Vulnerability  
   Fornecedor: Synacor | Produto: Zimbra Collaboration Suite | Adicionado: 2026-02-17  
@@ -68,17 +78,8 @@
   Notepad++ when using the WinGUp updater, contains a download of code without integrity check vulnerability that could allow an attacker to intercept or redirect update traffic to download and execute an attacker-controlled installer. This could lead to arbitrary code execution with the privileges of the user.  
   Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
 
-- **CVE-2025-40536** - SolarWinds Web Help Desk Security Control Bypass Vulnerability  
-  Fornecedor: SolarWinds | Produto: Web Help Desk | Adicionado: 2026-02-12  
-  SolarWinds Web Help Desk contains a security control bypass vulnerability that could allow an unauthenticated attacker to gain access to certain restricted functionality.  
-  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
-
-- **CVE-2026-21513** - Microsoft MSHTML Framework Protection Mechanism Failure Vulnerability  
-  Fornecedor: Microsoft | Produto: Windows | Adicionado: 2026-02-10  
-  Microsoft MSHTML Framework contains a protection mechanism failure vulnerability that could allow an unauthorized attacker to bypass a security feature over a network.  
-  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
-
 </details>
+
 
 
 
