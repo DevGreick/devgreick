@@ -2475,11 +2475,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Notepad++ Fixes Hijacked Update Mechanism Used to Deliver Targeted Malware](https://thehackernews.com/2026/02/notepad-fixes-hijacked-update-mechanism.html)
+- [CISA Flags Four Security Flaws Under Active Exploitation in Latest KEV Update](https://thehackernews.com/2026/02/cisa-flags-four-security-flaws-under.html)
 - [Spain orders NordVPN, ProtonVPN to block LaLiga piracy sites](https://www.bleepingcomputer.com/news/legal/spain-orders-nordvpn-protonvpn-to-block-laliga-piracy-sites/)
 - [Flaws in popular VSCode extensions expose developers to attacks](https://www.bleepingcomputer.com/news/security/flaws-in-popular-vscode-extensions-expose-developers-to-attacks/)
 - [Chinese hackers exploiting Dell zero-day flaw since mid-2024](https://www.bleepingcomputer.com/news/security/chinese-hackers-exploiting-dell-zero-day-flaw-since-mid-2024/)
-- [Webinar: How Modern SOC Teams Use AI and Context to Investigate Cloud Breaches Faster](https://thehackernews.com/2026/02/cloud-forensics-webinar-learn-how-ai.html)
-- [Notepad++ boosts update security with ‘double-lock’ mechanism](https://www.bleepingcomputer.com/news/security/notepad-plus-plus-boosts-update-security-with-double-lock-mechanism/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
