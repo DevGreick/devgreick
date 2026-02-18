@@ -2479,11 +2479,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Grandstream GXP1600 VoIP Phones Exposed to Unauthenticated Remote Code Execution](https://thehackernews.com/2026/02/grandstream-gxp1600-voip-phones-exposed.html)
+- [Telegram channels expose rapid weaponization of SmarterMail flaws](https://www.bleepingcomputer.com/news/security/telegram-channels-expose-rapid-weaponization-of-smartermail-flaws/)
+- [Microsoft: Anti-phishing rules mistakenly blocked emails, Teams messages](https://www.bleepingcomputer.com/news/microsoft/microsoft-anti-phishing-rules-mistakenly-blocked-emails-teams-messages/)
 - [Data breach at fintech firm Figure affects nearly 1 million accounts](https://www.bleepingcomputer.com/news/security/data-breach-at-fintech-firm-figure-affects-nearly-1-million-accounts/)
 - [Critical Flaws Found in Four VS Code Extensions with Over 125 Million Installs](https://thehackernews.com/2026/02/critical-flaws-found-in-four-vs-code.html)
-- [Microsoft says bug causes Copilot to summarize confidential emails](https://www.bleepingcomputer.com/news/microsoft/microsoft-says-bug-causes-copilot-to-summarize-confidential-emails/)
-- [Cybersecurity Tech Predictions for 2026: Operating in a World of Permanent Instability](https://thehackernews.com/2026/02/cybersecurity-tech-predictions-for-2026.html)
-- [Glendale man gets 5 years in prison for role in darknet drug ring](https://www.bleepingcomputer.com/news/security/glendale-man-gets-5-years-in-prison-for-role-in-darknet-drug-trafficking-operation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
