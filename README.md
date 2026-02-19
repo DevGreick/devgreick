@@ -2492,11 +2492,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [PromptSpy Android Malware Abuses Gemini AI to Automate Recent-Apps Persistence](https://thehackernews.com/2026/02/promptspy-android-malware-abuses-google.html)
+- [INTERPOL Operation Red Card 2.0 Arrests 651 in African Cybercrime Crackdown](https://thehackernews.com/2026/02/interpol-operation-red-card-20-arrests.html)
+- [Microsoft Patches CVE-2026-26119 Privilege Escalation in Windows Admin Center](https://thehackernews.com/2026/02/microsoft-patches-cve-2026-26119.html)
 - [Flaw in Grandstream VoIP phones allows stealthy eavesdropping](https://www.bleepingcomputer.com/news/security/flaw-in-grandstream-voip-phones-allows-stealthy-eavesdropping/)
-- [CISA orders feds to patch actively exploited Dell flaw within 3 days](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-dell-flaw-within-3-days/)
-- [How infostealers turn stolen credentials into real identities](https://www.bleepingcomputer.com/news/security/how-infostealers-turn-stolen-credentials-into-real-identities/)
-- [ThreatsDay Bulletin: OpenSSL RCE, Foxit 0-Days, Copilot Leak, AI Password Flaws &amp; 20+ Stories](https://thehackernews.com/2026/02/threatsday-bulletin-openssl-rce-foxit-0.html)
-- [Nigerian man gets eight years in prison for hacking tax firms](https://www.bleepingcomputer.com/news/security/nigerian-man-gets-eight-years-in-prison-for-hacking-tax-firms/)
+- [Google blocked over 1.75 million Play Store app submissions in 2025](https://www.bleepingcomputer.com/news/security/google-blocked-over-175-million-play-store-app-submissions-in-2025/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
