@@ -24,9 +24,19 @@
 
   <!-- CVE-LIST:START -->
 <details>
-<summary><strong>Vulnerabilidades exploradas conhecidas da CISA</strong>  •  atualizado 20/02/2026 18:34 UTC  •  exibindo 10 itens</summary>
+<summary><strong>Vulnerabilidades exploradas conhecidas da CISA</strong>  •  atualizado 20/02/2026 20:21 UTC  •  exibindo 10 itens</summary>
 
 > Fonte: CISA Known Exploited Vulnerabilities
+
+- **CVE-2025-49113** - RoundCube Webmail Deserialization of Untrusted Data Vulnerability  
+  Fornecedor: Roundcube | Produto: Webmail | Adicionado: 2026-02-20  
+  RoundCube Webmail contains a deserialization of untrusted data vulnerability that allows remote code execution by authenticated users because the _from parameter in a URL is not validated in program/actions/settings/upload.php.  
+  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
+
+- **CVE-2025-68461** - RoundCube Webmail Cross-site Scripting Vulnerability  
+  Fornecedor: Roundcube | Produto: Webmail | Adicionado: 2026-02-20  
+  RoundCube Webmail contains a cross-site scripting vulnerability via the animate tag in an SVG document.  
+  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
 
 - **CVE-2021-22175** - GitLab Server-Side Request Forgery (SSRF) Vulnerability  
   Fornecedor: GitLab | Produto: GitLab | Adicionado: 2026-02-18  
@@ -68,17 +78,8 @@
   Apple iOS, macOS, tvOS, watchOS, and visionOS contain an improper restriction of operations within the bounds of a memory buffer vulnerability that could allow an attacker with memory write the capability to execute arbitrary code.  
   Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
 
-- **CVE-2024-43468** - Microsoft Configuration Manager SQL Injection Vulnerability  
-  Fornecedor: Microsoft | Produto: Configuration Manager | Adicionado: 2026-02-12  
-  Microsoft Configuration Manager contains an SQL injection vulnerability. An unauthenticated attacker could exploit this vulnerability by sending specially crafted requests to the target environment which are processed in an unsafe manner enabling the attacker to execute commands on the server and/or underlying database.  
-  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
-
-- **CVE-2025-15556** - Notepad++ Download of Code Without Integrity Check Vulnerability  
-  Fornecedor: Notepad++ | Produto: Notepad++ | Adicionado: 2026-02-12  
-  Notepad++ when using the WinGUp updater, contains a download of code without integrity check vulnerability that could allow an attacker to intercept or redirect update traffic to download and execute an attacker-controlled installer. This could lead to arbitrary code execution with the privileges of the user.  
-  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
-
 </details>
+
 
 
 
