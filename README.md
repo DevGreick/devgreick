@@ -2500,11 +2500,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Cline CLI 2.3.0 Supply Chain Attack Installed OpenClaw on Developer Systems](https://thehackernews.com/2026/02/cline-cli-230-supply-chain-attack.html)
+- [PayPal discloses data breach that exposed user info for 6 months](https://www.bleepingcomputer.com/news/security/paypal-discloses-data-breach-exposing-users-personal-information/)
+- [ClickFix Campaign Abuses Compromised Sites to Deploy MIMICRAT Malware](https://thehackernews.com/2026/02/clickfix-campaign-abuses-compromised.html)
 - [Mississippi medical center closes all clinics after ransomware attack](https://www.bleepingcomputer.com/news/security/university-of-mississippi-medical-center-closes-clinics-after-ransomware-attack/)
 - [Identity Cyber Scores: The New Metric Shaping Cyber Insurance in 2026](https://thehackernews.com/2026/02/identity-cyber-scores-new-metric.html)
-- [FBI: Over $20 million stolen in surge of ATM malware attacks in 2025](https://www.bleepingcomputer.com/news/security/fbi-over-20-million-stolen-in-surge-of-atm-malware-attacks-in-2025/)
-- [Ukrainian National Sentenced to 5 Years in North Korea IT Worker Fraud Case](https://thehackernews.com/2026/02/ukrainian-national-sentenced-to-5-years.html)
-- [Ukrainian gets 5 years for helping North Koreans infiltrate US firms](https://www.bleepingcomputer.com/news/security/ukrainian-gets-5-years-for-helping-north-koreans-infiltrate-us-firms/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
