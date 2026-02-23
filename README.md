@@ -2534,11 +2534,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [⚡ Weekly Recap: Double-Tap Skimmers, PromptSpy AI, 30Tbps DDoS, Docker Malware &amp; More](https://thehackernews.com/2026/02/weekly-recap-double-tap-skimmers.html)
 - [How Exposed Endpoints Increase Risk Across LLM Infrastructure](https://thehackernews.com/2026/02/how-exposed-endpoints-increase-risk.html)
 - [CISA: Recently patched RoundCube flaws now exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-recently-patched-roundcube-flaws-now-exploited-in-attacks/)
 - [Malicious npm Packages Harvest Crypto Keys, CI Secrets, and API Tokens](https://thehackernews.com/2026/02/malicious-npm-packages-harvest-crypto.html)
 - [MuddyWater Targets MENA Organizations with GhostFetch, CHAR, and HTTP_VIP](https://thehackernews.com/2026/02/muddywater-targets-mena-organizations.html)
-- [Arkanix Stealer pops up as short-lived AI info-stealer experiment](https://www.bleepingcomputer.com/news/security/arkanix-stealer-pops-up-as-short-lived-ai-info-stealer-experiment/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
