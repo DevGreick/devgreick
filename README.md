@@ -2545,11 +2545,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Critical SolarWinds Serv-U flaws offer root access to servers](https://www.bleepingcomputer.com/news/security/critical-solarwinds-serv-u-flaws-offer-root-access-to-servers/)
 - [Identity Prioritization isn&#39;t a Backlog Problem - It&#39;s a Risk Math Problem](https://thehackernews.com/2026/02/identity-prioritization-isnt-backlog.html)
 - [Lazarus Group Uses Medusa Ransomware in Middle East and U.S. Healthcare Attacks](https://thehackernews.com/2026/02/lazarus-group-uses-medusa-ransomware-in.html)
 - [ShinyHunters extortion gang claims Odido breach affecting millions](https://www.bleepingcomputer.com/news/security/shinyhunters-extortion-gang-claims-odido-breach-affecting-millions/)
 - [North Korean Lazarus group linked to Medusa ransomware attacks](https://www.bleepingcomputer.com/news/security/north-korean-lazarus-group-linked-to-medusa-ransomware-attacks/)
-- [UnsolicitedBooker Targets Central Asian Telecoms With LuciDoor and MarsSnake Backdoors](https://thehackernews.com/2026/02/unsolicitedbooker-targets-central-asian.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
