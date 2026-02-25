@@ -2552,11 +2552,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [CISA Confirms Active Exploitation of FileZen CVE-2026-25108 Vulnerability](https://thehackernews.com/2026/02/cisa-confirms-active-exploitation-of.html)
 - [Phishing campaign targets freight and logistics orgs in the US, Europe](https://www.bleepingcomputer.com/news/security/phishing-campaign-targets-freight-and-logistics-orgs-in-the-us-europe/)
 - [Wynn Resorts confirms employee data breach after extortion threat](https://www.bleepingcomputer.com/news/security/wynn-resorts-confirms-employee-data-breach-after-extortion-threat/)
 - [1Campaign platform helps malicious Google ads evade detection](https://www.bleepingcomputer.com/news/security/1campaign-platform-helps-malicious-google-ads-evade-detection/)
 - [RoguePilot Flaw in GitHub Codespaces Enabled Copilot to Leak GITHUB_TOKEN](https://thehackernews.com/2026/02/roguepilot-flaw-in-github-codespaces.html)
-- [CarGurus data breach exposes information of 12.4 million accounts](https://www.bleepingcomputer.com/news/security/cargurus-data-breach-exposes-information-of-124-million-accounts/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
