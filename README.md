@@ -2566,11 +2566,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [New York sues Valve for promoting illegal gambling via game loot boxes](https://www.bleepingcomputer.com/news/gaming/new-york-sues-valve-for-promoting-illegal-gambling-via-game-loot-boxes/)
+- [Microsoft Warns Developers of Fake Next.js Job Repos Delivering In-Memory Malware](https://thehackernews.com/2026/02/fake-nextjs-repos-target-developers.html)
+- [Malicious StripeApi NuGet Package Mimicked Official Library and Stole API Tokens](https://thehackernews.com/2026/02/malicious-stripeapi-nuget-package.html)
 - [Cisco SD-WAN Zero-Day CVE-2026-20127 Exploited Since 2023 for Admin Access](https://thehackernews.com/2026/02/cisco-sd-wan-zero-day-cve-2026-20127.html)
 - [Medical device maker UFP Technologies warns of data stolen in cyberattack](https://www.bleepingcomputer.com/news/security/medical-device-maker-ufp-technologies-warns-of-data-stolen-in-cyberattack/)
-- [Fake Next.js job interview tests backdoor developer&#39;s devices](https://www.bleepingcomputer.com/news/security/fake-nextjs-job-interview-tests-backdoor-developers-devices/)
-- [Critical Cisco SD-WAN bug exploited in zero-day attacks since 2023](https://www.bleepingcomputer.com/news/security/critical-cisco-sd-wan-bug-exploited-in-zero-day-attacks-since-2023/)
-- [Google Disrupts UNC2814 GRIDTIDE Campaign After 53 Breaches Across 42 Countries](https://thehackernews.com/2026/02/google-disrupts-unc2814-gridtide.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
