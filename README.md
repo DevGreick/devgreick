@@ -2580,11 +2580,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Europol-led crackdown on The Com hackers leads to 30 arrests](https://www.bleepingcomputer.com/news/security/police-crackdown-on-the-com-cybercrime-gang-leads-to-30-arrests/)
+- [900+ Sangoma FreePBX Instances Compromised in Ongoing Web Shell Attacks](https://thehackernews.com/2026/02/900-sangoma-freepbx-instances.html)
 - [CISA warns that RESURGE malware can be dormant on Ivanti devices](https://www.bleepingcomputer.com/news/security/cisa-warns-that-resurge-malware-can-be-dormant-on-ivanti-devices/)
+- [Malicious Go Crypto Module Steals Passwords, Deploys Rekoobe Backdoor](https://thehackernews.com/2026/02/malicious-go-crypto-module-steals.html)
 - [Third-Party Patching and the Business Footprint We All Share](https://www.bleepingcomputer.com/news/security/third-party-patching-and-the-business-footprint-we-all-share/)
-- [ScarCruft Uses Zoho WorkDrive and USB Malware to Breach Air-Gapped Networks](https://thehackernews.com/2026/02/scarcruft-uses-zoho-workdrive-and-usb.html)
-- [Ukrainian man pleads guilty to running AI-powered fake ID site](https://www.bleepingcomputer.com/news/security/ukrainian-man-pleads-guilty-to-running-ai-powered-fake-id-site/)
-- [Trojanized Gaming Tools Spread Java-Based RAT via Browser and Chat Platforms](https://thehackernews.com/2026/02/trojanized-gaming-tools-spread-java.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
