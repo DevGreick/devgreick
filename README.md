@@ -2621,11 +2621,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [UH Cancer Center data breach affects nearly 1.2 million people](https://www.bleepingcomputer.com/news/security/university-of-hawaii-cancer-center-ransomware-attack-affects-nearly-12-million-people/)
 - [Android gets patches for Qualcomm zero-day exploited in attacks](https://www.bleepingcomputer.com/news/security/google-patches-android-zero-day-actively-exploited-in-attacks/)
 - [Google Confirms CVE-2026-21385 in Qualcomm Android Component Exploited](https://thehackernews.com/2026/03/google-confirms-cve-2026-21385-in.html)
 - [SloppyLemming Targets Pakistan and Bangladesh Governments Using Dual Malware Chains](https://thehackernews.com/2026/03/sloppylemming-targets-pakistan-and.html)
 - [CyberStrikeAI tool adopted by hackers for AI-powered attacks](https://www.bleepingcomputer.com/news/security/cyberstrikeai-tool-adopted-by-hackers-for-ai-powered-attacks/)
-- [Fake Google Security site uses PWA app to steal credentials, MFA codes](https://www.bleepingcomputer.com/news/security/fake-google-security-site-uses-pwa-app-to-steal-credentials-mfa-codes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
