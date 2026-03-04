@@ -2633,11 +2633,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [New RFP Template for AI Usage Control and AI Governance](https://thehackernews.com/2026/03/new-rfp-template-for-ai-usage-control.html)
 - [Fake Laravel Packages on Packagist Deploy RAT on Windows, macOS, and Linux](https://thehackernews.com/2026/03/fake-laravel-packages-on-packagist.html)
 - [APT41-Linked Silver Dragon Targets Governments Using Cobalt Strike and Google Drive C2](https://thehackernews.com/2026/03/apt41-linked-silver-dragon-targets.html)
 - [CISA Adds Actively Exploited VMware Aria Operations Flaw CVE-2026-22719 to KEV Catalog](https://thehackernews.com/2026/03/cisa-adds-actively-exploited-vmware.html)
 - [CISA flags VMware Aria Operations RCE flaw as exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-flags-vmware-aria-operations-rce-flaw-as-exploited-in-attacks/)
-- [Paint maker giant AkzoNobel confirms cyberattack on U.S. site](https://www.bleepingcomputer.com/news/security/paint-maker-giant-akzonobel-confirms-cyberattack-on-us-site/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
