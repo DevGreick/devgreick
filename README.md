@@ -2645,11 +2645,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [ThreatsDay Bulletin: DDR5 Bot Scalping, Samsung TV Tracking, Reddit Privacy Fine &amp; More](https://thehackernews.com/2026/03/threatsday-bulletin-redis-rce-ddr5-bot.html)
+- [Preparing for the Quantum Era: Post-Quantum Cryptography Webinar for Security Leaders](https://thehackernews.com/2026/03/preparing-for-quantum-era-post-quantum.html)
 - [Police dismantles online gambling ring exploiting Ukrainian women](https://www.bleepingcomputer.com/news/security/police-dismantles-online-gambling-ring-exploiting-ukrainian-women/)
 - [Dust Specter Targets Iraqi Officials with New SPLITDROP and GHOSTFORM Malware](https://thehackernews.com/2026/03/dust-specter-targets-iraqi-officials.html)
 - [Where Multi-Factor Authentication Stops and Credential Abuse Starts](https://thehackernews.com/2026/03/where-multi-factor-authentication-stops.html)
-- [Cisco flags more SD-WAN flaws as actively exploited in attacks](https://www.bleepingcomputer.com/news/security/cisco-flags-more-sd-wan-flaws-as-actively-exploited-in-attacks/)
-- [APT28-Linked Campaign Deploys BadPaw Loader and MeowMeow Backdoor in Ukraine](https://thehackernews.com/2026/03/apt28-linked-campaign-deploys-badpaw.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
