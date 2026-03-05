@@ -24,9 +24,34 @@
 
   <!-- CVE-LIST:START -->
 <details>
-<summary><strong>Vulnerabilidades exploradas conhecidas da CISA</strong>  •  atualizado 05/03/2026 19:09 UTC  •  exibindo 10 itens</summary>
+<summary><strong>Vulnerabilidades exploradas conhecidas da CISA</strong>  •  atualizado 05/03/2026 20:29 UTC  •  exibindo 10 itens</summary>
 
 > Fonte: CISA Known Exploited Vulnerabilities
+
+- **CVE-2017-7921** - Hikvision Multiple Products Improper Authentication Vulnerability  
+  Fornecedor: Hikvision | Produto: Multiple Products | Adicionado: 2026-03-05  
+  Multiple Hikvision products contain an improper authentication vulnerability that could allow a malicious user to escalate privileges on the system and gain access to sensitive information.  
+  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
+
+- **CVE-2021-22681** - Rockwell Multiple Products Insufficient Protected Credentials Vulnerability  
+  Fornecedor: Rockwell | Produto: Multiple Products | Adicionado: 2026-03-05  
+  Multiple Rockwell products contain an insufficient protected credentials vulnerability. Studio 5000 Logix Designer software may allow a key to be discovered. This key is used to verify Logix controllers are communicating with Rockwell Automation design software. If successfully exploited, this vulnerability could allow an unauthorized application to connect with Logix controllers. To leverage this vulnerability, an unauthorized user would require network access to the controller.  
+  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
+
+- **CVE-2023-43000** - Apple Multiple products Use-After-Free Vulnerability  
+  Fornecedor: Apple | Produto: Multiple Products | Adicionado: 2026-03-05  
+  Apple macOS, iOS, iPadOS, and Safari 16.6 contain a use-after-free vulnerability due to the processing of maliciously crafted web content that may lead to memory corruption.  
+  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
+
+- **CVE-2021-30952** - Apple Multiple Products Integer Overflow or Wraparound Vulnerability  
+  Fornecedor: Apple | Produto: Multiple Products | Adicionado: 2026-03-05  
+  Apple tvOS, macOS, Safari, iPadOS and watchOS contain an integer overflow or wraparound vulnerability due to the processing of maliciously crafted web content that may lead to arbitrary code execution.  
+  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
+
+- **CVE-2023-41974** - Apple iOS and iPadOS Use-After-Free Vulnerability  
+  Fornecedor: Apple | Produto: iOS and iPadOS | Adicionado: 2026-03-05  
+  Apple iOS and iPadOS contain a use-after-free vulnerability. An app may be able to execute arbitrary code with kernel privileges.  
+  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
 
 - **CVE-2026-22719** - Broadcom VMware Aria Operations Command Injection Vulnerability  
   Fornecedor: Broadcom | Produto: VMware Aria Operations | Adicionado: 2026-03-03  
@@ -53,32 +78,8 @@
   Soliton Systems K.K FileZen contains an OS command injection vulnerability when an user logs-in to the affected product and sends a specially crafted HTTP request.  
   Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
 
-- **CVE-2025-49113** - RoundCube Webmail Deserialization of Untrusted Data Vulnerability  
-  Fornecedor: Roundcube | Produto: Webmail | Adicionado: 2026-02-20  
-  RoundCube Webmail contains a deserialization of untrusted data vulnerability that allows remote code execution by authenticated users because the _from parameter in a URL is not validated in program/actions/settings/upload.php.  
-  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
-
-- **CVE-2025-68461** - RoundCube Webmail Cross-site Scripting Vulnerability  
-  Fornecedor: Roundcube | Produto: Webmail | Adicionado: 2026-02-20  
-  RoundCube Webmail contains a cross-site scripting vulnerability via the animate tag in an SVG document.  
-  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
-
-- **CVE-2021-22175** - GitLab Server-Side Request Forgery (SSRF) Vulnerability  
-  Fornecedor: GitLab | Produto: GitLab | Adicionado: 2026-02-18  
-  GitLab contains a server-side request forgery (SSRF) vulnerability when requests to the internal network for webhooks are enabled.  
-  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
-
-- **CVE-2026-22769** - Dell RecoverPoint for Virtual Machines (RP4VMs) Use of Hard-coded Credentials Vulnerability  
-  Fornecedor: Dell | Produto: RecoverPoint for Virtual Machines (RP4VMs) | Adicionado: 2026-02-18  
-  Dell RecoverPoint for Virtual Machines (RP4VMs) contains an use of hard-coded credentials vulnerability that could allow an unauthenticated remote attacker to gain unauthorized access to the underlying operating system and root-level persistence.  
-  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
-
-- **CVE-2020-7796** - Synacor Zimbra Collaboration Suite (ZCS) Server-Side Request Forgery Vulnerability  
-  Fornecedor: Synacor | Produto: Zimbra Collaboration Suite | Adicionado: 2026-02-17  
-  Synacor Zimbra Collaboration Suite (ZCS) contains a server-side request forgery vulnerability if WebEx zimlet installed and zimlet JSP is enabled.  
-  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
-
 </details>
+
 
 
 
