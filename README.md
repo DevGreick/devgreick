@@ -2690,11 +2690,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Ericsson US discloses data breach after service provider hack](https://www.bleepingcomputer.com/news/security/ericsson-us-discloses-data-breach-after-service-provider-hack/)
+- [Malicious npm Package Posing as OpenClaw Installer Deploys RAT, Steals macOS Credentials](https://thehackernews.com/2026/03/malicious-npm-package-posing-as.html)
 - [Microsoft Teams will tag third-party bots trying to join meetings](https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-will-tag-third-party-bots-in-meeting-lobbies/)
 - [ShinyHunters claims ongoing Salesforce Aura data theft attacks](https://www.bleepingcomputer.com/news/security/shinyhunters-claims-ongoing-salesforce-aura-data-theft-attacks/)
 - [FBI warns of phishing attacks impersonating US city, county officials](https://www.bleepingcomputer.com/news/security/fbi-warns-of-phishing-attacks-impersonating-us-city-county-officials/)
-- [UNC4899 Breached Crypto Firm After Developer AirDropped Trojanized File to Work Device](https://thehackernews.com/2026/03/unc4899-used-airdrop-file-transfer-and.html)
-- [Why Password Audits Miss the Accounts Attackers Actually Want](https://www.bleepingcomputer.com/news/security/why-password-audits-miss-the-accounts-attackers-actually-want/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
