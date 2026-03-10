@@ -2698,11 +2698,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [The New Turing Test: How Threats Use Geometry to Prove &#39;Humanness&#39;](https://www.bleepingcomputer.com/news/security/the-new-turing-test-how-threats-use-geometry-to-prove-humanness/)
+- [New &quot;LeakyLooker&quot; Flaws in Google Looker Studio Could Enable Cross-Tenant SQL Queries](https://thehackernews.com/2026/03/new-leakylooker-flaws-in-google-looker.html)
 - [How to Stop AI Data Leaks: A Webinar Guide to Auditing Modern Agentic Workflows](https://thehackernews.com/2026/03/how-to-stop-ai-data-leaks-webinar-guide.html)
 - [CISA: Recently patched Ivanti EPM flaw now actively exploited](https://www.bleepingcomputer.com/news/security/cisa-recently-patched-ivanti-epm-flaw-now-actively-exploited/)
 - [The Zero-Day Scramble is Avoidable: A Guide to Attack Surface Reduction](https://thehackernews.com/2026/03/the-zero-day-scramble-is-avoidable.html)
-- [APT28 Uses BEARDSHELL and COVENANT Malware to Spy on Ukrainian Military](https://thehackernews.com/2026/03/apt28-uses-beardshell-and-covenant.html)
-- [Microsoft to enable Windows hotpatch security updates by default](https://www.bleepingcomputer.com/news/microsoft/microsoft-to-enable-hotpatch-security-updates-by-default-in-may/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
