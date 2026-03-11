@@ -2707,11 +2707,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft Patches 84 Flaws in March Patch Tuesday, Including Two Public Zero-Days](https://thehackernews.com/2026/03/microsoft-patches-84-flaws-in-march.html)
+- [UNC6426 Exploits nx npm Supply-Chain Attack to Gain AWS Admin Access in 72 Hours](https://thehackernews.com/2026/03/unc6426-exploits-nx-npm-supply-chain.html)
 - [Five Malicious Rust Crates and AI Bot Exploit CI/CD Pipelines to Steal Developer Secrets](https://thehackernews.com/2026/03/five-malicious-rust-crates-and-ai-bot.html)
 - [New ‘BlackSanta’ EDR killer spotted targeting HR departments](https://www.bleepingcomputer.com/news/security/new-blacksanta-edr-killer-spotted-targeting-hr-departments/)
 - [New BeatBanker Android malware poses as Starlink app to hijack devices](https://www.bleepingcomputer.com/news/security/new-beatbanker-android-malware-poses-as-starlink-app-to-hijack-devices/)
-- [New &#39;Zombie ZIP&#39; technique lets malware slip past security tools](https://www.bleepingcomputer.com/news/security/new-zombie-zip-technique-lets-malware-slip-past-security-tools/)
-- [Microsoft releases Windows 10 KB5078885 extended security update](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5078885-extended-security-update/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
