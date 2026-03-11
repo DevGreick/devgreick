@@ -24,9 +24,14 @@
 
   <!-- CVE-LIST:START -->
 <details>
-<summary><strong>Vulnerabilidades exploradas conhecidas da CISA</strong>  •  atualizado 11/03/2026 16:41 UTC  •  exibindo 10 itens</summary>
+<summary><strong>Vulnerabilidades exploradas conhecidas da CISA</strong>  •  atualizado 11/03/2026 18:42 UTC  •  exibindo 10 itens</summary>
 
 > Fonte: CISA Known Exploited Vulnerabilities
+
+- **CVE-2025-68613** - n8n Improper Control of Dynamically-Managed Code Resources Vulnerability  
+  Fornecedor: n8n | Produto: n8n | Adicionado: 2026-03-11  
+  n8n contains an improper control of dynamically managed code resources vulnerability in its workflow expression evaluation system that allows for remote code execution.  
+  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
 
 - **CVE-2021-22054** - Omnissa Workspace ONE Server-Side Request Forgery  
   Fornecedor: Omnissa | Produto: Workspace One UEM | Adicionado: 2026-03-09  
@@ -73,12 +78,8 @@
   Broadcom VMware Aria Operations formerly known as vRealize Operations (vROps) contains a command injection vulnerability that allows an unauthenticated attacker to execute arbitrary commands, potentially leading to remote code execution during support‑assisted product migration.  
   Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
 
-- **CVE-2026-21385** - Qualcomm Multiple Chipsets Memory Corruption Vulnerability  
-  Fornecedor: Qualcomm | Produto: Multiple Chipsets | Adicionado: 2026-03-03  
-  Multiple Qualcomm chipsets contain a memory corruption vulnerability while using alignments for memory allocation.   
-  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
-
 </details>
+
 
 
 
