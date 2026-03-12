@@ -2721,11 +2721,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [US disrupts SocksEscort proxy network powered by Linux malware](https://www.bleepingcomputer.com/news/security/us-disrupts-socksescort-proxy-network-powered-by-linux-malware/)
+- [Google paid $17.1 million for vulnerability reports in 2025](https://www.bleepingcomputer.com/news/google/google-paid-171-million-for-vulnerability-reports-in-2025/)
 - [Telus Digital confirms breach after hacker claims 1 petabyte data theft](https://www.bleepingcomputer.com/news/security/telus-digital-confirms-breach-after-hacker-claims-1-petabyte-data-theft/)
 - [Going the Extra Mile: Travel Rewards Turn into Underground Currency.](https://www.bleepingcomputer.com/news/security/going-the-extra-mile-travel-rewards-turn-into-underground-currency/)
 - [Apple patches older iPhones and iPads against Coruna exploits](https://www.bleepingcomputer.com/news/apple/apple-patches-older-iphones-and-ipads-against-coruna-exploits/)
-- [How to Scale Phishing Detection in Your SOC: 3 Steps for CISOs](https://thehackernews.com/2026/03/how-to-scale-phishing-detection-in-your.html)
-- [ThreatsDay Bulletin: OAuth Trap, EDR Killer, Signal Phishing, Zombie ZIP, AI Platform Hack &amp; More](https://thehackernews.com/2026/03/threatsday-bulletin-oauth-trap-edr.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
