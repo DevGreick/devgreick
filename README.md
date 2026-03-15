@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=DevGreick&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </div>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=25&pause=1000&color=00FF7F&center=true&vCenter=true&width=520&lines=Ola...;BEM-VINDO." alt="Typing SVG" />
+  <img src="https://raw.githubusercontent.com/DevGreick/devgreick/main/chat_jack_5.svg" alt="Boas-vindas animado" width="520" />
 </div>
 
 <div align="center">
