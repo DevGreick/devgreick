@@ -3,9 +3,7 @@
 </div>
 <div align="center">
   <img src="https://raw.githubusercontent.com/DevGreick/devgreick/main/chat_jack_5.svg" alt="Boas-vindas animado" width="520" />
-</div>
-
-<div align="center">
+  <br>
   <p>
     <strong>Automação para prever movimentos e Red Team para executá-los.</strong>
   </p>
