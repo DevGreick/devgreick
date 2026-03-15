@@ -4,13 +4,11 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/DevGreick/devgreick/main/chat_jack_5.svg" alt="Boas-vindas animado" width="520" />
   <br>
-  <p>
-    <strong>Automação para prever movimentos e Red Team para executá-los.</strong>
-  </p>
-  <p>
-    <code>Automação</code> &nbsp;•&nbsp; <code>Threat Intel</code> &nbsp;•&nbsp; <code>Pentesting</code>
-  </p>
-  <img src="https://img.shields.io/badge/STATUS-Ativo_na_NTT_DATA-0e75b6?style=for-the-badge" alt="Status Profissional"/>
+  <strong>Automação para prever movimentos e Red Team para executá-los.</strong>
+  <br>
+  <code>Automação</code> &nbsp;•&nbsp; <code>Threat Intel</code> &nbsp;•&nbsp; <code>Pentesting</code>
+  <br>
+  <img src="https://img.shields.io/badge/STATUS-Ativo_na_NTT_DATA-0e75b6?style=for-the-badge" alt="Status Profissional"/>
 
 </div>
 
