@@ -23,9 +23,14 @@
 
   <!-- CVE-LIST:START -->
 <details>
-<summary><strong>Vulnerabilidades exploradas conhecidas da CISA</strong>  •  atualizado 16/03/2026 16:54 UTC  •  exibindo 10 itens</summary>
+<summary><strong>Vulnerabilidades exploradas conhecidas da CISA</strong>  •  atualizado 16/03/2026 18:50 UTC  •  exibindo 10 itens</summary>
 
 > Fonte: CISA Known Exploited Vulnerabilities
+
+- **CVE-2025-47813** - Wing FTP Server Information Disclosure Vulnerability  
+  Fornecedor: Wing FTP Server | Produto: Wing FTP Server | Adicionado: 2026-03-16  
+  Wing FTP Server contains a generation of error message containing sensitive information vulnerability when using a long value in the UID cookie.  
+  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
 
 - **CVE-2026-3910** - Google Chromium V8 Improper Restriction of Operations Within the Bounds of a Memory Buffer Vulnerability  
   Fornecedor: Google | Produto: Chromium V8 | Adicionado: 2026-03-13  
@@ -72,12 +77,8 @@
   Apple macOS, iOS, iPadOS, and Safari 16.6 contain a use-after-free vulnerability due to the processing of maliciously crafted web content that may lead to memory corruption.  
   Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
 
-- **CVE-2021-30952** - Apple Multiple Products Integer Overflow or Wraparound Vulnerability  
-  Fornecedor: Apple | Produto: Multiple Products | Adicionado: 2026-03-05  
-  Apple tvOS, macOS, Safari, iPadOS and watchOS contain an integer overflow or wraparound vulnerability due to the processing of maliciously crafted web content that may lead to arbitrary code execution.  
-  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
-
 </details>
+
 
 
 
