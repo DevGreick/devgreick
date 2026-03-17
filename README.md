@@ -2773,11 +2773,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [LeakNet ransomware uses ClickFix, Deno runtime in stealthy attacks](https://www.bleepingcomputer.com/news/security/leaknet-ransomware-uses-clickfix-and-deno-runtime-for-stealthy-attacks/)
+- [Microsoft shares fix for Windows C: drive access issues on Samsung PCs](https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-fix-for-windows-c-drive-access-issues-on-samsung-pcs/)
+- [AI is Everywhere, But CISOs are Still Securing It with Yesterday&#39;s Skills and Tools, Study Finds](https://thehackernews.com/2026/03/ai-is-everywhere-but-cisos-are-still.html)
+- [New Windows 11 hotpatch fixes Bluetooth device visibility issue](https://www.bleepingcomputer.com/news/microsoft/new-windows-11-hotpatch-fixes-bluetooth-device-visibility-issue/)
 - [Microsoft: Enabling Teams Meeting add-in breaks Outlook Classic](https://www.bleepingcomputer.com/news/microsoft/microsoft-enabling-teams-meeting-add-in-breaks-outlook-classic/)
-- [Konni Deploys EndRAT Through Phishing, Uses KakaoTalk to Propagate Malware](https://thehackernews.com/2026/03/konni-deploys-endrat-through-spear.html)
-- [CISA Flags Actively Exploited Wing FTP Vulnerability Leaking Server Paths](https://thehackernews.com/2026/03/cisa-flags-actively-exploited-wing-ftp.html)
-- [GlassWorm Attack Uses Stolen GitHub Tokens to Force-Push Malware Into Python Repos](https://thehackernews.com/2026/03/glassworm-attack-uses-stolen-github.html)
-- [Stryker attack wiped tens of thousands of devices, no malware needed](https://www.bleepingcomputer.com/news/security/stryker-attack-wiped-tens-of-thousands-of-devices-no-malware-needed/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
