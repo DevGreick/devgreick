@@ -2785,11 +2785,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [The Refund Fraud Economy: Exploiting Major Retailers and Payment Platforms](https://www.bleepingcomputer.com/news/security/the-refund-fraud-economy-exploiting-major-retailers-and-payment-platforms/)
+- [New “Darksword” iOS exploit used in infostealer attack on iPhones](https://www.bleepingcomputer.com/news/security/new-darksword-ios-exploit-used-in-infostealer-attack-on-iphones/)
+- [Nordstrom&#39;s email system abused to send crypto scams to customers](https://www.bleepingcomputer.com/news/security/nordstroms-email-system-abused-to-send-crypto-scams-to-customers/)
 - [Critical Unpatched Telnetd Flaw &lpar;CVE-2026-32746&rpar; Enables Unauthenticated Root RCE](https://thehackernews.com/2026/03/critical-telnetd-flaw-cve-2026-32746.html)
 - [Claude Code Security and Magecart: Getting the Threat Model Right](https://thehackernews.com/2026/03/claude-code-security-and-magecart.html)
-- [9 Critical IP KVM Flaws Enable Unauthenticated Root Access Across Four Vendors](https://thehackernews.com/2026/03/9-critical-ip-kvm-flaws-enable.html)
-- [Product Walkthrough: How Mesh CSMA Reveals and Breaks Attack Paths to Crown Jewels](https://thehackernews.com/2026/03/product-walkthrough-how-mesh-csma.html)
-- [Ubuntu CVE-2026-3888 Bug Lets Attackers Gain Root via systemd Cleanup Timing Exploit](https://thehackernews.com/2026/03/ubuntu-cve-2026-3888-bug-lets-attackers.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
