@@ -2784,11 +2784,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Critical Unpatched Telnetd Flaw &lpar;CVE-2026-32746&rpar; Enables Unauthenticated Root RCE](https://thehackernews.com/2026/03/critical-telnetd-flaw-cve-2026-32746.html)
+- [Claude Code Security and Magecart: Getting the Threat Model Right](https://thehackernews.com/2026/03/claude-code-security-and-magecart.html)
+- [9 Critical IP KVM Flaws Enable Unauthenticated Root Access Across Four Vendors](https://thehackernews.com/2026/03/9-critical-ip-kvm-flaws-enable.html)
+- [Product Walkthrough: How Mesh CSMA Reveals and Breaks Attack Paths to Crown Jewels](https://thehackernews.com/2026/03/product-walkthrough-how-mesh-csma.html)
 - [Ubuntu CVE-2026-3888 Bug Lets Attackers Gain Root via systemd Cleanup Timing Exploit](https://thehackernews.com/2026/03/ubuntu-cve-2026-3888-bug-lets-attackers.html)
-- [Apple Fixes WebKit Vulnerability Enabling Same-Origin Policy Bypass on iOS and macOS](https://thehackernews.com/2026/03/apple-fixes-webkit-vulnerability.html)
-- [Critical Unpatched Telnetd Flaw &lpar;CVE-2026-32746&rpar; Enables Unauthenticated Root RCE via Port 23](https://thehackernews.com/2026/03/critical-telnetd-flaw-cve-2026-32746.html)
-- [Apple pushes first Background Security Improvements update to fix WebKit flaw](https://www.bleepingcomputer.com/news/security/apple-pushes-first-background-security-improvements-update-to-fix-webkit-flaw/)
-- [GlassWorm malware hits 400+ code repos on GitHub, npm, VSCode, OpenVSX](https://www.bleepingcomputer.com/news/security/glassworm-malware-hits-400-plus-code-repos-on-github-npm-vscode-openvsx/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
