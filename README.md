@@ -2794,11 +2794,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [New ‘Perseus’ Android malware checks user notes for secrets](https://www.bleepingcomputer.com/news/security/new-perseus-android-malware-checks-user-notes-for-secrets/)
+- [Critical Microsoft SharePoint flaw now exploited in attacks](https://www.bleepingcomputer.com/news/microsoft/critical-microsoft-sharepoint-flaw-now-exploited-in-attacks/)
+- [DarkSword iOS Exploit Kit Uses 6 Flaws, 3 Zero-Days for Full Device Takeover](https://thehackernews.com/2026/03/darksword-ios-exploit-kit-uses-6-flaws.html)
 - [CISA Warns of Zimbra, SharePoint Flaw Exploits; Cisco Zero-Day Hit in Ransomware Attacks](https://thehackernews.com/2026/03/cisa-warns-of-zimbra-sharepoint-flaw.html)
 - [Aura confirms data breach exposing 900,000 marketing contacts](https://www.bleepingcomputer.com/news/security/aura-confirms-data-breach-exposing-900-000-marketing-contacts/)
-- [CISA orders feds to patch Zimbra XSS flaw exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-zimbra-xss-flaw-exploited-in-attacks/)
-- [ConnectWise patches new flaw allowing ScreenConnect hijacking](https://www.bleepingcomputer.com/news/security/connectwise-patches-new-flaw-allowing-screenconnect-hijacking/)
-- [OFAC Sanctions DPRK IT Worker Network Funding WMD Programs Through Fake Remote Jobs](https://thehackernews.com/2026/03/ofac-sanctions-dprk-it-worker-network.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
