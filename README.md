@@ -2804,11 +2804,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [International joint action disrupts world’s largest DDoS botnets](https://www.bleepingcomputer.com/news/security/aisuru-kimwolf-jackskid-and-mossad-botnets-disrupted-in-joint-action/)
+- [Microsoft: March Windows updates break Teams, OneDrive sign-ins](https://www.bleepingcomputer.com/news/microsoft/kb5079473-march-windows-11-update-breaks-microsoft-account-sign-ins/)
+- [Ex-data analyst stole company data in $2.5M extortion scheme](https://www.bleepingcomputer.com/news/security/data-analyst-found-guilty-of-extorting-brightly-software-of-25-million/)
 - [DoJ Disrupts 3 Million-Device IoT Botnets Behind Record 31.4 Tbps Global DDoS Attacks](https://thehackernews.com/2026/03/doj-disrupts-3-million-device-iot.html)
 - [Apple Warns Older iPhones Vulnerable to Coruna, DarkSword Exploit Kit Attacks](https://thehackernews.com/2026/03/apple-warns-older-iphones-vulnerable-to.html)
-- [Navia discloses data breach impacting 2.7 million people](https://www.bleepingcomputer.com/news/security/navia-discloses-data-breach-impacting-27-million-people/)
-- [New ‘PolyShell’ flaw allows unauthenticated RCE on Magento e-stores](https://www.bleepingcomputer.com/news/security/new-polyshell-flaw-allows-unauthenticated-rce-on-magento-e-stores/)
-- [Speagle Malware Hijacks Cobra DocGuard to Steal Data via Compromised Servers](https://thehackernews.com/2026/03/speagle-malware-hijacks-cobra-docguard.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
