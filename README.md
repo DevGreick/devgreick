@@ -23,9 +23,34 @@
 
   <!-- CVE-LIST:START -->
 <details>
-<summary><strong>Vulnerabilidades exploradas conhecidas da CISA</strong>  •  atualizado 20/03/2026 14:37 UTC  •  exibindo 10 itens</summary>
+<summary><strong>Vulnerabilidades exploradas conhecidas da CISA</strong>  •  atualizado 20/03/2026 16:33 UTC  •  exibindo 10 itens</summary>
 
 > Fonte: CISA Known Exploited Vulnerabilities
+
+- **CVE-2025-32432** - Craft CMS Code Injection Vulnerability  
+  Fornecedor: Craft CMS | Produto: Craft CMS | Adicionado: 2026-03-20  
+  Craft CMS contains a code injection vulnerability that allows a remote attacker to execute arbitrary code.  
+  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
+
+- **CVE-2025-54068** - Laravel Livewire Code Injection Vulnerability  
+  Fornecedor: Laravel | Produto: Livewire | Adicionado: 2026-03-20  
+  Laravel Livewire contain a code injection vulnerability that could allow unauthenticated attackers to achieve remote command execution in specific scenarios.  
+  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
+
+- **CVE-2025-43510** - Apple Multiple Products Improper Locking Vulnerability  
+  Fornecedor: Apple | Produto: Multiple Products | Adicionado: 2026-03-20  
+  Apple watchOS, iOS, iPadOS, macOS, visionOS, and tvOS contain an improper locking vulnerability that could allow a malicious application to cause unexpected changes in memory shared between processes.  
+  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
+
+- **CVE-2025-43520** - Apple Multiple Products Classic Buffer Overflow Vulnerability  
+  Fornecedor: Apple | Produto: Multiple Products | Adicionado: 2026-03-20  
+  Apple watchOS, iOS, iPadOS, macOS, visionOS, tvOS, and iPadOS contain a classic buffer overflow vulnerability which could allow a malicious application to cause unexpected system termination or write kernel memory.  
+  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
+
+- **CVE-2025-31277** - Apple Multiple Products Buffer Overflow Vulnerability  
+  Fornecedor: Apple | Produto: Multiple Products | Adicionado: 2026-03-20  
+  Apple Safari, iOS, watchOS, visionOS, iPadOS, macOS, and tvOS contain a buffer overflow vulnerability that could allow the processing of maliciously crafted web content which may lead to memory corruption.  
+  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
 
 - **CVE-2026-20131** - Cisco Secure Firewall Management Center (FMC) Software and Cisco Security Cloud Control (SCC) Firewall Management Deserialization of Untrusted Data Vulnerability  
   Fornecedor: Cisco | Produto: Secure Firewall Management Center (FMC) | Adicionado: 2026-03-19  
@@ -52,32 +77,8 @@
   Google Chromium V8 contains an improper restriction of operations within the bounds of a memory buffer vulnerability that could allow a remote attacker to execute arbitrary code inside a sandbox via a crafted HTML page. This vulnerability could affect multiple web browsers that utilize Chromium, including, but not limited to, Google Chrome, Microsoft Edge, and Opera.  
   Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
 
-- **CVE-2026-3909** - Google Skia Out-of-Bounds Write Vulnerability  
-  Fornecedor: Google | Produto: Skia | Adicionado: 2026-03-13  
-  Google Skia contains an out-of-bounds write vulnerability that could allow a remote attacker to perform out of bounds memory access via a crafted HTML page. This vulnerability affects Google Chrome and ChromeOS, Android, Flutter, and possibly other products.  
-  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
-
-- **CVE-2025-68613** - n8n Improper Control of Dynamically-Managed Code Resources Vulnerability  
-  Fornecedor: n8n | Produto: n8n | Adicionado: 2026-03-11  
-  n8n contains an improper control of dynamically managed code resources vulnerability in its workflow expression evaluation system that allows for remote code execution.  
-  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
-
-- **CVE-2021-22054** - Omnissa Workspace ONE Server-Side Request Forgery  
-  Fornecedor: Omnissa | Produto: Workspace One UEM | Adicionado: 2026-03-09  
-  Omnissa Workspace One UEM formerly known as VMware Workspace One UEM contains a server-side request forgery (SSRF) vulnerability that could allow a malicious actor with network access to UEM to send their requests without authentication and to gain access to sensitive information.  
-  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
-
-- **CVE-2025-26399** - SolarWinds Web Help Desk Deserialization of Untrusted Data Vulnerability  
-  Fornecedor: SolarWinds | Produto: Web Help Desk | Adicionado: 2026-03-09  
-  SolarWinds Web Help Desk contain a deserialization of untrusted data vulnerability in AjaxProxy that could allow an attacker to run commands on the host machine.  
-  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
-
-- **CVE-2026-1603** - Ivanti Endpoint Manager (EPM) Authentication Bypass Vulnerability  
-  Fornecedor: Ivanti | Produto:  Endpoint Manager (EPM) | Adicionado: 2026-03-09  
-  Ivanti Endpoint Manager (EPM) contains an authentication bypass using an alternate path or channel vulnerability that could allow a remote unauthenticated attacker to leak specific stored credential data.  
-  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
-
 </details>
+
 
 
 
