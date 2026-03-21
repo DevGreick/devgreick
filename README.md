@@ -2820,11 +2820,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Google adds ‘Advanced Flow’ for safe APK sideloading on Android](https://www.bleepingcomputer.com/news/security/google-adds-advanced-flow-for-safe-apk-sideloading-on-android/)
 - [Microsoft Azure Monitor alerts abused in callback phishing campaigns](https://www.bleepingcomputer.com/news/security/microsoft-azure-monitor-alerts-abused-in-callback-phishing-campaigns/)
 - [FBI Warns Russian Hackers Target Signal, WhatsApp in Mass Phishing Attacks](https://thehackernews.com/2026/03/fbi-warns-russian-hackers-target-signal.html)
 - [Oracle Patches Critical CVE-2026-21992 Enabling Unauthenticated RCE in Identity Manager](https://thehackernews.com/2026/03/oracle-patches-critical-cve-2026-21992.html)
 - [Trivy Supply Chain Attack Triggers Self-Spreading CanisterWorm Across 47 npm Packages](https://thehackernews.com/2026/03/trivy-supply-chain-attack-triggers-self.html)
-- [CISA Flags Apple, Craft CMS, Laravel Bugs in KEV, Orders Patching by April 3, 2026](https://thehackernews.com/2026/03/cisa-flags-apple-craft-cms-laravel-bugs.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
