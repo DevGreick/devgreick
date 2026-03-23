@@ -2843,11 +2843,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Trivy supply-chain attack spreads to Docker, GitHub repos](https://www.bleepingcomputer.com/news/security/trivy-supply-chain-attack-spreads-to-docker-github-repos/)
 - [Varonis Atlas: Securing AI and the Data That Powers It](https://www.bleepingcomputer.com/news/security/varonis-atlas-securing-ai-and-the-data-that-powers-it/)
 - [⚡ Weekly Recap: CI/CD Backdoor, FBI Buys Location Data, WhatsApp Ditches Numbers &amp; More](https://thehackernews.com/2026/03/weekly-recap-cicd-backdoor-fbi-buys.html)
 - [Microsoft Exchange Online service change causes email access issues](https://www.bleepingcomputer.com/news/microsoft/new-exchange-online-virtual-account-blocks-email-access-via-mobile-mac-apps/)
 - [We Found Eight Attack Vectors Inside AWS Bedrock. Here&#39;s What Attackers Can Do with Them](https://thehackernews.com/2026/03/we-found-eight-attack-vectors-inside.html)
-- [Microsoft Warns IRS Phishing Hits 29,000 Users, Deploys RMM Malware](https://thehackernews.com/2026/03/microsoft-warns-irs-phishing-hits-29000.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
