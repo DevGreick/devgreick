@@ -2849,11 +2849,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [U.S. Sentences Russian Hacker to 6.75 Years for Role in $9M Ransomware Damage](https://thehackernews.com/2026/03/us-sentences-russian-hacker-to-675.html)
+- [Citrix Urges Patching Critical NetScaler Flaw Allowing Unauthenticated Data Leaks](https://thehackernews.com/2026/03/citrix-urges-patching-critical.html)
 - [OpenAI rolls out ChatGPT Library to store your personal files](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-rolls-out-chatgpt-library-to-store-your-personal-files/)
 - [Mazda discloses security breach exposing employee and partner data](https://www.bleepingcomputer.com/news/security/mazda-discloses-security-breach-exposing-employee-and-partner-data/)
 - [Tycoon2FA phishing platform returns after recent police disruption](https://www.bleepingcomputer.com/news/security/tycoon2fa-phishing-platform-returns-after-recent-police-disruption/)
-- [TeamPCP deploys Iran-targeted wiper in Kubernetes attacks](https://www.bleepingcomputer.com/news/security/teampcp-deploys-iran-targeted-wiper-in-kubernetes-attacks/)
-- [Crunchyroll probes breach after hacker claims to steal 6.8M users&#39; data](https://www.bleepingcomputer.com/news/security/crunchyroll-probes-breach-after-hacker-claims-to-steal-68m-users-data/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
