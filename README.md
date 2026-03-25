@@ -23,9 +23,14 @@
 
   <!-- CVE-LIST:START -->
 <details>
-<summary><strong>Vulnerabilidades exploradas conhecidas da CISA</strong>  •  atualizado 25/03/2026 16:54 UTC  •  exibindo 10 itens</summary>
+<summary><strong>Vulnerabilidades exploradas conhecidas da CISA</strong>  •  atualizado 25/03/2026 18:44 UTC  •  exibindo 10 itens</summary>
 
 > Fonte: CISA Known Exploited Vulnerabilities
+
+- **CVE-2026-33017** - Langflow Code Injection Vulnerability  
+  Fornecedor: Langflow | Produto: Langflow | Adicionado: 2026-03-25  
+  Langflow contains a code injection vulnerability that could allow building public flows without requiring authentication.  
+  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
 
 - **CVE-2025-32432** - Craft CMS Code Injection Vulnerability  
   Fornecedor: Craft CMS | Produto: Craft CMS | Adicionado: 2026-03-20  
@@ -72,12 +77,8 @@
   Wing FTP Server contains a generation of error message containing sensitive information vulnerability when using a long value in the UID cookie.  
   Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
 
-- **CVE-2026-3910** - Google Chromium V8 Improper Restriction of Operations Within the Bounds of a Memory Buffer Vulnerability  
-  Fornecedor: Google | Produto: Chromium V8 | Adicionado: 2026-03-13  
-  Google Chromium V8 contains an improper restriction of operations within the bounds of a memory buffer vulnerability that could allow a remote attacker to execute arbitrary code inside a sandbox via a crafted HTML page. This vulnerability could affect multiple web browsers that utilize Chromium, including, but not limited to, Google Chrome, Microsoft Edge, and Opera.  
-  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
-
 </details>
+
 
 
 
