@@ -2864,11 +2864,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Citrix urges admins to patch NetScaler flaws as soon as possible](https://www.bleepingcomputer.com/news/security/citrix-urges-admins-to-patch-netscaler-flaws-as-soon-as-possible/)
 - [GlassWorm Malware Uses Solana Dead Drops to Deliver RAT and Steal Browser, Crypto Data](https://thehackernews.com/2026/03/glassworm-malware-uses-solana-dead.html)
 - [Paid AI Accounts Are Now a Hot Underground Commodity](https://www.bleepingcomputer.com/news/security/paid-ai-accounts-are-now-a-hot-underground-commodity/)
 - [Kali Linux 2026.1 released with 8 new tools, new BackTrack mode](https://www.bleepingcomputer.com/news/linux/kali-linux-20261-released-with-8-new-tools-new-backtrack-mode/)
 - [The Kill Chain Is Obsolete When Your AI Agent Is the Threat](https://thehackernews.com/2026/03/the-kill-chain-is-obsolete-when-your-ai.html)
-- [Russian Hacker Sentenced to 2 Years for TA551 Botnet-Driven Ransomware Attacks](https://thehackernews.com/2026/03/russian-hacker-sentenced-to-2-years-for.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
