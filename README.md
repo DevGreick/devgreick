@@ -23,9 +23,14 @@
 
   <!-- CVE-LIST:START -->
 <details>
-<summary><strong>Vulnerabilidades exploradas conhecidas da CISA</strong>  •  atualizado 26/03/2026 16:53 UTC  •  exibindo 10 itens</summary>
+<summary><strong>Vulnerabilidades exploradas conhecidas da CISA</strong>  •  atualizado 26/03/2026 18:54 UTC  •  exibindo 10 itens</summary>
 
 > Fonte: CISA Known Exploited Vulnerabilities
+
+- **CVE-2026-33634** - Aquasecurity Trivy Embedded Malicious Code Vulnerability  
+  Fornecedor: Aquasecurity | Produto: Trivy | Adicionado: 2026-03-26  
+  Aquasecurity Trivy contains an embedded malicious code vulnerability that could allow an attacker to gain access to everything in the CI/CD environment, including all tokens, SSH keys, cloud credentials, database passwords, and any sensitive configuration in memory.  
+  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
 
 - **CVE-2026-33017** - Langflow Code Injection Vulnerability  
   Fornecedor: Langflow | Produto: Langflow | Adicionado: 2026-03-25  
@@ -49,7 +54,7 @@
 
 - **CVE-2025-43520** - Apple Multiple Products Classic Buffer Overflow Vulnerability  
   Fornecedor: Apple | Produto: Multiple Products | Adicionado: 2026-03-20  
-  Apple watchOS, iOS, iPadOS, macOS, visionOS, tvOS, and iPadOS contain a classic buffer overflow vulnerability which could allow a malicious application to cause unexpected system termination or write kernel memory.  
+  Apple watchOS, iOS, iPadOS, macOS, visionOS, and tvOS contain a classic buffer overflow vulnerability which could allow a malicious application to cause unexpected system termination or write kernel memory.  
   Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
 
 - **CVE-2025-31277** - Apple Multiple Products Buffer Overflow Vulnerability  
@@ -72,12 +77,8 @@
   Microsoft SharePoint contains a deserialization of untrusted data vulnerability that allows an unauthorized attacker to execute code over a network.  
   Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
 
-- **CVE-2025-47813** - Wing FTP Server Information Disclosure Vulnerability  
-  Fornecedor: Wing FTP Server | Produto: Wing FTP Server | Adicionado: 2026-03-16  
-  Wing FTP Server contains a generation of error message containing sensitive information vulnerability when using a long value in the UID cookie.  
-  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
-
 </details>
+
 
 
 
