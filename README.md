@@ -2885,11 +2885,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Agentic GRC: Teams Get the Tech. The Mindset Shift Is What&#39;s Missing.](https://www.bleepingcomputer.com/news/security/agentic-grc-teams-get-the-tech-the-mindset-shift-is-whats-missing/)
 - [European Commission investigating breach after Amazon cloud hack](https://www.bleepingcomputer.com/news/security/european-commission-investigating-breach-after-amazon-cloud-hack/)
+- [AitM Phishing Targets TikTok Business Accounts Using Cloudflare Turnstile Evasion](https://thehackernews.com/2026/03/aitm-phishing-targets-tiktok-business.html)
 - [We Are At War](https://thehackernews.com/2026/03/we-are-at-war.html)
 - [Anti-piracy coalition takes down AnimePlay app with 5 million users](https://www.bleepingcomputer.com/news/security/anti-piracy-coalition-takes-down-animeplay-app-with-5-million-users/)
-- [Bearlyfy Hits 70+ Russian Firms with Custom GenieLocker Ransomware](https://thehackernews.com/2026/03/bearlyfy-hits-70-russian-firms-with.html)
-- [Windows 11 KB5079391 update rolls out Smart App Control improvements](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5079391-update-rolls-out-smart-app-control-improvements/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
