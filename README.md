@@ -2887,11 +2887,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple Sends Lock Screen Alerts to Outdated iPhones Over Active Web-Based Exploits](https://thehackernews.com/2026/03/apple-sends-lock-screen-alerts-to.html)
+- [TeamPCP Pushes Malicious Telnyx Versions to PyPI, Hides Stealer in WAV Files](https://thehackernews.com/2026/03/teampcp-pushes-malicious-telnyx.html)
+- [Fake VS Code alerts on GitHub spread malware to developers](https://www.bleepingcomputer.com/news/security/fake-vs-code-alerts-on-github-spread-malware-to-developers/)
 - [Agentic GRC: Teams Get the Tech. The Mindset Shift Is What&#39;s Missing.](https://www.bleepingcomputer.com/news/security/agentic-grc-teams-get-the-tech-the-mindset-shift-is-whats-missing/)
 - [Open VSX Bug Let Malicious VS Code Extensions Bypass Pre-Publish Security Checks](https://thehackernews.com/2026/03/open-vsx-bug-let-malicious-vs-code.html)
-- [European Commission investigating breach after Amazon cloud account hack](https://www.bleepingcomputer.com/news/security/european-commission-investigating-breach-after-amazon-cloud-account-hack/)
-- [AitM Phishing Targets TikTok Business Accounts Using Cloudflare Turnstile Evasion](https://thehackernews.com/2026/03/aitm-phishing-targets-tiktok-business.html)
-- [We Are At War](https://thehackernews.com/2026/03/we-are-at-war.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
