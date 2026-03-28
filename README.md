@@ -23,13 +23,13 @@
 
   <!-- CVE-LIST:START -->
 <details>
-<summary><strong>Vulnerabilidades exploradas conhecidas da CISA</strong>  •  atualizado 27/03/2026 22:23 UTC  •  exibindo 10 itens</summary>
+<summary><strong>Vulnerabilidades exploradas conhecidas da CISA</strong>  •  atualizado 28/03/2026 01:21 UTC  •  exibindo 10 itens</summary>
 
 > Fonte: CISA Known Exploited Vulnerabilities
 
 - **CVE-2025-53521** - F5 BIG-IP Unspecified Vulnerability  
   Fornecedor: F5 | Produto: BIG-IP | Adicionado: 2026-03-27  
-  F5 BIG-IP AMP contains an unspecified vulnerability that could allow a threat actor to achieve remote code execution.  
+  F5 BIG-IP APM contains an unspecified vulnerability that could allow a threat actor to achieve remote code execution.  
   Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
 
 - **CVE-2026-33634** - Aquasecurity Trivy Embedded Malicious Code Vulnerability  
@@ -78,6 +78,7 @@
   Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
 
 </details>
+
 
 
 
