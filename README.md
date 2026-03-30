@@ -2918,11 +2918,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple adds macOS Terminal warning to block ClickFix attacks](https://www.bleepingcomputer.com/news/security/apple-adds-macos-terminal-warning-to-block-clickfix-attacks/)
+- [How to Evaluate AI SOC Agents: 7 Questions Gartner Says You Should Be Asking](https://www.bleepingcomputer.com/news/security/how-to-evaluate-ai-soc-agents-7-questions-gartner-says-you-should-be-asking/)
+- [⚡ Weekly Recap: Telecom Sleeper Cells, LLM Jailbreaks, Apple Forces U.K. Age Checks and More](https://thehackernews.com/2026/03/weekly-recap-telecom-sleeper-cells-llm.html)
+- [3 SOC Process Fixes That Unlock Tier 1 Productivity](https://thehackernews.com/2026/03/3-soc-process-fixes-that-unlock-tier-1.html)
 - [The State of Secrets Sprawl 2026: 9 Takeaways for CISOs](https://thehackernews.com/2026/03/the-state-of-secrets-sprawl-2026-9.html)
-- [Hackers now exploit critical F5 BIG-IP flaw in attacks, patch now](https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-f5-big-ip-flaw-in-attacks-patch-now/)
-- [Russian CTRL Toolkit Delivered via Malicious LNK Files Hijacks RDP via FRP Tunnels](https://thehackernews.com/2026/03/russian-ctrl-toolkit-delivered-via.html)
-- [Microsoft pulls KB5079391 Windows update over install issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-pulls-windows-kb5079391-update-over-0x80073712-install-errors/)
-- [Critical Fortinet Forticlient EMS flaw now exploited in attacks](https://www.bleepingcomputer.com/news/security/critical-fortinet-forticlient-ems-flaw-now-exploited-in-attacks/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
