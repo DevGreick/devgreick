@@ -2932,11 +2932,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Android Developer Verification Rollout Begins Ahead of September Enforcement](https://thehackernews.com/2026/03/android-developer-verification-rollout.html)
 - [Cisco source code stolen in Trivy-linked dev environment breach](https://www.bleepingcomputer.com/news/security/cisco-source-code-stolen-in-trivy-linked-dev-environment-breach/)
 - [TrueConf Zero-Day Exploited in Attacks on Southeast Asian Government Networks](https://thehackernews.com/2026/03/trueconf-zero-day-exploited-in-attacks.html)
 - [How to Categorize AI Agents and Prioritize Risk](https://www.bleepingcomputer.com/news/security/how-to-categorize-ai-agents-and-prioritize-risk/)
 - [Hackers compromise Axios npm package to drop cross-platform malware](https://www.bleepingcomputer.com/news/security/hackers-compromise-axios-npm-package-to-drop-cross-platform-malware/)
-- [Vertex AI Vulnerability Exposes Google Cloud Data and Private Artifacts](https://thehackernews.com/2026/03/vertex-ai-vulnerability-exposes-google.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
