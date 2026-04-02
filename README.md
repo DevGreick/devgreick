@@ -2951,11 +2951,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Adversaries Exploit Vacant Homes to Intercept Mail in Hybrid Cybercrime](https://www.bleepingcomputer.com/news/security/adversaries-exploit-vacant-homes-to-intercept-mail-in-hybrid-cybercrime/)
+- [New Progress ShareFile flaws can be chained in pre-auth RCE attacks](https://www.bleepingcomputer.com/news/security/new-progress-sharefile-flaws-can-be-chained-in-pre-auth-rce-attacks/)
+- [Medtech giant Stryker fully operational after data-wiping attack](https://www.bleepingcomputer.com/news/security/medtech-giant-stryker-fully-operational-after-data-wiping-attack/)
+- [ThreatsDay Bulletin: Pre-Auth Chains, Android Rootkits, CloudTrail Evasion &amp; 10 More Stories](https://thehackernews.com/2026/04/threatsday-bulletin-pre-auth-chains.html)
 - [Researchers Uncover Mining Operation Using ISO Lures to Spread RATs and Crypto Miners](https://thehackernews.com/2026/04/researchers-uncover-mining-operation.html)
-- [The State of Trusted Open Source Report](https://thehackernews.com/2026/04/the-state-of-trusted-open-source-report.html)
-- [Critical Cisco IMC auth bypass gives attackers Admin access](https://www.bleepingcomputer.com/news/security/critical-cisco-imc-auth-bypass-gives-attackers-admin-access/)
-- [WhatsApp Alerts 200 Users After Fake iOS App Installed Spyware; Italian Firm Faces Action](https://thehackernews.com/2026/04/whatsapp-alerts-200-users-after-fake.html)
-- [Microsoft links Classic Outlook issue to email delivery problems](https://www.bleepingcomputer.com/news/microsoft/microsoft-links-classic-outlook-bug-to-email-delivery-issues/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
