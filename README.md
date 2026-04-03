@@ -2961,11 +2961,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft still working to fix Exchange Online mailbox access issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-still-working-to-fix-exchange-online-mailbox-access-issues/)
+- [UNC1069 Social Engineering of Axios Maintainer Led to npm Supply Chain Attack](https://thehackernews.com/2026/04/unc1069-social-engineering-of-axios.html)
+- [Why Third-Party Risk Is the Biggest Gap in Your Clients&#39; Security Posture](https://thehackernews.com/2026/04/why-third-party-risk-is-biggest-gap-in.html)
 - [New SparkCat Variant in iOS, Android Apps Steals Crypto Wallet Recovery Phrase Images](https://thehackernews.com/2026/04/new-sparkcat-variant-in-ios-android.html)
 - [Man admits to locking thousands of Windows devices in extortion plot](https://www.bleepingcomputer.com/news/security/man-admits-to-extortion-plot-locking-coworkers-out-of-thousands-of-windows-devices/)
-- [Drift Loses $285 Million in Durable Nonce Social Engineering Attack Linked to DPRK](https://thehackernews.com/2026/04/drift-loses-285-million-in-durable.html)
-- [Microsoft now force upgrades unmanaged Windows 11 24H2 PCs](https://www.bleepingcomputer.com/news/microsoft/microsoft-now-force-upgrades-unmanaged-windows-11-24h2-pcs/)
-- [CERT-EU: European Commission hack exposes data of 30 EU entities](https://www.bleepingcomputer.com/news/security/cert-eu-european-commission-hack-exposes-data-of-30-eu-entities/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
