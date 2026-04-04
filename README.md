@@ -1,4 +1,20 @@
-<div align="right"> <img src="https://komarev.com/ghpvc/?username=DevGreick&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> </div> <div align="center"> <img src="https://raw.githubusercontent.com/DevGreick/devgreick/main/chat_jack_5.svg" alt="Boas-vindas animado" width="520" /> </div> <div align="center"> <p> <strong>Automação de Threat Intel e tooling ofensivo em Python & Rust.</strong> </p> <p> <code>Threat Intel</code> &nbsp;•&nbsp; <code>Automação</code> &nbsp;•&nbsp; <code>Red Team</code> &nbsp;•&nbsp; <code>DevSecOps</code> </p> <img src="https://img.shields.io/badge/STATUS-Ativo_na_NTT_DATA-0e75b6?style=for-the-badge" alt="Status Profissional"/> </div>
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=DevGreick&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/DevGreick/devgreick/main/chat_jack_5.svg" alt="Boas-vindas animado" width="520" />
+</div>
+
+<div align="center">
+  <p>
+    <strong>Automação de Threat Intel e tooling ofensivo em Python & Rust.</strong>
+  </p>
+  <p>
+    <code>Threat Intel</code> &nbsp;•&nbsp; <code>Automação</code> &nbsp;•&nbsp; <code>Red Team</code> &nbsp;•&nbsp; <code>DevSecOps</code>
+  </p>
+  <img src="https://img.shields.io/badge/STATUS-Ativo_na_NTT_DATA-0e75b6?style=for-the-badge" alt="Status Profissional"/>
+</div>
 
 ---
 
@@ -8,88 +24,66 @@ Cybersecurity Analyst na NTT DATA em Brasília. Foco em automação de defesa, t
 
 ---
 
-### [+] CERTIFICAÇÕES
+### [+] FEED DE AMEAÇAS AO VIVO: CISA KEV 👇 (clique para abrir)
 
-<div align="center"> <img src="https://img.shields.io/badge/LPIC--1-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="LPIC-1" /> <img src="https://img.shields.io/badge/NSE4-EF2D56?style=for-the-badge&logo=fortinet&logoColor=white" alt="NSE4" /> <img src="https://img.shields.io/badge/GCP_ACE-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP ACE" /> <img src="https://img.shields.io/badge/MBA_Eng._Software-USP/Esalq-0e75b6?style=for-the-badge" alt="MBA USP/Esalq" /> </div>
-
----
-
-### [+] ARSENAL
-
-<div align="center"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" /> <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /> <br/> <img src="https://img.shields.io/badge/Fortigate-EF2D56?style=for-the-badge&logo=fortinet&logoColor=white" alt="Fortigate" /> <img src="https://img.shields.io/badge/Palo%20Alto-0086D1?style=for-the-badge&logo=paloaltonetworks&logoColor=white" alt="Palo Alto" /> <img src="https://img.shields.io/badge/WAF%20F5-FF3B30?style=for-the-badge&logo=f5&logoColor=white" alt="F5 WAF" /> <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP" /> <br/> <img src="https://img.shields.io/badge/Nmap-3c9735?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap" /> <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" /> </div>
-
----
-
-### [+] PROJETOS EM DESTAQUE
-
-[![⭐ ThreatDeflect](https://img.shields.io/badge/%E2%AD%90_ThreatDeflect-2980B9?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/devgreick/ThreatDeflect)
-
-> Ferramenta de análise de ameaças que automatiza consulta de IPs/URLs em múltiplas fontes, gera relatórios e cria resumos com IA local. Python + Rust core via PyO3.
-
-[![💻 Portfólio Interativo](https://img.shields.io/badge/%F0%9F%92%BB_Portf%C3%B3lio_Interativo-1ABC9C?style=for-the-badge&logo=linux&logoColor=white&labelColor=0D1117)](https://portfolio.assistentecyber.com/)
-
-> Portfólio no formato de sistema operacional com terminal web, comandos interativos, easter eggs e assistente com RAG.
-
----
-
-### [+] FEED DE AMEAÇAS AO VIVO: CISA KEV
-
-<!-- CVE-LIST:START --> <details> <summary><strong>Vulnerabilidades exploradas conhecidas da CISA</strong> • atualizado 04/04/2026 04:09 UTC • exibindo 10 itens</summary>
+  <!-- CVE-LIST:START -->
+<details>
+<summary><strong>Vulnerabilidades exploradas conhecidas da CISA</strong>  •  atualizado 04/04/2026 04:09 UTC  •  exibindo 10 itens</summary>
 
 > Fonte: CISA Known Exploited Vulnerabilities
 
 - **CVE-2026-3502** - TrueConf Client Download of Code Without Integrity Check Vulnerability  
-    Fornecedor: TrueConf | Produto: Client | Adicionado: 2026-04-02  
-    TrueConf Client contains a download of code without integrity check vulnerability. An attacker who is able to influence the update delivery path can substitute a tampered update payload. If the payload is executed or installed by the updater, this may result in arbitrary code execution in the context of the updating process or user.  
-    Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
-    
-- **CVE-2026-5281** - Google Dawn Use-After-Free Vulnerability  
-    Fornecedor: Google | Produto: Dawn | Adicionado: 2026-04-01  
-    Google Dawn contains an use-after-free vulnerability that could allow a remote attacker who had compromised the renderer process to execute arbitrary code via a crafted HTML page. This vulnerability could affect multiple Chromium-based products including, but not limited to, Google Chrome, Microsoft Edge, and Opera.  
-    Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
-    
-- **CVE-2026-3055** - Citrix NetScaler Out-of-Bounds Read Vulnerability  
-    Fornecedor: Citrix | Produto: NetScaler | Adicionado: 2026-03-30  
-    Citrix NetScaler ADC (formerly Citrix ADC), NetScaler Gateway (formerly Citrix Gateway) and NetScaler ADC FIPS and NDcPP contain an out-of-bounds reads vulnerability when configured as a SAML IDP leading to memory overread.  
-    Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
-    
-- **CVE-2025-53521** - F5 BIG-IP Stack-Based Buffer Overflow Vulnerability  
-    Fornecedor: F5 | Produto: BIG-IP | Adicionado: 2026-03-27  
-    F5 BIG-IP APM contains a stack-based buffer overflow vulnerability that could allow a threat actor to achieve remote code execution.  
-    Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
-    
-- **CVE-2026-33634** - Aquasecurity Trivy Embedded Malicious Code Vulnerability  
-    Fornecedor: Aquasecurity | Produto: Trivy | Adicionado: 2026-03-26  
-    Aquasecurity Trivy contains an embedded malicious code vulnerability that could allow an attacker to gain access to everything in the CI/CD environment, including all tokens, SSH keys, cloud credentials, database passwords, and any sensitive configuration in memory.  
-    Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
-    
-- **CVE-2026-33017** - Langflow Code Injection Vulnerability  
-    Fornecedor: Langflow | Produto: Langflow | Adicionado: 2026-03-25  
-    Langflow contains a code injection vulnerability that could allow building public flows without requiring authentication.  
-    Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
-    
-- **CVE-2025-32432** - Craft CMS Code Injection Vulnerability  
-    Fornecedor: Craft CMS | Produto: Craft CMS | Adicionado: 2026-03-20  
-    Craft CMS contains a code injection vulnerability that allows a remote attacker to execute arbitrary code.  
-    Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
-    
-- **CVE-2025-54068** - Laravel Livewire Code Injection Vulnerability  
-    Fornecedor: Laravel | Produto: Livewire | Adicionado: 2026-03-20  
-    Laravel Livewire contain a code injection vulnerability that could allow unauthenticated attackers to achieve remote command execution in specific scenarios.  
-    Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
-    
-- **CVE-2025-43510** - Apple Multiple Products Improper Locking Vulnerability  
-    Fornecedor: Apple | Produto: Multiple Products | Adicionado: 2026-03-20  
-    Apple watchOS, iOS, iPadOS, macOS, visionOS, and tvOS contain an improper locking vulnerability that could allow a malicious application to cause unexpected changes in memory shared between processes.  
-    Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
-    
-- **CVE-2025-43520** - Apple Multiple Products Classic Buffer Overflow Vulnerability  
-    Fornecedor: Apple | Produto: Multiple Products | Adicionado: 2026-03-20  
-    Apple watchOS, iOS, iPadOS, macOS, visionOS, and tvOS contain a classic buffer overflow vulnerability which could allow a malicious application to cause unexpected system termination or write kernel memory.  
-    Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
-    
+  Fornecedor: TrueConf | Produto: Client | Adicionado: 2026-04-02  
+  TrueConf Client contains a download of code without integrity check vulnerability. An attacker who is able to influence the update delivery path can substitute a tampered update payload. If the payload is executed or installed by the updater, this may result in arbitrary code execution in the context of the updating process or user.  
+  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
 
-</details> <!-- CVE-LIST:END -->
+- **CVE-2026-5281** - Google Dawn Use-After-Free Vulnerability  
+  Fornecedor: Google | Produto: Dawn | Adicionado: 2026-04-01  
+  Google Dawn contains an use-after-free vulnerability that could allow a remote attacker who had compromised the renderer process to execute arbitrary code via a crafted HTML page. This vulnerability could affect multiple Chromium-based products including, but not limited to, Google Chrome, Microsoft Edge, and Opera.  
+  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
+
+- **CVE-2026-3055** - Citrix NetScaler Out-of-Bounds Read Vulnerability  
+  Fornecedor: Citrix | Produto: NetScaler | Adicionado: 2026-03-30  
+  Citrix NetScaler ADC (formerly Citrix ADC), NetScaler Gateway (formerly Citrix Gateway) and NetScaler ADC FIPS and NDcPP contain an out-of-bounds reads vulnerability when configured as a SAML IDP leading to memory overread.  
+  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
+
+- **CVE-2025-53521** - F5 BIG-IP Stack-Based Buffer Overflow Vulnerability  
+  Fornecedor: F5 | Produto: BIG-IP | Adicionado: 2026-03-27  
+  F5 BIG-IP APM contains a stack-based buffer overflow vulnerability that could allow a threat actor to achieve remote code execution.  
+  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
+
+- **CVE-2026-33634** - Aquasecurity Trivy Embedded Malicious Code Vulnerability  
+  Fornecedor: Aquasecurity | Produto: Trivy | Adicionado: 2026-03-26  
+  Aquasecurity Trivy contains an embedded malicious code vulnerability that could allow an attacker to gain access to everything in the CI/CD environment, including all tokens, SSH keys, cloud credentials, database passwords, and any sensitive configuration in memory.  
+  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
+
+- **CVE-2026-33017** - Langflow Code Injection Vulnerability  
+  Fornecedor: Langflow | Produto: Langflow | Adicionado: 2026-03-25  
+  Langflow contains a code injection vulnerability that could allow building public flows without requiring authentication.  
+  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
+
+- **CVE-2025-32432** - Craft CMS Code Injection Vulnerability  
+  Fornecedor: Craft CMS | Produto: Craft CMS | Adicionado: 2026-03-20  
+  Craft CMS contains a code injection vulnerability that allows a remote attacker to execute arbitrary code.  
+  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
+
+- **CVE-2025-54068** - Laravel Livewire Code Injection Vulnerability  
+  Fornecedor: Laravel | Produto: Livewire | Adicionado: 2026-03-20  
+  Laravel Livewire contain a code injection vulnerability that could allow unauthenticated attackers to achieve remote command execution in specific scenarios.  
+  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
+
+- **CVE-2025-43510** - Apple Multiple Products Improper Locking Vulnerability  
+  Fornecedor: Apple | Produto: Multiple Products | Adicionado: 2026-03-20  
+  Apple watchOS, iOS, iPadOS, macOS, visionOS, and tvOS contain an improper locking vulnerability that could allow a malicious application to cause unexpected changes in memory shared between processes.  
+  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
+
+- **CVE-2025-43520** - Apple Multiple Products Classic Buffer Overflow Vulnerability  
+  Fornecedor: Apple | Produto: Multiple Products | Adicionado: 2026-03-20  
+  Apple watchOS, iOS, iPadOS, macOS, visionOS, and tvOS contain a classic buffer overflow vulnerability which could allow a malicious application to cause unexpected system termination or write kernel memory.  
+  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
+
+</details>
+  <!-- CVE-LIST:END -->
 
 ---
 
@@ -98,21 +92,76 @@ Cybersecurity Analyst na NTT DATA em Brasília. Foco em automação de defesa, t
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
-
 - [LinkedIn secretely scans for 6,000+ Chrome extensions, collects data](https://www.bleepingcomputer.com/news/security/linkedin-secretely-scans-for-6-000-plus-chrome-extensions-collects-data/)
-- [Hims & Hers warns of data breach after Zendesk support ticket breach](https://www.bleepingcomputer.com/news/security/hims-and-hers-warns-of-data-breach-after-zendesk-support-ticket-breach/)
+- [Hims &amp; Hers warns of data breach after Zendesk support ticket breach](https://www.bleepingcomputer.com/news/security/hims-and-hers-warns-of-data-breach-after-zendesk-support-ticket-breach/)
 - [China-Linked TA416 Targets European Governments with PlugX and OAuth-Based Phishing](https://thehackernews.com/2026/04/china-linked-ta416-targets-european.html)
 - [Die Linke German political party confirms data stolen by Qilin ransomware](https://www.bleepingcomputer.com/news/security/die-linke-german-political-party-confirms-data-stolen-by-qilin-ransomware/)
 - [Microsoft Details Cookie-Controlled PHP Web Shells Persisting via Cron on Linux Servers](https://thehackernews.com/2026/04/microsoft-details-cookie-controlled-php.html)
-
 <!-- BLOG-POST-LIST:END -->
 
 ---
 
-<div align="center"> <img src="https://github-trophies.vercel.app/?username=devgreick&theme=matrix&no-bg=true&no-frame=true&row=1&column=5" alt="Troféus do GitHub" /> <br><br> <img height="180em" src="https://github-readme-stats-one.vercel.app/api?username=devgreick&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=39FF14&icon_color=39FF14&text_color=58A6FF&bg_color=0D1117" alt="GitHub Stats" /> <img height="180em" src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=devgreick&layout=compact&langs_count=8&hide_border=true&title_color=39FF14&text_color=58A6FF&bg_color=0D1117" alt="Linguagens mais usadas" /> </div>
+### [+] PROJETOS EM DESTAQUE
+
+[![⭐ ThreatDeflect](https://img.shields.io/badge/⭐_ThreatDeflect-2980B9?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/devgreick/ThreatDeflect)
+> Ferramenta de análise de ameaças que automatiza consulta de IPs/URLs em múltiplas fontes, gera relatórios e cria resumos com IA local. Python + Rust core via PyO3.
+
+[![💻 Portfólio Interativo](https://img.shields.io/badge/💻_Portfólio_Interativo-1ABC9C?style=for-the-badge&logo=linux&logoColor=white&labelColor=0D1117)](https://portfolio.assistentecyber.com/)
+> Portfólio no formato de sistema operacional com terminal web, comandos interativos, easter eggs e assistente com RAG.
+
+---
+
+### [+] ARSENAL
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <br/>
+  <img src="https://img.shields.io/badge/Fortigate-EF2D56?style=for-the-badge&logo=fortinet&logoColor=white" alt="Fortigate" />
+  <img src="https://img.shields.io/badge/Palo%20Alto-0086D1?style=for-the-badge&logo=paloaltonetworks&logoColor=white" alt="Palo Alto" />
+  <img src="https://img.shields.io/badge/WAF%20F5-FF3B30?style=for-the-badge&logo=f5&logoColor=white" alt="F5 WAF" />
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP" />
+  <br/>
+  <img src="https://img.shields.io/badge/Nmap-3c9735?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
+</div>
+
+---
+
+### [+] CERTIFICAÇÕES
+
+<div align="center">
+  <img src="https://img.shields.io/badge/LPIC--1-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="LPIC-1" />
+  <img src="https://img.shields.io/badge/NSE4-EF2D56?style=for-the-badge&logo=fortinet&logoColor=white" alt="NSE4" />
+  <img src="https://img.shields.io/badge/GCP_ACE-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP ACE" />
+  <img src="https://img.shields.io/badge/MBA_Eng._Software-USP/Esalq-0e75b6?style=for-the-badge" alt="MBA USP/Esalq" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://github-trophies.vercel.app/?username=devgreick&theme=matrix&no-bg=true&no-frame=true&row=1&column=5" alt="Troféus do GitHub" />
+  <br><br>
+  <img height="180em" src="https://github-readme-stats-one.vercel.app/api?username=devgreick&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=39FF14&icon_color=39FF14&text_color=58A6FF&bg_color=0D1117" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=devgreick&layout=compact&langs_count=8&hide_border=true&title_color=39FF14&text_color=58A6FF&bg_color=0D1117" alt="Linguagens mais usadas" />
+</div>
 
 ---
 
 ### [+] CONTATO
 
-<div align="center"> <a href="https://www.linkedin.com/in/jacksongreick/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="https://portfolio.assistentecyber.com/" target="_blank"> <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=linux-terminal&logoColor=00ff7f" alt="Portfólio"/> </a> <br><br> <a href="https://buymeacoffee.com/devgreick" target="_blank"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" width="150"> </a> </div>
+<div align="center">
+  <a href="https://www.linkedin.com/in/jacksongreick/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://portfolio.assistentecyber.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=linux-terminal&logoColor=00ff7f" alt="Portfólio"/>
+  </a>
+  <br><br>
+  <a href="https://buymeacoffee.com/devgreick" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" width="150">
+  </a>
+</div>
