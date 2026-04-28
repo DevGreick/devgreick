@@ -41,9 +41,19 @@ Cybersecurity Analyst na NTT DATA. Foco em automação de defesa, threat intelli
 
   <!-- CVE-LIST:START -->
 <details>
-<summary><strong>Vulnerabilidades exploradas conhecidas da CISA</strong>  •  atualizado 28/04/2026 16:03 UTC  •  exibindo 10 itens</summary>
+<summary><strong>Vulnerabilidades exploradas conhecidas da CISA</strong>  •  atualizado 28/04/2026 19:21 UTC  •  exibindo 10 itens</summary>
 
 > Fonte: CISA Known Exploited Vulnerabilities
+
+- **CVE-2024-1708** - ConnectWise ScreenConnect Path Traversal Vulnerability  
+  Fornecedor: ConnectWise | Produto: ScreenConnect | Adicionado: 2026-04-28  
+  ConnectWise ScreenConnect contains a path traversal vulnerability which could allow an attacker to execute remote code or directly impact confidential data and critical systems.  
+  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
+
+- **CVE-2026-32202** - Microsoft Windows Protection Mechanism Failure Vulnerability  
+  Fornecedor: Microsoft | Produto: Windows | Adicionado: 2026-04-28  
+  Microsoft Windows Shell contains a protection mechanism failure vulnerability that allows an unauthorized attacker to perform spoofing over a network.  
+  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
 
 - **CVE-2025-29635** - D-Link DIR-823X Command Injection Vulnerability  
   Fornecedor: D-Link | Produto: DIR-823X | Adicionado: 2026-04-24  
@@ -85,17 +95,8 @@ Cybersecurity Analyst na NTT DATA. Foco em automação de defesa, threat intelli
   Cisco Catalyst SD-WAN Manager contains an exposure of sensitive information to an unauthorized actor vulnerability that could allow remote attackers to view sensitive information on affected systems.  
   Ação requerida: Please adhere to CISA’s guidelines to assess exposure and mitigate risks associated with Cisco SD-WAN devices as outlines in CISA’s Emergency Directive 26-03 (URL listed below in Notes) and CISA’s “Hunt & Hardening Guidance for Cisco SD-WAN Devices (URL listed below in Notes). Adhere to the applicable BOD 22-01 guidance for cloud services or discontinue use of the product if mitigations are not available.
 
-- **CVE-2025-2749** - Kentico Xperience Path Traversal Vulnerability  
-  Fornecedor: Kentico | Produto: Kentico Xperience | Adicionado: 2026-04-20  
-  Kentico Xperience contains a path traversal vulnerability that could allow an authenticated user's Staging Sync Server to upload arbitrary data to path relative locations.  
-  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
-
-- **CVE-2023-27351** - PaperCut NG/MF Improper Authentication Vulnerability  
-  Fornecedor: PaperCut | Produto: NG/MF | Adicionado: 2026-04-20  
-  PaperCut NG/MF contains an improper authentication vulnerability that could allow remote attackers to bypass authentication on affected installations via the SecurityRequestFilter class.  
-  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
-
 </details>
+
 
 
 
