@@ -379,11 +379,11 @@ Cybersecurity Analyst na NTT DATA. Foco em automação de defesa, threat intelli
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
-- [SAP npm Packages Compromised by “Mini Shai-Hulud” Credential-Stealing Malware](https://thehackernews.com/2026/04/sap-npm-packages-compromised-by-mini.html)
+- [Hackers arrested for hijacking and selling 610,000 Roblox accounts](https://www.bleepingcomputer.com/news/security/hackers-arrested-for-hijacking-and-selling-610-000-roblox-accounts/)
+- [SAP-Related npm Packages Compromised in Credential-Stealing Supply Chain Attack](https://thehackernews.com/2026/04/sap-npm-packages-compromised-by-mini.html)
 - [cPanel, WHM emergency update fixes critical auth bypass bug](https://www.bleepingcomputer.com/news/security/cpanel-whm-emergency-update-fixes-critical-auth-bypass-bug/)
 - [New Wave of DPRK Attacks Uses AI-Inserted npm Malware, Fake Firms, and RATs](https://thehackernews.com/2026/04/new-wave-of-dprk-attacks-uses-ai.html)
 - [European police dismantles €50 million crypto investment fraud ring](https://www.bleepingcomputer.com/news/security/european-police-dismantles-50-million-crypto-investment-fraud-ring/)
-- [Learning from the Vercel breach: Shadow AI &amp; OAuth sprawl](https://www.bleepingcomputer.com/news/security/learning-from-the-vercel-breach-shadow-ai-and-oauth-sprawl/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
