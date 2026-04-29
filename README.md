@@ -373,11 +373,11 @@ Cybersecurity Analyst na NTT DATA. Foco em automação de defesa, threat intelli
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [LiteLLM CVE-2026-42208 SQL Injection Exploited within 36 Hours of Disclosure](https://thehackernews.com/2026/04/litellm-cve-2026-42208-sql-injection.html)
 - [Broken VECT 2.0 ransomware acts as a data wiper for large files](https://www.bleepingcomputer.com/news/security/broken-vect-20-ransomware-acts-as-a-data-wiper-for-large-files/)
 - [Hackers are exploiting a critical LiteLLM pre-auth SQLi flaw](https://www.bleepingcomputer.com/news/security/hackers-are-exploiting-a-critical-litellm-pre-auth-sqli-flaw/)
 - [Video service Vimeo confirms Anodot breach exposed user data](https://www.bleepingcomputer.com/news/security/video-service-vimeo-confirms-anodot-breach-exposed-user-data/)
 - [Researchers Discover Critical GitHub CVE-2026-3854 RCE Flaw Exploitable via Single Git Push](https://thehackernews.com/2026/04/researchers-discover-critical-github.html)
-- [Brazilian LofyGang Resurfaces After Three Years With Minecraft LofyStealer Campaign](https://thehackernews.com/2026/04/brazilian-lofygang-resurfaces-after.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
