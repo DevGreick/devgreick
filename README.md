@@ -376,11 +376,11 @@ Cybersecurity Analyst na NTT DATA. Foco em automação de defesa, threat intelli
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Learning from the Vercel breach: Shadow AI &amp; OAuth sprawl](https://www.bleepingcomputer.com/news/security/learning-from-the-vercel-breach-shadow-ai-and-oauth-sprawl/)
+- [GitHub fixes RCE flaw that gave access to millions of private repos](https://www.bleepingcomputer.com/news/security/github-fixes-rce-flaw-that-gave-access-to-millions-of-private-repos/)
+- [Webinar: How to Automate Exposure Validation to Match the Speed of AI Attacks](https://thehackernews.com/2026/04/webinar-how-to-automate-exposure.html)
+- [What to Look for in an Exposure Management Platform &lpar;And What Most of Them Get Wrong&rpar;](https://thehackernews.com/2026/04/what-to-look-for-in-exposure-management.html)
 - [CISA orders feds to patch Windows flaw exploited as zero-day](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-windows-flaw-exploited-in-zero-day-attacks/)
-- [Critical cPanel Authentication Vulnerability Identified — Update Your Server Immediately](https://thehackernews.com/2026/04/critical-cpanel-authentication.html)
-- [CISA Adds Actively Exploited ConnectWise and Windows Flaws to KEV](https://thehackernews.com/2026/04/cisa-adds-actively-exploited.html)
-- [Microsoft says backend change broke Teams Free chat and calls](https://www.bleepingcomputer.com/news/security/microsoft-says-backend-change-broke-teams-free-chat-and-calls/)
-- [LiteLLM CVE-2026-42208 SQL Injection Exploited within 36 Hours of Disclosure](https://thehackernews.com/2026/04/litellm-cve-2026-42208-sql-injection.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
