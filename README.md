@@ -455,7 +455,6 @@ Cybersecurity Analyst na NTT DATA. Foco em automação de defesa, threat intelli
 <div align="center">
   <img src="https://github-trophies.vercel.app/?username=devgreick&theme=matrix&no-bg=true&no-frame=true&row=1&column=5" alt="Troféus do GitHub" />
   <br><br>
-  <a href="https://github.com/DevGreickLabs/ThreatDeflect"><img height="180em" src="https://github-readme-stats-one.vercel.app/api/pin/?username=DevGreickLabs&repo=ThreatDeflect&hide_border=true&title_color=39FF14&icon_color=39FF14&text_color=58A6FF&bg_color=0D1117" alt="ThreatDeflect (DevGreickLabs)" /></a>
   <img height="180em" src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=devgreick&layout=compact&langs_count=8&hide_border=true&title_color=39FF14&text_color=58A6FF&bg_color=0D1117" alt="Linguagens mais usadas" />
 </div>
 
