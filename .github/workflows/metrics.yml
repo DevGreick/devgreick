@@ -22,6 +22,7 @@ jobs:
           extras_css: |
             .footer, [data-name="metadata"] { display: none !important; }
             .avatar, image.avatar { display: none !important; }
+            h1 { display: none !important; }
           config_timezone: America/Sao_Paulo
           config_padding: 0, 8 + 11%
           plugin_isocalendar: yes
