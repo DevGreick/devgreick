@@ -453,11 +453,7 @@ Cybersecurity Analyst na NTT DATA. Foco em automação de defesa, threat intelli
 ---
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devgreick&theme=react-dark&line=39FF14&point=58A6FF&color=39FF14&bg_color=0D1117&hide_border=true&custom_title=Atividade%20no%20GitHub" alt="Atividade no GitHub" />
-  <br><br>
   <img src="./github-metrics.svg" alt="GitHub Metrics" />
-  <br><br>
-  <img height="180em" src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=devgreick&layout=compact&langs_count=8&hide_border=true&title_color=39FF14&text_color=58A6FF&bg_color=0D1117" alt="Linguagens mais usadas" />
 </div>
 
 ---
