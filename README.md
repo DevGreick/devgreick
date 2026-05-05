@@ -436,11 +436,11 @@ Cybersecurity Analyst na NTT DATA. Foco em automação de defesa, threat intelli
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Vimeo data breach exposes personal information of 119,000 people](https://www.bleepingcomputer.com/news/security/vimeo-data-breach-exposes-personal-information-of-119-000-people/)
+- [The Back Door Attackers Know About — and Most Security Teams Still Haven’t Closed](https://thehackernews.com/2026/05/the-back-door-attackers-know-about-and.html)
+- [MetInfo CMS CVE-2026-29014 Exploited for Remote Code Execution Attacks](https://thehackernews.com/2026/05/metinfo-cms-cve-2026-29014-exploited.html)
+- [Google now offers up to $1.5 million for some Android exploits](https://www.bleepingcomputer.com/news/security/google-now-offers-up-to-15-million-for-some-android-exploits/)
 - [We Scanned 1 Million Exposed AI Services. Here&#39;s How Bad the Security Actually Is](https://thehackernews.com/2026/05/we-scanned-1-million-exposed-ai.html)
-- [Karakurt extortion gang ‘cold case’ negotiator gets 8.5 years in prison](https://www.bleepingcomputer.com/news/security/karakurt-extortion-gang-negotiator-sentenced-to-85-years-in-prison/)
-- [CloudZ malware abuses Microsoft Phone Link to steal SMS and OTPs](https://www.bleepingcomputer.com/news/security/cloudz-malware-abuses-microsoft-phone-link-to-steal-sms-and-otps/)
-- [ScarCruft Hacks Gaming Platform to Deploy BirdCall Malware on Android and Windows](https://thehackernews.com/2026/05/scarcruft-hacks-gaming-platform-to.html)
-- [ScarCruft hackers push BirdCall Android malware via game platform](https://www.bleepingcomputer.com/news/security/scarcruft-hackers-push-birdcall-android-malware-via-game-platform/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
