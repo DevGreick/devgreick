@@ -41,9 +41,14 @@ Cybersecurity Analyst na NTT DATA. Foco em automação de defesa, threat intelli
 
   <!-- CVE-LIST:START -->
 <details>
-<summary><strong>Vulnerabilidades exploradas conhecidas da CISA</strong>  •  atualizado 06/05/2026 17:26 UTC  •  exibindo 10 itens</summary>
+<summary><strong>Vulnerabilidades exploradas conhecidas da CISA</strong>  •  atualizado 06/05/2026 19:24 UTC  •  exibindo 10 itens</summary>
 
 > Fonte: CISA Known Exploited Vulnerabilities
+
+- **CVE-2026-0300** - Palo Alto Networks PAN-OS Out-of-bounds Write Vulnerability  
+  Fornecedor: Palo Alto Networks | Produto: PAN-OS | Adicionado: 2026-05-06  
+  Palo Alto Networks PAN-OS contains an out-of-bounds write vulnerability in the User-ID Authentication Portal (aka Captive Portal) service that can allow an unauthenticated attacker to execute arbitrary code with root privileges on the PA-Series and VM-Series firewalls by sending specially crafted packets.  
+  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.    Until the vendor releases an official fix, the following workaround should be implemented:  - Restrict User-ID Authentication Portal access to only trusted zones.  - Disable User-ID Authentication Portal if not required.
 
 - **CVE-2026-31431** - Linux Kernel Incorrect Resource Transfer Between Spheres Vulnerability  
   Fornecedor: Linux | Produto: Kernel | Adicionado: 2026-05-01  
@@ -90,12 +95,8 @@ Cybersecurity Analyst na NTT DATA. Foco em automação de defesa, threat intelli
   Marimo contains an pre-authorization remote code execution vulnerability, allowing an unauthenticated attacked to shell access and execute arbitrary system commands.  
   Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
 
-- **CVE-2026-33825** - Microsoft Defender Insufficient Granularity of Access Control Vulnerability  
-  Fornecedor: Microsoft | Produto: Defender | Adicionado: 2026-04-22  
-  Microsoft Defender contains an insufficient granularity of access control vulnerability that could allow an authorized attacker to escalate privileges locally.  
-  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
-
 </details>
+
 
 
 
