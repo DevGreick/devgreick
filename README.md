@@ -459,11 +459,11 @@ Cybersecurity Analyst na NTT DATA. Foco em automação de defesa, threat intelli
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Canvas login portals hacked in mass ShinyHunters extortion campaign](https://www.bleepingcomputer.com/news/security/canvas-login-portals-hacked-in-mass-shinyhunters-extortion-campaign/)
+- [New TCLBanker malware self-spreads over WhatsApp and Outlook](https://www.bleepingcomputer.com/news/security/new-tclbanker-malware-self-spreads-over-whatsapp-and-outlook/)
 - [New PCPJack worm steals credentials, cleans TeamPCP infections](https://www.bleepingcomputer.com/news/security/new-pcpjack-worm-steals-credentials-cleans-teampcp-infections/)
 - [Australia warns of ClickFix attacks pushing Vidar Stealer malware](https://www.bleepingcomputer.com/news/security/australia-warns-of-clickfix-attacks-pushing-vidar-stealer-malware/)
 - [Ivanti EPMM CVE-2026-6973 RCE Under Active Exploitation Grants Admin-Level Access](https://thehackernews.com/2026/05/ivanti-epmm-cve-2026-6973-rce-under.html)
-- [PCPJack Credential Stealer Exploits 5 CVEs to Spread Worm-Like Across Cloud Systems](https://thehackernews.com/2026/05/pcpjack-credential-stealer-exploits-5.html)
-- [Ivanti warns of new EPMM flaw exploited in zero-day attacks](https://www.bleepingcomputer.com/news/security/ivanti-warns-of-new-epmm-flaw-exploited-in-zero-day-attacks/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
