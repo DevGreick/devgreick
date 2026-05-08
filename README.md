@@ -41,9 +41,14 @@ Cybersecurity Analyst na NTT DATA. Foco em automação de defesa, threat intelli
 
   <!-- CVE-LIST:START -->
 <details>
-<summary><strong>Vulnerabilidades exploradas conhecidas da CISA</strong>  •  atualizado 08/05/2026 17:04 UTC  •  exibindo 10 itens</summary>
+<summary><strong>Vulnerabilidades exploradas conhecidas da CISA</strong>  •  atualizado 08/05/2026 19:05 UTC  •  exibindo 10 itens</summary>
 
 > Fonte: CISA Known Exploited Vulnerabilities
+
+- **CVE-2026-42208** - BerriAI LiteLLM SQL Injection Vulnerability  
+  Fornecedor: BerriAI | Produto: LiteLLM | Adicionado: 2026-05-08  
+  BerriAI LiteLLM contains a SQL injection vulnerability that allows an attacker to read data from the proxy's database and potentially modify it, leading to unauthorised access to the proxy and the credentials it manages.  
+  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
 
 - **CVE-2026-6973** - Ivanti Endpoint Manager Mobile (EPMM) Improper Input Validation Vulnerability  
   Fornecedor: Ivanti | Produto: Endpoint Manager Mobile (EPMM) | Adicionado: 2026-05-07  
@@ -90,12 +95,8 @@ Cybersecurity Analyst na NTT DATA. Foco em automação de defesa, threat intelli
   SimpleHelp contains a path traversal vulnerability that allows admin users to upload arbitrary files anywhere on the file system by uploading a crafted zip file (i.e. zip slip). This can be exploited to execute arbitrary code on the host in the context of the SimpleHelp server user.  
   Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
 
-- **CVE-2024-57726** - SimpleHelp Missing Authorization Vulnerability  
-  Fornecedor: SimpleHelp  | Produto: SimpleHelp | Adicionado: 2026-04-24  
-  SimpleHelp contains a missing authorization vulnerability that could allow low-privileged technicians to create API keys with excessive permissions. These API keys can be used to escalate privileges to the server admin role.  
-  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
-
 </details>
+
 
 
 
