@@ -500,11 +500,11 @@ Cybersecurity Analyst na NTT DATA. Foco em automação de defesa, threat intelli
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Instructure reaches &#39;agreement&#39; with ShinyHunters to stop data leak](https://www.bleepingcomputer.com/news/security/instructure-reaches-agreement-with-shinyhunters-to-stop-data-leak/)
+- [Mini Shai-Hulud Worm Compromises TanStack, Mistral AI, Guardrails AI &amp; More Packages](https://thehackernews.com/2026/05/mini-shai-hulud-worm-compromises.html)
+- [Instructure Reaches Ransom Agreement with ShinyHunters to Stop 3.65TB Canvas Leak](https://thehackernews.com/2026/05/instructure-reaches-ransom-agreement.html)
+- [OpenAI Launches Daybreak for AI-Powered Vulnerability Detection and Patch Validation](https://thehackernews.com/2026/05/openai-launches-daybreak-for-ai-powered.html)
 - [iOS 26.5 Brings Default End-to-End Encrypted RCS Messaging Between iPhone and Android](https://thehackernews.com/2026/05/ios-265-brings-default-end-to-end.html)
-- [GM agrees to $12.75M California settlement over sale of drivers’ data](https://www.bleepingcomputer.com/news/legal/gm-agrees-to-1275m-california-settlement-over-sale-of-drivers-data/)
-- [Official CheckMarx Jenkins package compromised with infostealer](https://www.bleepingcomputer.com/news/security/official-checkmarx-jenkins-package-compromised-with-infostealer/)
-- [New GhostLock tool abuses Windows API to block file access](https://www.bleepingcomputer.com/news/security/new-ghostlock-tool-abuses-windows-api-to-block-file-access/)
-- [TeamPCP Compromises Checkmarx Jenkins AST Plugin Weeks After KICS Supply Chain Attack](https://thehackernews.com/2026/05/teampcp-compromises-checkmarx-jenkins.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
