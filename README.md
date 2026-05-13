@@ -510,11 +510,11 @@ Cybersecurity Analyst na NTT DATA. Foco em automação de defesa, threat intelli
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Windows BitLocker zero-day gives access to protected drives, PoC released](https://www.bleepingcomputer.com/news/security/windows-bitlocker-zero-day-gives-access-to-protected-drives-poc-released/)
+- [Webinar tomorrow: Why security alone won&#39;t stop modern attacks](https://www.bleepingcomputer.com/news/security/webinar-tomorrow-why-security-alone-wont-stop-modern-attacks/)
+- [Microsoft fixes BitLocker recovery issue only for Windows 11 users](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bitlocker-recovery-issue-only-for-windows-11-users/)
+- [Microsoft fixes Windows Autopatch bug installing restricted drivers](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-autopatch-bug-installing-restricted-drivers/)
 - [Microsoft&#39;s MDASH AI System Finds 16 Windows Flaws Fixed in Patch Tuesday](https://thehackernews.com/2026/05/microsofts-mdash-ai-system-finds-16.html)
-- [Azerbaijani Energy Firm Hit by Repeated Microsoft Exchange Exploitation](https://thehackernews.com/2026/05/azerbaijani-energy-firm-hit-by-repeated.html)
-- [Foxconn confirms cyberattack claimed by Nitrogen ransomware gang](https://www.bleepingcomputer.com/news/security/electronics-giant-foxconn-confirms-cyberattack-on-north-american-factories/)
-- [73 Seconds to Breach, 24 Hours to Patch: The Case for Autonomous Validation](https://www.bleepingcomputer.com/news/security/73-seconds-to-breach-24-hours-to-patch-the-case-for-autonomous-validation/)
-- [Microsoft says some users can&#39;t install Office on Windows 365 devices](https://www.bleepingcomputer.com/news/microsoft/microsoft-says-some-users-cant-install-office-on-windows-365-devices/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
