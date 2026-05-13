@@ -509,11 +509,11 @@ Cybersecurity Analyst na NTT DATA. Foco em automação de defesa, threat intelli
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
-- [GemStuffer Abuses 150+ RubyGems to Exfiltrate Scraped U.K. Council Portal Data](https://thehackernews.com/2026/05/gemstuffer-abuses-150-rubygems-to.html)
-- [Android Adds Intrusion Logging for Sophisticated Spyware Forensics](https://thehackernews.com/2026/05/android-adds-intrusion-logging-for.html)
-- [US govt seeks Instructure testimony on massive Canvas cyberattack](https://www.bleepingcomputer.com/news/security/us-govt-seeks-instructure-testimony-on-massive-canvas-cyberattack/)
-- [UK fines water supplier $1.3M for exposing data of 664k customers](https://www.bleepingcomputer.com/news/security/uk-fines-water-supplier-13m-for-exposing-data-of-664k-customers/)
-- [Webinar: Fixing the gaps in network incident response](https://www.bleepingcomputer.com/news/security/webinar-fixing-the-gaps-in-network-incident-response/)
+- [Microsoft&#39;s MDASH AI System Finds 16 Windows Flaws Fixed in Patch Tuesday](https://thehackernews.com/2026/05/microsofts-mdash-ai-system-finds-16.html)
+- [Azerbaijani Energy Firm Hit by Repeated Microsoft Exchange Exploitation](https://thehackernews.com/2026/05/azerbaijani-energy-firm-hit-by-repeated.html)
+- [Foxconn confirms cyberattack claimed by Nitrogen ransomware gang](https://www.bleepingcomputer.com/news/security/electronics-giant-foxconn-confirms-cyberattack-on-north-american-factories/)
+- [73 Seconds to Breach, 24 Hours to Patch: The Case for Autonomous Validation](https://www.bleepingcomputer.com/news/security/73-seconds-to-breach-24-hours-to-patch-the-case-for-autonomous-validation/)
+- [Microsoft says some users can&#39;t install Office on Windows 365 devices](https://www.bleepingcomputer.com/news/microsoft/microsoft-says-some-users-cant-install-office-on-windows-365-devices/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
