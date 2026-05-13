@@ -41,13 +41,13 @@ Cybersecurity Analyst na NTT DATA. Foco em automação de defesa, threat intelli
 
   <!-- CVE-LIST:START -->
 <details>
-<summary><strong>Vulnerabilidades exploradas conhecidas da CISA</strong>  •  atualizado 13/05/2026 17:58 UTC  •  exibindo 10 itens</summary>
+<summary><strong>Vulnerabilidades exploradas conhecidas da CISA</strong>  •  atualizado 13/05/2026 19:53 UTC  •  exibindo 10 itens</summary>
 
 > Fonte: CISA Known Exploited Vulnerabilities
 
 - **CVE-2026-42208** - BerriAI LiteLLM SQL Injection Vulnerability  
   Fornecedor: BerriAI | Produto: LiteLLM | Adicionado: 2026-05-08  
-  BerriAI LiteLLM contains a SQL injection vulnerability that allows an attacker to read data from the proxy's database and potentially modify it, leading to unauthorised access to the proxy and the credentials it manages.  
+  BerriAI LiteLLM contains a SQL injection vulnerability that allows an attacker to read data from the proxy's database and potentially modify it, leading to unauthorized access to the proxy and the credentials it manages.  
   Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
 
 - **CVE-2026-6973** - Ivanti Endpoint Manager Mobile (EPMM) Improper Input Validation Vulnerability  
@@ -58,7 +58,7 @@ Cybersecurity Analyst na NTT DATA. Foco em automação de defesa, threat intelli
 - **CVE-2026-0300** - Palo Alto Networks PAN-OS Out-of-bounds Write Vulnerability  
   Fornecedor: Palo Alto Networks | Produto: PAN-OS | Adicionado: 2026-05-06  
   Palo Alto Networks PAN-OS contains an out-of-bounds write vulnerability in the User-ID Authentication Portal (aka Captive Portal) service that can allow an unauthenticated attacker to execute arbitrary code with root privileges on the PA-Series and VM-Series firewalls by sending specially crafted packets.  
-  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.    Until the vendor releases an official fix, the following workaround should be implemented:  - Restrict User-ID Authentication Portal access to only trusted zones.  - Disable User-ID Authentication Portal if not required.
+  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Until the vendor releases an official fix, the following workaround should be implemented:  - Restrict User-ID Authentication Portal access to only trusted zones.  - Disable User-ID Authentication Portal if not required. 5/13/2026: Palo Alto has released a variety of patches. If these are relevant to your environment, please apply the designated patch.
 
 - **CVE-2026-31431** - Linux Kernel Incorrect Resource Transfer Between Spheres Vulnerability  
   Fornecedor: Linux | Produto: Kernel | Adicionado: 2026-05-01  
@@ -96,6 +96,7 @@ Cybersecurity Analyst na NTT DATA. Foco em automação de defesa, threat intelli
   Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
 
 </details>
+
 
 
 
