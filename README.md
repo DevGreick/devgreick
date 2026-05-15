@@ -529,11 +529,11 @@ Cybersecurity Analyst na NTT DATA. Foco em automação de defesa, threat intelli
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Funnel Builder WordPress plugin bug exploited to steal credit cards](https://www.bleepingcomputer.com/news/security/funnel-builder-wordpress-plugin-bug-exploited-to-steal-credit-cards/)
 - [Microsoft Exchange, Windows 11 hacked on second day of Pwn2Own](https://www.bleepingcomputer.com/news/security/pwn2own-day-two-hackers-demo-microsoft-exchange-windows-11-red-had-enterprise-linux-zero-days/)
 - [Popular node-ipc npm package compromised to steal credentials](https://www.bleepingcomputer.com/news/security/popular-node-ipc-npm-package-compromised-to-steal-credentials/)
 - [Turla Turns Kazuar Backdoor Into Modular P2P Botnet for Persistent Access](https://thehackernews.com/2026/05/turla-turns-kazuar-backdoor-into.html)
 - [Avada Builder WordPress plugin flaws allow site credential theft](https://www.bleepingcomputer.com/news/security/avada-builder-wordpress-plugin-flaws-allow-site-credential-theft/)
-- [Microsoft backpedals: Edge to stop loading passwords into memory](https://www.bleepingcomputer.com/news/microsoft/microsoft-edge-to-stop-loading-cleartext-passwords-in-memory-on-startup/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
