@@ -550,11 +550,11 @@ Cybersecurity Analyst na NTT DATA. Foco em automação de defesa, threat intelli
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [New Windows &#39;MiniPlasma&#39; zero-day exploit gives SYSTEM access, PoC released](https://www.bleepingcomputer.com/news/microsoft/new-windows-miniplasma-zero-day-exploit-gives-system-access-poc-released/)
 - [Tycoon2FA hijacks Microsoft 365 accounts via device-code phishing](https://www.bleepingcomputer.com/news/security/tycoon2fa-hijacks-microsoft-365-accounts-via-device-code-phishing/)
 - [NGINX CVE-2026-42945 Exploited in the Wild, Causing Worker Crashes and Possible RCE](https://thehackernews.com/2026/05/nginx-cve-2026-42945-exploited-in-wild.html)
 - [Grafana GitHub Token Breach Led to Codebase Download and Extortion Attempt](https://thehackernews.com/2026/05/grafana-github-token-breach-led-to.html)
 - [Microsoft rejects critical Azure vulnerability report, no CVE issued](https://www.bleepingcomputer.com/news/security/microsoft-rejects-critical-azure-vulnerability-report-no-cve-issued/)
-- [Funnel Builder Flaw Under Active Exploitation Enables WooCommerce Checkout Skimming](https://thehackernews.com/2026/05/funnel-builder-flaw-under-active.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
