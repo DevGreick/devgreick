@@ -553,11 +553,11 @@ Cybersecurity Analyst na NTT DATA. Foco em automação de defesa, threat intelli
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploit available for new DirtyDecrypt Linux root escalation flaw](https://www.bleepingcomputer.com/news/security/exploit-available-for-new-dirtydecrypt-linux-root-escalation-flaw/)
-- [Hackers earn $1,298,250 for 47 zero-days at Pwn2Own Berlin 2026](https://www.bleepingcomputer.com/news/security/hackers-earn-1-298-250-for-47-zero-days-at-pwn2own-berlin-2026/)
-- [New Windows &#39;MiniPlasma&#39; zero-day exploit gives SYSTEM access, PoC released](https://www.bleepingcomputer.com/news/microsoft/new-windows-miniplasma-zero-day-exploit-gives-system-access-poc-released/)
-- [Tycoon2FA hijacks Microsoft 365 accounts via device-code phishing](https://www.bleepingcomputer.com/news/security/tycoon2fa-hijacks-microsoft-365-accounts-via-device-code-phishing/)
-- [NGINX CVE-2026-42945 Exploited in the Wild, Causing Worker Crashes and Possible RCE](https://thehackernews.com/2026/05/nginx-cve-2026-42945-exploited-in-wild.html)
+- [Developer Workstations Are Now Part of the Software Supply Chain](https://thehackernews.com/2026/05/developer-workstations-are-now-part-of.html)
+- [Microsoft testing adjustable taskbar, Start menu in Windows 11](https://www.bleepingcomputer.com/news/microsoft/windows-11-finally-gets-a-resizable-taskbar-and-start-menu/)
+- [Ivanti, Fortinet, SAP, VMware, n8n Patch RCE, SQL Injection, Privilege Escalation Flaws](https://thehackernews.com/2026/05/ivanti-fortinet-sap-vmware-n8n-patch.html)
+- [MiniPlasma Windows 0-Day Enables SYSTEM Privilege Escalation on Fully Patched Systems](https://thehackernews.com/2026/05/miniplasma-windows-0-day-enables-system.html)
+- [Four Malicious npm Packages Deliver Infostealers and Phantom Bot DDoS Malware](https://thehackernews.com/2026/05/four-malicious-npm-packages-deliver.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
