@@ -569,11 +569,11 @@ Cybersecurity Analyst na NTT DATA. Foco em automação de defesa, threat intelli
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft Releases Mitigation for YellowKey BitLocker Bypass CVE-2026-45585 Exploit](https://thehackernews.com/2026/05/microsoft-releases-mitigation-for.html)
+- [GitHub confirms breach of 3,800 repos via malicious VSCode extension](https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/)
 - [Microsoft shares mitigation for YellowKey Windows zero-day](https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-mitigation-for-yellowkey-windows-zero-day/)
 - [Grafana GitHub Breach Exposes Source Code via TanStack npm Attack](https://thehackernews.com/2026/05/grafana-github-breach-exposes-source.html)
 - [GitHub investigates internal repositories breach claimed by TeamPCP](https://www.bleepingcomputer.com/news/security/github-investigates-internal-repositories-breach-claimed-by-teampcp/)
-- [GitHub Investigating TeamPCP Claimed Breach of ~4,000 Internal Repositories](https://thehackernews.com/2026/05/github-investigating-teampcp-claimed.html)
-- [Max-severity flaw in ChromaDB for AI apps allows server hijacking](https://www.bleepingcomputer.com/news/security/max-severity-flaw-in-chromadb-for-ai-apps-allows-server-hijacking/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
