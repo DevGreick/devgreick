@@ -41,9 +41,44 @@ Cybersecurity Analyst na NTT DATA. Foco em automação de defesa, threat intelli
 
   <!-- CVE-LIST:START -->
 <details>
-<summary><strong>Vulnerabilidades exploradas conhecidas da CISA</strong>  •  atualizado 20/05/2026 14:38 UTC  •  exibindo 10 itens</summary>
+<summary><strong>Vulnerabilidades exploradas conhecidas da CISA</strong>  •  atualizado 20/05/2026 18:10 UTC  •  exibindo 10 itens</summary>
 
 > Fonte: CISA Known Exploited Vulnerabilities
+
+- **CVE-2008-4250** - Microsoft Windows Buffer Overflow Vulnerability  
+  Fornecedor: Microsoft | Produto: Windows | Adicionado: 2026-05-20  
+  Microsoft Windows contains a buffer overflow vulnerability in the Windows Server Service that allows remote attackers to execute arbitrary code via a crafted RPC request that triggers an overflow during path canonicalization.  
+  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
+
+- **CVE-2009-1537** - Microsoft DirectX NULL Byte Overwrite Vulnerability  
+  Fornecedor: Microsoft | Produto: DirectX | Adicionado: 2026-05-20  
+  Microsoft DirectX contains a NULL byte overwrite vulnerability in the QuickTime Movie Parser Filter in quartz.dll in DirectShow which could allow remote attackers to execute arbitrary code via a crafted QuickTime media file.  
+  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
+
+- **CVE-2009-3459** - Adobe Acrobat and Reader Heap-Based Buffer Overflow Vulnerability  
+  Fornecedor: Adobe | Produto: Acrobat and Reader | Adicionado: 2026-05-20  
+  Adobe Acrobat and Reader contain a heap-based buffer overflow vulnerability which could allow remote attackers to execute arbitrary code via a crafted PDF file that triggers memory corruption.  
+  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
+
+- **CVE-2010-0249** - Microsoft Internet Explorer Use-After-Free Vulnerability  
+  Fornecedor: Microsoft | Produto: Internet Explorer | Adicionado: 2026-05-20  
+  Microsoft Internet Explorer contains an use-after-free vulnerability that could allow remote attackers to execute arbitrary code by accessing a pointer associated with a deleted object. The impacted product could be end-of-life (EoL) and/or end-of-service (EoS). Users should discontinue product utilization.  
+  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
+
+- **CVE-2010-0806** - Microsoft Internet Explorer Use-After-Free Vulnerability  
+  Fornecedor: Microsoft | Produto: Internet Explorer | Adicionado: 2026-05-20  
+  Microsoft Internet Explorer contains an use-after-free vulnerability that could allow remote attackers to execute arbitrary code via vectors involving access to an invalid pointer after the deletion of an object. The impacted product could be end-of-life (EoL) and/or end-of-service (EoS). Users should discontinue product utilization.  
+  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
+
+- **CVE-2026-41091** - Microsoft Defender Link Following Vulnerability  
+  Fornecedor: Microsoft | Produto: Defender | Adicionado: 2026-05-20  
+  Microsoft Defender contains a link following vulnerability that allows an authorized attacker to elevate privileges locally.  
+  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
+
+- **CVE-2026-45498** - Microsoft Defender Denial of Service Vulnerability  
+  Fornecedor: Microsoft | Produto: Defender | Adicionado: 2026-05-20  
+  Microsoft Defender contains an unspecified vulnerability that allows for denial of service.  
+  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
 
 - **CVE-2026-42897** - Microsoft Exchange Server Cross-Site Scripting Vulnerability  
   Fornecedor: Microsoft | Produto: Microsoft | Adicionado: 2026-05-15  
@@ -60,42 +95,8 @@ Cybersecurity Analyst na NTT DATA. Foco em automação de defesa, threat intelli
   BerriAI LiteLLM contains a SQL injection vulnerability that allows an attacker to read data from the proxy's database and potentially modify it, leading to unauthorized access to the proxy and the credentials it manages.  
   Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
 
-- **CVE-2026-6973** - Ivanti Endpoint Manager Mobile (EPMM) Improper Input Validation Vulnerability  
-  Fornecedor: Ivanti | Produto: Endpoint Manager Mobile (EPMM) | Adicionado: 2026-05-07  
-  Ivanti Endpoint Manager Mobile (EPMM) contains an improper input validation vulnerability that allows a remotely authenticated user with administrative access to achieve remote code execution.  
-  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
-
-- **CVE-2026-0300** - Palo Alto Networks PAN-OS Out-of-bounds Write Vulnerability  
-  Fornecedor: Palo Alto Networks | Produto: PAN-OS | Adicionado: 2026-05-06  
-  Palo Alto Networks PAN-OS contains an out-of-bounds write vulnerability in the User-ID Authentication Portal (aka Captive Portal) service that can allow an unauthenticated attacker to execute arbitrary code with root privileges on the PA-Series and VM-Series firewalls by sending specially crafted packets.  
-  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Until the vendor releases an official fix, the following workaround should be implemented:  - Restrict User-ID Authentication Portal access to only trusted zones.  - Disable User-ID Authentication Portal if not required. 5/13/2026: Palo Alto has released a variety of patches. If these are relevant to your environment, please apply the designated patch.
-
-- **CVE-2026-31431** - Linux Kernel Incorrect Resource Transfer Between Spheres Vulnerability  
-  Fornecedor: Linux | Produto: Kernel | Adicionado: 2026-05-01  
-  Linux Kernel contains an incorrect resource transfer between spheres vulnerability that could allow for privilege escalation.  
-  Ação requerida: "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
-
-- **CVE-2026-41940** - WebPros cPanel & WHM and WP2 (WordPress Squared) Missing Authentication for Critical Function Vulnerability  
-  Fornecedor: WebPros | Produto: cPanel & WHM and WP2 (WordPress Squared) | Adicionado: 2026-04-30  
-  WebPros cPanel & WHM (WebHost Manager) and WP2 (WordPress Squared) contain an authentication bypass vulnerability in the login flow that allows unauthenticated remote attackers to gain unauthorized access to the control panel.  
-  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
-
-- **CVE-2024-1708** - ConnectWise ScreenConnect Path Traversal Vulnerability  
-  Fornecedor: ConnectWise | Produto: ScreenConnect | Adicionado: 2026-04-28  
-  ConnectWise ScreenConnect contains a path traversal vulnerability which could allow an attacker to execute remote code or directly impact confidential data and critical systems.  
-  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
-
-- **CVE-2026-32202** - Microsoft Windows Protection Mechanism Failure Vulnerability  
-  Fornecedor: Microsoft | Produto: Windows | Adicionado: 2026-04-28  
-  Microsoft Windows Shell contains a protection mechanism failure vulnerability that allows an unauthorized attacker to perform spoofing over a network.  
-  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
-
-- **CVE-2025-29635** - D-Link DIR-823X Command Injection Vulnerability  
-  Fornecedor: D-Link | Produto: DIR-823X | Adicionado: 2026-04-24  
-  D-Link DIR-823X contains a command injection vulnerability that allows an authorized attacker to execute arbitrary commands on remote devices by sending a POST request to /goform/set_prohibiting via the corresponding function. The impacted product could be end-of-life (EoL) and/or end-of-service (EoS). Users should discontinue product utilization.  
-  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
-
 </details>
+
 
 
 
