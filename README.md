@@ -21,11 +21,18 @@
 ---
 
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Aberto_a_oportunidades-DevSecOps_·_AI_Security_·_Threat_Intel-2EA043?style=for-the-badge&logoColor=white" alt="Aberto a oportunidades" />
+<div align="center">
+
+  <kbd> &nbsp; 🟢 &nbsp; <b>ABERTO A OPORTUNIDADES</b> &nbsp; </kbd>
+
+  <br/><br/>
+
+  <code>DevSecOps</code> &nbsp;·&nbsp; <code>AI Security</code> &nbsp;·&nbsp; <code>Threat Intel</code> &nbsp;·&nbsp; <code>Security Engineering</code>
+
   <br/>
-  <sub>Remoto · pt/en</sub>
-</p>
+  <sub><i>Remoto · pt-BR / en-US</i></sub>
+
+</div>
 
 ---
 
