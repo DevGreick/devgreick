@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <b>Security Engineer N3 @ NTT DATA</b><br/>
+  <b>Cybersecurity Analyst @ NTT DATA</b><br/>
   DevSecOps · AI Security · Threat Intel · Security Tool Builder
 </p>
 
@@ -23,7 +23,7 @@
 
 ### [+] SOBRE
 
-Security Engineer N3 na NTT DATA. Foco em **DevSecOps**, **AI Security**, **threat intelligence** e **tooling ofensivo**. Construo ferramentas que transformam dados de ameaças em ação: coleta automatizada, correlação de IOCs e relatórios com IA local (Ollama / LM Studio / llama.cpp).
+Cybersecurity Analyst na NTT DATA. Foco em **DevSecOps**, **AI Security**, **threat intelligence** e **tooling ofensivo**. Construo ferramentas que transformam dados de ameaças em ação: coleta automatizada, correlação de IOCs e relatórios com IA local (Ollama / LM Studio / llama.cpp).
 
 > **Aberto a oportunidades** em DevSecOps, AI Security, Threat Intel e Security Engineering. Remoto · pt/en.
 
