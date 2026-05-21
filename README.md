@@ -592,7 +592,7 @@
 [![awesome-llm-security](https://img.shields.io/badge/awesome--llm--security-E67E22?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/DevGreick/awesome-llm-security)
 > Curadoria pública de tools e recursos para segurança de aplicações LLM, agentes e infraestrutura de IA (OWASP LLM, adversarial ML, guardrails, red teaming de IA).
 
-[![Portfólio Interativo](https://img.shields.io/badge/Portfólio_Interativo-1ABC9C?style=for-the-badge&logo=linux&logoColor=white&labelColor=0D1117)](https://portfolio.assistentecyber.com/)
+[![Portfólio Interativo](https://img.shields.io/badge/Portfólio_Interativo-1ABC9C?style=for-the-badge&logo=linux&logoColor=white&labelColor=0D1117)](https://portfolio.greick.dev/)
 > Portfólio no formato de sistema operacional com terminal web, comandos interativos, easter eggs e assistente com RAG 100% local.
 
 ---
