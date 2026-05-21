@@ -24,9 +24,7 @@
 <div align="center">
 
   <kbd> &nbsp; 🟢 &nbsp; <b>ABERTO A OPORTUNIDADES</b> &nbsp; </kbd>
-
-  <br/><br/>
-
+  <br/>
   <code>DevSecOps</code> &nbsp;·&nbsp; <code>AI Security</code> &nbsp;·&nbsp; <code>Threat Intel</code> &nbsp;·&nbsp; <code>Security Engineering</code>
 
   <br/>
