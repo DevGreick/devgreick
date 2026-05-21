@@ -21,11 +21,11 @@
 ---
 
 
-### [+] SOBRE
-
-Cybersecurity Analyst na NTT DATA. Foco em **DevSecOps**, **AI Security**, **threat intelligence** e **tooling ofensivo**. Construo ferramentas que transformam dados de ameaças em ação: coleta automatizada, correlação de IOCs e relatórios com IA local (Ollama / LM Studio / llama.cpp).
-
-> **Aberto a oportunidades** em DevSecOps, AI Security, Threat Intel e Security Engineering. Remoto · pt/en.
+<p align="center">
+  <img src="https://img.shields.io/badge/Aberto_a_oportunidades-DevSecOps_·_AI_Security_·_Threat_Intel-2EA043?style=for-the-badge&logoColor=white" alt="Aberto a oportunidades" />
+  <br/>
+  <sub>Remoto · pt/en</sub>
+</p>
 
 ---
 
