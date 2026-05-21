@@ -575,11 +575,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Google accidentally exposed details of unfixed Chromium flaw](https://www.bleepingcomputer.com/news/security/google-accidentally-exposed-details-of-unfixed-chromium-flaw/)
 - [Apple blocked over $11 billion in App Store fraud in 6 years](https://www.bleepingcomputer.com/news/apple/apple-blocked-22-billion-in-fraudulent-app-store-transactions-in-2025/)
 - [Showboat Linux Malware Hits Middle East Telecom with SOCKS5 Proxy Backdoor](https://thehackernews.com/2026/05/showboat-linux-malware-hits-middle-east.html)
 - [Inside a Crypto Drainer: How to Spot it Before it Empties Your Wallet](https://www.bleepingcomputer.com/news/security/inside-a-crypto-drainer-how-to-spot-it-before-it-empties-your-wallet/)
 - [Chinese hackers target telcos with new Linux, Windows malware](https://www.bleepingcomputer.com/news/security/chinese-hackers-target-telcos-with-new-linux-windows-malware/)
-- [Max severity Cisco Secure Workload flaw gives Site Admin privileges](https://www.bleepingcomputer.com/news/security/cisco-max-severity-secure-workload-flaw-gives-hackers-site-admin-privileges/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
