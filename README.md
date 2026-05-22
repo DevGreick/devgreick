@@ -580,11 +580,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [US and Canada arrest and charge suspected Kimwolf botnet admin](https://www.bleepingcomputer.com/news/security/us-and-canada-arrest-and-charge-suspected-kimwolf-botnet-admin/)
+- [Kimwolf DDoS Botnet Operator Arrested in Canada Over DDoS-for-Hire Attacks](https://thehackernews.com/2026/05/kimwolf-ddos-botnet-operator-arrested.html)
 - [CISA Adds Exploited Langflow and Trend Micro Apex One Vulnerabilities to KEV](https://thehackernews.com/2026/05/cisa-adds-exploited-langflow-and-trend.html)
 - [Cisco Patches CVSS 10.0 Secure Workload REST API Flaw Enabling Data Access](https://thehackernews.com/2026/05/cisco-patches-cvss-100-secure-workload.html)
 - [Google accidentally exposed details of unfixed Chromium flaw](https://www.bleepingcomputer.com/news/security/google-accidentally-exposed-details-of-unfixed-chromium-flaw/)
-- [Apple blocked over $11 billion in App Store fraud in 6 years](https://www.bleepingcomputer.com/news/apple/apple-blocked-22-billion-in-fraudulent-app-store-transactions-in-2025/)
-- [Showboat Linux Malware Hits Middle East Telecom with SOCKS5 Proxy Backdoor](https://thehackernews.com/2026/05/showboat-linux-malware-hits-middle-east.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
