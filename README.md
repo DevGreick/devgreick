@@ -37,9 +37,14 @@
 
   <!-- CVE-LIST:START -->
 <details>
-<summary><strong>Vulnerabilidades exploradas conhecidas da CISA</strong>  •  atualizado 22/05/2026 17:44 UTC  •  exibindo 10 itens</summary>
+<summary><strong>Vulnerabilidades exploradas conhecidas da CISA</strong>  •  atualizado 22/05/2026 19:23 UTC  •  exibindo 10 itens</summary>
 
 > Fonte: CISA Known Exploited Vulnerabilities
+
+- **CVE-2026-9082** - Drupal Core SQL Injection Vulnerability  
+  Fornecedor: Drupal | Produto: Core | Adicionado: 2026-05-22  
+  Drupal Core contains a SQL injection vulnerability that could allow for privilege escalation and remote code execution via specially crafted requests sent with the database abstraction API.  
+  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
 
 - **CVE-2025-34291** - Langflow Origin Validation Error Vulnerability  
   Fornecedor: Langflow | Produto: Langflow | Adicionado: 2026-05-21  
@@ -86,12 +91,8 @@
   Microsoft Defender contains an unspecified vulnerability that allows for denial of service.  
   Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
 
-- **CVE-2026-42897** - Microsoft Exchange Server Cross-Site Scripting Vulnerability  
-  Fornecedor: Microsoft | Produto: Microsoft | Adicionado: 2026-05-15  
-  Microsoft Exchange Server contains a cross-site scripting vulnerability during web page generation in Outlook Web Access and when certain interaction conditions are met, arbitrary JavaScript can be executed in the browser context.  
-  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
-
 </details>
+
 
 
 
