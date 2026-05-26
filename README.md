@@ -37,9 +37,14 @@
 
   <!-- CVE-LIST:START -->
 <details>
-<summary><strong>Vulnerabilidades exploradas conhecidas da CISA</strong>  •  atualizado 26/05/2026 14:47 UTC  •  exibindo 10 itens</summary>
+<summary><strong>Vulnerabilidades exploradas conhecidas da CISA</strong>  •  atualizado 26/05/2026 18:17 UTC  •  exibindo 10 itens</summary>
 
 > Fonte: CISA Known Exploited Vulnerabilities
+
+- **CVE-2026-48172** - LiteSpeed cPanel Plugin Privilege Escalation Vulnerability  
+  Fornecedor: LiteSpeed | Produto: cPanel Plugin | Adicionado: 2026-05-26  
+  LiteSpeed cPanel Plugin contains privilege escalation vulnerability that is exposed via the user-end cPanel plugin, which can be abused by any cPanel user account to execute arbitrary scripts with root privileges.  
+  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
 
 - **CVE-2026-9082** - Drupal Core SQL Injection Vulnerability  
   Fornecedor: Drupal | Produto: Core | Adicionado: 2026-05-22  
@@ -86,12 +91,8 @@
   Microsoft Defender contains a link following vulnerability that allows an authorized attacker to elevate privileges locally.  
   Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
 
-- **CVE-2026-45498** - Microsoft Defender Denial of Service Vulnerability  
-  Fornecedor: Microsoft | Produto: Defender | Adicionado: 2026-05-20  
-  Microsoft Defender contains an unspecified vulnerability that allows for denial of service.  
-  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
-
 </details>
+
 
 
 
