@@ -37,9 +37,24 @@
 
   <!-- CVE-LIST:START -->
 <details>
-<summary><strong>Vulnerabilidades exploradas conhecidas da CISA</strong>  •  atualizado 27/05/2026 14:56 UTC  •  exibindo 10 itens</summary>
+<summary><strong>Vulnerabilidades exploradas conhecidas da CISA</strong>  •  atualizado 27/05/2026 18:19 UTC  •  exibindo 10 itens</summary>
 
 > Fonte: CISA Known Exploited Vulnerabilities
+
+- **CVE-2026-48027** - Nx Console Embedded Malicious Code Vulnerability  
+  Fornecedor: Nx | Produto: Nx Console | Adicionado: 2026-05-27  
+  Nx Console contains an embedded malicious code vulnerability that allowed a malicious version of Nx Console to be published. The compromised extension fetched an obfuscated payload that could harvested credentials from multiple sources on disk and in memory.  
+  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
+
+- **CVE-2026-45321** - TanStack Unspecified Vulnerability  
+  Fornecedor: TanStack | Produto: TanStack | Adicionado: 2026-05-27  
+  TanStack contains an unspecified vulnerability that allowed malicious versions of the product to be published to the npm registry to publish credential-stealing malware under a trusted identity.  
+  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
+
+- **CVE-2026-8398** - Daemon Tools Lite Embedded Malicious Code Vulnerability  
+  Fornecedor: Daemon | Produto: Daemon Tools Lite | Adicionado: 2026-05-27  
+  Daemon Tools contains an unspecified vulnerability that has a high impact on confidentiality, integrity, and availability.  
+  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
 
 - **CVE-2026-48172** - LiteSpeed cPanel Plugin Privilege Escalation Vulnerability  
   Fornecedor: LiteSpeed | Produto: cPanel Plugin | Adicionado: 2026-05-26  
@@ -76,22 +91,8 @@
   Adobe Acrobat and Reader contain a heap-based buffer overflow vulnerability which could allow remote attackers to execute arbitrary code via a crafted PDF file that triggers memory corruption.  
   Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
 
-- **CVE-2010-0249** - Microsoft Internet Explorer Use-After-Free Vulnerability  
-  Fornecedor: Microsoft | Produto: Internet Explorer | Adicionado: 2026-05-20  
-  Microsoft Internet Explorer contains an use-after-free vulnerability that could allow remote attackers to execute arbitrary code by accessing a pointer associated with a deleted object. The impacted product could be end-of-life (EoL) and/or end-of-service (EoS). Users should discontinue product utilization.  
-  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
-
-- **CVE-2010-0806** - Microsoft Internet Explorer Use-After-Free Vulnerability  
-  Fornecedor: Microsoft | Produto: Internet Explorer | Adicionado: 2026-05-20  
-  Microsoft Internet Explorer contains an use-after-free vulnerability that could allow remote attackers to execute arbitrary code via vectors involving access to an invalid pointer after the deletion of an object. The impacted product could be end-of-life (EoL) and/or end-of-service (EoS). Users should discontinue product utilization.  
-  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
-
-- **CVE-2026-41091** - Microsoft Defender Link Following Vulnerability  
-  Fornecedor: Microsoft | Produto: Defender | Adicionado: 2026-05-20  
-  Microsoft Defender contains a link following vulnerability that allows an authorized attacker to elevate privileges locally.  
-  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
-
 </details>
+
 
 
 
