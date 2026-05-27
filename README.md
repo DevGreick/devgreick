@@ -622,11 +622,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
-- [Gitea Vulnerability Exposes Private Container Images without Authentication](https://thehackernews.com/2026/05/gitea-vulnerability-exposes-private.html)
-- [CISA gives feds 4 days to patch actively exploited cPanel plugin flaw](https://www.bleepingcomputer.com/news/security/cisa-gives-feds-4-days-to-patch-actively-exploited-cpanel-plugin-flaw/)
-- [Dutch police arrests suspect linked to Ajax football club hack](https://www.bleepingcomputer.com/news/security/dutch-police-arrests-suspect-linked-to-ajax-football-club-hack/)
-- [Windows 11 KB5089573 update released with performance improvements](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5089573-update-released-with-performance-improvements/)
-- [AI Chatbot Recommendations Redirect Users to Cryptojacking Malware Sites](https://thehackernews.com/2026/05/ai-chatbot-recommendations-redirect.html)
+- [Can you enforce strong Active Directory password rules without frustrating users?](https://www.bleepingcomputer.com/news/security/can-you-enforce-strong-active-directory-password-rules-without-frustrating-users/)
+- [5 Steps to Managing Shadow AI Tools Without Slowing Down Employees](https://thehackernews.com/2026/05/5-steps-to-managing-shadow-ai-tools.html)
+- [Glassworm botnet disrupted after resilient C2 infrastructure takedown](https://www.bleepingcomputer.com/news/security/glassworm-botnet-disrupted-after-resilient-c2-infrastructure-takedown/)
+- [FBI warns of in-person data theft attacks from extortion gang](https://www.bleepingcomputer.com/news/security/fbi-warns-of-silent-ransom-group-in-person-data-theft-attacks/)
+- [GlassWorm Malware Takedown Disrupts Developer Supply Chain Attack Infrastructure](https://thehackernews.com/2026/05/glassworm-malware-takedown-disrupts.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
