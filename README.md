@@ -632,11 +632,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [GreyVibe hackers use ChatGPT, Gemini to power cyberattacks](https://www.bleepingcomputer.com/news/security/greyvibe-hackers-use-chatgpt-gemini-to-power-cyberattacks/)
 - [BTMOB Android malware service generates custom phishing payloads](https://www.bleepingcomputer.com/news/security/btmob-android-malware-service-generates-custom-phishing-payloads/)
 - [FBI warns of fake FIFA websites running World Cup fraud schemes](https://www.bleepingcomputer.com/news/security/fbi-warns-of-fake-fifa-websites-running-world-cup-fraud-schemes/)
 - [Hackers exploit FortiClient EMS flaw to push infostealer malware](https://www.bleepingcomputer.com/news/security/hackers-exploit-forticlient-ems-flaw-to-push-infostealer-malware/)
 - [Critical Gogs RCE Vulnerability Lets Any Authenticated User Execute Arbitrary Code](https://thehackernews.com/2026/05/critical-gogs-rce-vulnerability-lets.html)
-- [Threat Actors Exploit Critical FortiClient EMS Flaw to Deploy Credential Stealer](https://thehackernews.com/2026/05/threat-actors-exploit-critical.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
