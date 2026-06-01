@@ -661,11 +661,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
-- [WP Maps Pro bug exploited to create admin accounts on WordPress sites](https://www.bleepingcomputer.com/news/security/wp-maps-pro-bug-exploited-to-create-admin-accounts-on-wordpress-sites/)
-- [Dutch Authorities Dismantle Botnet Linked to 17 Million Infected Devices](https://thehackernews.com/2026/05/dutch-authorities-dismantle-botnet.html)
-- [Palo Alto GlobalProtect VPN auth bypass flaw now exploited in attacks](https://www.bleepingcomputer.com/news/security/palo-alto-globalprotect-vpn-auth-bypass-flaw-now-exploited-in-attacks/)
-- [New CIFSwitch Linux flaw gives root on multiple distributions](https://www.bleepingcomputer.com/news/security/new-cifswitch-linux-flaw-gives-root-on-multiple-distributions/)
-- [PAN-OS GlobalProtect Authentication Bypass &lpar;CVE-2026-0257&rpar; Under Active Exploitation](https://thehackernews.com/2026/05/pan-os-globalprotect-authentication.html)
+- [Microsoft investigates Office Apps, Teams file access issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-office-apps-teams-file-access-issues/)
+- [Race Against Time: Why Faster Vulnerability Alerts Matter](https://www.bleepingcomputer.com/news/security/race-against-time-why-faster-vulnerability-alerts-matter/)
+- [⚡ Weekly Recap: New Linux Flaw, PAN-OS Exploit, AI-Powered Attacks, OAuth Phishing and More](https://thehackernews.com/2026/06/weekly-recap-new-linux-flaw-pan-os.html)
+- [Critical Windows Netlogon RCE flaw now exploited in attacks](https://www.bleepingcomputer.com/news/microsoft/critical-windows-netlogon-remote-code-execution-flaw-now-exploited-in-attacks/)
+- [Webinar tomorrow: From alert to resolution in network incident response](https://www.bleepingcomputer.com/news/security/webinar-tomorrow-from-alert-to-resolution-in-network-incident-response/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
