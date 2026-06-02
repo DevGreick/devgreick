@@ -37,9 +37,19 @@
 
   <!-- CVE-LIST:START -->
 <details>
-<summary><strong>Vulnerabilidades exploradas conhecidas da CISA</strong>  •  atualizado 02/06/2026 13:52 UTC  •  exibindo 10 itens</summary>
+<summary><strong>Vulnerabilidades exploradas conhecidas da CISA</strong>  •  atualizado 02/06/2026 17:59 UTC  •  exibindo 10 itens</summary>
 
 > Fonte: CISA Known Exploited Vulnerabilities
+
+- **CVE-2022-0492** - Linux Kernel Improper Authentication Vulnerability  
+  Fornecedor: Linux | Produto: Kernel | Adicionado: 2026-06-02  
+  Linux Kernel contains an improper authentication vulnerability which could allow for privilege escalation via the cgroups v1 release_agent feature.  
+  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
+
+- **CVE-2025-48595** - Android Framework Integer Overflow Vulnerability  
+  Fornecedor: Android | Produto: Framework | Adicionado: 2026-06-02  
+  Android Framework contains an integer overflow vulnerability that allows for code execution that could allow for local privilege escalation.  
+  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
 
 - **CVE-2024-21182** - Oracle WebLogic Server Unspecified Vulnerability  
   Fornecedor: Oracle | Produto: WebLogic Server | Adicionado: 2026-06-01  
@@ -81,17 +91,8 @@
   Langflow contains an origin validation error vulnerability in which an overly permissive CORS configuration combined with a refresh token cookie configured as SameSite=None allows a malicious webpage to perform cross-origin requests that include credentials and successfully call the refresh endpoint. This could allow the attacker to execute arbitrary code and achieve full system compromise via obtained tokens that permit access to authenticated endpoints.  
   Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
 
-- **CVE-2026-34926** - Trend Micro Apex One (On-Premise) Directory Traversal Vulnerability  
-  Fornecedor: Trend Micro | Produto: Apex One | Adicionado: 2026-05-21  
-  Trend Micro Apex One (on-premise) contains a directory traversal vulnerability that could allow a pre-authenticated local attacker to modify a key table on the server to inject malicious code to deploy to agents on affected installations.  
-  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
-
-- **CVE-2008-4250** - Microsoft Windows Buffer Overflow Vulnerability  
-  Fornecedor: Microsoft | Produto: Windows | Adicionado: 2026-05-20  
-  Microsoft Windows contains a buffer overflow vulnerability in the Windows Server Service that allows remote attackers to execute arbitrary code via a crafted RPC request that triggers an overflow during path canonicalization.  
-  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
-
 </details>
+
 
 
 
