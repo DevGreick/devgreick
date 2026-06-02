@@ -667,11 +667,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft Exchange Online outage causes email delays, failures](https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-outage-causes-email-delays-failures/)
+- [Instagram users locked out after Meta AI abused to steal accounts](https://www.bleepingcomputer.com/news/security/instagram-users-locked-out-after-meta-ai-abused-to-steal-accounts/)
+- [Why the browser is now the front line for AI security](https://www.bleepingcomputer.com/news/security/why-the-browser-is-now-the-front-line-for-ai-security/)
 - [CISA flags two-year-old Oracle flaw as actively exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-oracle-weblogic-flaw/)
 - [AI-Driven Exploitation is Destroying Vulnerability Management. Here’s How to Handle It.](https://thehackernews.com/2026/06/ai-driven-exploitation-is-destroying.html)
-- [Google fixes one actively exploited Android zero-day, 124 flaws](https://www.bleepingcomputer.com/news/security/google-fixes-one-actively-exploited-android-zero-day-124-flaws/)
-- [How Leading Organizations Are Turning EDR Into Operational Resilience](https://thehackernews.com/2026/06/how-leading-organizations-are-turning.html)
-- [Pakistan-Linked SideCopy Targets Afghanistan Finance Ministry with Xeno RAT](https://thehackernews.com/2026/06/pakistan-linked-sidecopy-targets.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
