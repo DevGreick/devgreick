@@ -679,11 +679,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [DentaQuest data breach  exposed info of 2.6 million accounts](https://www.bleepingcomputer.com/news/security/dentaquest-data-breach-exposed-info-of-26-million-accounts/)
+- [Cisco Patches CVE-2026-20230 in Unified CM as Exploit Code Goes Public](https://thehackernews.com/2026/06/cisco-patches-cve-2026-20230-in-unified.html)
 - [UN food agency discloses breach affecting 600,000 Gaza households](https://www.bleepingcomputer.com/news/security/un-world-food-programme-breach-affects-600-000-gaza-households/)
 - [New IronWorm malware hits 36 packages in npm supply-chain attack](https://www.bleepingcomputer.com/news/security/new-ironworm-malware-hits-36-packages-in-npm-supply-chain-attack/)
 - [Claude Code GitHub Action Flaw Let One Malicious Issue Hijack Repositories](https://thehackernews.com/2026/06/claude-code-github-action-flaw-let-one.html)
-- [Hackers Are After the Gaps in Your Vulnerability Program: Here&#39;s Their Playbook](https://www.bleepingcomputer.com/news/security/hackers-are-after-the-gaps-in-your-vulnerability-program-heres-their-playbook/)
-- [ThreatsDay Bulletin: AI Agents Gone Wrong, Sketchy C2 Tools, ClickFix Tricks, JS Backdoors &amp; 20+ New Stories](https://thehackernews.com/2026/06/threatsday-bulletin-ai-agents-gone.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
