@@ -678,11 +678,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
-- [Police dismantles fake ID marketplace used by migrant smugglers](https://www.bleepingcomputer.com/news/security/police-dismantles-fake-id-marketplace-used-by-migrant-smugglers/)
-- [China-Linked TA4922 Expands Phishing Attacks to UK, Germany, Italy, and South Africa](https://thehackernews.com/2026/06/china-linked-ta4922-expands-phishing.html)
-- [FlutterShell Backdoor Spreads to macOS via Malicious Google and YouTube Ads](https://thehackernews.com/2026/06/fluttershell-backdoor-spreads-to-macos.html)
-- [Cisco warns of critical Unified CM flaw with PoC exploit code](https://www.bleepingcomputer.com/news/security/cisco-warns-of-critical-unified-cm-flaw-with-poc-exploit-code/)
-- [Fake Sites Mimicking Open-Source Tools Rank High on Google to Deliver Malware via TDS](https://thehackernews.com/2026/06/fake-sites-mimicking-open-source-tools.html)
+- [UN food agency discloses breach affecting 600,000 Gaza households](https://www.bleepingcomputer.com/news/security/un-world-food-programme-breach-affects-600-000-gaza-households/)
+- [New IronWorm malware hits 36 packages in npm supply-chain attack](https://www.bleepingcomputer.com/news/security/new-ironworm-malware-hits-36-packages-in-npm-supply-chain-attack/)
+- [Claude Code GitHub Action Flaw Let One Malicious Issue Hijack Repositories](https://thehackernews.com/2026/06/claude-code-github-action-flaw-let-one.html)
+- [Hackers Are After the Gaps in Your Vulnerability Program: Here&#39;s Their Playbook](https://www.bleepingcomputer.com/news/security/hackers-are-after-the-gaps-in-your-vulnerability-program-heres-their-playbook/)
+- [ThreatsDay Bulletin: AI Agents Gone Wrong, Sketchy C2 Tools, ClickFix Tricks, JS Backdoors &amp; 20+ New Stories](https://thehackernews.com/2026/06/threatsday-bulletin-ai-agents-gone.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
