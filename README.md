@@ -686,11 +686,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Android Spyware Asin Targets Arabic Users via Fake News, PDF and War Map Apps](https://thehackernews.com/2026/06/android-spyware-asin-targets-arabic.html)
+- [Over 900 US gas station tank gauge systems exposed to attacks](https://www.bleepingcomputer.com/news/security/over-900-us-gas-station-tank-gauge-systems-exposed-to-attacks/)
 - [What 2026 DBIR Confirms: Attacks Are Living in the Browser](https://www.bleepingcomputer.com/news/security/what-2026-dbir-confirms-attacks-are-living-in-the-browser/)
 - [New Threat Cluster OP-512 Targets Microsoft IIS Servers with Custom Web Shell Framework](https://thehackernews.com/2026/06/new-threat-cluster-op-512-targets.html)
 - [Only 10% of SOCs Say They’re Getting Excellent Value From AI. Here’s What the Second Wave Has to Deliver](https://thehackernews.com/2026/06/only-10-of-socs-say-theyre-getting.html)
-- [Hackers Exploit Critical Everest Forms Pro WordPress Plugin Flaw to Take Over Sites](https://thehackernews.com/2026/06/hackers-exploit-critical-everest-forms.html)
-- [FIFA World Cup 2026 Scams Are Already Live: Fake Sites, Banking Malware, and Stolen Logins](https://thehackernews.com/2026/06/fifa-world-cup-2026-scams-are-already.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
