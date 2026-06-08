@@ -37,9 +37,19 @@
 
   <!-- CVE-LIST:START -->
 <details>
-<summary><strong>Vulnerabilidades exploradas conhecidas da CISA</strong>  •  atualizado 08/06/2026 17:24 UTC  •  exibindo 10 itens</summary>
+<summary><strong>Vulnerabilidades exploradas conhecidas da CISA</strong>  •  atualizado 08/06/2026 20:02 UTC  •  exibindo 10 itens</summary>
 
 > Fonte: CISA Known Exploited Vulnerabilities
+
+- **CVE-2026-42271** - BerriAI LiteLLM Command Injection Vulnerability  
+  Fornecedor: BerriAI | Produto: LiteLLM | Adicionado: 2026-06-08  
+  BerriAI LiteLLM contains a command injection vulnerability that could allow any authenticated user, including holders of low-privilege internal-user keys, to run arbitrary commands on the host.  
+  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
+
+- **CVE-2026-50751** - Check Point Security Gateway Improper Authentication Vulnerability  
+  Fornecedor: Check Point | Produto: Security Gateway | Adicionado: 2026-06-08  
+  Check Point Security Gateway contains an improper authentication vulnerability in IKEv1 key exchange that could allow an unauthenticated remote attacker to bypass user authentication and establish a remote access VPN connection without a valid user password.  
+  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
 
 - **CVE-2026-28318** - SolarWinds Serv-U Uncontrolled Resource Consumption Vulnerability  
   Fornecedor: SolarWinds | Produto: Serv-U | Adicionado: 2026-06-05  
@@ -81,17 +91,8 @@
   TanStack contains an unspecified vulnerability that allowed malicious versions of the product to be published to the npm registry to publish credential-stealing malware under a trusted identity.  
   Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
 
-- **CVE-2026-8398** - Daemon Tools Lite Embedded Malicious Code Vulnerability  
-  Fornecedor: Daemon | Produto: Daemon Tools Lite | Adicionado: 2026-05-27  
-  Daemon Tools contains an unspecified vulnerability that has a high impact on confidentiality, integrity, and availability.  
-  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
-
-- **CVE-2026-48172** - LiteSpeed cPanel Plugin Privilege Escalation Vulnerability  
-  Fornecedor: LiteSpeed | Produto: cPanel Plugin | Adicionado: 2026-05-26  
-  LiteSpeed cPanel Plugin contains privilege escalation vulnerability that is exposed via the user-end cPanel plugin, which can be abused by any cPanel user account to execute arbitrary scripts with root privileges.  
-  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
-
 </details>
+
 
 
 
