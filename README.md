@@ -724,11 +724,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [ServiceNow Flaw Exploited to Gain Unauthorized Access to Customer Instances](https://thehackernews.com/2026/06/servicenow-flaw-exploited-to-gain.html)
+- [Ivanti: Max severity Sentry flaw allows code execution as root](https://www.bleepingcomputer.com/news/security/new-max-severity-ivanti-sentry-flaw-allows-code-execution-as-root/)
+- [Microsoft Defender RoguePlanet Zero-Day Grants SYSTEM Access on Updated Windows](https://thehackernews.com/2026/06/microsoft-defender-rogueplanet-zero-day.html)
+- [Six Proto6 Vulnerabilities in protobuf.js Expose Node.js Apps to RCE and DoS](https://thehackernews.com/2026/06/six-proto6-vulnerabilities-in.html)
 - [Anthropic rolls out Claude Fable 5, but it&#39;s available for a limited time](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-rolls-out-claude-fable-5-but-its-available-for-a-limited-time/)
-- [Microsoft Defender &#39;RoguePlanet&#39; zero-day grants SYSTEM privileges](https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-rogueplanet-zero-day-grants-system-privileges/)
-- [ServiceNow discloses security incident exposing customer data](https://www.bleepingcomputer.com/news/security/servicenow-discloses-security-incident-exposing-customer-data/)
-- [OpenClaw AI agent found falling for phishing attacks, spills user data](https://www.bleepingcomputer.com/news/security/openclaw-ai-agent-found-falling-for-phishing-attacks-spills-user-data/)
-- [SAP fixes critical flaws in NetWeaver and Commerce Cloud](https://www.bleepingcomputer.com/news/security/sap-fixes-critical-flaws-in-netweaver-and-commerce-cloud/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
