@@ -725,11 +725,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
-- [ServiceNow Flaw Exploited to Gain Unauthorized Access to Customer Instances](https://thehackernews.com/2026/06/servicenow-flaw-exploited-to-gain.html)
-- [Ivanti: Max severity Sentry flaw allows code execution as root](https://www.bleepingcomputer.com/news/security/new-max-severity-ivanti-sentry-flaw-allows-code-execution-as-root/)
-- [Microsoft Defender RoguePlanet Zero-Day Grants SYSTEM Access on Updated Windows](https://thehackernews.com/2026/06/microsoft-defender-rogueplanet-zero-day.html)
-- [Six Proto6 Vulnerabilities in protobuf.js Expose Node.js Apps to RCE and DoS](https://thehackernews.com/2026/06/six-proto6-vulnerabilities-in.html)
-- [Anthropic rolls out Claude Fable 5, but it&#39;s available for a limited time](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-rolls-out-claude-fable-5-but-its-available-for-a-limited-time/)
+- [The 5 Best Practices for Secure Identity Verification](https://www.bleepingcomputer.com/news/security/the-5-best-practices-for-secure-identity-verification/)
+- [Microsoft patches Exchange Server zero-day exploited in attacks](https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-exchange-server-zero-day-exploited-in-attacks/)
+- [Microsoft: Some Windows PCs fail to install latest monthly updates](https://www.bleepingcomputer.com/news/microsoft/microsoft-some-upgraded-windows-pcs-fail-to-install-monthly-updates/)
+- [Your Automated Pentest Looks Clean. See What It Missed in This Expert Webinar](https://thehackernews.com/2026/06/your-automated-pentest-looks-clean-see.html)
+- [Microsoft patches YellowKey, GreenPlasma, MiniPlasma zero-days](https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-yellowkey-greenplasma-miniplasma-zero-days/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
