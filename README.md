@@ -734,11 +734,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Japanese energy firm loses drive with data of 10.9 million clients](https://www.bleepingcomputer.com/news/security/japanese-energy-firm-loses-drive-with-data-of-109-million-clients/)
+- [Maine breach portal abused to publish fake data breach disclosures](https://www.bleepingcomputer.com/news/security/maine-breach-portal-abused-to-publish-fake-data-breach-disclosures/)
+- [ShinyHunters Exploits Oracle PeopleSoft Zero-Day &lpar;CVE-2026-35273&rpar; to Breach Universities](https://thehackernews.com/2026/06/shinyhunters-exploits-oracle-peoplesoft.html)
 - [Oracle mitigates PeopleSoft zero-day exploited in data theft attacks](https://www.bleepingcomputer.com/news/security/oracle-mitigates-peoplesoft-zero-day-exploited-in-data-theft-attacks/)
 - [New Attacks Trick OpenClaw AI Agent Into Running Code and Leaking Secrets](https://thehackernews.com/2026/06/new-attacks-trick-openclaw-ai-agent.html)
-- [New GreatXML Exploit Bypasses Windows BitLocker via Recovery Partition XML Files](https://thehackernews.com/2026/06/new-greatxml-exploit-bypasses-windows.html)
-- [The Gentlemen Ransomware Claims 478 Victims, Can Spread Like a Worm](https://thehackernews.com/2026/06/the-gentlemen-ransomware-claims-478.html)
-- [Authorities dismantle &#39;AudiA6&#39; ransomware crypto-laundering service](https://www.bleepingcomputer.com/news/legal/authorities-dismantle-audia6-ransomware-crypto-laundering-service/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
