@@ -741,7 +741,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Maine disables data breach notification portal after fake disclosures](https://www.bleepingcomputer.com/news/security/maine-disables-data-breach-notification-portal-after-fake-disclosures/)
-- [400+ Arch Linux AUR Packages Hijacked to Install Rust Credential Stealer](https://thehackernews.com/2026/06/400-arch-linux-aur-packages-hijacked-to.html)
+- [Over 400 Arch Linux AUR Packages Hijacked to Deploy Infostealer and eBPF Rootkit](https://thehackernews.com/2026/06/over-400-arch-linux-aur-packages.html)
 - [Google Sues Chinese Smishing Network Accused of Using Gemini AI in Phishing](https://thehackernews.com/2026/06/google-sues-chinese-smishing-network.html)
 - [phpBB forum fixes auth bypass bug lurking for a decade](https://www.bleepingcomputer.com/news/security/phpbb-forum-fixes-auth-bypass-bug-lurking-for-a-decade/)
 - [China-Linked Hackers Backdoored Linux Login Software to Hide for Nearly a Decade](https://thehackernews.com/2026/06/china-linked-hackers-backdoored-linux.html)
