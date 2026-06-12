@@ -739,11 +739,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
-- [Early Warning Signs of Supply-Chain Attacks Live in the Dark Web](https://www.bleepingcomputer.com/news/security/early-warning-signs-of-supply-chain-attacks-live-in-the-dark-web/)
-- [Agentjacking Attack Tricks AI Coding Agents Into Running Malicious Code](https://thehackernews.com/2026/06/agentjacking-attack-tricks-ai-coding.html)
-- [Microsoft fixes Windows update failures linked to WUSA installer](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-update-failures-linked-to-wusa-installer/)
-- [Rethinking MDR as Attackers and Defenders Embrace AI](https://thehackernews.com/2026/06/rethinking-mdr-as-attackers-and.html)
-- [Pharma giant Novo Nordisk discloses breach of clinical trials data](https://www.bleepingcomputer.com/news/security/pharmaceutical-giant-novo-nordisk-discloses-security-breach/)
+- [Maine disables data breach notification portal after fake disclosures](https://www.bleepingcomputer.com/news/security/maine-disables-data-breach-notification-portal-after-fake-disclosures/)
+- [400+ Arch Linux AUR Packages Hijacked to Install Rust Credential Stealer](https://thehackernews.com/2026/06/400-arch-linux-aur-packages-hijacked-to.html)
+- [Google Sues Chinese Smishing Network Accused of Using Gemini AI in Phishing](https://thehackernews.com/2026/06/google-sues-chinese-smishing-network.html)
+- [phpBB forum fixes auth bypass bug lurking for a decade](https://www.bleepingcomputer.com/news/security/phpbb-forum-fixes-auth-bypass-bug-lurking-for-a-decade/)
+- [China-Linked Hackers Backdoored Linux Login Software to Hide for Nearly a Decade](https://thehackernews.com/2026/06/china-linked-hackers-backdoored-linux.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
