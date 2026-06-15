@@ -764,11 +764,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [DOJ seizes CFAKE, SOCFAKE deepfake nude sites under TAKE IT DOWN Act](https://www.bleepingcomputer.com/news/security/doj-seizes-cfake-socfake-deepfake-nude-sites-under-take-it-down-act/)
+- [SimpleHelp bug lets hackers create rogue remote support accounts](https://www.bleepingcomputer.com/news/security/simplehelp-bug-lets-hackers-create-rogue-remote-support-accounts/)
+- [Chinese Hackers Abused Google Workspace Rules to Steal Research and Defense Emails](https://thehackernews.com/2026/06/chinese-hackers-abused-google-workspace.html)
+- [North Korean Hackers Are Turning Developer Tools Into Malware Delivery Channels](https://thehackernews.com/2026/06/north-korean-hackers-are-turning.html)
 - [OptinMonster WordPress plugin hacked in CDN supply-chain attack](https://www.bleepingcomputer.com/news/security/optinmonster-wordpress-plugin-hacked-in-cdn-supply-chain-attack/)
-- [Cisco fixes SD-WAN vManage flaw exploited in zero-day attacks](https://www.bleepingcomputer.com/news/security/cisco-fixes-sd-wan-vmanage-flaw-exploited-in-zero-day-attacks/)
-- [LiteLLM Vulnerability Chain Lets Low-Privilege Users Take Over AI Gateway Servers](https://thehackernews.com/2026/06/litellm-vulnerability-chain-lets-low.html)
-- [Council of Europe investigates ShinyHunters data breach claims](https://www.bleepingcomputer.com/news/security/council-of-europe-investigates-shinyhunters-data-breach-claims/)
-- [FBI: Fraudsters use couriers to steal money in crypto scams](https://www.bleepingcomputer.com/news/security/fbi-fraudsters-use-couriers-to-steal-money-in-crypto-scams/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
