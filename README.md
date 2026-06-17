@@ -771,11 +771,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft working on Defender patch for RoguePlanet zero-day](https://www.bleepingcomputer.com/news/microsoft/microsoft-working-on-defender-patch-for-rogueplanet-zero-day/)
+- [144 Mastra npm Packages Compromised via Hijacked Contributor Account](https://thehackernews.com/2026/06/144-mastra-npm-packages-compromised-via.html)
+- [Kodak confirms data breach claimed by ShinyHunters extortion gang](https://www.bleepingcomputer.com/news/security/kodak-confirms-data-breach-claimed-by-shinyhunters-extortion-gang/)
+- [CISA Warns of Actively Exploited Joomla JCE Flaw Allowing PHP Code Execution](https://thehackernews.com/2026/06/cisa-warns-of-actively-exploited-joomla.html)
 - [Malicious JetBrains Marketplace plugins steal AI API keys from developers](https://www.bleepingcomputer.com/news/security/malicious-jetbrains-marketplace-plugins-steal-ai-api-keys-from-developers/)
-- [New Rokarolla Android malware targets 217 banking, crypto apps](https://www.bleepingcomputer.com/news/security/new-rokarolla-android-malware-targets-217-banking-crypto-apps/)
-- [Google Vertex AI SDK Flaw Let Attackers Hijack Model Uploads via Bucket Squatting](https://thehackernews.com/2026/06/google-vertex-ai-sdk-flaw-let-attackers.html)
-- [Steam Workshop abused to spread malware via Wallpaper Engine app](https://www.bleepingcomputer.com/news/security/steam-workshop-abused-to-spread-malware-via-wallpaper-engine-app/)
-- [ClickFix Campaigns Expand Malware Delivery With New Loaders and Fake Update Lures](https://thehackernews.com/2026/06/clickfix-campaigns-expand-malware.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
