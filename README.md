@@ -37,9 +37,29 @@
 
   <!-- CVE-LIST:START -->
 <details>
-<summary><strong>Vulnerabilidades exploradas conhecidas da CISA</strong>  •  atualizado 23/06/2026 14:29 UTC  •  exibindo 10 itens</summary>
+<summary><strong>Vulnerabilidades exploradas conhecidas da CISA</strong>  •  atualizado 23/06/2026 17:45 UTC  •  exibindo 10 itens</summary>
 
 > Fonte: CISA Known Exploited Vulnerabilities
+
+- **CVE-2025-67038** - Lantronix EDS5000 Code Injection Vulnerability  
+  Fornecedor: Lantronix | Produto: EDS5000 | Adicionado: 2026-06-23  
+  Lantronix EDS5000 contains a code injection vulnerability that could allow attackers to inject arbitrary OS commands into the username parameter. Injected commands are executed with root privileges.  
+  Ação requerida: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines.
+
+- **CVE-2026-34910** - Ubiquiti UniFi OS Improper Input Validation Vulnerability  
+  Fornecedor: Ubiquiti | Produto: UniFi OS | Adicionado: 2026-06-23  
+  Ubiquiti UniFi OS contains an improper input validation vulnerability which could allow a malicious actor with access to the network to conduct command injection.  
+  Ação requerida: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines.
+
+- **CVE-2026-34909** - Ubiquiti UniFi OS Path Traversal Vulnerability  
+  Fornecedor: Ubiquiti | Produto: UniFi OS | Adicionado: 2026-06-23  
+  Ubiquiti UniFi OS contains a path traversal vulnerability which could allow a malicious actor with access to the network to access files on the underlying system that could be manipulated to access an underlying account.  
+  Ação requerida: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines.
+
+- **CVE-2026-34908** - Ubiquiti UniFi OS Improper Access Control Vulnerability  
+  Fornecedor: Ubiquiti | Produto: UniFi OS | Adicionado: 2026-06-23  
+  Ubiquiti UniFi OS contains an improper access control vulnerability which could allow a malicious actor with access to the network to make unauthorized changes to the system.  
+  Ação requerida: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines.
 
 - **CVE-2026-20253** - Splunk Enterprise Missing Authentication for Critical Function Vulnerability  
   Fornecedor: Splunk | Produto: Enterprise | Adicionado: 2026-06-18  
@@ -71,27 +91,8 @@
   Ivanti Sentry (formerly known as MobileIron Sentry) contains an OS command injection vulnerability which could allow a remote unauthenticated user to achieve root-level remote code execution. This vulnerability can be successfully exploited in cases where the Sentry appliance is in an unmanaged state with its endpoints externally reachable. The use of mTLS with EPMM or restricted HTTPS access through Neurons for MDM makes interfaces inaccessible to external actors.  
   Ação requerida: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines.
 
-- **CVE-2026-11645** - Google Chromium V8 Out-of-Bounds Read and Write Vulnerability  
-  Fornecedor: Google | Produto: Chromium V8 | Adicionado: 2026-06-09  
-  Google Chromium V8 out-of-bounds read and write vulnerability that could allow a remote attacker to execute arbitrary code inside a sandbox via a crafted HTML page. This vulnerability could affect multiple web browsers that utilize Chromium, including, but not limited to, Google Chrome, Microsoft Edge, and Opera.  
-  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
-
-- **CVE-2026-7473** - Arista Extensible Operating System Incomplete Comparison with Missing Factors Vulnerability  
-  Fornecedor: Arista | Produto: Extensible Operating System | Adicionado: 2026-06-09  
-  Arista Extensible Operating System (EOS) contains an incomplete comparison with missing factors vulnerability when the switch incorrectly decapsulate and forwards other unexpected tunneled packet with a destination IP matching its configured decapsulation IP.  
-  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
-
-- **CVE-2026-20245** - Cisco Catalyst SD-WAN Manager Improper Encoding or Escaping of Output Vulnerability  
-  Fornecedor: Cisco | Produto: Catalyst SD-WAN Manager | Adicionado: 2026-06-09  
-  Cisco Catalyst SD-WAN Manager formerly SD-WAN vManage contains an improper encoding or escaping of output vulnerability. This vulnerability could allow an authenticated, local attacker to execute arbitrary commands as root by supplying a crafted file to the affected system.  
-  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
-
-- **CVE-2026-42271** - BerriAI LiteLLM Command Injection Vulnerability  
-  Fornecedor: BerriAI | Produto: LiteLLM | Adicionado: 2026-06-08  
-  BerriAI LiteLLM contains a command injection vulnerability that could allow any authenticated user, including holders of low-privilege internal-user keys, to run arbitrary commands on the host.  
-  Ação requerida: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.
-
 </details>
+
 
 
 
