@@ -822,11 +822,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [DoJ Seizes Huione Cloud Account Tied to Cyber Scam Money Laundering](https://thehackernews.com/2026/06/doj-seizes-huione-cloud-account-tied-to.html)
+- [Cisco Unified CM Flaw Exploited After PoC Reveals File-Write Path to Root](https://thehackernews.com/2026/06/cisco-unified-cm-flaw-exploited-after.html)
 - [Cisco Unified CM flaw CVE-2026-20230 now exploited in attacks](https://www.bleepingcomputer.com/news/security/cisco-unified-cm-sme-flaw-cve-2026-20230-now-exploited-in-attacks/)
 - [Tata Electronics confirms cyberattack as hackers leak data](https://www.bleepingcomputer.com/news/security/tata-electronics-confirms-cyberattack-as-hackers-leak-data/)
 - [Windows 11 KB5095093 update rolls out new Point-in-Time restore feature](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5095093-update-rolls-out-new-point-in-time-restore-feature/)
-- [Healthtech firm Xolis suffers data breach impacting 1.4 million people](https://www.bleepingcomputer.com/news/security/healthtech-firm-xolis-suffers-data-breach-impacting-14-million-people/)
-- [New macOS ClickFix attack silently mounts DMGs to push infostealer](https://www.bleepingcomputer.com/news/security/new-macos-clickfix-attack-silently-mounts-dmgs-to-push-infostealer/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
