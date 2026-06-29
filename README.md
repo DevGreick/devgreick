@@ -866,11 +866,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Nissan discloses employee data breach linked to Oracle zero-day attacks](https://www.bleepingcomputer.com/news/security/nissan-discloses-employee-data-breach-linked-to-oracle-zero-day-attacks/)
+- [NAIC says public data stolen in ShinyHunters&#39; PeopleSoft breach](https://www.bleepingcomputer.com/news/security/naic-says-public-data-stolen-in-shinyhunters-peoplesoft-breach/)
 - [Malicious Perplexity Chrome Extension Intercepted Searches and Address Bar Input](https://thehackernews.com/2026/06/malicious-perplexity-chrome-extension.html)
 - [WhatsApp rolls out usernames to help users hide their phone number](https://www.bleepingcomputer.com/news/security/whatsapp-rolls-out-usernames-to-help-users-hide-their-phone-number/)
 - [Microsoft extends Windows Server 2022 hotpatching until October 2027](https://www.bleepingcomputer.com/news/microsoft/microsoft-extends-windows-server-2022-hotpatching-until-october-2027/)
-- [WhatsApp is Finally Getting Usernames to Help Keep Phone Numbers Private](https://thehackernews.com/2026/06/whatsapp-is-finally-getting-usernames.html)
-- [U.S. offers $10 million for hackers targeting WhatsApp, Signal users](https://www.bleepingcomputer.com/news/security/us-offers-10-million-for-hackers-targeting-whatsapp-signal-users/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
