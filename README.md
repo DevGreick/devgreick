@@ -881,11 +881,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Kubota says hackers had month-long access to network systems](https://www.bleepingcomputer.com/news/security/kubota-says-hackers-had-month-long-access-to-network-systems/)
+- [New ChocoPoC malware targets researchers via trojanized PoC exploits](https://www.bleepingcomputer.com/news/security/new-chocopoc-malware-targets-researchers-via-trojanized-poc-exploits/)
+- [Unpatched Argo CD Repo-Server Flaw Could Let Attackers Take Over Kubernetes Clusters](https://thehackernews.com/2026/07/unpatched-argo-cd-repo-server-flaw.html)
+- [19-Year-Old Scattered Spider Suspect Extradited to Face U.S. Hacking Charges](https://thehackernews.com/2026/07/19-year-old-scattered-spider-suspect.html)
 - [SEO-Poisoned Software Sites Abuse ScreenConnect to Deploy AsyncRAT](https://thehackernews.com/2026/07/seo-poisoned-software-sites-abuse.html)
-- [DHS confirms hackers breached HSIN info-sharing platform](https://www.bleepingcomputer.com/news/security/dhs-confirms-hackers-breached-hsin-info-sharing-platform/)
-- [VEIL#DROP Malware Chain Uses Blogger Platform to Deliver PureLogs Stealer](https://thehackernews.com/2026/07/veildrop-malware-chain-uses-blogger.html)
-- [Webinar: Why traditional email security is no longer enough](https://www.bleepingcomputer.com/news/security/webinar-why-traditional-email-security-is-no-longer-enough/)
-- [Hackers target Microsoft 365 accounts with 81 million login attempts](https://www.bleepingcomputer.com/news/security/hackers-target-microsoft-365-accounts-with-81-million-login-attempts/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
