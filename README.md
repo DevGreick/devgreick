@@ -877,11 +877,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
-- [Anthropic to restore Claude Fable access on Wednesday](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-to-restore-claude-fable-access-on-wednesday/)
-- [Anthropic rolls out Sonnet 5 with near-Opus 4.8 performance at a lower price](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-rolls-out-sonnet-5-with-near-opus-48-performance-at-a-lower-price/)
-- [New BioShocking attack manipulates AI browser into data theft](https://www.bleepingcomputer.com/news/security/new-bioshocking-attack-manipulates-ai-browser-into-data-theft/)
-- [Microsoft accelerates quantum-safe roadmap as risks grow](https://www.bleepingcomputer.com/news/microsoft/microsoft-accelerates-quantum-safe-roadmap-as-risks-grow/)
-- [Malicious PyPI packages give hackers control of Telegram bot servers](https://www.bleepingcomputer.com/news/security/malicious-pypi-packages-give-hackers-control-of-telegram-bot-servers/)
+- [Adobe patches seven max severity ColdFusion, Campaign flaws](https://www.bleepingcomputer.com/news/security/adobe-patches-seven-max-severity-coldfusion-campaign-flaws/)
+- [Anthropic Restores Claude Fable 5 After U.S. Lifts Jailbreak-Linked Export Controls](https://thehackernews.com/2026/07/anthropic-restores-claude-fable-5-after.html)
+- [Azure CLI Password Spray Hits at Least 78 Microsoft Accounts in 81M+ Attempts](https://thehackernews.com/2026/07/azure-cli-password-spray-hits-at-least.html)
+- [Researcher Analyzes 3,000 Live ClickFix Payloads, Exposing API-Driven Malware Delivery](https://thehackernews.com/2026/07/researcher-analyzes-3000-live-clickfix.html)
+- [Citrix Patches Six NetScaler Flaws Allowing File Read and Denial-of-Service](https://thehackernews.com/2026/07/citrix-patches-six-netscaler-flaws.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
