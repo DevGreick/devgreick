@@ -923,11 +923,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Iran-Linked Hackers Use New Cavern C2 Framework to Target Israeli Organizations](https://thehackernews.com/2026/07/iran-linked-hackers-use-new-cavern-c2.html)
+- [Vietnam arrests suspects behind HiAnime anime piracy service](https://www.bleepingcomputer.com/news/security/vietnam-arrests-suspects-behind-hianime-anime-piracy-service/)
+- [16-Year-Old Linux KVM Flaw Lets Guest VMs Escape to Host on Intel and AMD x86 Systems](https://thehackernews.com/2026/07/16-year-old-linux-kvm-flaw-lets-guest.html)
+- [Threat Actors Probe Gitea Docker Flaw CVE-2026-20896 13 Days After Disclosure](https://thehackernews.com/2026/07/threat-actors-probe-gitea-docker-flaw.html)
 - [Software Is Now Written at the Speed of Thought. Security Isn&#39;t.](https://www.bleepingcomputer.com/news/security/software-is-now-written-at-the-speed-of-thought-security-isnt/)
-- [Max severity Adobe ColdFusion flaw now exploited in attacks](https://www.bleepingcomputer.com/news/security/max-severity-adobe-coldfusion-flaw-now-exploited-in-attacks/)
-- [⚡ Weekly Recap: Proxy Botnets, Browser Ransomware, AI Agent Tricks, Fake PoC Malware and More](https://thehackernews.com/2026/07/monday-recap-proxy-botnets-browser.html)
-- [How to Evaluate an AI SOC Platform in 2026: 6 Capabilities That Separate Leaders from Bolt-On AI solutions](https://thehackernews.com/2026/07/how-to-evaluate-ai-soc-platform-in-2026.html)
-- [Suspected China-Nexus Hackers Use Fake Indian Tax Filing Utility to Deploy DcRAT](https://thehackernews.com/2026/07/suspected-china-nexus-hackers-use-fake.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
