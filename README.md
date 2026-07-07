@@ -927,11 +927,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [BeyondTrust Patches Critical Auth Bypass Flaws in Remote Support and PRA](https://thehackernews.com/2026/07/beyondtrust-patches-critical-auth.html)
 - [Phishing poses as big-brand job interview to steal Google accounts](https://www.bleepingcomputer.com/news/security/phishing-poses-as-big-brand-job-interview-to-steal-google-accounts/)
 - [Fake IT support calls on Microsoft Teams push EtherRAT malware](https://www.bleepingcomputer.com/news/security/fake-it-support-calls-on-microsoft-teams-push-etherrat-malware/)
 - [Iran-Linked Hackers Use New Cavern C2 Framework to Target Israeli Organizations](https://thehackernews.com/2026/07/iran-linked-hackers-use-new-cavern-c2.html)
 - [Vietnam arrests suspects behind HiAnime anime piracy service](https://www.bleepingcomputer.com/news/security/vietnam-arrests-suspects-behind-hianime-anime-piracy-service/)
-- [16-Year-Old Linux KVM Flaw Lets Guest VMs Escape to Host on Intel and AMD x86 Systems](https://thehackernews.com/2026/07/16-year-old-linux-kvm-flaw-lets-guest.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
