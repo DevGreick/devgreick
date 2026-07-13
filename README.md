@@ -984,11 +984,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
-- [Meta Files Patent for AI That Can Listen All Day and Track How You&#39;re Feeling](https://thehackernews.com/2026/07/meta-files-patent-for-ai-that-can.html)
-- [Thinking Fast and Slow in the SOC: The Case for Combining Autonomous AI with Analyst Copilots](https://thehackernews.com/2026/07/thinking-fast-and-slow-in-soc-case-for.html)
-- [EU sanctions Russian GRU military hackers over cyberattacks](https://www.bleepingcomputer.com/news/security/eu-and-uk-hit-russia-with-first-joint-cyber-sanctions-package/)
-- [Attacker Uses Suspected AI-Generated PowerShell Script to Map Active Directory](https://thehackernews.com/2026/07/attacker-uses-suspected-ai-generated.html)
-- [US and allies warn of Russian critical infrastructure attacks](https://www.bleepingcomputer.com/news/security/us-and-allies-share-defense-tips-against-russian-hackers-targeting-critical-infrastructure/)
+- [CISA warns of actively exploited RCE flaws in Joomla extensions](https://www.bleepingcomputer.com/news/security/cisa-warns-of-actively-exploited-rce-flaws-in-joomla-extensions/)
+- [⚡ Weekly Recap: ShareFile Threat, Citrix Bleed 2 Ransomware, AI Coding Attacks, and More](https://thehackernews.com/2026/07/weekly-recap-sharefile-threat-citrix.html)
+- [Lidl discloses online shop breach after service provider hack](https://www.bleepingcomputer.com/news/security/lidl-discloses-online-shop-breach-after-service-provider-hack/)
+- [Breach at the Beach: Play the Ultimate Entra ID CTF](https://www.bleepingcomputer.com/news/security/breach-at-the-beach-play-the-ultimate-entra-id-ctf/)
+- [New MemGhost Attack Plants Persistent False Memories in AI Agents Through One Email](https://thehackernews.com/2026/07/new-memghost-attack-plants-persistent.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
