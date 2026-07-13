@@ -983,11 +983,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
-- [Misconfigured Server Reveals Three Evilginx Phishing Operations Targeting Microsoft 365](https://thehackernews.com/2026/07/misconfigured-server-reveals-three.html)
-- [iCagenda and Balbooa Forms Joomla Flaws Reportedly Exploited as Zero-Days](https://thehackernews.com/2026/07/icagenda-and-balbooa-forms-joomla-flaws.html)
-- [OpenAI temporarily relaxes GPT-5.6 Sol usage limits](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-temporarily-relaxes-gpt-56-sol-usage-limits/)
-- [Claude Fable 5 stays free for paid users until July 19 as Anthropic buys more time](https://www.bleepingcomputer.com/news/artificial-intelligence/claude-fable-5-stays-free-for-paid-users-until-july-19-as-anthropic-buys-more-time/)
-- [RedHook Android malware now uses Wireless ADB for shell access](https://www.bleepingcomputer.com/news/security/redhook-android-malware-now-uses-wireless-adb-for-shell-access/)
+- [Meta Files Patent for AI That Can Listen All Day and Track How You&#39;re Feeling](https://thehackernews.com/2026/07/meta-files-patent-for-ai-that-can.html)
+- [Thinking Fast and Slow in the SOC: The Case for Combining Autonomous AI with Analyst Copilots](https://thehackernews.com/2026/07/thinking-fast-and-slow-in-soc-case-for.html)
+- [EU sanctions Russian GRU military hackers over cyberattacks](https://www.bleepingcomputer.com/news/security/eu-and-uk-hit-russia-with-first-joint-cyber-sanctions-package/)
+- [Attacker Uses Suspected AI-Generated PowerShell Script to Map Active Directory](https://thehackernews.com/2026/07/attacker-uses-suspected-ai-generated.html)
+- [US and allies warn of Russian critical infrastructure attacks](https://www.bleepingcomputer.com/news/security/us-and-allies-share-defense-tips-against-russian-hackers-targeting-critical-infrastructure/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
