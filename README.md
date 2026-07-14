@@ -996,11 +996,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft releases Windows 10 KB5099539 extended security update](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5099539-extended-security-update/)
+- [Microsoft July 2026 Patch Tuesday fixes massive 570 flaws, 3 zero-days](https://www.bleepingcomputer.com/news/microsoft/microsoft-july-2026-patch-tuesday-fixes-massive-570-flaws-3-zero-days/)
+- [Windows 11 KB5101650 &amp; KB5099414 cumulative updates released](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5101650-and-kb5099414-cumulative-updates-released/)
+- [LabubaRAT Masquerades as NVIDIA Software to Control Windows Hosts](https://thehackernews.com/2026/07/labubarat-masquerades-as-nvidia.html)
 - [Progress confirms ShareFile zero-day flaw behind Storage Zone shutdown](https://www.bleepingcomputer.com/news/security/progress-confirms-sharefile-zero-day-flaw-behind-storage-zone-shutdown/)
-- [LastPass, Bitwarden users targeted with fake security alerts](https://www.bleepingcomputer.com/news/security/lastpass-bitwarden-users-targeted-with-fake-security-alerts/)
-- [You Don&#39;t Have to Run an Exploit to Know If You&#39;re Vulnerable](https://www.bleepingcomputer.com/news/security/you-dont-have-to-run-an-exploit-to-know-if-youre-vulnerable/)
-- [RabbitMQ Flaws Could Leak OAuth Secrets and Expose Cross-Tenant Queue Metadata](https://thehackernews.com/2026/07/rabbitmq-flaws-could-leak-oauth-secrets.html)
-- [Microsoft Entra ID gets passkeys default authentication starting September](https://www.bleepingcomputer.com/news/microsoft/microsoft-entra-id-gets-passkeys-default-authentication-starting-september/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
