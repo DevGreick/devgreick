@@ -990,11 +990,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft Maps Year-Long ShinyHunters-Linked Salesforce Data Theft Across Three Paths](https://thehackernews.com/2026/07/microsoft-maps-year-long-shinyhunters.html)
 - [Japan&#39;s largest taxi operator shuts systems after cyberattack](https://www.bleepingcomputer.com/news/security/japans-largest-taxi-operator-shuts-systems-after-cyberattack/)
 - [Hackers backdoor Jscrambler npm package with infostealer malware](https://www.bleepingcomputer.com/news/security/hackers-backdoor-jscrambler-npm-package-with-infostealer-malware/)
 - [New CrashStealer malware poses as Apple crash reporting tool](https://www.bleepingcomputer.com/news/security/new-crashstealer-malware-poses-as-apple-crash-reporting-tool/)
 - [CrashStealer macOS Malware Uses Notarized Dropper to Pass Gatekeeper Checks](https://thehackernews.com/2026/07/crashstealer-macos-malware-uses.html)
-- [Google and Microsoft Pull ModHeader With 1.6 Million Installs After Dormant Collector Found](https://thehackernews.com/2026/07/google-and-microsoft-pull-modheader.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
