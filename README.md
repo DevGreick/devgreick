@@ -1009,11 +1009,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Dutch police bust investment fraud ring stealing over €100 million](https://www.bleepingcomputer.com/news/security/dutch-police-bust-investment-fraud-ring-stealing-over-100-million/)
 - [Zoom warns of critical account takeover vulnerability](https://www.bleepingcomputer.com/news/security/zoom-warns-of-critical-account-takeover-vulnerability/)
 - [TuxBot v3 Evolution Shows Signs of LLM-Assisted IoT Botnet Development](https://thehackernews.com/2026/07/tuxbot-v3-evolution-shows-signs-of-llm.html)
 - [Google Gemini CLI abused as a hacking agent, malware botnet operator](https://www.bleepingcomputer.com/news/security/google-gemini-cli-abused-as-a-hacking-agent-malware-botnet-operator/)
 - [AsyncAPI npm packages infected with credential-stealing malware](https://www.bleepingcomputer.com/news/security/-asyncapi-npm-packages-infected-with-credential-stealing-malware/)
-- [OkoBot Malware Framework Injects Seed Phrase Phishing Into Ledger and Trezor Apps](https://thehackernews.com/2026/07/okobot-malware-framework-injects-seed.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
