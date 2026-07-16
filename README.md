@@ -1014,11 +1014,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI’s GPT-Red Automates Prompt Injection Testing to Harden GPT-5.6 Sol](https://thehackernews.com/2026/07/openais-gpt-red-automates-prompt.html)
-- [Zoom Patches Critical Windows Flaw That Could Enable Account Takeover](https://thehackernews.com/2026/07/zoom-patches-critical-windows-flaw-that.html)
-- [Dutch police bust investment fraud ring stealing over €100 million](https://www.bleepingcomputer.com/news/security/dutch-police-bust-investment-fraud-ring-stealing-over-100-million/)
-- [Zoom warns of critical account takeover vulnerability](https://www.bleepingcomputer.com/news/security/zoom-warns-of-critical-account-takeover-vulnerability/)
-- [TuxBot v3 Evolution Shows Signs of LLM-Assisted IoT Botnet Development](https://thehackernews.com/2026/07/tuxbot-v3-evolution-shows-signs-of-llm.html)
+- [New TELEPUZ Malware Spreads via ClickFix to Steal Data and Run Commands](https://thehackernews.com/2026/07/new-telepuz-malware-spreads-via.html)
+- [New ClickLock macOS Stealer Kills Apps Every 210ms Until Victims Type Their Password](https://thehackernews.com/2026/07/new-clicklock-macos-stealer-kills-apps.html)
+- [Scattered Spider members behind TfL hack get five years in prison](https://www.bleepingcomputer.com/news/security/scattered-spider-members-behind-transport-for-london-hack-get-five-years-in-prison/)
+- [Windows 11 24H2 Home and Pro reach end of support in 90 days](https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-home-and-pro-reach-end-of-support-in-90-days/)
+- [20+ Hijacked Government Websites Became an Attack Channel](https://thehackernews.com/2026/07/20-hijacked-government-websites.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
