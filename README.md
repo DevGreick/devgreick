@@ -1028,9 +1028,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Ernst &amp; Young discloses data breach after support system hack](https://www.bleepingcomputer.com/news/security/ernst-and-young-discloses-data-breach-after-support-system-hack/)
 - [Inside the Search for &quot;Clean&quot; Residential Proxies for Carding](https://www.bleepingcomputer.com/news/security/inside-the-search-for-clean-residential-proxies-for-carding/)
-- [New Windows LegacyHive zero-day gives hackers admin privileges](https://www.bleepingcomputer.com/news/security/new-windows-legacyhive-zero-day-exploit-grants-hackers-admin-access/)
-- [Windows Server 2022 reach end of mainstream support in 90 days](https://www.bleepingcomputer.com/news/microsoft/windows-server-2022-reach-end-of-mainstream-support-in-90-days/)
-- [US charges two over laundering $43 million from investment fraud](https://www.bleepingcomputer.com/news/security/us-charges-two-over-laundering-43-million-from-investment-fraud/)
+- [Fake Coding Tests Deliver OtterCookie-Aligned Malware Hidden in SVG Flag Images](https://thehackernews.com/2026/07/north-korea-linked-hackers-hide.html)
+- [E.U. Orders Google to Open Android Mic, Camera and Screen to Rival AI Assistants](https://thehackernews.com/2026/07/eu-orders-google-to-open-android-mic.html)
+- [The Race to Field Military Autonomy Is On, Can Trusted Information Infrastructure Keep Pace?](https://thehackernews.com/2026/07/the-race-to-field-military-autonomy-is.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
