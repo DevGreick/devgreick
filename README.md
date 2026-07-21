@@ -1068,11 +1068,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Critical SharePoint RCE flaw exploited to steal machine keys](https://www.bleepingcomputer.com/news/security/critical-sharepoint-rce-flaw-exploited-to-steal-machine-keys/)
 - [Anubis ransomware claims Coca-Cola Fairlife attack, threatens data leak](https://www.bleepingcomputer.com/news/security/anubis-ransomware-claims-coca-cola-fairlife-attack-threatens-data-leak/)
+- [Apple Fixes Hide My Email Bug That Exposed Real Addresses in Mail Logs](https://thehackernews.com/2026/07/apple-fixes-hide-my-email-bug-that.html)
 - [Critical wp2shell WordPress flaws exploited to install webshells](https://www.bleepingcomputer.com/news/security/critical-wp2shell-wordpress-flaws-exploited-to-install-webshells/)
 - [AWS Kiro Flaw Let a Poisoned Web Page Rewrite Its Config and Run Code](https://thehackernews.com/2026/07/aws-kiro-flaw-let-poisoned-web-page.html)
-- [Google Launches Gemini 3.5 Flash Cyber AI to Find and Fix Software Vulnerabilities](https://thehackernews.com/2026/07/google-launches-gemini-35-flash-cyber.html)
-- [Critical SharePoint RCE CVE-2026-50522 Under Active Exploitation After Public PoC](https://thehackernews.com/2026/07/critical-sharepoint-rce-cve-2026-50522.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
