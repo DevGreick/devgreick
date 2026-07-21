@@ -1065,11 +1065,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Critical SharePoint RCE CVE-2026-50522 Under Active Exploitation After Public PoC](https://thehackernews.com/2026/07/critical-sharepoint-rce-cve-2026-50522.html)
+- [Qilin Ransomware Attackers Exploit PAN-OS Authentication Bypass for Initial Access](https://thehackernews.com/2026/07/qilin-ransomware-attackers-exploit-pan.html)
+- [Closing the Identity Gaps in Critical Infrastructure Security](https://www.bleepingcomputer.com/news/security/closing-the-identity-gaps-in-critical-infrastructure-security/)
+- [Zimbra Patches Critical SNMP Command Injection and Four XSS Vulnerabilities](https://thehackernews.com/2026/07/zimbra-patches-critical-snmp-command.html)
 - [Open-Source Android AI Agents Could Let Invisible Screen Text Run Code on Host PCs](https://thehackernews.com/2026/07/open-source-android-ai-agents-could-let.html)
-- [N-day is Becoming N-Hour. Patching Faster Won&#39;t Save You.](https://thehackernews.com/2026/07/n-day-is-becoming-n-hour-patching.html)
-- [New Bit2Watt Attack Could Let Cloud Tenants Disrupt Power Grids Without an Exploit](https://thehackernews.com/2026/07/new-bit2watt-attack-could-let-cloud.html)
-- [US seizes over 1,000 websites in FIFA World Cup piracy crackdown](https://www.bleepingcomputer.com/news/security/us-seizes-over-1-000-fifa-world-cup-illegal-streaming-domains/)
-- [Critical Palo Alto VPN bug now exploited by Qilin ransomware gang](https://www.bleepingcomputer.com/news/security/critical-globalprotect-vpn-bug-now-exploited-in-ransomware-attacks/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
