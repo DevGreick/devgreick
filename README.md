@@ -1064,11 +1064,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Open-Source Android AI Agents Could Let Invisible Screen Text Run Code on Host PCs](https://thehackernews.com/2026/07/open-source-android-ai-agents-could-let.html)
+- [N-day is Becoming N-Hour. Patching Faster Won&#39;t Save You.](https://thehackernews.com/2026/07/n-day-is-becoming-n-hour-patching.html)
+- [New Bit2Watt Attack Could Let Cloud Tenants Disrupt Power Grids Without an Exploit](https://thehackernews.com/2026/07/new-bit2watt-attack-could-let-cloud.html)
 - [US seizes over 1,000 websites in FIFA World Cup piracy crackdown](https://www.bleepingcomputer.com/news/security/us-seizes-over-1-000-fifa-world-cup-illegal-streaming-domains/)
 - [Critical Palo Alto VPN bug now exploited by Qilin ransomware gang](https://www.bleepingcomputer.com/news/security/critical-globalprotect-vpn-bug-now-exploited-in-ransomware-attacks/)
-- [Microsoft shares manual fix for WSUS sync delays and timeouts](https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-manual-fix-for-wsus-sync-delays-and-timeouts/)
-- [WordPress wp2shell Exploitation Grows as Public Exploit Fuels Mass Scanning](https://thehackernews.com/2026/07/wordpress-wp2shell-exploitation-grows.html)
-- [Windows LegacyHive zero-day flaw gets free, unofficial patches](https://www.bleepingcomputer.com/news/security/windows-legacyhive-zero-day-flaw-gets-free-unofficial-patches/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
