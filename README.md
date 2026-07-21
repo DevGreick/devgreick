@@ -1063,11 +1063,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [US seizes over 1,000 websites in FIFA World Cup piracy crackdown](https://www.bleepingcomputer.com/news/security/us-seizes-over-1-000-fifa-world-cup-illegal-streaming-domains/)
+- [Critical Palo Alto VPN bug now exploited by Qilin ransomware gang](https://www.bleepingcomputer.com/news/security/critical-globalprotect-vpn-bug-now-exploited-in-ransomware-attacks/)
+- [Microsoft shares manual fix for WSUS sync delays and timeouts](https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-manual-fix-for-wsus-sync-delays-and-timeouts/)
+- [WordPress wp2shell Exploitation Grows as Public Exploit Fuels Mass Scanning](https://thehackernews.com/2026/07/wordpress-wp2shell-exploitation-grows.html)
 - [Windows LegacyHive zero-day flaw gets free, unofficial patches](https://www.bleepingcomputer.com/news/security/windows-legacyhive-zero-day-flaw-gets-free-unofficial-patches/)
-- [New ENCFORGE Ransomware Targets AI Model Files in Langflow RCE Attack](https://thehackernews.com/2026/07/new-encforge-ransomware-targets-ai.html)
-- [Critical ServiceNow AI Platform Flaw Exploited for Unauthenticated Code Execution](https://thehackernews.com/2026/07/critical-servicenow-ai-platform-flaw.html)
-- [Estée Lauder discloses data breach via Oracle E-Business flaw](https://www.bleepingcomputer.com/news/security/est-e-lauder-discloses-data-breach-via-oracle-e-business-flaw/)
-- [SonicWall SMA1000 flaws exploited as zero-days to push custom malware](https://www.bleepingcomputer.com/news/security/sonicwall-sma1000-flaws-exploited-as-zero-days-to-push-custom-malware/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
