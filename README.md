@@ -1097,11 +1097,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Hermes AI agent used to automate attack on Thai Finance Ministry](https://www.bleepingcomputer.com/news/security/hermes-ai-agent-used-to-automate-attack-on-thai-finance-ministry/)
+- [Hackers hijack hotel Wi-Fi DNS to steal Microsoft 365 accounts](https://www.bleepingcomputer.com/news/security/hackers-hijack-hotel-wi-fi-dns-to-steal-microsoft-365-accounts/)
 - [Microsoft blames massive Microsoft 365 outage on maintenance bug](https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-massive-microsoft-365-outage-on-maintenance-bug/)
 - [BlueNoroff Zoom Phishing Kit Profiles Crypto Wallets Before Malware Delivery](https://thehackernews.com/2026/07/bluenoroff-zoom-phishing-kit-profiles.html)
 - [Certighost Exploit Lets Low-Privileged Active Directory Users Impersonate a Domain Controller](https://thehackernews.com/2026/07/certighost-exploit-lets-low-privileged.html)
-- [Chick-fil-A data breach affects more than 13,000 customers](https://www.bleepingcomputer.com/news/security/chick-fil-a-data-breach-affects-more-than-13-000-customers/)
-- [Slopsquatting, Phantom Domains, and HalluSquatting Are the Same AI Attack](https://www.bleepingcomputer.com/news/security/slopsquatting-phantom-domains-and-hallusquatting-are-the-same-ai-attack/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
