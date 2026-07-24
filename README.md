@@ -1094,11 +1094,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Europol flags 4,340 URLs for removal in &#39;The Com&#39; crackdown](https://www.bleepingcomputer.com/news/security/europol-flags-4-340-urls-for-removal-in-the-com-crackdown/)
+- [ChatGPT AgentForger Flaw Could Deploy Rogue Workspace Agents via a Phishing Link](https://thehackernews.com/2026/07/chatgpt-agentforger-flaw-could-deploy.html)
+- [Bing Images Flaws Let Crafted SVGs Run Commands as SYSTEM on Microsoft&#39;s Servers](https://thehackernews.com/2026/07/bing-images-flaws-let-crafted-svgs-run.html)
 - [Seeing AI Agents Is Not Enough. Security Teams Must Enforce What They Can Do](https://thehackernews.com/2026/07/seeing-ai-agents-is-not-enough-security.html)
 - [Man gets six years for hacking 750 women&#39;s Snapchat accounts](https://www.bleepingcomputer.com/news/security/man-gets-six-years-for-hacking-750-womens-snapchat-accounts/)
-- [Hacker Runs Hermes AI Agent Unattended for Post-Exploitation at Thai Finance Ministry](https://thehackernews.com/2026/07/hacker-runs-hermes-ai-agent-unattended.html)
-- [Golden Chickens Resurfaces With Four New Malware Families and Modular Implants](https://thehackernews.com/2026/07/golden-chickens-resurfaces-with-four.html)
-- [NodeBB Patches Eight AI-Found Flaws Exposing Admin Access and Private Chats](https://thehackernews.com/2026/07/nodebb-patches-eight-ai-found-flaws.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
