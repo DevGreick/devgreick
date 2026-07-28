@@ -1133,11 +1133,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Over 24,000 exposed server BMCs leak password hash via decades-old flaw](https://www.bleepingcomputer.com/news/security/over-24-000-exposed-server-bmcs-leak-password-hash-via-decades-old-flaw/)
+- [Nimbus Manticore Deploys NightLedger and Turns Victim Systems Into Covert Relays](https://thehackernews.com/2026/07/nimbus-manticore-deploys-nightledger.html)
 - [Data breach at medical billing firm MCBS affects 1.26 million people](https://www.bleepingcomputer.com/news/security/data-breach-at-medical-billing-firm-mcbs-affects-126-million-people/)
 - [Critical TeamCity Flaw Could Let Attackers Run OS Commands Without Logging In](https://thehackernews.com/2026/07/critical-teamcity-flaw-could-let.html)
 - [Researcher Says AI Helped Develop Linux Traffic-Control Race Into Root Exploit](https://thehackernews.com/2026/07/researcher-says-ai-helped-develop-linux.html)
-- [Microsoft Says New Cybersecurity AI Model Helps MDASH Score 95.95% at Half the Cost](https://thehackernews.com/2026/07/microsoft-says-new-cybersecurity-ai.html)
-- [Attackers Exploit Arista VeloCloud Orchestrator Command Injection Flaw](https://thehackernews.com/2026/07/attackers-exploit-arista-velocloud.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
