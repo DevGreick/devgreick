@@ -1131,11 +1131,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft Says New Cybersecurity AI Model Helps MDASH Hit 95.95% at Half the Cost](https://thehackernews.com/2026/07/microsoft-says-new-cybersecurity-ai.html)
+- [Attackers Exploit Arista VeloCloud Orchestrator Command Injection Flaw](https://thehackernews.com/2026/07/attackers-exploit-arista-velocloud.html)
 - [Hackers target US firms in FastJson RCE zero-day attacks](https://www.bleepingcomputer.com/news/security/hackers-target-us-firms-in-fastjson-rce-zero-day-attacks/)
 - [Arista patches VeloCloud Orchestrator zero-day exploited in attacks](https://www.bleepingcomputer.com/news/security/arista-patches-velocloud-orchestrator-zero-day-exploited-in-attacks/)
 - [New Dysphoria DDoS botnet spreads to 200k devices worldwide](https://www.bleepingcomputer.com/news/security/new-dysphoria-ddos-botnet-spreads-to-200k-devices-worldwide/)
-- [New Certighost PoC exploit lets attackers hijack Windows domains](https://www.bleepingcomputer.com/news/security/new-certighost-poc-exploit-lets-attackers-hijack-windows-domains/)
-- [NVIDIA Forms 37-Member Open Secure AI Alliance and Open-Sources NOOA Framework](https://thehackernews.com/2026/07/nvidia-forms-37-member-open-secure-ai.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
