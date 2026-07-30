@@ -1155,11 +1155,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Google says AI helped Chrome fix 1,072 security bugs in two releases](https://www.bleepingcomputer.com/news/google/google-says-ai-helped-chrome-fix-1-072-security-bugs-in-two-releases/)
+- [ShinyHunters claims Brinks Home breach, threatens to leak stolen data](https://www.bleepingcomputer.com/news/security/shinyhunters-claims-brinks-home-breach-threatens-to-leak-stolen-data/)
+- [Microsoft Teams vishing attacks lead to Chaos ransomware attacks](https://www.bleepingcomputer.com/news/security/microsoft-teams-vishing-attacks-lead-to-chaos-ransomware-attacks/)
+- [ThreatsDay: AI-Powered Hacking, 370 Chrome Flaws, SonicWall Attacks, DNS Hijacking + 22 More Stories](https://thehackernews.com/2026/07/threatsday-ai-powered-hacking-370.html)
 - [Analog Devices discloses data breach, says operations unaffected](https://www.bleepingcomputer.com/news/security/analog-devices-discloses-data-breach-says-operations-unaffected/)
-- [After the Break-In: What Attackers Do Once They&#39;re Already Inside](https://www.bleepingcomputer.com/news/security/after-the-break-in-what-attackers-do-once-theyre-already-inside/)
-- [Azure Cosmos DB Flaw Exposed Platform-Wide Key That Could Access Any Database](https://thehackernews.com/2026/07/azure-cosmos-db-flaw-exposed-platform.html)
-- [Microsoft Copilot for Word Can Copy Hidden Prompts Into New Documents](https://thehackernews.com/2026/07/microsoft-copilot-for-word-can-copy.html)
-- [The Network Has Become the Control Plane for AI Security](https://thehackernews.com/2026/07/the-network-has-become-control-plane.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
