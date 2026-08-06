@@ -1216,11 +1216,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Ransom Cartel ransomware creator sentenced to 16 years in prison](https://www.bleepingcomputer.com/news/security/ransom-cartel-ransomware-creator-sentenced-to-16-years-in-prison/)
 - [Canadian pleads guilty to Snowflake cloud data-theft attacks](https://www.bleepingcomputer.com/news/security/canadian-pleads-guilty-to-snowflake-cloud-data-theft-attacks/)
 - [Hackers run khunt post-exploitation toolkit from Oracle database](https://www.bleepingcomputer.com/news/security/hackers-run-khunt-post-exploitation-toolkit-from-oracle-database/)
 - [Over 250 ClickFix Domains Use Browser Fingerprinting to Hide macOS Malware Lures](https://thehackernews.com/2026/08/over-250-clickfix-domains-use-browser.html)
 - [OpenAI Disrupts Poipet Scam Network Using ChatGPT Across Multiple Fraud Schemes](https://thehackernews.com/2026/08/openai-disrupts-poipet-scam-network.html)
-- [COLDCARD security audit phishing attack installs remote access tool](https://www.bleepingcomputer.com/news/security/coldcard-security-audit-phishing-attack-installs-remote-access-tool/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
