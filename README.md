@@ -1267,11 +1267,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI releases ChatGPT 5.6 Cyber, but it&#39;s only for approved users](https://www.bleepingcomputer.com/news/security/openai-releases-chatgpt-56-cyber-but-its-only-for-approved-users/)
 - [New StormEncryptor ransomware used by former Medusa affiliate](https://www.bleepingcomputer.com/news/security/new-stormencryptor-ransomware-used-by-former-medusa-affiliate/)
 - [Shipping 10–50× More Code? Watch This Webinar on Securing AI-Speed Development](https://thehackernews.com/2026/08/shipping-1050-more-code-watch-this.html)
 - [China-Linked Hackers Deploy New StormEncryptor Ransomware, Likely via N-central Flaw](https://thehackernews.com/2026/08/china-linked-hackers-deploy-new.html)
 - [⚡ Weekly Recap: AI Goes Rogue, Metabase 0-Day, MCP Supply-Chain Attacks, and Router Backdoors](https://thehackernews.com/2026/08/weekly-recap-ai-goes-rogue-metabase-0.html)
-- [CISA: SonicWall SMA1000 flaws now exploited by ransomware gangs](https://www.bleepingcomputer.com/news/security/cisa-sonicwall-sma1000-flaws-now-exploited-by-ransomware-gangs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
