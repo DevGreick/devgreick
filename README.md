@@ -1360,11 +1360,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Clop created custom web shell for Windchill data theft attacks](https://www.bleepingcomputer.com/news/security/clop-created-custom-web-shell-for-windchill-data-theft-attacks/)
 - [Your Controls Block Known Attacks. What About the Behavior?](https://www.bleepingcomputer.com/news/security/your-controls-block-known-attacks-what-about-the-behavior/)
 - [AI &quot;Mind Viruses&quot; Can Spread Between Agents Through Persistent Prompt Files](https://thehackernews.com/2026/08/ai-mind-viruses-can-spread-between.html)
 - [TWINLOOT Abuses SharePoint and Teams to Steal Credentials and Move Across Networks](https://thehackernews.com/2026/08/twinloot-abuses-sharepoint-and-teams-to.html)
 - [One Attacker Has Scraped Both Salesforce and ServiceNow Portals Since 2025](https://thehackernews.com/2026/08/one-attacker-has-scraped-both.html)
-- [16 Typosquatted RubyGems Packages Steal Browser Credentials and Crypto Wallets](https://thehackernews.com/2026/08/16-typosquatted-rubygems-packages-steal.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
