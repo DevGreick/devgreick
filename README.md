@@ -1362,11 +1362,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Comcast turns your Xfinity WiFi into a home motion detector](https://www.bleepingcomputer.com/news/security/comcast-turns-your-xfinity-wifi-into-a-home-motion-detector/)
 - [Microsoft Copilot Personal Flaws Could Let One Click Exfiltrate Data From Connected Apps](https://thehackernews.com/2026/08/microsoft-copilot-personal-flaws-could.html)
 - [Attackers Exploit MLflow SSRF Flaw to Steal Cloud Credentials and Secrets](https://thehackernews.com/2026/08/attackers-exploit-mlflow-ssrf-flaw-to.html)
 - [Clop created custom web shell for Windchill data theft attacks](https://www.bleepingcomputer.com/news/security/clop-created-custom-web-shell-for-windchill-data-theft-attacks/)
 - [Ransom Busters Claims It Hacked Ransomware Servers, Asks Victims for Up to $60,000](https://thehackernews.com/2026/08/ransom-busters-claims-it-hacked.html)
-- [Your Controls Block Known Attacks. What About the Behavior?](https://www.bleepingcomputer.com/news/security/your-controls-block-known-attacks-what-about-the-behavior/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
