@@ -1370,11 +1370,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Password spraying attacks surge 155x as hackers exploit MFA gaps](https://www.bleepingcomputer.com/news/security/password-spraying-attacks-surge-155x-as-hackers-exploit-mfa-gaps/)
+- [SilkParasite Espionage Campaign Targets Central Asian Governments with Five New RATs](https://thehackernews.com/2026/08/silkparasite-espionage-campaign-targets.html)
+- [Hackers Compromised 14,500+ Dahua Devices Using Credential Attacks, Auth Bypasses, and P2P](https://thehackernews.com/2026/08/hackers-compromised-14500-dahua-devices.html)
+- [Phishing 3.0: The Fight Moves to Agent Versus Agent](https://thehackernews.com/2026/08/phishing-30-fight-moves-to-agent-versus.html)
 - [StopAndProtect Uses Nearly 2,000 Hacked WordPress Sites to Spread Malware and Steal Data](https://thehackernews.com/2026/08/stopandprotect-uses-nearly-2000-hacked.html)
-- [Microsoft fixes known issue causing Windows Defender crashes](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-known-issue-causing-windows-defender-crashes/)
-- [Critical macOS, SharePoint, vCenter, and Microsoft IKE Flaws Under Active Exploitation](https://thehackernews.com/2026/08/critical-macos-sharepoint-vcenter-and.html)
-- [Critical RCE flaw in Windows IKE Extension now actively exploited](https://www.bleepingcomputer.com/news/security/cisa-critical-windows-ike-extension-flaw-now-exploited-in-attacks/)
-- [Windows 11 24H2 Home and Pro reach end of support in 2 months](https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-home-and-pro-reach-end-of-support-in-2-months/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
