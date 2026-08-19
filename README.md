@@ -1371,11 +1371,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [US charges Iranian hackers over $3.4 billion intellectual property theft](https://www.bleepingcomputer.com/news/security/us-charges-iranian-hackers-over-34-billion-intellectual-property-theft/)
 - [Password spraying attacks surge 155x as hackers exploit MFA gaps](https://www.bleepingcomputer.com/news/security/password-spraying-attacks-surge-155x-as-hackers-exploit-mfa-gaps/)
 - [SilkParasite Espionage Campaign Targets Central Asian Governments with Five New RATs](https://thehackernews.com/2026/08/silkparasite-espionage-campaign-targets.html)
 - [Hackers Compromised 14,500+ Dahua Devices Using Credential Attacks, Auth Bypasses, and P2P](https://thehackernews.com/2026/08/hackers-compromised-14500-dahua-devices.html)
 - [Phishing 3.0: The Fight Moves to Agent Versus Agent](https://thehackernews.com/2026/08/phishing-30-fight-moves-to-agent-versus.html)
-- [StopAndProtect Uses Nearly 2,000 Hacked WordPress Sites to Spread Malware and Steal Data](https://thehackernews.com/2026/08/stopandprotect-uses-nearly-2000-hacked.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
