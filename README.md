@@ -1384,11 +1384,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Hackers poison arrayref Rust crate to push infostealer malware](https://www.bleepingcomputer.com/news/security/hackers-poison-arrayref-rust-crate-to-push-infostealer-malware/)
+- [AI-Generated Exploit Scripts Target Siemens S7 PLCs in U.S. Critical Infrastructure](https://thehackernews.com/2026/08/ai-generated-exploit-scripts-target.html)
 - [Critical Elementor Pro bug exposes WordPress sites to RCE attacks](https://www.bleepingcomputer.com/news/security/critical-elementor-pro-bug-exposes-wordpress-sites-to-rce-attacks/)
 - [New Cryptographic Context Injection Attack Could Let Web Pages Steal Grok Chat Data](https://thehackernews.com/2026/08/new-cryptographic-context-injection.html)
 - [How MSPs can catch phishing attacks email filters miss](https://www.bleepingcomputer.com/news/security/how-msps-can-catch-phishing-attacks-email-filters-miss/)
-- [Isolated-vm Flaw Lets Sandboxed JavaScript Escape to Host for Potential RCE](https://thehackernews.com/2026/08/isolated-vm-flaw-lets-sandboxed.html)
-- [Critical NetScaler Flaw Can Bypass Authentication on Certain Gateway and AAA Servers](https://thehackernews.com/2026/08/critical-netscaler-flaw-can-bypass.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
