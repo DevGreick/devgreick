@@ -1395,11 +1395,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Hundreds of leaked AWS keys give full control over corporate accounts](https://www.bleepingcomputer.com/news/security/hundreds-of-leaked-aws-keys-give-full-control-over-corporate-accounts/)
+- [Microsoft blames Windows gaming issues on RGB lighting devices](https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-windows-gaming-issues-on-rgb-lighting-devices/)
 - [Is Online Privacy Possible? How Digital Identities Can Help](https://www.bleepingcomputer.com/news/security/is-online-privacy-possible-how-digital-identities-can-help/)
 - [Microsoft rolls out Classic Outlook theme for New Outlook users](https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-classic-outlook-theme-for-new-outlook-users/)
 - [CISA orders feds to patch actively exploited TrueConf Server flaws](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-trueconf-server-flaws/)
-- [Wazuh and AI For Enhanced SOC Workflows](https://thehackernews.com/2026/08/wazuh-and-ai-for-enhanced-soc-workflows.html)
-- [Microsoft warns of max severity Entra ID flaw exploited in attacks](https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-max-severity-entra-id-flaw-exploited-in-attacks/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
