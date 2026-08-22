@@ -1406,11 +1406,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Named Pipes Under Attack: Securing Windows Interprocess Communication](https://www.bleepingcomputer.com/news/security/named-pipes-under-attack-securing-windows-interprocess-communication/)
 - [14 Trojanized npm Packages Drop RedC2 4.0 Linux Backdoor With AI-Assisted C2](https://thehackernews.com/2026/08/14-trojanized-npm-packages-drop-redc2.html)
 - [New SynkLoader malware pushed in Microsoft Teams phishing campaign](https://www.bleepingcomputer.com/news/security/new-synkloader-malware-pushed-in-microsoft-teams-phishing-campaign/)
 - [Hundreds of leaked AWS keys give full control over corporate accounts](https://www.bleepingcomputer.com/news/security/hundreds-of-leaked-aws-keys-give-full-control-over-corporate-accounts/)
 - [Microsoft Defender&#39;s Own Driver Can Be Weaponized to Delete Security Software at Boot](https://thehackernews.com/2026/08/microsoft-defenders-own-driver-can-be.html)
-- [Android Car Malware Spreads Through Built-In Updaters for Ad Fraud, Proxy Botnet](https://thehackernews.com/2026/08/android-car-malware-spreads-through.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
