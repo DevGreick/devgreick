@@ -1431,11 +1431,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [ReliaQuest confirms failed data-theft attack after ShinyHunters breach](https://www.bleepingcomputer.com/news/security/reliaquest-confirms-failed-data-theft-attack-after-shinyhunters-breach/)
+- [⚡ Weekly Recap: AI-Powered PLC Attacks, GitLab Attacks, Stripe Key Leaks and More](https://thehackernews.com/2026/08/weekly-recap-ai-powered-plc-attacks.html)
 - [Microsoft Teams now lets admins block external bots from meetings](https://www.bleepingcomputer.com/news/security/microsoft-teams-now-lets-admins-block-external-bots-from-meetings/)
 - [South Korean startup platform breach exposes key management failures](https://www.bleepingcomputer.com/news/security/south-korean-startup-platform-breach-exposes-key-management-failures/)
 - [Microsoft: August updates break printing, PDF export in WPF apps](https://www.bleepingcomputer.com/news/microsoft/microsoft-august-updates-break-printing-pdf-export-in-wpf-apps/)
-- [WordlistLoader Delivers Amatera via ClickFix, SynkLoader Phishes Windows Passwords](https://thehackernews.com/2026/08/wordlistloader-delivers-amatera-via.html)
-- [Shipping More AI Code Than You Can Secure? Watch How to Control Remediation Debt](https://thehackernews.com/2026/08/shipping-more-ai-code-than-you-can.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
