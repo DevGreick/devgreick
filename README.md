@@ -1430,11 +1430,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft Teams now lets admins block external bots from meetings](https://www.bleepingcomputer.com/news/security/microsoft-teams-now-lets-admins-block-external-bots-from-meetings/)
+- [South Korean startup platform breach exposes key management failures](https://www.bleepingcomputer.com/news/security/south-korean-startup-platform-breach-exposes-key-management-failures/)
+- [Microsoft: August updates break printing, PDF export in WPF apps](https://www.bleepingcomputer.com/news/microsoft/microsoft-august-updates-break-printing-pdf-export-in-wpf-apps/)
+- [WordlistLoader Delivers Amatera via ClickFix, SynkLoader Phishes Windows Passwords](https://thehackernews.com/2026/08/wordlistloader-delivers-amatera-via.html)
 - [Shipping More AI Code Than You Can Secure? Watch How to Control Remediation Debt](https://thehackernews.com/2026/08/shipping-more-ai-code-than-you-can.html)
-- [Critical Keycloak Password Reset Flaw Could Let Unauthenticated Attackers Take Over Any Account](https://thehackernews.com/2026/08/critical-keycloak-password-reset-flaw.html)
-- [Operation QUICSILVER Targets Myanmar Government and IT with QUICAgent Backdoor](https://thehackernews.com/2026/08/operation-quicsilver-targets-myanmar.html)
-- [The Outsized Shadow: Why 5% of AI Users Are Your Biggest Security Risk](https://thehackernews.com/2026/08/the-outsized-shadow-why-5-of-ai-users.html)
-- [CISA orders urgent patching of actively exploited Zimbra flaw](https://www.bleepingcomputer.com/news/security/cisa-orders-urgent-patching-of-actively-exploited-zimbra-flaw/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
