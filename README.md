@@ -1439,11 +1439,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Actively Exploited Oracle WebLogic Flaw Lets Unauthenticated Attackers Access Critical Data](https://thehackernews.com/2026/08/actively-exploited-oracle-weblogic-flaw.html)
 - [Unpatched Calix flaw lets hackers bypass NAT to expose internal devices](https://www.bleepingcomputer.com/news/security/unpatched-calix-flaw-lets-hackers-bypass-nat-to-expose-internal-devices/)
 - [Hackers target WordPress sites in miniOrange auth bypass attacks](https://www.bleepingcomputer.com/news/security/hackers-target-wordpress-sites-in-miniorange-auth-bypass-attacks/)
 - [TikTok reaches $400M settlement with US over COPPA violations](https://www.bleepingcomputer.com/news/legal/tiktok-reaches-400m-settlement-with-us-over-coppa-violations/)
 - [Shipping More AI Code Than You Can Secure? Watch How to Control Remediation Debt](https://thehackernews.com/2026/08/shipping-more-ai-code-than-you-can.html)
-- [Weedhack Malware Spreads via Fake Minecraft Clients and SEO Poisoning](https://thehackernews.com/2026/08/weedhack-malware-spreads-via-fake.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
