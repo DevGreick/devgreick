@@ -1453,11 +1453,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
-- [INTERPOL Operation Jackal IV Arrests 58, Identifies 263 in Global Cyber Fraud Crackdown](https://thehackernews.com/2026/08/interpol-operation-jackal-iv-arrests-58.html)
-- [Newly SLEEPWALKER Backdoor Waits for One Crafted Packet, Then Runs Its Own Bytecode](https://thehackernews.com/2026/08/newly-sleepwalker-backdoor-waits-for.html)
-- [Critical Gitea RCE Actively Exploited as Reported Attack Drops Miner-Like Payload](https://thehackernews.com/2026/08/critical-gitea-rce-actively-exploited.html)
-- [Fake Apple Support AI Calls Target Stolen-Device Owners for Passcodes and 2FA Codes](https://thehackernews.com/2026/08/fake-apple-support-ai-calls-target.html)
-- [LACMA data breach last year exposed social security and medical data](https://www.bleepingcomputer.com/news/security/lacma-data-breach-last-year-exposed-social-security-and-medical-data/)
+- [Microsoft tests new privacy controls for Windows 11 desktop apps](https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-new-privacy-controls-for-windows-11-desktop-apps/)
+- [Imagine the SOC Without a Queue: From Alert Backlog to AI Hypothesis Engine](https://thehackernews.com/2026/08/imagine-soc-without-queue-from-alert.html)
+- [Hackers now exploit critical Gitea flaw in code injection attacks](https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-gitea-flaw-in-code-injection-attacks/)
+- [Claude Opus 4.6 Bypasses Gym Booking Limit, Cancels Other Users&#39; Reservations in Tests](https://thehackernews.com/2026/08/claude-opus-46-bypasses-gym-booking.html)
+- [OpenAI Bans Russian ChatGPT Accounts Used to Run Influence Operation](https://thehackernews.com/2026/08/openai-bans-russian-chatgpt-accounts.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
