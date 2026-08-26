@@ -1454,11 +1454,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft tests new privacy controls for Windows 11 desktop apps](https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-new-privacy-controls-for-windows-11-desktop-apps/)
-- [Imagine the SOC Without a Queue: From Alert Backlog to AI Hypothesis Engine](https://thehackernews.com/2026/08/imagine-soc-without-queue-from-alert.html)
-- [Hackers now exploit critical Gitea flaw in code injection attacks](https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-gitea-flaw-in-code-injection-attacks/)
-- [Claude Opus 4.6 Bypasses Gym Booking Limit, Cancels Other Users&#39; Reservations in Tests](https://thehackernews.com/2026/08/claude-opus-46-bypasses-gym-booking.html)
-- [OpenAI Bans Russian ChatGPT Accounts Used to Run Influence Operation](https://thehackernews.com/2026/08/openai-bans-russian-chatgpt-accounts.html)
+- [FBI disrupts proxy network enabling Chinese espionage operations](https://www.bleepingcomputer.com/news/security/fbi-disrupts-proxy-network-enabling-chinese-espionage-operations/)
+- [Snowflake ends service-account passwords. Now comes the hard part](https://www.bleepingcomputer.com/news/security/snowflake-ends-service-account-passwords-now-comes-the-hard-part/)
+- [NovaCookies Campaigns Abuse Genuine Docusign Notifications to Steal Microsoft 365 Sessions](https://thehackernews.com/2026/08/novacookies-campaigns-abuse-genuine.html)
+- [Ubiquiti patches three max severity security vulnerabilities](https://www.bleepingcomputer.com/news/security/ubiquiti-patches-three-max-severity-security-vulnerabilities/)
+- [CISA Red Team Compromised Two Critical Infrastructure Orgs, One Detected Nothing](https://thehackernews.com/2026/08/cisa-red-team-compromised-two-critical.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
