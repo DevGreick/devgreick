@@ -1459,11 +1459,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
-- [Critical Avada WordPress theme flaw enables zero-click RCE](https://www.bleepingcomputer.com/news/security/critical-avada-wordpress-theme-flaw-enables-zero-click-rce/)
-- [New GPUThor attack defeats NVIDIA ECC protection for root access](https://www.bleepingcomputer.com/news/security/new-gputhor-attack-defeats-nvidia-ecc-protection-for-root-access/)
-- [FBI Disrupts China-Linked QTFY Infrastructure Used to Steal Data From U.S. Organizations](https://thehackernews.com/2026/08/fbi-disrupts-china-linked-qtfy.html)
-- [Meta agrees to $18 billion settlement over teen social media harms](https://www.bleepingcomputer.com/news/technology/meta-agrees-to-18-billion-settlement-over-teen-social-media-harms/)
-- [Nimbus Manticore Expands Toolset With TWOSTROKE-Like Backdoor and SSH Tunneler](https://thehackernews.com/2026/08/nimbus-manticore-expands-toolset-with.html)
+- [PaperCut warns of NG, MF flaw exploited in zero-day attacks](https://www.bleepingcomputer.com/news/security/papercut-warns-of-ng-mf-flaw-exploited-in-zero-day-attacks/)
+- [Manchester Airports Group says hackers stole travelers&#39; data](https://www.bleepingcomputer.com/news/security/manchester-airports-group-says-hackers-stole-travelers-data/)
+- [Next.js Patches Critical AVIF and Windows Flaws Enabling Unauthenticated RCE](https://thehackernews.com/2026/08/nextjs-patches-critical-avif-and.html)
+- [ThreatsDay: 296K IoT Botnet, 100+ Water Systems Targeted, SharePoint RCE Chain + 27 New Stories](https://thehackernews.com/2026/08/threatsday-296k-iot-botnet-100-water.html)
+- [How Threat Research and MDR Help SMBs Build a Defensive Edge](https://www.bleepingcomputer.com/news/security/how-threat-research-and-mdr-help-smbs-build-a-defensive-edge/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
