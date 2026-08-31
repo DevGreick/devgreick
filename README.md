@@ -1474,11 +1474,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Nigerians extradited to US for sextortion, deaths of two teens](https://www.bleepingcomputer.com/news/security/nigerians-charged-US-over-sextortion-deaths-of-us-teens/)
+- [Microsoft asks users to ignore &#39;Antivirus is turned off&#39; errors](https://www.bleepingcomputer.com/news/microsoft/microsoft-asks-users-to-ignore-antivirus-is-turned-off-errors/)
+- [DoJ Corrects China Hacking Claim, Says U.S. Agencies Were Targets, Not Victims](https://thehackernews.com/2026/08/doj-corrects-china-hacking-claim-says.html)
 - [FulcrumSec claims Manchester Airports hack, theft of 86 GB of data](https://www.bleepingcomputer.com/news/security/fulcrumsec-claims-manchester-airports-hack-theft-of-86-gb-of-data/)
 - [Anthropic warns infostealer malware is hijacking Claude sessions to drain usage](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-warns-infostealer-malware-is-hijacking-claude-sessions-to-drain-usage/)
-- [Chrome Web Store extensions caught stealing crypto, browser data](https://www.bleepingcomputer.com/news/security/chrome-web-store-extensions-caught-stealing-crypto-browser-data/)
-- [TerminalFix Uses Fake Cloudflare CAPTCHAs to Deploy Reverse-Tunnel Backdoor](https://thehackernews.com/2026/08/terminalfix-uses-fake-cloudflare.html)
-- [Anthropic is cutting Claude Code&#39;s current weekly limits by 17%](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-is-cutting-claude-codes-current-weekly-limits-by-17-percent/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
