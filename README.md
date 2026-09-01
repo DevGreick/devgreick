@@ -1479,11 +1479,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
-- [Russia-Aligned UAC-0099 Plants Nuclear Weapon Prompt in Malware to Disrupt AI Analysis](https://thehackernews.com/2026/09/russia-aligned-uac-0099-plants-nuclear.html)
-- [Recently patched PaperCut zero-days used in data theft attacks](https://www.bleepingcomputer.com/news/security/recently-patched-papercut-zero-days-used-in-data-theft-attacks/)
-- [Attackers Exploit Critical Langflow and Rails Flaws in Credential-Probing and C2 Activity](https://thehackernews.com/2026/09/attackers-exploit-critical-langflow-and.html)
-- [Cronos blockchain restarts after $74 million Tectonic exploit](https://www.bleepingcomputer.com/news/security/cronos-blockchain-restarts-after-74-million-tectonic-exploit/)
-- [Microsoft warns of TerminalFix attacks deploying reverse tunnels](https://www.bleepingcomputer.com/news/security/microsoft-warns-of-terminalfix-attacks-deploying-reverse-tunnels/)
+- [Why Even the Best Edge Security Still Misses High-Risk Sessions](https://www.bleepingcomputer.com/news/security/why-even-the-best-edge-security-still-misses-high-risk-sessions/)
+- [Iranian Hackers Pose as Recruiters to Deliver Cross-Platform RATs Through Coding Tests](https://thehackernews.com/2026/09/iranian-hackers-pose-as-recruiters-to.html)
+- [Nearly 22,000 Microsoft Exchange servers vulnerable to hijack attacks](https://www.bleepingcomputer.com/news/security/nearly-22-000-microsoft-exchange-servers-vulnerable-to-hijack-attacks/)
+- [Threat Actors Don’t Want Better Attacks. They Want Repeatable Ones](https://thehackernews.com/2026/09/threat-actors-dont-want-better-attacks.html)
+- [Five Venezuelans plead guilty to ATM jackpotting attacks in US](https://www.bleepingcomputer.com/news/security/five-venezuelans-plead-guilty-to-atm-jackpotting-attacks-in-us/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
