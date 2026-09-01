@@ -1480,11 +1480,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Even the Best Edge Security Still Misses High-Risk Sessions](https://www.bleepingcomputer.com/news/security/why-even-the-best-edge-security-still-misses-high-risk-sessions/)
-- [Iranian Hackers Pose as Recruiters to Deliver Cross-Platform RATs Through Coding Tests](https://thehackernews.com/2026/09/iranian-hackers-pose-as-recruiters-to.html)
-- [Nearly 22,000 Microsoft Exchange servers vulnerable to hijack attacks](https://www.bleepingcomputer.com/news/security/nearly-22-000-microsoft-exchange-servers-vulnerable-to-hijack-attacks/)
-- [Threat Actors Don’t Want Better Attacks. They Want Repeatable Ones](https://thehackernews.com/2026/09/threat-actors-dont-want-better-attacks.html)
-- [Five Venezuelans plead guilty to ATM jackpotting attacks in US](https://www.bleepingcomputer.com/news/security/five-venezuelans-plead-guilty-to-atm-jackpotting-attacks-in-us/)
+- [Critical Langflow flaw exploited to steal OpenAI and AWS keys](https://www.bleepingcomputer.com/news/security/critical-langflow-flaw-exploited-to-steal-openai-and-aws-keys/)
+- [Attackers Exploit Critical JFrog Artifactory Flaw to Mint Admin Tokens Days After Disclosure](https://thehackernews.com/2026/09/attackers-exploit-critical-jfrog.html)
+- [Breeze Comet Executes Hundreds of Fraudulent Transactions via Brazilian Payment Systems](https://thehackernews.com/2026/09/breeze-comet-executes-hundreds-of.html)
+- [Hackers push malicious Virtualizor update in BGP hijacking attack](https://www.bleepingcomputer.com/news/security/hackers-push-malicious-virtualizor-update-in-bgp-hijacking-attack/)
+- [Novocure data breach affects more than 1,400 cancer patients](https://www.bleepingcomputer.com/news/security/novocure-data-breach-affects-more-than-1-400-cancer-patients/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
