@@ -1483,11 +1483,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
-- [Hackers abuse Faronics Deploy admin tool to install ScreenConnect](https://www.bleepingcomputer.com/news/security/hackers-abuse-faronics-deploy-admin-tool-to-install-screenconnect/)
-- [Aesto Health says data breach affects over 9.5 million patients](https://www.bleepingcomputer.com/news/security/aesto-health-says-data-breach-affects-over-95-million-patients/)
-- [Critical Langflow flaw exploited to steal OpenAI and AWS keys](https://www.bleepingcomputer.com/news/security/critical-langflow-flaw-exploited-to-steal-openai-and-aws-keys/)
-- [Attackers Exploit Critical JFrog Artifactory Flaw to Mint Admin Tokens Days After Disclosure](https://thehackernews.com/2026/09/attackers-exploit-critical-jfrog.html)
-- [Breeze Comet Executes Hundreds of Fraudulent Transactions via Brazilian Payment Systems](https://thehackernews.com/2026/09/breeze-comet-executes-hundreds-of.html)
+- [Sality botnet infrastructure dismantled in joint global takedown](https://www.bleepingcomputer.com/news/security/sality-botnet-infrastructure-dismantled-in-joint-global-takedown/)
+- [Researchers Use Claude to Port Pre-Auth RCE Exploit From One PLC Model to Another](https://thehackernews.com/2026/09/researchers-use-claude-to-port-pre-auth.html)
+- [Attackers Exploit Critical Switchvox Flaw to Deploy Reverse Shells Without Credentials](https://thehackernews.com/2026/09/attackers-exploit-critical-switchvox.html)
+- [Authorities Turn Sality&#39;s P2P Network Against Itself, Cutting Off New Malware Payloads](https://thehackernews.com/2026/09/authorities-turn-salitys-p2p-network.html)
+- [SonicWall warns of actively exploited SMA1000 zero-day flaws](https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-actively-exploited-sma1000-zero-day-flaws/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
