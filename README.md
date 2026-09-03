@@ -1491,11 +1491,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
-- [Your Employee’s Password Appeared in an Infostealer Log. Now What?](https://www.bleepingcomputer.com/news/security/your-employees-password-appeared-in-an-infostealer-log-now-what/)
-- [Microsoft says KB5120998 Windows update resets desktop settings](https://www.bleepingcomputer.com/news/microsoft/microsoft-says-kb5120998-windows-update-resets-desktop-settings/)
-- [US Becomes Top Target in RMM Phishing Campaign Spanning 46 Countries](https://thehackernews.com/2026/09/us-becomes-top-target-in-rmm-phishing.html)
-- [Plex warns users to patch security vulnerabilities immediately](https://www.bleepingcomputer.com/news/security/plex-warns-users-to-patch-security-vulnerabilities-immediately/)
-- [Attackers Turn Trusted Node.js Runtime Into Malware Delivery Tool in Targeted Attacks](https://thehackernews.com/2026/09/attackers-turn-trusted-nodejs-runtime.html)
+- [Critical Cisco Nexus 9000 Flaw Lets Unauthenticated Remote Attackers Run Code as Root](https://thehackernews.com/2026/09/critical-cisco-nexus-9000-flaw-lets.html)
+- [BraZetsu Malware Turns Compromised Windows Hosts Into Criminal Marketplace Inventory](https://thehackernews.com/2026/09/brazetsu-malware-turns-compromised.html)
+- [Microsoft: KB5120998 mouse reset bug affects only non-English PCs](https://www.bleepingcomputer.com/news/microsoft/microsoft-kb5120998-mouse-reset-bug-affects-only-non-english-pcs/)
+- [OpenAI confirms ChatGPT is down ahead of &#39;Astra&#39; model launch](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-ahead-of-astra-model-launch/)
+- [Anthropic confirms Claude is down, multiple models affected](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-multiple-models-affected/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
