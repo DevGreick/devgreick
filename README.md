@@ -1496,11 +1496,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
-- [French hospital fined €500,000 after breach exposes data of 727,000](https://www.bleepingcomputer.com/news/security/french-hospital-fined-500-000-after-breach-exposes-data-of-727-000/)
-- [Coder&#39;s registry infrastructure compromised to push malicious modules](https://www.bleepingcomputer.com/news/security/coders-registry-infrastructure-compromised-to-push-malicious-modules/)
-- [HPE patches critical ArubaOS-CX remote code execution flaw](https://www.bleepingcomputer.com/news/security/hpe-patches-critical-arubaos-cx-remote-code-execution-flaw/)
-- [ThreatsDay: CEO Phishing Kits, 5K Dropbox Account Hacks, OAuth Traps + 17 More Stories](https://thehackernews.com/2026/09/threatsday-ceo-phishing-kits-5k-dropbox.html)
-- [Critical Cisco Nexus 9000 Flaw Lets Unauthenticated Remote Attackers Run Code as Root](https://thehackernews.com/2026/09/critical-cisco-nexus-9000-flaw-lets.html)
+- [New CrowdStrike &#39;FalconFlank&#39; zero-day grants SYSTEM privileges](https://www.bleepingcomputer.com/news/security/new-crowdstrike-falconflank-zero-day-grants-system-privileges/)
+- [Exchange Online outage causes email delays, &#39;Server busy&#39; errors](https://www.bleepingcomputer.com/news/microsoft/exchange-online-outage-causes-email-delays-server-busy-errors/)
+- [Google warns of new Chrome zero-day flaw exploited in attacks](https://www.bleepingcomputer.com/news/security/google-warns-of-new-chrome-zero-day-flaw-exploited-in-attacks/)
+- [Over 440,000 Exploit Attempts Target Super Forms and Elementor Pro RCE Flaws](https://thehackernews.com/2026/09/over-440000-exploit-attempts-target.html)
+- [Plex Urges Immediate Updates After Patching Multiple Undisclosed Security Flaws](https://thehackernews.com/2026/09/plex-urges-immediate-updates-after.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
