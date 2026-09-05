@@ -1501,11 +1501,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Attackers Exploit PaperCut Flaws to Steal Credentials From Schools and Universities](https://thehackernews.com/2026/09/attackers-exploit-papercut-flaws-to.html)
 - [IDScan sued over alleged data breach affecting 153 million drivers](https://www.bleepingcomputer.com/news/security/idscan-sued-over-alleged-data-breach-affecting-153-million-drivers/)
 - [Phishing Campaign Sends Millions of Emails Using Invisible Unicode to Evade Filters](https://thehackernews.com/2026/09/phishing-campaign-sends-millions-of.html)
 - [Critical Citrix NetScaler auth bypass now leveraged in attacks](https://www.bleepingcomputer.com/news/security/hackers-target-critical-citrix-netscaler-auth-bypass-in-attacks/)
 - [PostgreSQL Fixes 12-Year-Old Logical Decoding Flaw Enabling Replication-Role Code Execution](https://thehackernews.com/2026/09/postgresql-fixes-12-year-old-logical.html)
-- [New Ted Backdoor Hides Inside Victims&#39; Own HAProxy Builds to Intercept Web Traffic](https://thehackernews.com/2026/09/new-ted-backdoor-hides-inside-victims.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
