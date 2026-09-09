@@ -1528,11 +1528,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [US says Chinese firms extracted billions of tokens from frontier AI models](https://www.bleepingcomputer.com/news/security/us-says-chinese-firms-extracted-billions-of-tokens-from-frontier-ai-models/)
+- [Veradigm warns of patient data breach after ransomware gang claims attack](https://www.bleepingcomputer.com/news/security/veradigm-discloses-patient-data-breach-after-gentlemen-gang-claims-attack/)
+- [Infostealer Logs Expose Replayable AI Tokens That Can Bypass MFA](https://thehackernews.com/2026/09/infostealer-logs-expose-replayable-ai.html)
+- [MFA&#39;s Weakest Link: Account Recovery Is the New Attack Path](https://www.bleepingcomputer.com/news/security/mfas-weakest-link-account-recovery-is-the-new-attack-path/)
 - [Webinar: Learn How to Answer “Are We Exposed?” Faster After a New CVE](https://thehackernews.com/2026/09/webinar-learn-how-to-answer-are-we.html)
-- [DeepSeek Harness Flaw Let AI Agents Disable Their Own File Sandbox Without Approval](https://thehackernews.com/2026/09/deepseek-harness-flaw-let-ai-agents.html)
-- [Alby Hub Critical Flaw Could Let Attackers Take Over Internet-Exposed Bitcoin Wallets](https://thehackernews.com/2026/09/alby-hub-critical-flaw-could-let.html)
-- [Over 36,000 exposed Plex servers vulnerable to recent flaws](https://www.bleepingcomputer.com/news/security/over-36-000-plex-servers-unpatched-against-recently-disclosed-flaws/)
-- [U.S. Agencies Accuse China AI Firms of Distilling Claude, GPT, Gemini, and Grok](https://thehackernews.com/2026/09/us-agencies-accuse-china-ai-firms-of.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
