@@ -1558,11 +1558,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
-- [⚡ Weekly Recap: Rogue AI Agents, WeChat Worm, PaperCut Attacks, AI Espionage, and Rootkits](https://thehackernews.com/2026/09/weekly-recap-rogue-ai-agents-wechat.html)
-- [Why Patch Automation Needs Brakes, Not Just an Accelerator](https://www.bleepingcomputer.com/news/security/why-patch-automation-needs-brakes-not-just-an-accelerator/)
-- [Webinar: How malicious OAuth apps can lead to Google Workspace breaches](https://www.bleepingcomputer.com/news/security/webinar-how-malicious-oauth-apps-can-lead-to-google-workspace-breaches/)
-- [AI Changed the Exposure Problem. Validation Needs to Change With It.](https://thehackernews.com/2026/09/ai-changed-exposure-problem-validation.html)
-- [Microsoft: September updates cause RDS failures on Windows Server](https://www.bleepingcomputer.com/news/microsoft/microsoft-september-updates-cause-rds-failures-on-windows-server/)
+- [Microsoft releases emergency Windows updates to fix RDS failures](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-windows-updates-to-fix-rds-failures/)
+- [Japan&#39;s Digital Agency says VPN flaw exposed 246,000 personnel records](https://www.bleepingcomputer.com/news/security/japans-digital-agency-says-vpn-flaw-exposed-246-000-personnel-records/)
+- [Homebrew 7.0.0 gets built-in GUI, better security controls](https://www.bleepingcomputer.com/news/security/homebrew-700-gets-built-in-gui-better-security-controls/)
+- [Twitch extension with 30K installs exposes users’ OAuth tokens](https://www.bleepingcomputer.com/news/security/twitch-extension-with-30k-installs-exposes-users-oauth-tokens/)
+- [Hackers hijack HBO Max Reddit account to push malware in ClickFix ads](https://www.bleepingcomputer.com/news/security/hackers-hijack-hbo-max-reddit-account-to-push-malware-in-clickfix-ads/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
