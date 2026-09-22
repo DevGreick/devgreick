@@ -1599,11 +1599,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [One Hidden Meta Muse Setting Could Let Attackers Turn the AI Assistant Into a Backdoor](https://thehackernews.com/2026/09/one-hidden-meta-muse-setting-could-let.html)
+- [WordPress Comment2Shell Flaw Can Turn Anonymous Comment XSS Into RCE via Admin Session](https://thehackernews.com/2026/09/wordpress-comment2shell-flaw-can-turn.html)
+- [Zyxel and Veeam Flaws Under Active Exploitation With Command and SYSTEM Access](https://thehackernews.com/2026/09/zyxel-and-veeam-flaws-under-active.html)
 - [BigCommerce alerts merchants of data breach linked to Ribon apps](https://www.bleepingcomputer.com/news/security/bigcommerce-alerts-merchants-of-data-breach-linked-to-ribon-apps/)
 - [CISA alerts of active exploitation of three Linux kernel flaws](https://www.bleepingcomputer.com/news/security/cisa-alerts-of-active-exploitation-of-three-linux-kernel-flaws/)
-- [WordPress Click2Shell flaw lets hackers execute PHP on the server](https://www.bleepingcomputer.com/news/security/wordpress-click2shell-flaw-lets-hackers-execute-php-on-the-server/)
-- [Microsoft to retire Microsoft 365 Companion apps in December](https://www.bleepingcomputer.com/news/microsoft/microsoft-to-retire-microsoft-365-companion-apps-in-december/)
-- [Fake LastPass Authenticator Installer Abuses Microsoft-Signed Driver to Kill Antivirus and EDR](https://thehackernews.com/2026/09/fake-lastpass-authenticator-installer.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
