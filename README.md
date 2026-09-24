@@ -1611,11 +1611,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
-- [FedRAMP VDR &amp; VER: Daily Scans Are Only the Beginning](https://www.bleepingcomputer.com/news/security/fedramp-vdr-and-ver-daily-scans-are-only-the-beginning/)
-- [Hackers now exploit critical Roundcube flaw in code injection attacks](https://www.bleepingcomputer.com/news/security/critical-roundcube-flaw-now-actively-exploited-in-code-injection-attacks/)
-- [Windows 11 KB5124010 update released with 46 changes and fixes](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5124010-update-released-with-46-changes-and-fixes/)
-- [Corp MDM Spyware Targets Logistics Firms, Steals New SMS and Redirects Calls](https://thehackernews.com/2026/09/corp-mdm-spyware-targets-logistics.html)
-- [Secrets Sprawl Is an Identity Problem That AI Just Made Impossible to Ignore](https://thehackernews.com/2026/09/secrets-sprawl-is-identity-problem-that.html)
+- [Unpatched OnePlus Flaws Let Installed Android Apps Gain Root Without Permissions](https://thehackernews.com/2026/09/unpatched-oneplus-flaws-let-installed.html)
+- [ThreatsDay: AI Search Poisoning, AI Coding Tool Leaking Repos, One-Click Code Execution and 13 More Stories](https://thehackernews.com/2026/09/threatsday-ai-search-poisoning-ai.html)
+- [Exposed GitLab project email addresses let attackers push code](https://www.bleepingcomputer.com/news/security/exposed-gitlab-project-email-addresses-let-attackers-push-code/)
+- [Placeholder third-party[.]com Referenced Across 1,700+ Repositories Now Serves Malicious Content](https://thehackernews.com/2026/09/placeholder-third-partycom-referenced.html)
+- [Hacked Ukrainian Sites Serve Fake Cloudflare ClickFix Lures for Psychedelic Stealer](https://thehackernews.com/2026/09/hacked-ukrainian-sites-serve-fake.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
