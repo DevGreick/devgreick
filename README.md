@@ -1650,11 +1650,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [The State of Cybersecurity in 2026: Key Segments, Insights, and Innovations](https://thehackernews.com/2026/10/the-state-of-cybersecurity-in-2026key.html)
 - [Frontline Education breach exposes school district employee data](https://www.bleepingcomputer.com/news/security/frontline-education-data-breach-impacts-school-district-employees/)
 - [Warlock ransomware breach SharePoint in water, telecom operator attacks](https://www.bleepingcomputer.com/news/security/warlock-ransomware-breach-sharepoint-in-water-telecom-operator-attacks/)
 - [GitLab Patches Critical 9.9 AI Gateway Flaw Allowing Command Execution on Self-Hosted Servers](https://thehackernews.com/2026/10/gitlab-patches-critical-self-hosted-ai.html)
 - [Antino Backdoor Uses Outlook and OneDrive for C2 in China-Nexus Espionage Campaign](https://thehackernews.com/2026/10/antino-backdoor-uses-outlook-and.html)
-- [Dell CSM Flaws Enable Unauthenticated Admin Access and Root on Kubernetes Nodes](https://thehackernews.com/2026/10/dell-csm-flaws-enable-unauthenticated.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
