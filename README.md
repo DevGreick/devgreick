@@ -1733,11 +1733,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
+- [Google Chrome adds Gemini-powered scam detection, warns users of ClickFix attacks](https://www.bleepingcomputer.com/news/google/google-chrome-adds-gemini-powered-scam-detection-warns-users-of-clickfix-attacks/)
+- [Japan&#39;s Onamae Desktop Cloud hacked, up to 27,000 servers affected](https://www.bleepingcomputer.com/news/security/japans-onamae-desktop-cloud-hacked-up-to-27-000-servers-affected/)
+- [Lazarus hackers use post-quantum cryptography for malware delivery](https://www.bleepingcomputer.com/news/security/lazarus-hackers-use-post-quantum-cryptography-for-malware-delivery/)
+- [Critical GitLab Flaw &lpar;CVSS 10.0&rpar; Could Allow Unauthenticated RCE Across 12 Years of Releases](https://thehackernews.com/2026/10/critical-gitlab-flaw-cvss-100-could.html)
 - [CISA: Hackers chain Plex flaws in Plex2Shell attacks to breach servers](https://www.bleepingcomputer.com/news/security/cisa-hackers-chain-plex-flaws-in-plex2shell-attacks-to-breach-servers/)
-- [LiteLLM Compromised in Supply Chain Attack Delivering Credential Stealer and Backdoor](https://thehackernews.com/2026/10/litellm-compromised-in-supply-chain.html)
-- [OpenAI&#39;s GPT-6 Agent Removed Safety Monitoring, Then Falsely Denied Doing So](https://thehackernews.com/2026/10/openais-gpt-6-agent-removed-safety.html)
-- [OpenAI agents disabled safety monitoring, one lied about it](https://www.bleepingcomputer.com/news/security/openai-agents-disabled-safety-monitoring-one-lied-about-it/)
-- [PHP ships emergency patches for critical PHP2Shell flaws](https://www.bleepingcomputer.com/news/security/php-ships-emergency-patches-for-critical-php2shell-flaws/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
