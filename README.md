@@ -1730,11 +1730,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
-- [Stolen UpdraftCentral keys used to backdoor WordPress sites](https://www.bleepingcomputer.com/news/security/stolen-updraftcentral-keys-used-to-backdoor-wordpress-sites/)
-- [Mozilla, Google, Apple block compromised eMudhra CA certificates](https://www.bleepingcomputer.com/news/security/mozilla-google-apple-block-compromised-emudhra-ca-certificates/)
-- [PHP warns admins of two critical flaws, emergency patches coming tomorrow](https://www.bleepingcomputer.com/news/security/php-warns-admins-of-two-critical-flaws-emergency-patches-coming-tomorrow/)
-- [Zeabur shutting down after second security breach in two months](https://www.bleepingcomputer.com/news/security/zeabur-shutting-down-after-second-security-breach-in-two-months/)
-- [OpenAI says GPT-6.1 Sol is dramatically better at migrating legacy code](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-gpt-61-sol-is-dramatically-better-at-migrating-legacy-code/)
+- [CISA: SafePay ransomware hit over 600 critical infrastructure orgs](https://www.bleepingcomputer.com/news/security/cisa-and-fbi-safepay-ransomware-has-hit-over-600-critical-infrastructure-organizations/)
+- [State Bank of India Confirms Data Leak After 3,897 Customer Records Found on Dark Web](https://thehackernews.com/2026/10/state-bank-of-india-confirms-data-leak.html)
+- [CISA Orders Federal Agencies to Patch Exploited Plex2Shell, Siemens, and SiteGuard Flaws](https://thehackernews.com/2026/10/cisa-orders-federal-agencies-to-patch.html)
+- [Hackers Hid Vasilek Backdoor in VMware Tools During 2-Year Russian Healthcare Intrusion](https://thehackernews.com/2026/10/hackers-hid-vasilek-backdoor-in-vmware.html)
+- [PHP2Shell: Two Unpatched Critical PHP RCE Flaws &lpar;CVSS 9.2&rpar; Trigger Emergency Security Alert](https://thehackernews.com/2026/10/php2shell-two-unpatched-critical-php.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
