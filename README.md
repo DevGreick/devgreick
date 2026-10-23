@@ -37,9 +37,19 @@
 
   <!-- CVE-LIST:START -->
 <details>
-<summary><strong>Vulnerabilidades exploradas conhecidas da CISA</strong>  •  atualizado 23/10/2026 14:32 UTC  •  exibindo 10 itens</summary>
+<summary><strong>Vulnerabilidades exploradas conhecidas da CISA</strong>  •  atualizado 23/10/2026 19:38 UTC  •  exibindo 10 itens</summary>
 
 > Fonte: CISA Known Exploited Vulnerabilities
+
+- **CVE-2026-114625** - Arista VeloCloud Orchestrator SQL Injection Vulnerability  
+  Fornecedor: Arista | Produto: VeloCloud Orchestrator | Adicionado: 2026-10-23  
+  Arista VeloCloud Orchestrator on-prem contains a SQL injection vulnerability that may allow a remote attacker to access privileged internal functionality and impact the VCO host. Successful exploitation may compromise the confidentiality, integrity, and availability of the orchestrator and data managed by the orchestrator.  
+  Ação requerida: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines.
+
+- **CVE-2026-110447** - Collabora Online – Built-in CODE Server OS Command Injection Vulnerability  
+  Fornecedor: Collabora | Produto: Collabora Online – Built-in CODE Server | Adicionado: 2026-10-23  
+  Collabora Collabora Online – Built-in CODE Server when used within the NextCloud platform contains an OS command injection vulnerability that allows for remote code execution when the CODE server isn't running.  
+  Ação requerida: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines.
 
 - **CVE-2026-106931** - EG Secure Solutions SiteGuard Server Edition OS Command Injection Vulnerability  
   Fornecedor: EG Secure Solutions | Produto: SiteGuard Server Edition | Adicionado: 2026-10-20  
@@ -81,17 +91,8 @@
   FortiOS, FortiPAM, FortiProxy, and FortiSwitchManager contain a path traversal vulnerability that may allow an authenticated attacker with admin profile and at least read-write permissions to write or delete arbitrary files via specific CLI commands.  
   Ação requerida: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines.
 
-- **CVE-2026-21589** - Atlassian Multiple Products Files or Directories Accessible to External Parties Vulnerability  
-  Fornecedor: Atlassian | Produto: Multiple Products | Adicionado: 2026-10-15  
-  Multiple Atlassian products (Bitbucket Data Center ,Confluence Data Center, Jira Service Management Data Center, Jira Software Data Center, Bamboo Data Center, Crowd Data Center, Crucible and Fisheye) contain a files or directories accessible to external parties vulnerability which could allow an unauthenticated attacker to access specific files within the web application root directory in affected versions.  
-  Ação requerida: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines.
-
-- **CVE-2026-105134** - Ahsay AhsayCBS Command Injection Vulnerability  
-  Fornecedor: Ahsay | Produto: AhsayCBS | Adicionado: 2026-10-14  
-  Ahsay AhsayCBS contains a command injection vulnerability that could allow a remote attacker to execute operating system commands via manipulation of the random parameter in the Replication Receiver component’s /rps/api/json/UpdateReceivers.do endpoint. This vulnerability can be chained with CVE-2026-105133.  
-  Ação requerida: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines.
-
 </details>
+
 
 
 
