@@ -1765,11 +1765,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
-- [Japan&#39;s GMO Offers $1 Million Bounty to Catch Hackers Behind FX Trading Cloud Breach](https://thehackernews.com/2026/10/japans-gmo-offers-1-million-bounty-to.html)
-- [Tailscale Patches SSH Flaws That Could Let Hacked Devices Gain Root Access on Other Servers](https://thehackernews.com/2026/10/tailscale-patches-ssh-flaws-that-could.html)
-- [ShinyHunters-Exploited Oracle PeopleSoft Zero-Day Turns Out to Be Three Chained Flaws](https://thehackernews.com/2026/10/shinyhunters-exploited-oracle.html)
-- [Adobe Commerce PolyShell Attacks Breach Hundreds of Stores as Brotli Exploit Traffic Emerges](https://thehackernews.com/2026/10/adobe-commerce-polyshell-attacks-breach.html)
-- [Japan&#39;s GMO urges customers to shut down PCs amid ransomware threat](https://www.bleepingcomputer.com/news/security/japans-gmo-urges-customers-to-shut-down-pcs-amid-ransomware-threat/)
+- [InfraTrust report warns of exploited flaws in critical network infrastructure](https://www.bleepingcomputer.com/news/security/infratrust-report-warns-of-exploited-flaws-in-critical-network-infrastructure/)
+- [Even after PHP2Shell, blast radius matters more than a CVSS score](https://www.bleepingcomputer.com/news/security/even-after-php2shell-blast-radius-matters-more-than-a-cvss-score/)
+- [Hackers Target Critical Oracle E-Business Suite RCE Flaw Days After Security Patch](https://thehackernews.com/2026/10/hackers-target-critical-oracle-e.html)
+- [Hackers now scanning systems for recently-patched Oracle flaw](https://www.bleepingcomputer.com/news/security/hackers-now-scanning-systems-for-recently-patched-oracle-flaw/)
+- [Critical 16-Year-Old UEFI Flaw Can Run Code Before Secure Boot on Network-Booting Servers](https://thehackernews.com/2026/10/critical-16-year-old-uefi-flaw-can-run.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
