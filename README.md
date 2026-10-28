@@ -1766,11 +1766,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
-- [InfraTrust report warns of exploited flaws in critical network infrastructure](https://www.bleepingcomputer.com/news/security/infratrust-report-warns-of-exploited-flaws-in-critical-network-infrastructure/)
-- [Even after PHP2Shell, blast radius matters more than a CVSS score](https://www.bleepingcomputer.com/news/security/even-after-php2shell-blast-radius-matters-more-than-a-cvss-score/)
-- [Hackers Target Critical Oracle E-Business Suite RCE Flaw Days After Security Patch](https://thehackernews.com/2026/10/hackers-target-critical-oracle-e.html)
-- [Hackers now scanning systems for recently-patched Oracle flaw](https://www.bleepingcomputer.com/news/security/hackers-now-scanning-systems-for-recently-patched-oracle-flaw/)
-- [Critical 16-Year-Old UEFI Flaw Can Run Code Before Secure Boot on Network-Booting Servers](https://thehackernews.com/2026/10/critical-16-year-old-uefi-flaw-can-run.html)
+- [Discord to let search engines index public server messages](https://www.bleepingcomputer.com/news/security/discord-to-let-search-engines-index-public-server-messages/)
+- [Volt Typhoon Used Covert Silent Train Network in Four Zero-Day Exploitation Campaigns](https://thehackernews.com/2026/10/volt-typhoon-used-covert-silent-train.html)
+- [Google to Allow One-Tap Android App Installs From Approved Third-Party Stores Outside U.S.](https://thehackernews.com/2026/10/google-to-allow-one-tap-android-app.html)
+- [Sony ISP subsidiary data breach exposes 2.5 million customer records](https://www.bleepingcomputer.com/news/security/sony-isp-subsidiary-data-breach-exposes-25-million-customer-records/)
+- [Researcher Reveals How Logic Bugs Alone Cracked Microsoft Edge in $175,000 Pwn2Own Win](https://thehackernews.com/2026/10/researcher-reveals-how-logic-bugs-alone.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
