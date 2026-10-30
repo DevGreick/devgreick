@@ -1773,11 +1773,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
-- [CISA Adds Actively Exploited GitLab RCE and Cisco Firewall DoS Flaws to KEV](https://thehackernews.com/2026/10/cisa-adds-actively-exploited-gitlab-rce.html)
-- [Binance Suffers Security Breach Affecting $6.3 Billion in Assets, Nearly $3 Billion Frozen](https://thehackernews.com/2026/10/binance-suffers-security-breach.html)
-- [OpenAI doubles ChatGPT Pro usage limits after backlash over planned 50% cut](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-doubles-chatgpt-pro-usage-limits-after-backlash-over-planned-50-percent-cut/)
-- [Binance probes potential $5.8 billion crypto-theft hack](https://www.bleepingcomputer.com/news/security/binance-probes-potential-58-billion-crypto-theft-hack/)
-- [Hugging Face malware campaign returns to hijack GPUs for crypto mining](https://www.bleepingcomputer.com/news/security/hugging-face-malware-campaign-returns-to-hijack-gpus-for-crypto-mining/)
+- [Malicious Claude Code extension on Cursor planted SSH backdoors](https://www.bleepingcomputer.com/news/security/malicious-claude-code-extension-on-cursor-planted-ssh-backdoors/)
+- [SS7 and Diameter Attacks: How Signaling Flaws Expose Your Phone](https://www.bleepingcomputer.com/news/security/ss7-and-diameter-attacks-how-signaling-flaws-expose-your-phone/)
+- [CISA says max severity GitLab flaw now exploited in the wild](https://www.bleepingcomputer.com/news/security/hackers-now-exploiting-max-severity-gitlab-flaw-in-attacks/)
+- [Trezor Warns of Suspected Hardware Implant in One of Its Wallets Sold by CryptoBilis](https://thehackernews.com/2026/10/trezor-warns-of-suspected-hardware.html)
+- [Why Urgent Security Fixes Aren&#39;t Fixed. Observe, Prove, Act, Confirm Gets Them Moving](https://thehackernews.com/2026/10/why-urgent-security-fixes-arent-fixed.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
