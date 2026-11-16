@@ -1835,11 +1835,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
-- [FBI warns ARTEX AI hacking tool is powering global cyberattacks](https://www.bleepingcomputer.com/news/security/fbi-warns-artex-ai-hacking-tool-is-powering-global-cyberattacks/)
-- [TSMC employee data breach linked to cloud provider](https://www.bleepingcomputer.com/news/security/tsmc-employee-data-breach-linked-to-cloud-provider/)
-- [Italy Fines Meta €805 Million Over Facebook&#39;s Android Gallery Access Without Explicit Consent](https://thehackernews.com/2026/11/italy-fines-meta-805-million-over.html)
-- [Cursor Says Stolen Fireworks AI Key Led to Trojanized Claude Code Extension Incident](https://thehackernews.com/2026/11/stolen-fireworks-ai-key-led-to-cursor.html)
-- [Cursor confirms security breach led to malicious Claude Code extension](https://www.bleepingcomputer.com/news/security/cursor-confirms-security-breach-led-to-malicious-claude-code-extension/)
+- [Australian retail giant Coles investigates cybersecurity incident](https://www.bleepingcomputer.com/news/security/australian-retail-giant-coles-investigates-cybersecurity-incident/)
+- [Anthropic’s Claude Fable 5.2 blocks fewer security tasks, while Mythos gets better at finding bugs](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropics-claude-fable-52-blocks-fewer-security-tasks-while-mythos-gets-better-at-finding-bugs/)
+- [SANSAR Linux Cryptomining Malware Uses Modified NVIDIA Library to Hide GPU Activity](https://thehackernews.com/2026/11/sansar-linux-cryptomining-malware-uses.html)
+- [New NoisyTCP vulnerability lets attackers crash Linux servers](https://www.bleepingcomputer.com/news/linux/new-noisytcp-linux-kernel-flaw-lets-attackers-crash-servers/)
+- [Microsoft pushes Windows emergency updates to fix activation failures](https://www.bleepingcomputer.com/news/microsoft/microsoft-new-windows-emergency-updates-fix-activation-licensing-failures/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
