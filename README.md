@@ -1841,11 +1841,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
-- [Critical Java4Shell flaw allows RCE attacks on major Java applications](https://www.bleepingcomputer.com/news/security/critical-java4shell-flaw-allows-rce-attacks-on-major-java-applications/)
-- [Cloud keys leaked in Docker Hub images are stolen within seconds](https://www.bleepingcomputer.com/news/security/cloud-keys-leaked-in-docker-hub-images-are-stolen-within-seconds/)
-- [Japan takes Fugaku supercomputer offlline after cyberattack](https://www.bleepingcomputer.com/news/security/japan-takes-fugaku-supercomputer-offlline-after-cyberattack/)
-- [Researchers Claim Two RCE Exploits That Bypass Telegram’s New Android Defenses](https://thehackernews.com/2026/11/researchers-claim-two-rce-exploits-that.html)
-- [Apple reports outages affecting iCloud Mail, AppleCare and more](https://www.bleepingcomputer.com/news/apple/apple-reports-outages-affecting-icloud-mail-applecare-and-more/)
+- [New Attack Bypasses TPM Lockout to Crack Windows Hello and BitLocker PINs in Days, Not Years](https://thehackernews.com/2026/11/flash-chip-attack-bypasses-tpm-lockout.html)
+- [AI Pentesting Checklist for Web Apps: 15 Questions to Ask Before Choosing a Vendor](https://thehackernews.com/2026/11/ai-pentesting-checklist-for-web-apps-15.html)
+- [Java4Shell Flaw &lpar;CVE-2026-114938&rpar; Enables Pre-Auth RCE in Jira, Jenkins, Keycloak and More](https://thehackernews.com/2026/11/java4shell-cve-2026-114938-enables-pre.html)
+- [Dizigom illegal streaming service with 21M monthly visits shuts down](https://www.bleepingcomputer.com/news/security/dizigom-illegal-streaming-service-with-21m-monthly-visits-shuts-down/)
+- [Quality Isn’t The Main Worry About AI Pentesting — Data Privacy and Production Safety Are](https://thehackernews.com/2026/11/quality-isnt-main-worry-about-ai.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
