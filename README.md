@@ -1858,11 +1858,11 @@
 > Fonte: feeds públicos de segurança
 
 <!-- BLOG-POST-LIST:START -->
-- [GlobeTopper loses $2.5 million after hackers steal $70k in gift cards](https://www.bleepingcomputer.com/news/security/globetopper-loses-25-million-after-hackers-steal-70k-in-gift-cards/)
-- [⚡ Weekly Recap: VMware 0-Day, Java4Shell, NGINX2Root, Ruby2Shell, and a Whole Lot of Shell Trouble](https://thehackernews.com/2026/11/weekly-recap-vmware-0-day-java4shell.html)
-- [AI Agents Are Creating a Shared Responsibility Gap](https://www.bleepingcomputer.com/news/security/ai-agents-are-creating-a-shared-responsibility-gap/)
-- [Microsoft testing fix for Windows 11 Bluetooth audio quality drops](https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-fix-for-windows-11-bluetooth-audio-quality-drops/)
-- [Critical binary-parser Flaw Enables JavaScript Injection via Malicious Parser Definitions](https://thehackernews.com/2026/11/critical-binary-parser-flaw-enables.html)
+- [South Korea’s power giant KEPCO confirms data breach impacting 1.5 million](https://www.bleepingcomputer.com/news/security/south-koreas-power-giant-kepco-confirms-data-breach-impacting-15-million/)
+- [OpenRouter drops AI providers over leaked prompts and secrets](https://www.bleepingcomputer.com/news/security/openrouter-drops-ai-providers-over-leaked-prompts-and-secrets/)
+- [Microsoft Azure flaw exploited to steal customers&#39; API credentials](https://www.bleepingcomputer.com/news/security/microsoft-azure-flaw-exploited-to-steal-customers-api-credentials/)
+- [Spanish LaLiga confirms hackers stole soccer fans’ personal data](https://www.bleepingcomputer.com/news/security/spanish-laliga-confirms-hackers-stole-soccer-fans-personal-data/)
+- [Webworm Suspected of Modifying SoftEther VPN to Evade Detection and Hide Remote Access](https://thehackernews.com/2026/11/webworm-suspected-of-modifying.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
