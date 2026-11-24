@@ -37,9 +37,19 @@
 
   <!-- CVE-LIST:START -->
 <details>
-<summary><strong>Vulnerabilidades exploradas conhecidas da CISA</strong>  •  atualizado 23/11/2026 16:55 UTC  •  exibindo 10 itens</summary>
+<summary><strong>Vulnerabilidades exploradas conhecidas da CISA</strong>  •  atualizado 24/11/2026 03:38 UTC  •  exibindo 10 itens</summary>
 
 > Fonte: CISA Known Exploited Vulnerabilities
+
+- **CVE-2026-133968** - Project MONAI MONAI Label Path Traversal Vulnerability  
+  Fornecedor: Project MONAI | Produto: MONAI Label | Adicionado: 2026-11-23  
+  Project MONAI MONAI Label contains a path traversal vulnerability that allows an unauthenticated remote attacker to write arbitrary files outside the intended datastore directory, potentially resulting in remote code execution.  
+  Ação requerida: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines.
+
+- **CVE-2026-134624** - N-able MailAssure (SpamExperts) Server-Side Request Forgery (SSRF) Vulnerability  
+  Fornecedor: N-able | Produto: MailAssure | Adicionado: 2026-11-23  
+  N-able MailAssure (SpamExperts) contains a server-side request forgery vulnerability in the LDAP synchronization connection check that allows an authenticated API user to connect to arbitrary internal hosts and ports, determine which are reachable, and send crafted data to internal services.  
+  Ação requerida: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines.
 
 - **CVE-2026-129448** - Apache Roller Deserialization of Untrusted Data Vulnerability  
   Fornecedor: Apache | Produto: Roller | Adicionado: 2026-11-20  
@@ -81,17 +91,8 @@
   Apache Axis contains an unsafe reflection vulnerability that could allow an unauthenticated remote attacker to execute arbitrary code via a crafted SOAP fault message that causes Axis to load and instantiate an attacker-specified class when a suitable class is available on the application classpath. The impacted product(s) could be end-of-life (EoL) and/or end-of-service (EoS). Users are advised to discontinue use and/or transition to a supported version.  
   Ação requerida: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines.
 
-- **CVE-2026-115731** - Perforce Puppet Enterprise Deserialization of Untrusted Data Vulnerability  
-  Fornecedor: Perforce | Produto: Puppet Enterprise | Adicionado: 2026-11-17  
-  Perforce Puppet Enterprise contains a deserialization of untrusted data vulnerability in Puppet’s report-processing code that allows a client with any CA-signed agent certificate to execute arbitrary code on the Puppet Server as the service user by submitting a report containing a crafted rich-data type through a PUT request. If the certificate authority automatically signs requests without strong verification, an unauthenticated network attacker can obtain a valid certificate and exploit the vulnerability.  
-  Ação requerida: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines.
-
-- **CVE-2026-114713** - UnrealIRCd Improper Neutralization of Delimiters Vulnerability  
-  Fornecedor: UnrealIRCd | Produto: UnrealIRCd | Adicionado: 2026-11-13  
-  UnrealIRCd UnrealIRCd contains an improper neutralization of delimiters vulnerability that allows any user on a network with two or more linked servers to inject server-to-server commands that are executed with server authority.  
-  Ação requerida: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines.
-
 </details>
+
 
 
 
